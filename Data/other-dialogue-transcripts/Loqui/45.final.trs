@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14-loqui.dtd">
+<Trans scribe="John Doe" audio_filename="45" version="4" version_date="080627" corpus_version="2.0">
+<Speakers>
+<Speaker id="spk1" name="librarian#1" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="caller#2" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="non-speaking-librarian-activity#1" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="153.900">
+<Turn startTime="0" endTime="2.469" speaker="spk1">
+<Sync time="0"/>
+&lt;P&gt; &lt;BN&gt; good morning this is the Andrew Heiskell Library \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="2.469" endTime="4.354">
+<Sync time="2.469"/>
+<Who nb="1"/>
+[os hi this eo] is &lt;FIRSTNAME&gt; &lt;LASTNAME&gt; \\
+<Who nb="2"/>
+[os how- eo]
+</Turn>
+<Turn speaker="spk1" startTime="4.354" endTime="6.932">
+<Sync time="4.354"/>
+&lt;P&gt; I'm sorry \\
+</Turn>
+<Turn speaker="spk2" startTime="6.932" endTime="8.821">
+<Sync time="6.932"/>
+this is &lt;FIRSTNAME&gt; &lt;LASTNAME&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="8.821" endTime="9.753">
+<Sync time="8.821"/>
+yes \\ 
+<Sync time="9.21"/>
+may I help you \\
+</Turn>
+<Turn speaker="spk2" startTime="9.753" endTime="13.374">
+<Sync time="9.753"/>
+um \\
+<Sync time="10.346"/>
+I would like two books by Bertrice Small \\
+</Turn>
+<Turn speaker="spk1" startTime="13.374" endTime="20.694">
+<Sync time="13.374"/>
+okay \\
+<Sync time="13.801"/>
+before I start \\
+<Sync time="14.829"/>
+um the library is working with research team \\
+<Sync time="17.257"/>
+to better understand the types of phone requests we get from our patrons \\
+</Turn>
+<Turn speaker="spk2" startTime="20.694" endTime="21.14">
+<Sync time="20.694"/>
+uh huh
+</Turn>
+<Turn speaker="spk1" startTime="21.14" endTime="25.501">
+<Sync time="21.14"/>
+uh is &lt;P&gt; would it be permissible for us to record this conversation \\
+</Turn>
+<Turn speaker="spk2" startTime="25.501" endTime="26.338">
+<Sync time="25.501"/>
+&lt;P&gt; sure \\
+</Turn>
+<Turn speaker="spk1" startTime="26.338" endTime="26.984">
+<Sync time="26.338"/>
+okay \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="26.984" endTime="27.711">
+<Sync time="26.984"/>
+<Who nb="1"/>
+[os thank you eo] \\
+<Who nb="2"/>
+[os mhm eo] \\
+</Turn>
+<Turn speaker="spk1" startTime="27.711" endTime="30.184">
+<Sync time="27.711"/>
+so y- you said your name is &lt;FIRSTNAME&gt; &lt;LASTNAME&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="30.184" endTime="30.747">
+<Sync time="30.184"/>
+mmhm \\
+</Turn>
+<Turn speaker="spk1" startTime="30.747" endTime="32.120">
+<Sync time="30.747"/>
+okay let me look that up \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="32.120" endTime="33.557">
+<Sync time="32.120"/>
+<Who nb="1"/>
+[os &lt;B&gt; eo] \\
+<Who nb="2"/>
+[os it's eo] your record \\
+</Turn>
+<Turn speaker="spk2" startTime="33.557" endTime="35.068">
+<Sync time="33.557"/>
+&lt;CGH&gt; &lt;CGH&gt; excuse \\
+</Turn>
+<Turn speaker="spk3" startTime="35.068" endTime="51.068">
+<Sync time="35.068"/>
+&lt;TP&gt; &lt;BN&gt; &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="51.068" endTime="52.336">
+<Sync time="51.068"/>
+okay \\
+<Sync time="51.617"/>
+how may I help you \\
+</Turn>
+<Turn speaker="spk2" startTime="52.336" endTime="55.982">
+<Sync time="52.336"/>
+&lt;B&gt; um the two books I want are by Bertrice Small \\
+</Turn>
+<Turn speaker="spk1" startTime="55.982" endTime="56.475">
+<Sync time="55.982"/>
+mmhm \\
+</Turn>
+<Turn speaker="spk2" startTime="56.475" endTime="60.396">
+<Sync time="56.475"/>
+&lt;B&gt; and the first one is called \\
+<Sync time="58.402"/>
+um Ros- Rosamund \\
+</Turn>
+<Turn speaker="spk1" startTime="60.396" endTime="62.375">
+<Sync time="60.396"/>
+&lt;P&gt; right \\
+</Turn>
+<Turn speaker="spk2" startTime="62.375" endTime="65.596">
+<Sync time="62.375"/>
+&lt;P&gt; &lt;BN&gt; &lt;B&gt; and the second one is called Until You \\
+</Turn>
+<Turn speaker="spk1" startTime="65.596" endTime="66.942">
+<Sync time="65.596"/>
+&lt;P&gt; what is it called \\
+</Turn>
+<Turn speaker="spk2" startTime="66.942" endTime="68.91">
+<Sync time="66.942"/>
+Until &lt;P&gt; You \\
+</Turn>
+<Turn speaker="spk1" startTime="68.91" endTime="72.816">
+<Sync time="68.91"/>
+&lt;P&gt; &lt;ST&gt; okay let me look for that &lt;/ST&gt; \\
+</Turn>
+<Turn speaker="spk3" startTime="72.816" endTime="86.859">
+<Sync time="72.816"/>
+&lt;BN&gt; &lt;P&gt; &lt;TP&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="86.859" endTime="87.422">
+<Sync time="86.859"/>
+&lt;CT&gt; \\
+</Turn>
+<Turn speaker="spk3" startTime="87.422" endTime="98.678">
+<Sync time="87.422"/>
+&lt;TP&gt; &lt;P&gt; &lt;BN&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="98.678" endTime="99.27">
+<Sync time="98.678"/>
+okay \\
+</Turn>
+<Turn speaker="spk3" startTime="99.27" endTime="107.582">
+<Sync time="99.27"/>
+&lt;TP&gt; &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="107.582" endTime="108.907">
+<Sync time="107.582"/>
+okay I've ordered them &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="108.907" endTime="109.590">
+<Sync time="108.907"/>
+<Who nb="1"/>
+[os up eo] for you \\
+<Who nb="2"/>
+[os okay eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="109.590" endTime="115.021">
+<Sync time="109.590"/>
+&lt;P&gt; uh \\
+<Sync time="110.428"/>
+also could you tell me the last book you have by Terry Goodkind \\
+</Turn>
+<Turn speaker="spk3" startTime="115.021" endTime="125.162">
+<Sync time="115.021"/>
+&lt;TP&gt; &lt;P&gt; &lt;BN&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="125.162" endTime="126.357">
+<Sync time="125.162"/>
+&lt;ST&gt; let me see here &lt;/ST&gt; &lt;TP&gt; \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="126.357" endTime="128.045">
+<Sync time="126.357"/>
+<Who nb="1"/>
+um [os uh &lt;P&gt; yes eo] \\
+<Who nb="2"/>
+[os Terry Goodkind eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="128.045" endTime="128.534">
+<Sync time="128.045"/>
+it's &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="128.534" endTime="130.398">
+<Sync time="128.534"/>
+<Who nb="1"/>
+the Sword of &lt;P&gt; [os Truth seri- eo] \\
+<Who nb="2"/>
+[os uhhm eo] \\
+</Turn>
+<Turn speaker="spk1" startTime="130.398" endTime="133.511">
+<Sync time="130.398"/>
+you're looking for the last \\
+<Sync time="131.595"/>
+the mo- the most recently published \\
+</Turn>
+<Turn speaker="spk2" startTime="133.511" endTime="134.199">
+<Sync time="133.511"/>
+uh huh \\
+</Turn>
+<Turn speaker="spk1" startTime="134.199" endTime="138.348">
+<Sync time="134.199"/>
+I have two thousand five \\
+<Sync time="136.973"/>
+&lt;P&gt; Chainfire \\
+</Turn>
+<Turn speaker="spk2" startTime="138.348" endTime="140.072">
+<Sync time="138.348"/>
+&lt;B&gt; ah okay I have that already \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="140.072" endTime="141.258">
+<Sync time="140.072"/>
+<Who nb="1"/>
+you have that [os now eo] \\
+<Who nb="2"/>
+[os mmhm eo] \\
+</Turn>
+<Turn speaker="spk1" startTime="141.258" endTime="145.537">
+<Sync time="141.258"/>
+&lt;P&gt; uhmm \\
+<Sync time="142.547"/>
+you've had all of them that I have listed here \\
+</Turn>
+<Turn speaker="spk2" startTime="145.537" endTime="145.967">
+<Sync time="145.537"/>
+yeah \\
+</Turn>
+<Turn speaker="spk1" startTime="145.967" endTime="146.387">
+<Sync time="145.967"/>
+yeah \\
+</Turn>
+<Turn speaker="spk1 spk1" startTime="146.387" endTime="147.0">
+<Sync time="146.387"/>
+<Who nb="1"/>
+[os okay eo] \\
+<Who nb="2"/>
+[os mhm eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="147.0" endTime="148.374">
+<Sync time="147.0"/>
+okay that's it \\
+<Sync time="147.905"/>
+thank you \\
+</Turn>
+<Turn speaker="spk1" startTime="148.374" endTime="149.123">
+<Sync time="148.374"/>
+you're welcome \\
+</Turn>
+<Turn speaker="spk2" startTime="149.123" endTime="149.489">
+<Sync time="149.123"/>
+bye bye \\
+</Turn>
+<Turn speaker="spk1" startTime="149.489" endTime="149.849">
+<Sync time="149.489"/>
+bye now \\
+</Turn>
+<Turn speaker="spk3" startTime="149.849" endTime="153.900">
+<Sync time="149.849"/>
+&lt;TN&gt; &lt;P&gt; \\
+</Turn>
+</Section>
+</Episode>
+</Trans>

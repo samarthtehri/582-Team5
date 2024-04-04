@@ -1,0 +1,40 @@
+{"user": "Alien", "index": 1, "text": "Hi Michael!", "intent": "Extend_greetings"}
+{"user": "Human", "index": 1, "text": "Hello Zara!", "intent": "Extend_greetings"}
+{"user": "Human", "index": 1, "text": "Would you like to have a drink?", "intent": "Casual_question"}
+{"user": "Alien", "index": 1, "text": "Sure!", "intent": "Casual_response"}
+{"user": "Human", "index": 2, "text": "The glass is on the table right there.", "intent": "Inform_location"}
+{"user": "Alien", "index": 2, "text": "I will head to the table", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 3, "text": "What am I supposed to do at the table? ", "intent": "Inform_confused"}
+{"user": "Human", "index": 3, "text": "You should pick up the glass from the table.", "intent": "Inform_action"}
+{"user": "Human", "index": 3, "text": "After picking up the glass, bring it back to the sink.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 3, "text": "Why do I need to bring the glass to the sink?", "intent": "Explain_confused"}
+{"user": "Human", "index": 3, "text": "We need to wash out the glass with water from the sink in order to make it clean to drink from.", "intent": "Inform_action"}
+{"user": "Alien", "index": 3, "text": "Ok thanks, I understand now.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 4, "text": "I will walk back to the table now. ", "intent": "Inform_condition"}
+{"user": "Human", "index": 4, "text": "Ok, do you know which object the glass is on the tabel?", "intent": "Ask_know_object"}
+{"user": "Alien", "index": 4, "text": "Yes, I know which object the glass is. ", "intent": "Inform_understanding"}
+{"user": "Human", "index": 5, "text": "What do you want to drink?", "intent": "Casual_question"}
+{"user": "Human", "index": 5, "text": "I am happy with anything. ", "intent": "Casual_response"}
+{"user": "Alien", "index": 5, "text": "I will now bring the glass back to the sink. ", "intent": "Inform_condition"}
+{"user": "Alien", "index": 6, "text": "This is my first time washing a glass, what is the next step? ", "intent": "Ask_next_step"}
+{"user": "Human", "index": 6, "text": "First put the glass into the sink.", "intent": "Inform_next_step"}
+{"user": "Human", "index": 7, "text": "Do you know what to do after putting the glass into the sink?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 7, "text": "No I do not know what to do now.", "intent": "Inform_confused"}
+{"user": "Human", "index": 7, "text": "Next you will wash the glass out with water. ", "intent": "Inform_next_step"}
+{"user": "Human", "index": 7, "text": "You can do this by turning on the sink to fill the glass with water.", "intent": "Inform_action"}
+{"user": "Alien", "index": 8, "text": "When am I supposed to turn off the tap? ", "intent": "Ask_about_action"}
+{"user": "Human", "index": 8, "text": "You would turn off the sink when the glass is filled up with water.", "intent": "Inform_action"}
+{"user": "Alien", "index": 9, "text": "It looks like the glass is full, should I turn off the sink?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 9, "text": "Yes, you will want to turn off the sink now.", "intent": "Inform_action"}
+{"user": "Alien", "index": 10, "text": "What should I now do with the glass?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 10, "text": "Bring the glass back over to the table now that it is clean.", "intent": "Inform_next_step"}
+{"user": "Human", "index": 11, "text": "Would you be okay with drinking wine?", "intent": "Casual_question"}
+{"user": "Alien", "index": 11, "text": "That sounds great. ", "intent": "Casual_response"}
+{"user": "Alien", "index": 12, "text": "What would you now like me to do with the glass? ", "intent": "Ask_next_step"}
+{"user": "Human", "index": 12, "text": "Just set the glass back down on the table so that we are all set to have a drink.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 12, "text": "Does it matter where the glass is placed on the table? ", "intent": "Ask_about_location"}
+{"user": "Human", "index": 12, "text": "Set the glass down where you had originally picked it up from since you will be sitting at that spot.", "intent": "Inform_location"}
+{"user": "Alien", "index": 13, "text": "What kind of wine do you have avaliable? ", "intent": "Casual_question"}
+{"user": "Human", "index": 13, "text": "I only have white wine so that is what we will drink.", "intent": "Casual_response"}
+{"user": "Alien", "index": 14, "text": "The glass is now clean, can we begin to drink? ", "intent": "Ask_get_started"}
+{"user": "Human", "index": 14, "text": "Yes I just need to grab the wine and we will be all set.", "intent": "Inform_get_started"}

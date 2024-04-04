@@ -1,0 +1,34 @@
+{"user": "Human", "index": 1, "text": "Hello ", "intent": "Extend_greetings"}
+{"user": "Alien", "index": 1, "text": "Hello!", "intent": "Extend_greetings"}
+{"user": "Human", "index": 2, "text": "Do you want to have a drink?", "intent": "Ask_get_started"}
+{"user": "Alien", "index": 2, "text": "Yes I would", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 2, "text": "Can you get the glasses?", "intent": "Ask_take_next_step"}
+{"user": "Alien", "index": 2, "text": "Yes I can I'll go get them", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 2, "text": "The glasses are dirty", "intent": "Inform_observation"}
+{"user": "Human", "index": 3, "text": "Can you get the glasses so we can wash them?", "intent": "Ask_take_next_step"}
+{"user": "Alien", "index": 3, "text": "OK I'm picking up the glass now", "intent": "Inform_understanding"}
+{"user": "Human", "index": 4, "text": "Ok bring the glass to the sink so we can wash it", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 4, "text": "OK i'll bring it", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 4, "text": "How do I wash the glass?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 5, "text": "Start by putting the glass in the sink", "intent": "Inform_action"}
+{"user": "Alien", "index": 5, "text": "OK what do I do now?", "intent": "Ask_next_step"}
+{"user": "Alien", "index": 5, "text": "I don't know how to wash the glass", "intent": "Explain_confused"}
+{"user": "Human", "index": 5, "text": "It's ok just turn on the tap first so we can get water to wash it", "intent": "Inform_action"}
+{"user": "Human", "index": 6, "text": "The tap is the handle on the sink, turn it on", "intent": "Inform_action"}
+{"user": "Alien", "index": 6, "text": "OK got it, turning on the tap", "intent": "Inform_understanding"}
+{"user": "Human", "index": 6, "text": "Now let the water run on the glass so it gets rinsed out", "intent": "Inform_action"}
+{"user": "Alien", "index": 6, "text": "OK", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 7, "text": "The glass is rinsed you can turn the tap off now", "intent": "Inform_action"}
+{"user": "Alien", "index": 7, "text": "OK, turning it off", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 7, "text": "What now?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 8, "text": "Take the glass from the sink", "intent": "Inform_action"}
+{"user": "Alien", "index": 8, "text": "Ok taking the glass", "intent": "Inform_understanding"}
+{"user": "Human", "index": 9, "text": "Let's go to the table so we can have a drink", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 9, "text": "Ok let's go", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 9, "text": "What do I do with the glass?", "intent": "Inform_confused"}
+{"user": "Human", "index": 10, "text": "Put the glass on the table so we can pour a drink into it", "intent": "Inform_action"}
+{"user": "Alien", "index": 10, "text": "Ok got it ", "intent": "Inform_understanding"}
+{"user": "Human", "index": 11, "text": "Ok come back here so we can figure out what drink ", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 11, "text": "OK ", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 11, "text": "What drink should we get?", "intent": "Casual_question"}
+{"user": "Human", "index": 11, "text": "Water ", "intent": "Casual_response"}

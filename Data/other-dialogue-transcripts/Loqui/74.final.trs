@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14-loqui.dtd">
+<Trans scribe="Daveman" audio_filename="74" version="3" version_date="080827" corpus_version="2.0">
+<Speakers>
+<Speaker id="spk1" name="caller#2" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="librarian#1" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="non-speaking-librarian-activity" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="275.366">
+<Turn startTime="0" endTime="6.173" speaker="spk1">
+<Sync time="0"/>
+&lt;G&gt; hi &lt;CT&gt; yes I'd like to know if you have a book by Cesar Millan \\
+<Sync time="4.381"/>
+th- the dog psychologist \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="6.173" endTime="7.888">
+<Sync time="6.173"/>
+<Who nb="1"/>
+&lt;BN&gt; [os sure eo] before we get started \\
+<Who nb="2"/>
+[os whatever eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="7.888" endTime="11.188">
+<Sync time="7.888"/>
+um we're doing &lt;BN&gt; a research project may we record the call \\
+</Turn>
+<Turn speaker="spk1" startTime="11.188" endTime="11.616">
+<Sync time="11.188"/>
+sure \\ 
+</Turn>
+<Turn speaker="spk2" startTime="11.616" endTime="14.39">
+<Sync time="11.616"/>
+thank you &lt;B&gt; \\
+<Sync time="12.594"/>
+um may I have your last name please &lt;BN&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="14.39" endTime="17.654">
+<Sync time="14.39"/>
+&lt;LASTNAME&gt; \\
+<Sync time="15.41"/>
+&lt;LN-INITIAL-1&gt; &lt;LN-INITIAL-2&gt; &lt;LN-INITIAL-3&gt; &lt;LN-INITIAL-4&gt; &lt;LN-INITIAL-5&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="17.654" endTime="22.843">
+<Sync time="17.654"/>
+okay &lt;BN&gt; \\
+<Sync time="19.402"/>
+and &lt;BN&gt; \\
+<Sync time="21.826"/>
+your first name \\
+</Turn>
+<Turn speaker="spk1" startTime="22.843" endTime="23.637">
+<Sync time="22.843"/>
+&lt;FIRSTNAME&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="23.637" endTime="28.198">
+<Sync time="23.637"/>
+&lt;FIRSTNAME&gt; \\
+<Sync time="25.752"/>
+and you're on &lt;STREETNUMBER&gt; right \\
+</Turn>
+<Turn speaker="spk1" startTime="28.198" endTime="28.462">
+<Sync time="28.198"/>
+right \\
+</Turn>
+<Turn speaker="spk2" startTime="28.462" endTime="30.045">
+<Sync time="28.462"/>
+okay do you have the title \\ 
+</Turn>
+<Turn speaker="spk1" startTime="30.045" endTime="32.408">
+<Sync time="30.045"/>
+I not really \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="32.408" endTime="33.346">
+<!--Michal Novemsky 5-April-2010 Changed order of spk1 and spk2 in this overlapping section-->
+<Sync time="32.408"/>
+<Who nb="1"/>
+[os no eo] \\ <!--Michal Novemsky 5-April-2010 Changed "oh" to "no"-->
+<Who nb="2"/>
+[os author eo] \\
+</Turn>
+<Turn speaker="spk1" startTime="33.346" endTime="33.836">
+<Sync time="33.346"/>
+excuse me \\
+</Turn>
+<Turn speaker="spk2" startTime="33.836" endTime="35.424">
+<Sync time="33.836"/>
+wh- wha- do you have the author &lt;BN&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="35.424" endTime="37.072">
+<Sync time="35.424"/>
+Cesar Millan \\
+</Turn>
+<Turn speaker="spk2" startTime="37.072" endTime="38.729">
+<Sync time="37.072"/>
+M I L A N \\
+</Turn>
+<Turn speaker="spk1" startTime="38.729" endTime="39.403">
+<Sync time="38.729"/>
+yes \\
+</Turn>
+<Turn speaker="spk3" startTime="39.403" endTime="56.811">
+<Sync time="39.403"/>
+&lt;P&gt; &lt;BN&gt; &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="56.811" endTime="58.623">
+<Sync time="56.811"/>
+<Who nb="1"/>
+can you hold on just [os one second eo] \\
+<Who nb="2"/>
+[os sure sure eo] sure \\
+</Turn>
+<Turn speaker="spk3" startTime="58.623" endTime="65.867">
+<Sync time="58.623"/>
+&lt;TN&gt; &lt;TN&gt; &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="65.867" endTime="66.4">
+<Sync time="65.867"/>
+hello \\
+</Turn>
+<Turn speaker="spk2" startTime="66.4" endTime="66.91">
+<Sync time="66.4"/>
+hi \\
+</Turn>
+<Turn speaker="spk1" startTime="66.91" endTime="67.236">
+<Sync time="66.91"/>
+I'm back \\
+</Turn>
+<Turn speaker="spk2" startTime="67.236" endTime="69.968">
+<Sync time="67.236"/>
+I'm sorry I'm not seeing anything \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="69.968" endTime="71.007">
+<Sync time="69.968"/>
+<Who nb="1"/>
+[os by him eo] \\
+<Who nb="2"/>
+[os really eo] \\
+</Turn>
+<Turn speaker="spk1" startTime="71.007" endTime="71.681">
+<Sync time="71.007"/>
+no \\
+</Turn>
+<Turn speaker="spk2" startTime="71.681" endTime="72.415">
+<Sync time="71.681"/>
+no \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="72.415" endTime="75.109">
+<Sync time="72.415"/>
+<Who nb="1"/>
+[os sorry eo] if you get more information like \\
+<Who nb="2"/>
+[os oh eo] \\
+<Sync time="74.415"/>
+<Who nb="1"/>
+[os the title eo] \\
+<Who nb="2"/>
+[os I have eo] \\
+</Turn>
+<Turn speaker="spk1" startTime="75.109" endTime="78.907">
+<Sync time="75.109"/>
+I- I- ah &lt;B&gt; \\
+<Sync time="76.517"/>
+ah I don't know if it might be called the Dog Whisper \\
+<!--Michal Novemsky 5-April-2010 Added in missing "know"-->
+</Turn>
+<Turn speaker="spk2" startTime="78.907" endTime="82.237">
+<Sync time="78.907"/>
+the &lt;P&gt; Door Whisper \\
+</Turn>
+<Turn speaker="spk1" startTime="82.237" endTime="82.971">
+<Sync time="82.237"/>
+dog \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="82.971" endTime="83.97">
+<Sync time="82.971"/>
+<Who nb="1"/>
+[os dog whisper eo] \\
+<Who nb="2"/>
+[os whisper eo] \\
+</Turn>
+<Turn speaker="spk1" startTime="83.97" endTime="84.175">
+<Sync time="83.97"/>
+yeah \\
+</Turn>
+<Turn speaker="spk2" startTime="84.175" endTime="84.685">
+<Sync time="84.175"/>
+okay \\ 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="84.685" endTime="86.009">
+<Sync time="84.685"/>
+<Who nb="1"/>
+let me [os check that eo] \\
+<Who nb="2"/>
+[os think that's it eo] \\ <!--Michal Novemsky 5-April-2010 Not sure what should go here instead, but "think that's it" doesn't sound right-->
+</Turn>
+<Turn speaker="spk2" startTime="86.009" endTime="86.52">
+<Sync time="86.009"/>
+sure \\
+</Turn>
+<Turn speaker="spk3" startTime="86.52" endTime="94.011">
+<Sync time="86.52"/>
+&lt;B&gt; &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="94.011" endTime="100.173">
+<Sync time="94.011"/>
+yup I see a- well I don't see it for us let me double check \\
+<Sync time="98.643"/>
+um \\
+</Turn>
+<Turn speaker="spk1" startTime="100.173" endTime="102.477">
+<Sync time="100.173"/>
+think it's a r- \\ <!--Michal Novemsky 5-April-2010 Changed "of rel-" to "it's a r-"-->
+<Sync time="101.171"/>
+relatively new book \\
+</Turn>
+<Turn speaker="spk2" startTime="102.477" endTime="107.804">
+<Sync time="102.477"/>
+yeah &lt;TP&gt; \\
+<Sync time="103.62"/>
+let me check it \\
+<Sync time="105.091"/>
+&lt;P&gt; &lt;TP&gt; &lt;BN&gt; in our catalog \\
+</Turn>
+<Turn speaker="spk1" startTime="107.804" endTime="108.337">
+<Sync time="107.804"/>
+mmhm \\
+</Turn>
+<Turn speaker="spk3" startTime="108.337" endTime="127.341">
+<Sync time="108.337"/>
+&lt;P&gt; &lt;BN&gt; &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="127.341" endTime="137.316">
+<Sync time="127.341"/>
+no I'm sorry um I see \\
+<Sync time="130.644"/>
+the dog whisper I see a book by \\
+<Sync time="134.232"/>
+Paul Owens is that a possible maybe they \\
+</Turn>
+<Turn speaker="spk1" startTime="137.316" endTime="141.136">
+<Sync time="137.316"/>
+&lt;P&gt; &lt;BN&gt; what else does it say about the \\
+<!--Michal Novemsky 5-April-2010 Changed "well" to "what else"-->
+</Turn>
+<Turn speaker="spk1 spk2" startTime="141.136" endTime="144.011">
+<Sync time="141.136"/>
+<Who nb="1"/>
+[os is there eo] \\ <!--Michal Novemsky 5-April-2010 Changed "Perez" to "is there"-->
+<Who nb="2"/>
+[os I see eo] something called Cesar's Way, the- \\ <!--Michal Novemsky 5-April-2010 Changed "Ceaser's Way theme" to "Cesar's Way, the-"-->
+</Turn>
+<Turn speaker="spk2" startTime="144.011" endTime="145.377">
+<Sync time="144.011"/>
+this I'm looking on Amazon \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="145.377" endTime="146.56">
+<Sync time="145.377"/>
+<Who nb="1"/>
+not in [os our catalog eo] \\
+<Who nb="2"/>
+[os right eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="146.56" endTime="153.105">
+<Sync time="146.56"/>
+okay there's something called Cesar's Way the Natural Everyday Guide to Understanding and Correcting Common Dog Problems \\
+<!--Michal Novemsky 5-April-2010 Changed "Ceaser's" to "Cesar's"-->
+</Turn>
+<Turn speaker="spk1" startTime="153.105" endTime="153.515">
+<Sync time="153.105"/>
+uh ha \\
+</Turn>
+<Turn speaker="spk2" startTime="153.515" endTime="155.268">
+<Sync time="153.515"/>
+so that would be the same \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="155.268" endTime="158.206">
+<Sync time="155.268"/>
+<Who nb="1"/>
+let me double check [os again eo] \\
+<Who nb="2"/>
+[os &lt;G&gt; eo] \\
+<Sync time="156.66"/>
+<Who nb="1"/>
+[os because eo] you know what his \\
+<Who nb="2"/>
+[os e- eo] \\
+<Sync time="157.739"/>
+<Who nb="1"/>
+[os name eo] \\
+<Who nb="2"/>
+[os I wanted eo] \\
+</Turn>
+<Turn speaker="spk1" startTime="158.206" endTime="159.778">
+<Sync time="158.206"/>
+to read like his life story \\
+<!--Michal Novemsky 5-April-2010 Changed "relive" to "read like"-->
+</Turn>
+<Turn speaker="spk1 spk2" startTime="159.778" endTime="161.324">
+<Sync time="159.778"/>
+<Who nb="1"/>
+that's what I [os wanted to eo] read about \\
+<Who nb="2"/>
+[os okay eo] \\
+</Turn>
+<Turn speaker="spk1" startTime="161.324" endTime="162.512">
+<Sync time="161.324"/>
+Cesar Millan I don't \\
+</Turn>
+<Turn speaker="spk2" startTime="162.512" endTime="165.972">
+<Sync time="162.512"/>
+okay you know what it's Millan it's two L's \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="165.972" endTime="167.417">
+<Sync time="165.972"/>
+<Who nb="1"/>
+so the thing that I [os ask eo] \\
+<Who nb="2"/>
+[os its eo] \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="167.417" endTime="169.541">
+<Sync time="167.417"/>
+<Who nb="1"/>
+what [os did you say eo] \\
+<Who nb="2"/>
+[os it's hi- eo] his last name is \\
+</Turn>
+<Turn speaker="spk2" startTime="169.541" endTime="184.316">
+<Sync time="169.541"/>
+Millan \\
+<Sync time="170.216"/>
+M I L L A N &lt;BN&gt; &lt;P&gt; \\
+<Sync time="173.452"/>
+so I didn't \\
+<Sync time="175.166"/>
+the- the one thing I see is \\
+<Sync time="177.163"/>
+is called Cesar's Way \\
+<Sync time="178.927"/>
+so I think this is the one that you want \\
+<Sync time="180.97"/>
+um \\
+<Sync time="181.744"/>
+we don't have it in but I'm gonna put it a reserve on it for you \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="184.316" endTime="186.007">
+<Sync time="184.316"/>
+<Who nb="1"/>
+[os okay eo] \\
+<Who nb="2"/>
+[os o- eo] \\
+<Sync time="184.868"/>
+<Who nb="1"/>
+[os okay eo] \\
+<Who nb="2"/>
+[os kay eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="186.007" endTime="186.824">
+<Sync time="186.007"/>
+is there anything else \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="186.824" endTime="188.047">
+<Sync time="186.824"/>
+<Who nb="1"/>
+[os I can help you with eo] \\
+<Who nb="2"/>
+[os no that's it eo] \\
+<!--Michal Novemsky 5-April-2010 Changed "looks good" to "that's it"-->
+</Turn>
+<Turn speaker="spk2" startTime="188.047" endTime="188.683">
+<Sync time="188.047"/>
+okay \\
+</Turn>
+<Turn speaker="spk1" startTime="188.683" endTime="190.049">
+<Sync time="188.683"/>
+the research is over \\
+</Turn>
+<Turn speaker="spk2" startTime="190.049" endTime="190.721">
+<Sync time="190.049"/>
+that's over \\
+</Turn>
+<Turn speaker="spk1" startTime="190.721" endTime="192.109">
+<Sync time="190.721"/>
+what was the research all about \\
+</Turn>
+<Turn speaker="spk2" startTime="192.109" endTime="206.79">
+<Sync time="192.109"/>
+I just wanted I was spelling the name wrong \\
+<!--Michal Novemsky 5-April-2010 Changed "wanna" and "a" to "wanted" and "the"-->
+<Sync time="194.907"/>
+oh the research we're trying to see &lt;B&gt; \\
+<Sync time="197.857"/>
+um we have two guests who are recording calls \\ <!--Michal Novemsky 5-April-2010 Changed "desks" to "guests"-->
+<Sync time="201.449"/>
+&lt;B&gt; and they're going to see if we can get a better more streamlined &lt;B&gt; \\
+<Sync time="205.238"/>
+telephone system \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="206.79" endTime="208.483">
+<Sync time="206.79"/>
+<Who nb="1"/>
+[os so eo] if you just have \\
+<Who nb="2"/>
+[os right eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="208.483" endTime="218.878">
+<Sync time="208.483"/>
+maybe if you had just a book number perhaps an automated system could help you &lt;B&gt; \\
+<Sync time="213.215"/>
+we tend to wanna have personal calls \\
+<Sync time="215.464"/>
+but sometimes people wanna just give us a number or something simple \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="218.878" endTime="219.65">
+<Sync time="218.878"/>
+<Who nb="1"/>
+[os right eo] \\
+<Who nb="2"/>
+[os so we're eo] trying \\
+</Turn>
+<Turn speaker="spk2" startTime="219.65" endTime="224.806">
+<Sync time="219.65"/>
+to evaluate what kind of calls we get &lt;BN&gt; \\
+<Sync time="222.520"/>
+and h- how we can do it better if we can \\
+</Turn>
+<Turn speaker="spk1" startTime="224.806" endTime="227.791">
+<Sync time="224.806"/>
+I personally like to uh talk to a person \\
+</Turn>
+<Turn speaker="spk2" startTime="227.791" endTime="230.051">
+<Sync time="227.791"/>
+&lt;B&gt; I- I do too \\
+</Turn>
+<Turn speaker="spk1" startTime="230.051" endTime="230.398">
+<Sync time="230.051"/>
+yeah \\
+</Turn>
+<Turn speaker="spk2" startTime="230.398" endTime="235.565">
+<Sync time="230.398"/>
+so I think that that \\
+<Sync time="231.463"/>
+we'r &lt;P&gt; I don't think that's kind of service we would ever \\
+<Sync time="234.726"/>
+end &lt;B&gt; \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="235.565" endTime="236.977">
+<Sync time="235.565"/>
+<Who nb="1"/>
+[os however eo] &lt;B&gt; \\
+<Who nb="2"/>
+[os right eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="236.977" endTime="246.225">
+<Sync time="236.977"/>
+if you know after we're closed \\
+<Sync time="238.978"/>
+if you just wanted to give us two book numbers \\
+<Sync time="241.571"/>
+we might &lt;P&gt; \\
+<Sync time="242.49"/>
+be able to do that \\
+<Sync time="243.613"/>
+I can not imagine us ever not having &lt;P&gt;\\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="246.225" endTime="248.0">
+<Sync time="246.225"/>
+<Who nb="1"/>
+[os real people eo] \\
+<Who nb="2"/>
+[os yeah eo] \\
+<Sync time="247.084"/>
+<Who nb="1"/>
+[os and that's really eo] \\
+<Who nb="2"/>
+[os &lt;CHKL&gt; eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="248.0" endTime="252.044">
+<Sync time="248.0"/>
+&lt;B&gt; that's \\
+<Sync time="248.756"/>
+you know we \\
+<Sync time="249.534"/>
+and I think that a lot of our patrons prefer it \\
+<!--Michal Novemsky 5-April-2010 The word "the" was left out-->
+</Turn>
+<Turn speaker="spk2 spk1" startTime="252.044" endTime="253.725">
+<Sync time="252.044"/>
+<Who nb="1"/>
+but [os there can eo] be very short things \\
+<Who nb="2"/>
+[os right eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="253.725" endTime="254.642">
+<Sync time="253.725"/>
+my machine \\
+<!--Michal Novemsky 5-April-2010 Omitted the unnecessary "with"-->
+</Turn>
+<Turn speaker="spk2 spk1" startTime="254.642" endTime="258.607">
+<Sync time="254.642"/>
+<Who nb="1"/>
+[os I need eo] a new one or something like that \\
+<Who nb="2"/>
+[os right eo] \\
+<Sync time="256.664"/>
+<Who nb="1"/>
+that you [os might wanna eo] record at night \\
+<Who nb="2"/>
+[os right eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="258.607" endTime="259.669">
+<Sync time="258.607"/>
+but we'll see what happens \\
+</Turn>
+<Turn speaker="spk1" startTime="259.669" endTime="260.464">
+<Sync time="259.669"/>
+but let me ask \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="260.464" endTime="261.2">
+<Sync time="260.464"/>
+<Who nb="1"/>
+[os sure eo] \\
+<Who nb="2"/>
+[os uh- let me as- eo] \\
+</Turn>
+<Turn speaker="spk1" startTime="261.2" endTime="264.616">
+<Sync time="261.2"/>
+&lt;G&gt; \\
+<Sync time="261.633"/>
+let me ask you about this book \\
+<Sync time="262.691"/>
+you say it's on reserve but \\
+<Sync time="263.94"/>
+you have it \\
+</Turn>
+<Turn speaker="spk2" startTime="264.616" endTime="265.595">
+<Sync time="264.616"/>
+we own it yes \\
+</Turn>
+<Turn speaker="spk1" startTime="265.595" endTime="266.169">
+<Sync time="265.595"/>
+okay \\
+</Turn>
+<Turn speaker="spk2" startTime="266.169" endTime="266.74">
+<Sync time="266.169"/>
+okay \\
+</Turn>
+<Turn speaker="spk1" startTime="266.74" endTime="267.617">
+<Sync time="266.74"/>
+there's a waiting list for \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="267.617" endTime="268.535">
+<Sync time="267.617"/>
+<Who nb="1"/>
+[os there's eo] a waiting list \\
+<Who nb="2"/>
+[os it eo] \\
+</Turn>
+<Turn speaker="spk1" startTime="268.535" endTime="269.168">
+<Sync time="268.535"/>
+alright \\
+</Turn>
+<Turn speaker="spk2" startTime="269.168" endTime="270.241">
+<Sync time="269.168"/>
+everything about dogs \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="270.241" endTime="271.361">
+<Sync time="270.241"/>
+<Who nb="1"/>
+popular [os &lt;CHKL&gt; eo] \\
+<Who nb="2"/>
+[os yeah eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="271.361" endTime="271.892">
+<Sync time="271.361"/>
+okay \\
+</Turn>
+<Turn speaker="spk1" startTime="271.892" endTime="272.311">
+<Sync time="271.892"/>
+okay \\
+</Turn>
+<Turn speaker="spk2" startTime="272.311" endTime="272.678">
+<Sync time="272.311"/>
+bye \\
+</Turn>
+<Turn speaker="spk1" startTime="272.678" endTime="273.087">
+<Sync time="272.678"/>
+bye \\
+</Turn>
+<Turn speaker="spk3" startTime="273.087" endTime="275.366">
+<Sync time="273.087"/>
+&lt;TN&gt; \\
+</Turn>
+</Section>
+</Episode>
+</Trans>

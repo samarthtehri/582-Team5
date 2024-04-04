@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14-loqui.dtd">
+<Trans scribe="John Doe" audio_filename="65" version="3" version_date="080827" corpus_version="2.0">
+<Speakers>
+<Speaker id="spk1" name="speaker#1" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="librarian#1" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="caller#2" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk4" name="non-speaking-librarian-activity#1" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="82.688">
+<Turn startTime="0" endTime="3.031" speaker="spk1">
+<Sync time="0"/>
+note verbal consent given but not part of extracted file \\
+</Turn>
+<Turn speaker="spk2" startTime="3.031" endTime="6.286">
+<Sync time="3.031"/>
+&lt;P&gt; &lt;TN&gt; okay how can I help you today \\
+</Turn>
+<Turn speaker="spk3" startTime="6.286" endTime="15.644">
+<Sync time="6.286"/>
+okay &lt;B&gt; my son is registered with the library \\ <!--Michal Novemsky 31-March-2010 Changed "sun" to "son"-->
+<Sync time="9.139"/>
+and I'd like to inquire &lt;BN&gt; \\
+<Sync time="10.691"/>
+whether you have Truman Capote's \\ <!--Michal Novemsky 31-March-2010 added apostrophe in "Capote's"-->
+<Sync time="13.222"/>
+In Cold Blood \\
+<Sync time="14.408"/>
+&lt;BN&gt; in cassette form \\
+</Turn>
+<Turn speaker="spk2" startTime="15.644" endTime="17.78">
+<Sync time="15.644"/>
+&lt;TN&gt; &lt;VB&gt; &lt;P&gt; what is your son's name \\ <!--Michal Novemsky 31-March-2010 added apostrophe in "son's"-->
+</Turn>
+<Turn speaker="spk3" startTime="17.78" endTime="19.436">
+<Sync time="17.78"/>
+&lt;FIRSTNAME&gt; &lt;LASTNAME&gt; \\
+</Turn>
+<Turn speaker="spk4" startTime="19.436" endTime="32.227">
+<Sync time="19.436"/>
+&lt;VB&gt; &lt;TN&gt; &lt;IR&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="32.227" endTime="35.805">
+<Sync time="32.227"/>
+yeah we do have the book &lt;IR&gt; \\
+<Sync time="34.555"/>
+does he need them for school \\
+</Turn>
+<Turn speaker="spk3" startTime="35.805" endTime="36.243">
+<Sync time="35.805"/>
+yes \\
+</Turn>
+<Turn speaker="spk2" startTime="36.243" endTime="41.74">
+<Sync time="36.243"/>
+&lt;TN&gt; &lt;P&gt; okay so I'll order it septe- \\
+<Sync time="38.684"/>
+it's an older one \\
+<Sync time="39.439"/>
+I'll have to order it \\
+<Sync time="40.202"/>
+I'll tell them to put a rush on it \\
+</Turn>
+<Turn speaker="spk3" startTime="41.74" endTime="45.569">
+<Sync time="41.74"/>
+okay &lt;BN&gt; &lt;B&gt; I appreciate it \\
+<Sync time="43.725"/>
+cause that's actually a summer read \\
+</Turn>
+<Turn speaker="spk3 spk2" startTime="45.569" endTime="51.239">
+<Sync time="45.569"/>
+<Who nb="1"/>
+[os so that eo] he um needs this \\ <!--Michal Novemsky 31-March-2010 Changed "um he" to "he um"; i.e. they were reversed-->
+<Who nb="2"/>
+[os yeah eo] \\
+<Sync time="47.685"/>
+<Who nb="1"/>
+to to read it before [os before eo] classes start \\ <!--Michal Novemsky 31-March-2010 Changed "a book for [os for eo]" to "it before [os before eo]"-->
+<Who nb="2"/>
+[os yeah eo] \\
+</Turn>
+<Turn speaker="spk3" startTime="51.239" endTime="55.14">
+<Sync time="51.239"/>
+&lt;P&gt; &lt;B&gt; ummm \\
+<Sync time="53.390"/>
+&lt;P&gt; okay so that's great \\
+</Turn>
+<Turn speaker="spk2" startTime="55.14" endTime="55.692">
+<Sync time="55.14"/>
+okay \\
+</Turn>
+<Turn speaker="spk3" startTime="55.692" endTime="57.997">
+<Sync time="55.692"/>
+thank you \\
+<Sync time="56.007"/>
+so you have all the information you need though right \\
+</Turn>
+<Turn speaker="spk2" startTime="57.997" endTime="58.323">
+<Sync time="57.997"/>
+yeah \\
+</Turn>
+<Turn speaker="spk3" startTime="58.323" endTime="59.823">
+<Sync time="58.323"/>
+under &lt;STREETNAME&gt; street \\
+</Turn>
+<Turn speaker="spk2" startTime="59.823" endTime="61.084">
+<Sync time="59.823"/>
+&lt;P&gt; &lt;VB&gt; right \\
+</Turn>
+<Turn speaker="spk3" startTime="61.084" endTime="62.647">
+<Sync time="61.084"/>
+okay \\
+<Sync time="61.803"/>
+thanks \\
+</Turn>
+<Turn speaker="spk3 spk2" startTime="62.647" endTime="63.397">
+<Sync time="62.647"/>
+<Who nb="1"/>
+[os very much eo] \\
+<Who nb="2"/>
+[os you're welcome eo] &lt;BN&gt; \\
+</Turn>
+<Turn speaker="spk3" startTime="63.397" endTime="64.492">
+<Sync time="63.397"/>
+&lt;BN&gt; bye &lt;P&gt; bye now \\
+</Turn>
+<Turn speaker="spk2" startTime="64.492" endTime="64.836">
+<Sync time="64.492"/>
+bye \\
+</Turn>
+<Turn speaker="spk4" startTime="64.836" endTime="82.688">
+<Sync time="64.836"/>
+&lt;TN&gt; &lt;BN&gt; &lt;P&gt; \\
+</Turn>
+</Section>
+</Episode>
+</Trans>

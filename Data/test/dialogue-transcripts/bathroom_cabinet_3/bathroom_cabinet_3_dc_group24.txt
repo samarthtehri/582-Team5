@@ -1,0 +1,37 @@
+{"user": "Human", "index": 1, "text": "Lets go clean up the bathroom, we should with the towels on the table. ", "intent": "Inform_get_started"}
+{"user": "Alien", "index": 1, "text": "Heading to the bathroom, just ahead of you. ", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 2, "text": "Why cant I find the towels?", "intent": "Explain_confused"}
+{"user": "Human", "index": 2, "text": "This is the toilet, the table is on the other side of the wall right next to you. ", "intent": "Inform_location"}
+{"user": "Alien", "index": 2, "text": "I remember now, coming over. ", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 3, "text": "What am I doing with the towels? ", "intent": "Ask_next_step"}
+{"user": "Human", "index": 3, "text": "We are going to move them into the cabinets in front of you. Start by opening them up. ", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 3, "text": "I understand, opening them now. ", "intent": "Inform_understanding"}
+{"user": "Human", "index": 4, "text": "The towels are just beside you at the end of the table.", "intent": "Inform_location"}
+{"user": "Alien", "index": 4, "text": "I see, will move over to them now. ", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 5, "text": "What should I do next?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 5, "text": "We are going to place the towels in the cabinet, so first grab one of the towels please.", "intent": "Inform_next_step"}
+{"user": "Human", "index": 6, "text": "Do you remember where the cabinets are? ", "intent": "Ask_know_location"}
+{"user": "Alien", "index": 6, "text": "Yep, they are just in front of me.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 6, "text": "What cabinet should I place this first towel in? ", "intent": "Ask_about_location"}
+{"user": "Human", "index": 6, "text": "Please place it in the middle cabinet.", "intent": "Inform_location"}
+{"user": "Alien", "index": 6, "text": "Will move over to the middle cabinet now. ", "intent": "Inform_understanding"}
+{"user": "Human", "index": 7, "text": "Now please place the towel in the cabinet. ", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 7, "text": "Does it matter which shelf it is placed on?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 7, "text": "No, place it whichever shelf you would like.", "intent": "Yes-no_negative"}
+{"user": "Alien", "index": 7, "text": "Understood, I will place it on the top shelf. ", "intent": "Inform_understanding"}
+{"user": "Human", "index": 8, "text": "Now you should grab the next towel.", "intent": "Inform_next_step"}
+{"user": "Human", "index": 8, "text": "Do you remember where the towels are?", "intent": "Ask_know_location"}
+{"user": "Alien", "index": 8, "text": "Yes, they are at the end of the table below the cabinets, will head there now.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 9, "text": "Just as last time, please pick up the towel.", "intent": "Inform_action"}
+{"user": "Alien", "index": 9, "text": "I remember how to do it, will grab it now.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 10, "text": "Am I placing this second towel in the same cabinet?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 10, "text": "Yes, the middle cabinet again.", "intent": "Inform_location"}
+{"user": "Alien", "index": 10, "text": "I see, taking the towel over now.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 11, "text": "Would you like any help?", "intent": "Ask_want_help"}
+{"user": "Alien", "index": 11, "text": "I am ok, I remember how to place the towel.", "intent": "Yes-no_negative"}
+{"user": "Human", "index": 11, "text": "Just make sure you place the towel beside the first one.", "intent": "Inform_action"}
+{"user": "Alien", "index": 11, "text": "Understood, will do.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 12, "text": "Well done Zara, please finish up by closing the cabinets. ", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 12, "text": "Will close them now. ", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 12, "text": "Did I perform well today?", "intent": "Casual_question"}
+{"user": "Human", "index": 12, "text": "Apart from the small mistake with the toilet at the beginning, you did great, nice work.", "intent": "Casual_response"}

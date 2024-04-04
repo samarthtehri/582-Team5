@@ -1,0 +1,38 @@
+{"user": "Human", "index": 1, "text": "Good morning, Zara!", "intent": "Extend_greetings"}
+{"user": "Alien", "index": 1, "text": "Salutations, Michael.", "intent": "Extend_greetings"}
+{"user": "Human", "index": 1, "text": "I'm feeling hungry and I bet you are too. Let's grab some salmon to microwave.", "intent": "Inform_action"}
+{"user": "Alien", "index": 1, "text": "Yes, Michael. I will acquire the salmon.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 2, "text": "Ok, let's get started!", "intent": "Inform_get_started"}
+{"user": "Alien", "index": 2, "text": "Hmm, is this the salmon to get?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 2, "text": "No Zara, you've grabbed a bellpepper.", "intent": "Yes-no_negative"}
+{"user": "Alien", "index": 2, "text": "I understand. I will replace the bellpepper in my hand with the salmon.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 3, "text": "That's right! Go ahead.", "intent": "Ask_take_next_step"}
+{"user": "Alien", "index": 3, "text": "I have situated the apple atop the microwave.", "intent": "Inform_observation"}
+{"user": "Human", "index": 3, "text": "Perfect, now grab the salmon.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 4, "text": "Yes Michael, I will grab the salmon now.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 5, "text": "Alright, now just pop the salmon into the microwave to cook it.", "intent": "Inform_action"}
+{"user": "Alien", "index": 5, "text": "Do I utilise this hinge to open it?", "intent": "Ask_guidence"}
+{"user": "Human", "index": 5, "text": "Yep, that's right!", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 5, "text": "Okay Michael, I have opened the microwave.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 6, "text": "I have placed the salmon into the microwave.", "intent": "Inform_observation"}
+{"user": "Alien", "index": 6, "text": "How shall I proceed to irradiate it for the purposes of cooking?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 7, "text": "Close the door, then press this button.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 7, "text": "Yes Michael, I will do that.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 8, "text": "So I press this button with approximately 5 newtons of force, correct?", "intent": "Ask_guidence"}
+{"user": "Human", "index": 8, "text": "That's right, Zara.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 8, "text": "Okay Michael, I will proceed.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 9, "text": "Okay, we've waited for 2 minutes. It should be done. Now press the button again, Zara.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 9, "text": "Okay, Michael.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 10, "text": "Do you know what to do next, Zara?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 10, "text": "Yes, Michael. I will open the microwave and acquire the cooked salmon.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 10, "text": "That's right, go ahead.", "intent": "Ask_take_next_step"}
+{"user": "Alien", "index": 11, "text": "I have acquired the cooked salmon. It possesses a great amount of thermal energy.", "intent": "Inform_observation"}
+{"user": "Human", "index": 11, "text": "Yes, it is very hot, please be careful.", "intent": "Inform_other"}
+{"user": "Alien", "index": 12, "text": "Now I close the microwave, correct?", "intent": "Ask_guidence"}
+{"user": "Human", "index": 12, "text": "That's right.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 12, "text": "Ok, I have closed it.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 13, "text": "Now, let's get the salmon on the dinner table.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 13, "text": "Yes Michael, I will place the salmon on the table.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 14, "text": "I have placed the salmon on the table. It is cooling down now.", "intent": "Inform_observation"}
+{"user": "Human", "index": 15, "text": "You did great, Zara!", "intent": "Casual_observation"}
+{"user": "Alien", "index": 15, "text": "Thank you, Michael.", "intent": "Casual_response"}

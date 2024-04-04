@@ -1,0 +1,29 @@
+{"user": "Human", "index": 1, "text": "hi", "intent": "Inform_get_started"}
+{"user": "Alien", "index": 1, "text": "Hello", "intent": "Extend_greetings"}
+{"user": "Alien", "index": 1, "text": "how are you?", "intent": "Casual_question"}
+{"user": "Human", "index": 1, "text": "fine thank you", "intent": "Casual_response"}
+{"user": "Alien", "index": 1, "text": "are you ready to start?", "intent": "Ask_get_started"}
+{"user": "Human", "index": 1, "text": "yes", "intent": "Inform_action"}
+{"user": "Alien", "index": 1, "text": "what should I do?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 1, "text": "You should watch tv", "intent": "Inform_action"}
+{"user": "Alien", "index": 1, "text": "okay, where is the TV?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 1, "text": "in the living room", "intent": "Inform_location"}
+{"user": "Alien", "index": 1, "text": "okay I got it", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 2, "text": "I am confused, where is the living room?", "intent": "Inform_confused"}
+{"user": "Human", "index": 2, "text": "You should get out of the kitchen and go to the next room which is the living room", "intent": "Inform_location"}
+{"user": "Alien", "index": 2, "text": "Okay, thanks! Let's go together then", "intent": "Inform_understanding"}
+{"user": "Human", "index": 2, "text": "we are going to the living room now", "intent": "Inform_action"}
+{"user": "Human", "index": 3, "text": "Do you know the next step?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 3, "text": "No", "intent": "Inform_condition"}
+{"user": "Human", "index": 3, "text": "let's watch the TV", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 3, "text": "okay, so which object is the TV in this living room?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 3, "text": "it is the white object in front of the coach", "intent": "iInform_object"}
+{"user": "Alien", "index": 3, "text": "thanks, I will walk towards it.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 4, "text": "Do you know about your next step", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 4, "text": "No, I guess I should turn on the TV but I do not know how to do it.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 4, "text": "you should walk towards it and click on its power button\\", "intent": "Inform_action"}
+{"user": "Alien", "index": 4, "text": "Got it, I am doing it now", "intent": "Inform_understanding"}
+{"user": "Human", "index": 4, "text": "Do you need any more info?", "intent": "Ask_need_info"}
+{"user": "Alien", "index": 4, "text": "No I am good", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 5, "text": "What should I do now?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 5, "text": "sit and watch the tv", "intent": "Inform_action"}

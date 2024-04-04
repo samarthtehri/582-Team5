@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14-loqui.dtd">
+<Trans scribe="Daveman" audio_filename="34" version="5" version_date="080626" corpus_version="2.0">
+<Speakers>
+<Speaker id="spk1" name="non-speaking-librarian-activity" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="librarian#1" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="caller#1" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk4" name="caller#2" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="141.245">
+<Turn startTime="0" endTime="8.216" speaker="spk1">
+<Sync time="0"/>
+&lt;TN&gt; &lt;TN&gt; &lt;P&gt; &lt;TN&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="8.216" endTime="10.859">
+<Sync time="8.216"/>
+Andrew Heiskell Braille and Talking Book Library thanks for waiting \\
+</Turn>
+<Turn speaker="spk3" startTime="10.859" endTime="14.719">
+<Sync time="10.859"/>
+yes ma'am um did I speak to you last Friday \\
+<Sync time="13.275"/>
+my name is &lt;FIRSTNAME&gt; &lt;LASTNAME&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="14.719" endTime="17.984">
+<Sync time="14.719"/>
+uh &lt;BN&gt; no you didn't because I wasn't here ma'am \\
+<Sync time="16.858"/>
+I was in Rome Italy \\
+</Turn>
+<Turn speaker="spk3 spk2" startTime="17.984" endTime="20.302">
+<Sync time="17.984"/>
+<Who nb="1"/>
+[os oh I see &lt;CHKL&gt; eo] \\
+<Who nb="2"/>
+[os &lt;NU&gt; I'd be delighted to speak to you eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="20.302" endTime="21.091">
+<Sync time="20.302"/>
+&lt;B&gt; um \\
+</Turn>
+<Turn speaker="spk3" startTime="21.091" endTime="21.546">
+<Sync time="21.091"/>
+&lt;CT&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="21.546" endTime="29.219">
+<Sync time="21.546"/>
+may I ask if you would possibly \\
+<Sync time="23.386"/>
+mind our recording this call for research \\
+<Sync time="25.308"/>
+we're trying to develop a better telephone um customer support system \\
+</Turn>
+<Turn speaker="spk3" startTime="29.219" endTime="30.199">
+<Sync time="29.219"/>
+it's okay with me \\
+</Turn>
+<Turn speaker="spk2 spk3" startTime="30.199" endTime="32.018">
+<Sync time="30.199"/>
+<Who nb="1"/>
+[os okay terrific eo] thank you miss &lt;LASTNAME&gt; \\
+<Who nb="2"/>
+[os I don't care eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="32.018" endTime="32.906">
+<Sync time="32.018"/>
+how may I help you \\
+</Turn>
+<Turn speaker="spk3" startTime="32.906" endTime="39.672">
+<Sync time="32.906"/>
+&lt;BN&gt; um I was reading s- uh very nice books that the other girl \\
+<Sync time="36.277"/>
+whoever I spoke to &lt;BN&gt; &lt;P&gt; Friday gave me \\
+<Sync time="38.397"/>
+I'd like to have three more \\
+</Turn>
+<Turn speaker="spk2 spk3" startTime="39.672" endTime="41.678">
+<Sync time="39.672"/>
+<Who nb="1"/>
+[os okay eo] \\
+<Who nb="2"/>
+[os you wanted eo] to give me six at one time \\
+</Turn>
+<Turn speaker="spk3" startTime="41.678" endTime="44.509">
+<Sync time="41.678"/>
+and I didn't want six because &lt;P&gt; \\
+<Sync time="43.491"/>
+I've got nowhere to put them \\
+</Turn>
+<Turn speaker="spk2 spk3" startTime="44.509" endTime="45.875">
+<Sync time="44.509"/>
+<Who nb="1"/>
+[os okay so three at a time eo] \\
+<Who nb="2"/>
+[os but three at a time is fine eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="45.875" endTime="47.550">
+<Sync time="45.875"/>
+yes I'll s- I'll make that change \\
+</Turn>
+<Turn speaker="spk3 spk2" startTime="47.550" endTime="48.75">
+<Sync time="47.550"/>
+<Who nb="1"/>
+oh [os thanks eo] a lot &lt;BN&gt; \\
+<Who nb="2"/>
+[os mmhm eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="48.75" endTime="51.22">
+<Sync time="48.75"/>
+and do you know what the book ord- wa- what are you asking for \\
+</Turn>
+<Turn speaker="spk3" startTime="51.22" endTime="54.191">
+<Sync time="51.22"/>
+um &lt;BN&gt; \\
+<Sync time="52.157"/>
+oh boy nope &lt;B&gt; \\
+<Sync time="53.75"/>
+heh \\
+</Turn>
+<Turn speaker="spk3 spk2" startTime="54.191" endTime="55.041">
+<Sync time="54.191"/>
+<Who nb="1"/>
+[os I know that we're eo] \\
+<Who nb="2"/>
+[os &lt;NU&gt; eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="55.041" endTime="55.914">
+<Sync time="55.041"/>
+can't help you &lt;B&gt; \\
+</Turn>
+<Turn speaker="spk3" startTime="55.914" endTime="57.273">
+<Sync time="55.914"/>
+&lt;G&gt; hold on a second \\
+</Turn>
+<Turn speaker="spk3 spk2" startTime="57.273" endTime="58.44">
+<Sync time="57.273"/>
+<Who nb="1"/>
+[os I'll I'll get eo] \\
+<Who nb="2"/>
+[os &lt;CHKL&gt; eo] \\
+</Turn>
+<Turn speaker="spk3" startTime="58.44" endTime="60.109">
+<Sync time="58.44"/>
+I've the name of \\
+<Sync time="59.047"/>
+one of the books \\
+</Turn>
+<Turn speaker="spk2 spk3" startTime="60.109" endTime="61.064">
+<Sync time="60.109"/>
+<Who nb="1"/>
+[os sure eo] \\
+<Who nb="2"/>
+[os I'll be eo] right back \\
+</Turn>
+<Turn speaker="spk2" startTime="61.064" endTime="62.204">
+<Sync time="61.064"/>
+thanks \\
+</Turn>
+<Turn speaker="spk1" startTime="62.204" endTime="81.273">
+<Sync time="62.204"/>
+&lt;BN&gt; &lt;TN&gt; &lt;BN&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="81.273" endTime="92.986">
+<Sync time="81.273"/>
+but uh I- I'll have &lt;TN&gt; to put &lt;IR&gt; that that tha- excuse will end som- today \\
+<Sync time="86.47"/>
+tomorrow &lt;CHKL&gt; \\
+<Sync time="88.33"/>
+&lt;B&gt; &lt;CHKL&gt; &lt;BN&gt; &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk2 spk4" startTime="92.986" endTime="97.017">
+<Sync time="92.986"/>
+<Who nb="1"/>
+&lt;TC&gt; Andrew Heiskell Library [os please hold eo] \\
+<Who nb="2"/>
+[os &lt;NU&gt; eo] \\
+<Sync time="95.091"/>
+<Who nb="1"/>
+we'll [os /* return */ as soon eo] as possible \\
+<Who nb="2"/>
+[os daddy I'm on the phone &lt;BN&gt; eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="97.017" endTime="99.944">
+<Sync time="97.017"/>
+please hold I will be with you soon as possible &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk3" startTime="99.944" endTime="102.061">
+<Sync time="99.944"/>
+&lt;BN&gt; ma'am \\
+</Turn>
+<Turn speaker="spk2" startTime="102.061" endTime="102.892">
+<Sync time="102.061"/>
+yes \\
+</Turn>
+<Turn speaker="spk3" startTime="102.892" endTime="107.558">
+<Sync time="102.892"/>
+&lt;CT&gt; \\
+<Sync time="103.705"/>
+one of them- the one of them is Ulterior Motives \\
+<Sync time="106.108"/>
+that's the last one I've got \\
+</Turn>
+<Turn speaker="spk2" startTime="107.558" endTime="108.423">
+<Sync time="107.558"/>
+what's it called \\
+</Turn>
+<Turn speaker="spk3 spk2" startTime="108.423" endTime="110.84">
+<Sync time="108.423"/>
+<Who nb="1"/>
+Ulterior [os Motives eo] \\
+<Who nb="2"/>
+[os Ulterior eo] Motives \\
+</Turn>
+<Turn speaker="spk3" startTime="110.84" endTime="111.533">
+<Sync time="110.84"/>
+yes ma'am \\
+</Turn>
+<Turn speaker="spk2" startTime="111.533" endTime="114.029">
+<Sync time="111.533"/>
+okay and you want any bo- other books by that author \\
+</Turn>
+<Turn speaker="spk2 spk3" startTime="114.029" endTime="118.24">
+<Sync time="114.029"/>
+<Who nb="1"/>
+[os in that series eo] \\
+<Who nb="2"/>
+[os yes ma'am eo] yes ma'am \\
+<Sync time="115.392"/>
+<Who nb="1"/>
+okay I'll look it up [os and eo] do my best \\
+<Who nb="2"/>
+[os I eo] \\
+<Sync time="116.708"/>
+<Who nb="1"/>
+[os for you eo] \\
+<Who nb="2"/>
+[os I had eo] three four \\
+</Turn>
+<Turn speaker="spk3" startTime="118.24" endTime="122.740">
+<Sync time="118.24"/>
+I had books three and four &lt;B&gt; \\
+<Sync time="120.670"/>
+ah and I'd like my five and six \\
+</Turn>
+<Turn speaker="spk3 spk2" startTime="122.740" endTime="124.611">
+<Sync time="122.740"/>
+<Who nb="1"/>
+if [os there is eo] &lt;P&gt; one &lt;B&gt; \\
+<Who nb="2"/>
+[os okay eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="124.611" endTime="129.07">
+<Sync time="124.611"/>
+okay we'll we'll find out \\
+<Sync time="126.019"/>
+we'll send we'll put you on the series list so you'll get anything by that \\
+</Turn>
+<Turn speaker="spk2 spk3" startTime="129.07" endTime="130.242">
+<Sync time="129.07"/>
+<Who nb="1"/>
+[os particular author eo] \\
+<Who nb="2"/>
+[os oh thank you very much eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="130.242" endTime="130.885">
+<Sync time="130.242"/>
+you're welcome \\
+</Turn>
+<Turn speaker="spk3" startTime="130.885" endTime="131.502">
+<Sync time="130.885"/>
+have a nice day \\
+</Turn>
+<Turn speaker="spk2 spk3" startTime="131.502" endTime="133.199">
+<Sync time="131.502"/>
+<Who nb="1"/>
+[os you too thanks bye bye eo] \\
+<Who nb="2"/>
+[os &lt;G&gt; you eo] know my address \\
+</Turn>
+<Turn speaker="spk2" startTime="133.199" endTime="133.827">
+<Sync time="133.199"/>
+yes I do ma'am \\
+</Turn>
+<Turn speaker="spk2 spk3" startTime="133.827" endTime="140.314">
+<Sync time="133.827"/>
+<Who nb="1"/>
+[os you haven't moved eo] recently \\
+<Who nb="2"/>
+[os oh that's eo] \\
+<Sync time="135.042"/>
+<Who nb="1"/>
+[os right eo] \\
+<Who nb="2"/>
+[os no eo] \\
+<Sync time="135.769"/>
+<Who nb="1"/>
+[os okay eo] \\
+<Who nb="2"/>
+[os &lt;ADDRESS&gt; eo] \\
+<Sync time="136.954"/>
+<Who nb="1"/>
+[os then I have it eo] \\
+<Who nb="2"/>
+[os I am in apartment &lt;APARTMENT-NUMBER&gt; \\
+<Sync time="138.291"/>
+<Who nb="1"/>
+okay [os then bye bye eo] \\
+<Who nb="2"/>
+[os thanks a lot bye bye eo] \\
+</Turn>
+<Turn speaker="spk1" startTime="140.314" endTime="141.245">
+<Sync time="140.314"/>
+&lt;TN&gt; \\
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,41 @@
+{"user": "Human", "index": 1, "text": "Zara I will now tell you how to use the microwave, It heats up cold food", "intent": "Inform_get_started"}
+{"user": "Alien", "index": 1, "text": "Oh okay that sounds important how do I do that?", "intent": "Ask_get_started"}
+{"user": "Human", "index": 2, "text": "first pickup the food that's on top of the microwave", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 2, "text": "I see, I will do that now", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 3, "text": "What do I do next Michael?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 3, "text": "Now you have to open up the microwave door, do you know how to do that Zara?", "intent": "Inform_action"}
+{"user": "Alien", "index": 3, "text": "Yes I do! I will do that now", "intent": "Inform_understanding"}
+{"user": "Human", "index": 4, "text": "Now you can put the food in the microwave", "intent": "Inform_action"}
+{"user": "Alien", "index": 4, "text": "I don't understand what you mean I'm sorry", "intent": "Inform_confused"}
+{"user": "Human", "index": 4, "text": "It's okay Zara I will try to explain better", "intent": "Inform_action"}
+{"user": "Human", "index": 5, "text": "The next step is to put the food your holding on the other side of the door your holding.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 5, "text": "Oh I think I understand. Like this?", "intent": "Inform_understanding"}
+{"user": "Human", "index": 5, "text": "Yes that's right Zara, Nice Job!", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 6, "text": "What Should I do now Michael?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 6, "text": "now you have to close the door you opened earlier", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 6, "text": "Okay that makes sense cause the food is inside now! I will do that", "intent": "Inform_understanding"}
+{"user": "Human", "index": 7, "text": "Next we have to pick how long we want to microwave for", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 7, "text": "Oh okay how do I do that", "intent": "Ask_about_action"}
+{"user": "Human", "index": 7, "text": "You can turn the dial on the microwave to the number of minutes you want", "intent": "Inform_action"}
+{"user": "Alien", "index": 7, "text": "Oh I understand how many minutes should I microwave this food for?", "intent": "Inform_understanding"}
+{"user": "Human", "index": 7, "text": "That food is salmon which is best to microwave for two minutes", "intent": "Inform_object"}
+{"user": "Alien", "index": 7, "text": "Oh that makes sense I will select two minutes then", "intent": "Inform_understanding"}
+{"user": "Human", "index": 8, "text": "Now all you have to do is press the button that says start", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 8, "text": "Oh I see it right there! I will press it now", "intent": "Inform_observation"}
+{"user": "Alien", "index": 9, "text": "I think it just made a noise", "intent": "Inform_observation"}
+{"user": "Human", "index": 9, "text": "Yes the microwave makes that noise when it's done heating up!", "intent": "Inform_object"}
+{"user": "Alien", "index": 9, "text": "Oh so should I open the door again now?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 9, "text": "Yes you should do that! Nice Job Zara!", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 10, "text": "Should I take the food out yet?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 10, "text": "Yes the microwave is all done so you can take the salmon out and enjoy it!", "intent": "Inform_action"}
+{"user": "Alien", "index": 10, "text": "Oh I see, I will do that then", "intent": "Inform_understanding"}
+{"user": "Human", "index": 11, "text": "Wait Zara before you leave make sure you close the microwave door!", "intent": "Inform_action"}
+{"user": "Alien", "index": 11, "text": "Oh that makes sense! I almost forgot, thanks for helping Michael!", "intent": "Inform_understanding"}
+{"user": "Human", "index": 11, "text": "Of course Zara", "intent": "Casual_response"}
+{"user": "Alien", "index": 12, "text": "What should I do with the salmon now?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 12, "text": "Put it on the dinner table. The dinner table is where we eat food.", "intent": "Inform_object"}
+{"user": "Alien", "index": 12, "text": "That makes alot of sense I will walk over there now", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 13, "text": "Is this a good spot for the salmon Michael?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 13, "text": "Yes that is a perfect spot for the salmon. Nice Job Zara!", "intent": "Inform_action"}
+{"user": "Alien", "index": 14, "text": "Thanks for helping me with the microwave Michael! I now know how it works!", "intent": "Inform_understanding"}
+{"user": "Human", "index": 14, "text": "Of course Zara you did a good job", "intent": "Inform_action"}

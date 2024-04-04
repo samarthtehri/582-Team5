@@ -1,0 +1,42 @@
+{"user": "Alien", "index": 1, "text": "Hi what should I do?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 1, "text": "Can you wash dishes in the sink right here?", "intent": "Inform_action"}
+{"user": "Human", "index": 2, "text": "Can you go pick up the glass from the table to clean it?", "intent": "Inform_action"}
+{"user": "Alien", "index": 2, "text": "Alright!", "intent": "Casual_response"}
+{"user": "Alien", "index": 3, "text": "Is this a glass?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 3, "text": "No this is a plate. The glass is right next to it.", "intent": "Inform_incorrect_object"}
+{"user": "Human", "index": 4, "text": "Put the plate back down on the table.", "intent": "Inform_action"}
+{"user": "Alien", "index": 4, "text": "Sure", "intent": "Casual_response"}
+{"user": "Alien", "index": 4, "text": "Which one is the glass?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 4, "text": "The glass is the tall transparent cylinder like object in front of you. ", "intent": "iInform_object"}
+{"user": "Alien", "index": 5, "text": "Is this what you are talking about?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 5, "text": "Yup thats right!", "intent": "Casual_response"}
+{"user": "Alien", "index": 6, "text": "What do I do with the glass now?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 6, "text": "Carry the glass with you and come to me.", "intent": "Inform_action"}
+{"user": "Alien", "index": 6, "text": "Where is the sink?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 6, "text": "The sink is right next to me.", "intent": "Casual_response"}
+{"user": "Human", "index": 7, "text": "Put the glass in the sink", "intent": "Inform_action"}
+{"user": "Alien", "index": 7, "text": "Sure thing", "intent": "Casual_response"}
+{"user": "Human", "index": 8, "text": "Now you're going to wash the glass.", "intent": "Inform_action"}
+{"user": "Alien", "index": 8, "text": "How do I wash the glass?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 8, "text": "Turn on the faucet to rinse and clean the glass.", "intent": "Inform_action"}
+{"user": "Alien", "index": 8, "text": "Which is the faucet?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 8, "text": "The faucet is right in the back of the sink right in the middle. It is metal and has a small knob on the right of it.", "intent": "Casual_response"}
+{"user": "Alien", "index": 8, "text": "Oh the water is cold!", "intent": "Casual_observation"}
+{"user": "Human", "index": 9, "text": "You have now cleaned the glass. Turn off the sink.", "intent": "Inform_action"}
+{"user": "Alien", "index": 9, "text": "Do I turn the knob the other way now?", "intent": "Inform_understanding"}
+{"user": "Human", "index": 9, "text": "Yeah thats right!", "intent": "Casual_response"}
+{"user": "Alien", "index": 10, "text": "What do I do with the glass now?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 10, "text": "Now pick the cup from the sink and carry it with you.", "intent": "Inform_action"}
+{"user": "Human", "index": 11, "text": "Now bring the cup back to the table", "intent": "Inform_action"}
+{"user": "Alien", "index": 11, "text": "Sure, I will take it to the table!", "intent": "Inform_get_started"}
+{"user": "Human", "index": 12, "text": "Put the glass back down on the table next to the plates.", "intent": "Inform_action"}
+{"user": "Alien", "index": 12, "text": "What were plates again?", "intent": "Inform_confused"}
+{"user": "Human", "index": 12, "text": "Its the large white round objects on the table.", "intent": "Inform_action"}
+{"user": "Alien", "index": 12, "text": "Oh it was what I picked originally", "intent": "Casual_observation"}
+{"user": "Alien", "index": 12, "text": "done!", "intent": "Casual_response"}
+{"user": "Alien", "index": 13, "text": "I am coming to you to talk now", "intent": "Inform_get_started"}
+{"user": "Alien", "index": 13, "text": "What do I do now?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 13, "text": "There is nothing left to do now. ", "intent": "Casual_response"}
+{"user": "Alien", "index": 14, "text": "How did I do?", "intent": "Casual_response"}
+{"user": "Human", "index": 14, "text": "You did a great job!", "intent": "Casual_response"}
+{"user": "Human", "index": 14, "text": "Now there's nothing else to do. ", "intent": "Inform_action"}

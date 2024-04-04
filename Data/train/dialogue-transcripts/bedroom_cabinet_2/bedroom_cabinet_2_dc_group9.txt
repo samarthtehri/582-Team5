@@ -1,0 +1,32 @@
+{"user": "Human", "index": 1, "text": "Hey Zara do you want to learn how to tidy the bedroom?", "intent": "Ask_get_started"}
+{"user": "Alien", "index": 1, "text": "Sure Michael I would love to", "intent": "Inform_get_started"}
+{"user": "Human", "index": 1, "text": "Okay let's go to the bedroom and tidy the toys", "intent": "Inform_action"}
+{"user": "Alien", "index": 1, "text": "Okay Michael", "intent": "Inform_understanding"}
+{"user": "Human", "index": 2, "text": "Okay Zara pickup a toy", "intent": "Inform_action"}
+{"user": "Alien", "index": 2, "text": "Okay I think this is a toy", "intent": "Inform_confused"}
+{"user": "Human", "index": 2, "text": "I'm sorry Zara it seems youve picked up a book rather than a toy.", "intent": "Inform_object"}
+{"user": "Alien", "index": 3, "text": "Im sorry I thought this was a toy Michael", "intent": "Inform_confused"}
+{"user": "Human", "index": 3, "text": "It's okay Zara now put the book back", "intent": "Inform_action"}
+{"user": "Alien", "index": 3, "text": "Okay Michael I will", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 4, "text": "Okay now pickup a toy Zara", "intent": "Inform_action"}
+{"user": "Alien", "index": 4, "text": "Is this a Toy Michael?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 4, "text": "Yes that is a toy Zara nice job", "intent": "Inform_object"}
+{"user": "Human", "index": 5, "text": "Okay now let's take the toy to a cupboard in the other room", "intent": "Inform_action"}
+{"user": "Alien", "index": 5, "text": "Okay I will follow you", "intent": "Inform_understanding"}
+{"user": "Human", "index": 6, "text": "Okay now open up the cupboard", "intent": "Inform_action"}
+{"user": "Alien", "index": 6, "text": "Okay I know how to do that", "intent": "Inform_understanding"}
+{"user": "Human", "index": 6, "text": "Nice Job Zara", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 7, "text": "should I put the toy inside?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 7, "text": "Yes Zara put the toy inside the cupboard. It will help make the room more organized", "intent": "Inform_action"}
+{"user": "Human", "index": 8, "text": "Now Zara we have to do the same thing with the other toy", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 8, "text": "Oh I see, I will go back to the bedroom now where the other toy is.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 9, "text": "Should I pickup this toy?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 9, "text": "Yes Zara you need to pickup the toy so we can move it.", "intent": "Inform_action"}
+{"user": "Alien", "index": 10, "text": "What Should I do now Michael?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 10, "text": "The toy needs to go where we put the other toy", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 10, "text": "I see, let's go back to the cupboard", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 11, "text": "I think I understand I will now put the toy in the cupboard like before", "intent": "Inform_understanding"}
+{"user": "Human", "index": 11, "text": "Yes Nice Job Zara!", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 12, "text": "The last thing we need to do is close the cupboard", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 12, "text": "Okay I can do that", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 12, "text": "Wow the room looks much more tidy now!", "intent": "Inform_observation"}

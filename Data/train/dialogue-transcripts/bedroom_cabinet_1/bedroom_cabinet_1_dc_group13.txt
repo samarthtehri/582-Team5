@@ -1,0 +1,40 @@
+{"user": "Human", "index": 1, "text": "Hi Zara!", "intent": "Extend_greetings"}
+{"user": "Alien", "index": 1, "text": "Greetings, Michael.", "intent": "Extend_greetings"}
+{"user": "Human", "index": 1, "text": "Today, I want to show you how to clean up our room.", "intent": "Inform_other"}
+{"user": "Human", "index": 1, "text": "Are you ready to learn?", "intent": "Ask_get_started"}
+{"user": "Alien", "index": 1, "text": "Yes.", "intent": "Inform_get_started"}
+{"user": "Alien", "index": 1, "text": "What is the first step?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 1, "text": "Let's head over to the room.", "intent": "Inform_location"}
+{"user": "Human", "index": 2, "text": "Now that we are here, the first step is to grab an item from the bookshelf that doesn't belong in this room.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 2, "text": "Ok, got it.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 3, "text": "What happens next?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 3, "text": "Awesome! The next step would be to head over to place the object in the cupboard.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 3, "text": "Ok, lets go.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 4, "text": "Now that we are here, you would need to open the cupboard to place the object inside of it.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 4, "text": "Understood.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 5, "text": "Here you can place the object you are holding inside the cupboard.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 5, "text": "I see.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 6, "text": "Now we would just repeat the last three steps until all items that must be removed from our room are in the cupboard.", "intent": "Inform_next_step"}
+{"user": "Human", "index": 6, "text": "Do you recall what to do at this step?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 6, "text": "I think I do.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 6, "text": "Awesome, give it a shot!", "intent": "Casual_response"}
+{"user": "Alien", "index": 7, "text": "", "intent": "Display_confusion"}
+{"user": "Human", "index": 7, "text": "Do you need me to remind you what to do, Zara? You seem confused.", "intent": "Ask_need_info"}
+{"user": "Alien", "index": 7, "text": "Yes please.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 7, "text": "I appear to have forgotten.", "intent": "Explain_confused"}
+{"user": "Human", "index": 8, "text": "That's fine. At this stage, you grab an object that should be placed in the cupboard from the bookshelf before we head over to the other room.", "intent": "Inform_next_step"}
+{"user": "Human", "index": 8, "text": "Do you want me to help?", "intent": "Ask_want_help"}
+{"user": "Alien", "index": 8, "text": "No, thank you. I got it now.", "intent": "Yes-no_negative"}
+{"user": "Human", "index": 9, "text": "Do you recall what this step should be?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 9, "text": "I do. We walk to the \"cubbord\".", "intent": "Inform_understanding"}
+{"user": "Human", "index": 9, "text": "Let's head over.", "intent": "Casual_response"}
+{"user": "Human", "index": 10, "text": "Now we're here, are you under the impression you recall what to do with the object in your hand?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 10, "text": "Yes. I believe I remember.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 10, "text": "Alright, try carrying it out.", "intent": "Ask_take_next_step"}
+{"user": "Alien", "index": 11, "text": "I've removed all unwanted objects from the room. What happens now?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 11, "text": "Since we've move all unnecessary objects from the bookshelf to the cupboard, please close it.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 11, "text": "That makes sense.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 11, "text": "Awesome, you've successfully completed the task!", "intent": "Casual_observation"}
+{"user": "Alien", "index": 11, "text": "Thank you for teaching me.", "intent": "Casual_response"}
+{"user": "Human", "index": 11, "text": "No problem! See you around, Zara.", "intent": "Extend_goodbyes"}
+{"user": "Alien", "index": 11, "text": "You too.", "intent": "Extend_goodbyes"}

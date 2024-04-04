@@ -1,0 +1,36 @@
+{"user": "Human", "index": 1, "text": "This is a toaster. You use it to make toast.", "intent": "iInform_object"}
+{"user": "Alien", "index": 1, "text": "How interesting. What is toast?", "intent": "Inform_confused"}
+{"user": "Human", "index": 1, "text": "It's when you take the bread and put it in the toaster.", "intent": "iInform_object"}
+{"user": "Alien", "index": 1, "text": "I see. Thank you for explaining.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 2, "text": "Let's go watch tv in the room to our right", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 2, "text": "TV? Interesting.", "intent": "Ask_next_step"}
+{"user": "Human", "index": 2, "text": "This box, called a tv, is capable of displaying moving pictures", "intent": "iInform_object"}
+{"user": "Alien", "index": 2, "text": "It doesn't seem like it's moving that much to me...", "intent": "Ask_guidence"}
+{"user": "Human", "index": 2, "text": "It is not on right now. You can turn it on by pushing the button on the bottom right", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 2, "text": "I see, thank you", "intent": "Inform_understanding"}
+{"user": "Human", "index": 3, "text": "Go ahead, give it a shot.", "intent": "Inform_get_started"}
+{"user": "Alien", "index": 3, "text": "Wow, this is very colorful", "intent": "Inform_observation"}
+{"user": "Human", "index": 3, "text": "Yeah, that's OLED for ya. This baby set me back a thousand bucks. Worth it.", "intent": "iInform_object"}
+{"user": "Human", "index": 4, "text": "Go ahead and take a seat on the couch behind you, its more comfortable", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 4, "text": "Oh, you mean over here?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 4, "text": "Yes, but you are not sitting", "intent": "Inform_incorrect_action"}
+{"user": "Alien", "index": 5, "text": "What do you mean by sitting?", "intent": "Inform_confused"}
+{"user": "Human", "index": 5, "text": "It's like falling backwards but slower.", "intent": "Inform_action"}
+{"user": "Alien", "index": 5, "text": "Ok, I'll give it a try", "intent": "Inform_understanding"}
+{"user": "Human", "index": 6, "text": "What do you think of the couch?", "intent": "Casual_question"}
+{"user": "Alien", "index": 6, "text": "Pretty comfy!", "intent": "Casual_response"}
+{"user": "Alien", "index": 7, "text": "What should I do now?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 7, "text": "Let's stop by the kitchen again.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 7, "text": "Ok, I'll go over", "intent": "Inform_understanding"}
+{"user": "Human", "index": 7, "text": "Wait, don't forget to turn off the TV first!", "intent": "Inform_incorrect_action"}
+{"user": "Alien", "index": 7, "text": "Ok, how do I do that?", "intent": "Inform_confused"}
+{"user": "Human", "index": 7, "text": "Just push the power button again.", "intent": "Inform_action"}
+{"user": "Human", "index": 8, "text": "Go ahead and press the button!", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 8, "text": "Alright!", "intent": "Inform_understanding"}
+{"user": "Human", "index": 8, "text": "Great job, now we can go to the kitchen!", "intent": "Inform_next_step"}
+{"user": "Human", "index": 9, "text": "This is a microwave. It is a miracle device that allows you to make the same food hot multiple times.", "intent": "iInform_object"}
+{"user": "Alien", "index": 9, "text": "But how is that different from the toaster over here?", "intent": "Inform_confused"}
+{"user": "Human", "index": 9, "text": "It can fit bigger stuff in it. Also doesn't leave burn marks.", "intent": "iInform_object"}
+{"user": "Alien", "index": 9, "text": "I understand, thank you", "intent": "Inform_understanding"}
+{"user": "Human", "index": 10, "text": "How do you like my apartment?", "intent": "Casual_question"}
+{"user": "Alien", "index": 10, "text": "It's pretty great! Thanks for having me over!", "intent": "Casual_response"}

@@ -1,0 +1,44 @@
+{"user": "Human", "index": 1, "text": "Do you want to learn how to use a microwave ", "intent": "Ask_sure_about_action"}
+{"user": "Alien", "index": 1, "text": "Yes, I want to learn ", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 1, "text": "Okay, follow me", "intent": "Inform_location"}
+{"user": "Alien", "index": 2, "text": "Now what  ", "intent": "Ask_next_step"}
+{"user": "Human", "index": 2, "text": "Pick up the salmon ", "intent": "Ask_sure_about_location"}
+{"user": "Alien", "index": 2, "text": "Where is the salmon ", "intent": "Ask_about_location"}
+{"user": "Human", "index": 2, "text": "It is on top of the microwave ", "intent": "Inform_location"}
+{"user": "Alien", "index": 2, "text": "Okay ", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 3, "text": "Now what ", "intent": "Ask_next_step"}
+{"user": "Human", "index": 3, "text": "Open the microwave door ", "intent": "Inform_action"}
+{"user": "Alien", "index": 3, "text": "Okay ", "intent": "Inform_understanding"}
+{"user": "Human", "index": 4, "text": "Put the salmon in the microwave ", "intent": "Inform_action"}
+{"user": "Alien", "index": 4, "text": "Okay ", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 5, "text": "Now what ", "intent": "Ask_next_step"}
+{"user": "Human", "index": 5, "text": "Close the microwave door ", "intent": "Inform_action"}
+{"user": "Alien", "index": 5, "text": "Okay ", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 6, "text": "Now what ", "intent": "Ask_next_step"}
+{"user": "Human", "index": 6, "text": "Set a timer on the microwave ", "intent": "Inform_action"}
+{"user": "Alien", "index": 6, "text": "Okay ", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 7, "text": "What is the next step ", "intent": "Ask_next_step"}
+{"user": "Human", "index": 7, "text": "Set the temperature for the salmon ", "intent": "Inform_action"}
+{"user": "Alien", "index": 7, "text": "Okay ", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 8, "text": "What is the sound ", "intent": "Inform_confused"}
+{"user": "Human", "index": 8, "text": "It indicates the salmon is done ", "intent": "Ask_sure_about_object"}
+{"user": "Alien", "index": 8, "text": "Okay, what is next ", "intent": "Ask_next_step"}
+{"user": "Human", "index": 8, "text": "Open the microwave door ", "intent": "Inform_action"}
+{"user": "Alien", "index": 8, "text": "Okay ", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 9, "text": "Now What", "intent": "Ask_next_step"}
+{"user": "Human", "index": 9, "text": "Take out the salmon from the microwave ", "intent": "Inform_action"}
+{"user": "Alien", "index": 9, "text": "Okay ", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 10, "text": "Now What", "intent": "Ask_next_step"}
+{"user": "Human", "index": 10, "text": "Close the microwave door ", "intent": "Inform_action"}
+{"user": "Alien", "index": 10, "text": "Okay ", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 11, "text": "What should I do next ", "intent": "Ask_next_step"}
+{"user": "Human", "index": 11, "text": "Go to the dinning table ", "intent": "Inform_location"}
+{"user": "Alien", "index": 11, "text": "Where is the dinning table ", "intent": "Ask_about_location"}
+{"user": "Human", "index": 11, "text": "It is the place with the plates ", "intent": "Inform_location"}
+{"user": "Alien", "index": 11, "text": "Okay ", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 12, "text": "Now What", "intent": "Ask_next_step"}
+{"user": "Human", "index": 12, "text": "Put the salmon on the table ", "intent": "Inform_action"}
+{"user": "Alien", "index": 12, "text": "Okay ", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 13, "text": "I put the salmon on the table ", "intent": "Casual_observation"}
+{"user": "Human", "index": 13, "text": "Good job ", "intent": "Casual_observation"}
+{"user": "Alien", "index": 13, "text": "Thank you ", "intent": "Casual_response"}

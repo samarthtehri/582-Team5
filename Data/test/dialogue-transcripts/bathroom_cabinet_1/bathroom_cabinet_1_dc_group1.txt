@@ -1,0 +1,29 @@
+{"user": "Alien", "index": 1, "text": "Would this be the bathroom you need help with?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 1, "text": "Yup, I just need to move the towels from the counter to the cabinet up there.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 2, "text": "Okay, I'll get these cabinets open first!", "intent": "Inform_get_started"}
+{"user": "Human", "index": 2, "text": "...Okay, I'm going to pretend I didn't see that. Now let's load up the towels in there.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 2, "text": "Alright!", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 3, "text": "These are the towels, right?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 3, "text": "Correct. Honestly, you didn't need to open up all the cabinets since we're just putting everything in the middle one.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 3, "text": "Oh, okay. Sounds good.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 4, "text": "Grabbing the towel!", "intent": "Inform_get_started"}
+{"user": "Human", "index": 4, "text": "Great, now just put it in the cabinet.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 5, "text": "The middle cabinet, right?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 5, "text": "Yup, that's the one.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 6, "text": "In it goes!", "intent": "Inform_get_started"}
+{"user": "Human", "index": 6, "text": "You sure about the top shelf? I didn't realize you could reach that high.", "intent": "Ask_sure_about_location"}
+{"user": "Alien", "index": 6, "text": "Yup, I can reach anywhere!", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 6, "text": "Ain't that the truth. Alright, let's grab the next towel.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 7, "text": "Which towel, right or left?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 7, "text": "Whichever one you want.", "intent": "Inform_object"}
+{"user": "Alien", "index": 8, "text": "Okay, then right towel it is!", "intent": "Inform_get_started"}
+{"user": "Human", "index": 8, "text": "Sounds good. Now just put it in the same cabinet as before.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 9, "text": "Is it alright if I do the top shelf again?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 9, "text": "Sure, knock yourself out.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 10, "text": "Knock myself out? That sounds like it would hurt...", "intent": "Display_confusion"}
+{"user": "Human", "index": 10, "text": "It's just a figure of speech. I meant you can put it wherever you want.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 10, "text": "Oh, I see.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 11, "text": "Top shelf then!", "intent": "Inform_get_started"}
+{"user": "Human", "index": 11, "text": "Of course...", "intent": "Casual_response"}
+{"user": "Human", "index": 12, "text": "Alright, that should be good. I still want to keep one towel out to actually use.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 12, "text": "Oh, alright! I'll go ahead and get these cabinets closed again.", "intent": "Inform_understanding"}

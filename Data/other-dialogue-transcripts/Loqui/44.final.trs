@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14-loqui.dtd">
+<Trans scribe="Daveman" audio_filename="44" version="4" version_date="080627" corpus_version="2.0">
+<Speakers>
+<Speaker id="spk1" name="non-speaking-librarian-activity" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="librarian#1" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="caller#2" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk4" name="caller#3" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="113.679">
+<Turn startTime="0" endTime="1.514" speaker="spk1">
+<Sync time="0"/>
+&lt;TC&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="1.514" endTime="6.948">
+<Sync time="1.514"/>
+good morning Andrew Heiskell Library \\
+<Sync time="3.35"/>
+before we begin would you mind if this call is recorded for research purposes \\
+</Turn>
+<Turn speaker="spk3" startTime="6.948" endTime="7.848">
+<Sync time="6.948"/>
+not in the least \\
+</Turn>
+<Turn speaker="spk2" startTime="7.848" endTime="9.477">
+<Sync time="7.848"/>
+okay how can I help you today \\
+</Turn>
+<Turn speaker="spk3" startTime="9.477" endTime="13.454">
+<Sync time="9.477"/>
+my name is &lt;FIRSTNAME&gt; &lt;LASTNAME&gt; \\
+<Sync time="10.843"/>
+I've uh want to check on the availability of a book \\
+</Turn>
+<Turn speaker="spk2" startTime="13.454" endTime="15.88">
+<Sync time="13.454"/>
+okay which book &lt;B&gt; \\
+</Turn>
+<Turn speaker="spk3" startTime="15.88" endTime="32.509">
+<Sync time="15.88"/>
+um well we- I- I- I- the authors name is Seigel \\
+<Sync time="18.732"/>
+I don't know his first name &lt;B&gt; \\
+<Sync time="20.321"/>
+but &lt;P&gt; the other book they referred to that was written by him was uh Derailed \\
+<Sync time="25.331"/>
+&lt;P&gt; &lt;TP&gt; and I think his new book is Deceived Deceit or Deceive \\
+<Sync time="31.079"/>
+think it's Deceit \\
+</Turn>
+<Turn speaker="spk1" startTime="32.509" endTime="43.962">
+<Sync time="32.509"/>
+&lt;P&gt; &lt;TP&gt; &lt;P&gt;
+</Turn>
+<Turn speaker="spk2" startTime="43.962" endTime="51.026">
+<Sync time="43.962"/>
+okay we have Detour \\
+<Sync time="45.81"/>
+&lt;P&gt; and I could put you on reserve for Deceit but \\
+<Sync time="49.783"/>
+it didn't come in yet \\
+</Turn>
+<Turn speaker="spk3" startTime="51.026" endTime="53.145">
+<Sync time="51.026"/>
+okay do you guys have Derailed \\
+</Turn>
+<Turn speaker="spk2" startTime="53.145" endTime="53.785">
+<Sync time="53.145"/>
+yeah \\
+</Turn>
+<Turn speaker="spk3" startTime="53.785" endTime="56.487">
+<Sync time="53.785"/>
+so uh &lt;P&gt; di- did it say I read that \\
+</Turn>
+<Turn speaker="spk2" startTime="56.487" endTime="57.036">
+<Sync time="56.487"/>
+it does \\
+</Turn>
+<Turn speaker="spk3" startTime="57.036" endTime="60.433">
+<Sync time="57.036"/>
+ca- can you tell me what that was &lt;IR&gt; about I'm almost positive I remember it \\
+</Turn>
+<Turn speaker="spk2" startTime="60.433" endTime="62.495">
+<Sync time="60.433"/>
+sure um just let me put someone else on hold &lt;IR&gt; \\
+</Turn>
+<Turn speaker="spk2 spk3" startTime="62.495" endTime="63.625">
+<Sync time="62.495"/>
+<Who nb="1"/>
+[os I'll be righ back now eo] \\
+<Who nb="2"/>
+[os certainly I'm sorry eo] \\
+</Turn>
+<Turn speaker="spk2 spk4" startTime="63.625" endTime="68.134">
+<Sync time="63.625"/>
+<Who nb="1"/>
+&lt;P&gt; &lt;TN&gt; [os good eo] morning \\
+<Who nb="2"/>
+[os &lt;ST&gt; /* thanks Scott */ &lt;/ST&gt; eo] \\
+<Sync time="65.644"/>
+<Who nb="1"/>
+Andrew [os Heiskell eo] Library please hold \\
+<Who nb="2"/>
+[os &lt;G&gt; eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="68.134" endTime="82.534">
+<Sync time="68.134"/>
+&lt;P&gt; \\
+<Sync time="70.136"/>
+-kay and intruder beats advertising executive \\
+<Sync time="73.316"/>
+Charles Sha- uh Shine and rapes his lover during an adulteristic countering &lt;P&gt; encounter in a hotel \\
+<Sync time="79.300"/>
+Charles life becomes even more troubled when he is continuously \\
+</Turn>
+<Turn speaker="spk2 spk3" startTime="82.534" endTime="87.625">
+<Sync time="82.534"/>
+<Who nb="1"/>
+[os blacked out but ah eo] \\
+<Who nb="2"/>
+[os yep yep eo] okay I read it i- if if in case you're interested he's an that's an he's an excellent author \\
+</Turn>
+<Turn speaker="spk2 spk3" startTime="87.625" endTime="88.97">
+<Sync time="87.625"/>
+<Who nb="1"/>
+[os okay eo] \\
+<Who nb="2"/>
+[os ve- ve- great eo] \\
+</Turn>
+<Turn speaker="spk3" startTime="88.97" endTime="91.339">
+<Sync time="88.97"/>
+okay that's a you are gonna mail me \\
+</Turn>
+<Turn speaker="spk3 spk2" startTime="91.339" endTime="92.011">
+<Sync time="91.339"/>
+<Who nb="1"/>
+[os De- eo] \\
+<Who nb="2"/>
+[os Detour eo] \\
+</Turn>
+<Turn speaker="spk3" startTime="92.011" endTime="93.941">
+<Sync time="92.011"/>
+Detour and then Deceit \\
+</Turn>
+<Turn speaker="spk2 spk3" startTime="93.941" endTime="95.196">
+<Sync time="93.941"/>
+<Who nb="1"/>
+will be on your reserve [os list eo] \\
+<Who nb="2"/>
+[os good eo] enough \\
+</Turn>
+<Turn speaker="spk3" startTime="95.196" endTime="95.857">
+<Sync time="95.196"/>
+thank you so much \\
+</Turn>
+<Turn speaker="spk3 spk2" startTime="95.857" endTime="96.591">
+<Sync time="95.857"/>
+<Who nb="1"/>
+[os bye bye now eo] \\
+<Who nb="2"/>
+you're [os welcome eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="96.591" endTime="99.228">
+<Sync time="96.591"/>
+bye &lt;TN&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="99.228" endTime="113.679">
+<Sync time="99.228"/>
+&lt;TC&gt; &lt;TN&gt; &lt;P&gt; \\
+</Turn>
+</Section>
+</Episode>
+</Trans>

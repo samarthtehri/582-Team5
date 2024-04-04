@@ -1,0 +1,39 @@
+{"user": "Human", "index": 1, "text": "Nice to see you again, Zara.", "intent": "Extend_greetings"}
+{"user": "Alien", "index": 1, "text": "It's nice to see you too!", "intent": "Extend_greetings"}
+{"user": "Human", "index": 1, "text": "Today, we are going to clean up the bathroom by putting two towels away. ", "intent": "Inform_other"}
+{"user": "Human", "index": 1, "text": "Would you like to start?", "intent": "Ask_get_started"}
+{"user": "Alien", "index": 1, "text": "Yeah! Let's dive right in.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 1, "text": "First, lets go to the bathroom.", "intent": "Inform_next_step"}
+{"user": "Human", "index": 1, "text": "In this room are some towels and cabinets.", "intent": "Inform_location"}
+{"user": "Alien", "index": 1, "text": "Is this machine the cabinets, you speak of?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 1, "text": "That is a washing mashine.", "intent": "Inform_object"}
+{"user": "Human", "index": 1, "text": "Cabinets are used for storage, and are often off the ground, attached to the wall, and contain shelves.", "intent": "Inform_object"}
+{"user": "Alien", "index": 1, "text": "Oh okay that makes sense! I think I see the cabinets of on the side of the bathroom.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 2, "text": "Please open the cabinets so the objects can be put inside.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 2, "text": "Roger that!", "intent": "Inform_understanding"}
+{"user": "Human", "index": 3, "text": "Next, we need to put the towels into cabinets.", "intent": "Inform_next_step"}
+{"user": "Human", "index": 3, "text": "Towels are soft pieces of cloth used for drying things.", "intent": "Inform_object"}
+{"user": "Alien", "index": 3, "text": "Noted.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 4, "text": "Are these the towels that I'll be putting away?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 4, "text": "Yes.", "intent": "Inform_object"}
+{"user": "Alien", "index": 4, "text": "Very well.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 5, "text": "Do you need any more help for this step?", "intent": "Ask_want_help"}
+{"user": "Alien", "index": 5, "text": "No, I think I know what to do.", "intent": "Yes-no_negative"}
+{"user": "Human", "index": 6, "text": "You can pick any cabinet to place it in.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 6, "text": "I see. I'll place it in the middle cabinet.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 7, "text": "I'll place this towel on the top self of this cabinet since I can reach it on my own.", "intent": "Inform_observation"}
+{"user": "Human", "index": 7, "text": "Sure, why not.", "intent": "Casual_response"}
+{"user": "Human", "index": 8, "text": "You should put away one more towel.", "intent": "Inform_next_step"}
+{"user": "Human", "index": 8, "text": "Do you remember the steps?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 8, "text": "Yes, I remember.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 9, "text": "If you need any help, let me know.", "intent": "Ask_want_help"}
+{"user": "Alien", "index": 9, "text": "Will do, but I don't need help. Thanks for the offer.", "intent": "Yes-no_negative"}
+{"user": "Alien", "index": 10, "text": "I think I'll place this towel in the middle cabinet as well.", "intent": "Inform_observation"}
+{"user": "Human", "index": 10, "text": "Ok.", "intent": "Casual_response"}
+{"user": "Alien", "index": 11, "text": "I'll place the towel on the top shelf next to the previous one.", "intent": "Inform_observation"}
+{"user": "Human", "index": 11, "text": "Sure, you can do that.", "intent": "Inform_other"}
+{"user": "Human", "index": 12, "text": "Please close the cabinets, now that you are done with them.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 12, "text": "Certainly.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 12, "text": "And now we are done.", "intent": "Inform_other"}
+{"user": "Alien", "index": 12, "text": "Thanks for walking me through the process of cleaning the bathroom. See you later!", "intent": "Extend_goodbyes"}
+{"user": "Human", "index": 12, "text": "You did a good job today. See you too.", "intent": "Extend_goodbyes"}

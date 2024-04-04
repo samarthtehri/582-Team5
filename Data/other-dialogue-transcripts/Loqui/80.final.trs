@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14-loqui.dtd">
+<Trans scribe="John Doe" audio_filename="80" version="5" version_date="080827" corpus_version="2.0">
+<Speakers>
+<Speaker id="spk1" name="non-speaking-librarian-activity#1" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="librarian#1" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="caller#2" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="92.595">
+<Turn startTime="0" endTime="1.438" speaker="spk1">
+<Sync time="0"/>
+&lt;TN&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="1.438" endTime="3.768">
+<Sync time="1.438"/>
+good morning Andrew Heiskell Library \\
+<Sync time="3.27"/>
+may I help you \\
+</Turn>
+<Turn speaker="spk3" startTime="3.768" endTime="14.158">
+<Sync time="3.768"/>
+hi \\
+<Sync time="4.518"/>
+my name is &lt;LASTNAME&gt; \\
+<Sync time="5.659"/>
+&lt;LN-INITIAL-1&gt; &lt;LN-INITIAL-2&gt; &lt;LN-INITIAL-3&gt; &lt;LN-INITIAL-4&gt; &lt;LN-INITIAL-5&gt; \\
+<Sync time="6.819"/>
+first name is &lt;FIRSTNAME&gt; \\
+<Sync time="7.765"/>
+&lt;P&gt; &lt;BN&gt; eh &lt;P&gt; could you look up The Little &lt;P&gt; Prince \\
+<Sync time="12.243"/>
+and let me know if it's &lt;P&gt; available \\
+</Turn>
+<Turn speaker="spk2" startTime="14.158" endTime="17.875">
+<Sync time="14.158"/>
+okay before we start &lt;B&gt; \\
+<Sync time="15.845"/>
+uh the library is working with a research team to \\
+</Turn>
+<Turn speaker="spk2 spk3" startTime="17.875" endTime="19.472">
+<Sync time="17.875"/>
+<Who nb="1"/>
+[os to better understand eo] \\
+<Who nb="2"/>
+[os it's alright eo] it's alright \\
+</Turn>
+<Turn speaker="spk2" startTime="19.472" endTime="23.055">
+<Sync time="19.472"/>
+okay good thank you \\
+<Sync time="21.086"/>
+&lt;B&gt; so I'm sorry what is your name again \\
+</Turn>
+<Turn speaker="spk3" startTime="23.055" endTime="26.743">
+<Sync time="23.055"/>
+&lt;LASTNAME&gt; &lt;LN-INITIAL-1&gt; &lt;LN-INITIAL-2&gt; &lt;LN-INITIAL-3&gt; &lt;LN-INITIAL-4&gt; &lt;LN-INITIAL-5&gt; \\
+<Sync time="25.43"/>
+first name is &lt;FIRSTNAME&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="26.743" endTime="47.016">
+<Sync time="26.743"/>
+&lt;TN&gt; &lt;B&gt; &lt;G&gt; &lt;TN&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="47.016" endTime="49.661">
+<Sync time="47.016"/>
+and you're looking for &lt;P&gt; The Little Prince you said \\
+</Turn>
+<Turn speaker="spk3" startTime="49.661" endTime="50.161">
+<Sync time="49.661"/>
+yes \\
+</Turn>
+<Turn speaker="spk1" startTime="50.161" endTime="62.193">
+<Sync time="50.161"/>
+&lt;B&gt; &lt;TP&gt; &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="62.193" endTime="65.797">
+<Sync time="62.193"/>
+and you'd like a talking book copy of it \\
+<Sync time="64.224"/>
+&lt;P&gt; or braille \\
+</Turn>
+<Turn speaker="spk2 spk3" startTime="65.797" endTime="68.638">
+<Sync time="65.797"/>
+<Who nb="1"/>
+&lt;P&gt; we do have [os a copy of it eo] \\
+<Who nb="2"/>
+[os a- a- a- a- ah eo] I ha- \\
+</Turn>
+<Turn speaker="spk3" startTime="68.638" endTime="70.53">
+<Sync time="68.638"/>
+a- a- ah on cassette \\
+</Turn>
+<Turn speaker="spk2" startTime="70.53" endTime="74.034">
+<Sync time="70.53"/>
+on cassette okay \\
+<Sync time="71.808"/>
+&lt;P&gt; um \\
+</Turn>
+<Turn speaker="spk3" startTime="74.034" endTime="76.815">
+<Sync time="74.034"/>
+&lt;B&gt; what &lt;P&gt; is &lt;P&gt; the number \\
+</Turn>
+<Turn speaker="spk2" startTime="76.815" endTime="83.672">
+<Sync time="76.815"/>
+&lt;B&gt; the number is R C \\
+<Sync time="79.453"/>
+&lt;P&gt; zero four four &lt;P&gt; zero seven one \\
+</Turn>
+<Turn speaker="spk3" startTime="83.672" endTime="85.713">
+<Sync time="83.672"/>
+fou- four four oh seven one \\
+</Turn>
+<Turn speaker="spk2" startTime="85.713" endTime="87.669">
+<Sync time="85.713"/>
+right four four oh seven one \\
+</Turn>
+<Turn speaker="spk3" startTime="87.669" endTime="88.839">
+<Sync time="87.669"/>
+ah thank you very much \\
+</Turn>
+<Turn speaker="spk2" startTime="88.839" endTime="89.346">
+<Sync time="88.839"/>
+you're welcome \\
+</Turn>
+<Turn speaker="spk1" startTime="89.346" endTime="92.595">
+<Sync time="89.346"/>
+&lt;TN&gt; &lt;TN&gt; \\
+</Turn>
+</Section>
+</Episode>
+</Trans>

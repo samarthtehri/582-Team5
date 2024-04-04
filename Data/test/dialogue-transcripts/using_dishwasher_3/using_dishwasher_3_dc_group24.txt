@@ -1,0 +1,7 @@
+{"user": "Human", "index": 13, "text": "Do you know what we need to do next?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 13, "text": "Yes, I believe I do. ", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 13, "text": "I need to place the plate on the table.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 14, "text": "Ok now just put the plate down where you will be sitting.", "intent": "Inform_action"}
+{"user": "Alien", "index": 14, "text": "Ok, I will just place it here. ", "intent": "Inform_understanding"}
+{"user": "Human", "index": 15, "text": "Ok now we can start on making dinner!", "intent": "Inform_get_started"}
+{"user": "Alien", "index": 15, "text": "Sounds great, I am very excited. ", "intent": "Inform_understanding"}

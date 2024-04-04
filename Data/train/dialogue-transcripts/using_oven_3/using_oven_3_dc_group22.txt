@@ -1,0 +1,37 @@
+{"user": "Alien", "index": 1, "text": "Is this the oven we are using?", "intent": "Ask_guidence"}
+{"user": "Human", "index": 1, "text": "Yup, this is the oven here.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 2, "text": "Ok, to get started open the oven using the hamdle on the door.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 2, "text": "No problem.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 3, "text": "The bread we need is on the counter next to me.", "intent": "Inform_location"}
+{"user": "Alien", "index": 3, "text": "Is this the right counter?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 3, "text": "No, the bread is on the counter behind me; In the toaster.", "intent": "Yes-no_negative"}
+{"user": "Alien", "index": 4, "text": "Is this the right counter?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 4, "text": "Yup, the bread is in front of you.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 5, "text": "The bread is in front of you in the toaster on the counter.", "intent": "Inform_location"}
+{"user": "Alien", "index": 5, "text": "Is this the bread?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 5, "text": "Yes, bring it here.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 6, "text": "Ok, Bring the bread back to the oven you opened.", "intent": "Inform_location"}
+{"user": "Alien", "index": 6, "text": "No problem.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 7, "text": "To start baking the bread, place the bread inside the oven.", "intent": "Inform_action"}
+{"user": "Alien", "index": 7, "text": "Do I just put it in the tray in the oven?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 7, "text": "Yeah, just like that.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 8, "text": "Now that the breads in the oven we need to close it.", "intent": "Inform_next_step"}
+{"user": "Human", "index": 8, "text": "We close the oven by bringing the door back up with the handle from earlier.", "intent": "Inform_action"}
+{"user": "Alien", "index": 8, "text": "No problem", "intent": "Inform_understanding"}
+{"user": "Human", "index": 9, "text": "Now that the bread is done we need to open the oven again.", "intent": "Inform_next_step"}
+{"user": "Human", "index": 9, "text": "Do you remember what to do?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 9, "text": "Yes, I have to open the oven using the handle on the door.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 10, "text": "Get the bread out from the oven where you put it in.", "intent": "Inform_action"}
+{"user": "Alien", "index": 10, "text": "This piece of bread is hot.", "intent": "Casual_observation"}
+{"user": "Human", "index": 10, "text": "Yeah, sorry I should have warned you. Be careful.", "intent": "Casual_response"}
+{"user": "Human", "index": 11, "text": "Now that the bread is done we can close the oven again.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 11, "text": "Alright, no problem.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 12, "text": "We can set the bread down on the plates now.", "intent": "Inform_next_step"}
+{"user": "Human", "index": 12, "text": "The at the far end of the kitchen on the counter.", "intent": "Inform_location"}
+{"user": "Alien", "index": 12, "text": "Ok, the counter to the far left of the room.", "intent": "Ask_about_location"}
+{"user": "Human", "index": 12, "text": "Yes, over there.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 13, "text": "You can set the bread down on the plates in front of you.", "intent": "Inform_action"}
+{"user": "Alien", "index": 13, "text": "The white plate? ", "intent": "Ask_about_object"}
+{"user": "Human", "index": 13, "text": "The whites plates in from of you. That's correct.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 14, "text": "See? that wasn't so hard right?", "intent": "Casual_question"}
+{"user": "Alien", "index": 14, "text": "Yes it was pretty easy with your help.", "intent": "Casual_response"}

@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14-loqui.dtd">
+<Trans scribe="user" audio_filename="13" version="5" version_date="080618" corpus_version="2.0">
+<Speakers>
+<Speaker id="spk1" name="Caller#1" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="Librarian#1" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="non-speaking-librarian-activity#3" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="118.775">
+<Turn startTime="0" endTime="7.44" speaker="spk2">
+<Sync time="0"/>
+&lt;TN&gt; hi thank you for holding \\
+<Sync time="2.509"/>
+right now the library is working with a research team \\
+<Sync time="4.641"/>
+to better improve our service \\
+<Sync time="5.956"/>
+would you mind if this call is recorded \\
+</Turn>
+<Turn speaker="spk1" startTime="7.44" endTime="11.056">
+<Sync time="7.44"/>
+&lt;P&gt; oh no \\
+<Sync time="8.476"/>
+&lt;P&gt; -s okay &lt;P&gt; &lt;CT&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="11.056" endTime="12.919">
+<Sync time="11.056"/>
+ok how can I help you today \\
+</Turn>
+<Turn speaker="spk1" startTime="12.919" endTime="17.734">
+<Sync time="12.919"/>
+well my name is &lt;FIRSTNAME&gt; &lt;LASTNAME&gt; \\ 
+<Sync time="14.952"/>
+&lt;P&gt; and I get tapes from here \\
+</Turn>
+<Turn speaker="spk2" startTime="17.734" endTime="18.47">
+<Sync time="17.734"/>
+right \\
+</Turn>
+<Turn speaker="spk1" startTime="18.47" endTime="26.092">
+<Sync time="18.47"/>
+&lt;B&gt; and I have some numbers here I can give you \\
+<Sync time="21.226"/>
+&lt;B&gt; ahh I think that's easy right \\
+<Sync time="23.467"/>
+I can't read a lot of these &lt;P&gt; things \\
+<Sync time="25.466"/>
+but anyhow \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="26.092" endTime="26.481">
+<Sync time="26.092"/>
+<Who nb="1"/>
+[os sure eo] \\
+<Who nb="2"/>
+[os ih- &lt;B&gt; eo] \\
+</Turn>
+<Turn speaker="spk1" startTime="26.481" endTime="29.988">
+<Sync time="26.481"/>
+It's five nine four eight nine \\
+</Turn>
+<Turn speaker="spk2" startTime="29.988" endTime="34.696">
+<Sync time="29.988"/>
+&lt;P&gt; ok \\
+<Sync time="31.443"/>
+what ahh \\
+<Sync time="32.355"/>
+the computer is telling me that you've read this one before \\
+</Turn>
+<Turn speaker="spk1" startTime="34.696" endTime="35.556">
+<Sync time="34.696"/>
+Night Fall \\ 
+</Turn>
+<Turn speaker="spk2" startTime="35.556" endTime="36.767">
+<Sync time="35.556"/>
+Night Fall \\
+</Turn>
+<Turn speaker="spk1" startTime="36.767" endTime="37.291">
+<Sync time="36.767"/>
+really \\
+</Turn>
+<Turn speaker="spk2" startTime="37.291" endTime="46.811">
+<Sync time="37.291"/>
+umm it might have just \\
+<Sync time="38.795"/>
+we might have sent it and it got &lt;P&gt; back to us \\
+<Sync time="40.825"/>
+let me read the plot \\
+<Sync time="42.137"/>
+it says anti-terrorist agents John Cory and \\
+<Sync time="44.622"/>
+wife Kate Ma- Mayfield \\ 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="46.811" endTime="52.473">
+<Sync time="46.811"/>
+<Who nb="1"/>
+reopen the investigataion of a Paris bound jets [os nineteen /*fifty*/ crash eo] \\
+<Who nb="2"/>
+[os ohh I remember that eo] scratch it \\
+</Turn>
+<Turn speaker="spk1" startTime="52.473" endTime="55.658">
+<Sync time="52.473"/>
+&lt;CHKL&gt; I remember that \\
+<Sync time="54.1"/>
+I wasn't too happy with that \\
+</Turn>
+<Turn speaker="spk2" startTime="55.658" endTime="56.11">
+<Sync time="55.658"/>
+right \\
+</Turn>
+<Turn speaker="spk1" startTime="56.11" endTime="58.224">
+<Sync time="56.11"/>
+terrorists don't interest me that much \\
+</Turn>
+<Turn speaker="spk2" startTime="58.224" endTime="58.749">
+<Sync time="58.224"/>
+right \\
+</Turn>
+<Turn speaker="spk1" startTime="58.749" endTime="63.356">
+<Sync time="58.749"/>
+uhh okay five nine five &lt;P&gt; five seven \\
+</Turn>
+<Turn speaker="spk2" startTime="63.356" endTime="64.609">
+<Sync time="63.356"/>
+&lt;BN&gt; &lt;P&gt; okay \\
+</Turn>
+<Turn speaker="spk1" startTime="64.609" endTime="71.445">
+<Sync time="64.609"/>
+&lt;P&gt; now wait a second \\
+<Sync time="66.361"/>
+&lt;ST&gt; yea five five seven &lt;/ST&gt; \\
+<Sync time="67.648"/>
+and five nine &lt;P&gt; five six one \\
+</Turn>
+<Turn speaker="spk2" startTime="71.445" endTime="72.104">
+<Sync time="71.445"/>
+okay \\
+</Turn>
+<Turn speaker="spk1" startTime="72.104" endTime="76.733">
+<Sync time="72.104"/>
+&lt;P&gt; and five nine three nine three \\
+</Turn>
+<Turn startTime="76.733" endTime="77.999" speaker="spk2">
+<Sync time="76.733"/>
+&lt;P&gt; right \\
+</Turn>
+<Turn speaker="spk1" startTime="77.999" endTime="83.311">
+<Sync time="77.999"/>
+and then I couldn't read the number on this \\
+<Sync time="80.262"/>
+but it's Prince of Beverly Hills by Stuart Woods \\
+</Turn>
+<Turn speaker="spk2" startTime="83.311" endTime="96.741">
+<Sync time="83.311"/>
+&lt;P&gt; &lt;TP&gt; okay \\
+<Sync time="87.99"/>
+wait let's &lt;P&gt; see \\
+<Sync time="89.945"/>
+&lt;P&gt; &lt;BN&gt; it says this book was sent out \\
+<Sync time="94.612"/>
+&lt;P&gt; back in March \\
+<Sync time="95.899"/>
+you never got it \\
+</Turn>
+<Turn speaker="spk1" startTime="96.741" endTime="98.895">
+<Sync time="96.741"/>
+&lt;P&gt; not that I can remember \\
+</Turn>
+<Turn speaker="spk2" startTime="98.895" endTime="99.206">
+<Sync time="98.895"/>
+okay \\
+</Turn>
+<Turn speaker="spk1" startTime="99.206" endTime="102.849">
+<Sync time="99.206"/>
+&lt;P&gt; I think I- I read \\
+<Sync time="101.215"/>
+you know I've read a lot of his books \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="102.849" endTime="105.356">
+<Sync time="102.849"/>
+<Who nb="1"/>
+[os ahh this one is ah- eo] \\
+<Who nb="2"/>
+[so &lt;B&gt; but I- I read the eo] \\
+</Turn>
+<Turn speaker="spk1" startTime="105.356" endTime="110.043">
+<Sync time="105.356"/>
+I was able to read a little bit of the write up \\ 
+<Sync time="107.699"/>
+and it didn't sound familiar to me at all \\ <!-- Eddie Kang 26-April-2010 changed "but eh-" to "and" -->
+</Turn>
+<Turn speaker="spk2" startTime="110.043" endTime="111.0">
+<Sync time="110.043"/>
+okay &lt;P&gt; alright \\
+</Turn>
+<Turn speaker="spk1" startTime="111.0" endTime="111.598">
+<Sync time="111.0"/>
+okay \\
+</Turn>
+<Turn speaker="spk2" startTime="111.598" endTime="112.099">
+<Sync time="111.598"/>
+yea \\
+</Turn>
+<Turn speaker="spk1" startTime="112.099" endTime="113.153">
+<Sync time="112.099"/>
+thank you so much \\
+</Turn>
+<Turn speaker="spk2" startTime="113.153" endTime="113.584">
+<Sync time="113.153"/>
+you're welcome \\
+</Turn>
+<Turn speaker="spk1" startTime="113.584" endTime="114.493">
+<Sync time="113.584"/>
+i- im- bye bye \\
+</Turn>
+<Turn speaker="spk2" startTime="114.493" endTime="114.828">
+<Sync time="114.493"/>
+bye bye \\
+</Turn>
+<Turn speaker="spk3" startTime="114.828" endTime="118.775">
+<Sync time="114.828"/>
+&lt;P&gt; &lt;TN&gt; &lt;P&gt; &lt;TN&gt; \\
+</Turn>
+</Section>
+</Episode>
+</Trans>

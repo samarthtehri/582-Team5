@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14-loqui.dtd">
+<Trans scribe="Daveman" audio_filename="16" version="8" version_date="080618" corpus_version="2.0">
+<Speakers>
+<Speaker id="spk1" name="librarian#1" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="caller#1" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="non-speaking-librarian-activity" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="86.225">
+<Turn startTime="0" endTime="3.062" speaker="spk1">
+<Sync time="0"/>
+call for we- we're doing a research project here \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3.062" endTime="4.718">
+<Sync time="3.062"/>
+<Who nb="1"/>
+[os okay eo] \\
+<Who nb="2"/>
+[os okay eo] thank you \\
+</Turn>
+<Turn speaker="spk1" startTime="4.718" endTime="9.477">
+<Sync time="4.718"/>
+and you can- if you- if you want you can change your mind later \\
+<Sync time="7.456"/>
+okay \\
+<Sync time="8.044"/>
+&lt;B&gt; okay go ahead \\
+<Sync time="9.238"/>
+&lt;G&gt; \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="9.477" endTime="10.821">
+<Sync time="9.477"/>
+<Who nb="1"/>
+/* may */ I have your father's names \\
+<Who nb="2"/>
+[os uh uh eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="10.821" endTime="12.677">
+<Sync time="10.821"/>
+yes &lt;FIRSTNAME&gt; &lt;LASTNAME&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="12.677" endTime="13.834">
+<Sync time="12.677"/>
+&lt;LASTNAME&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="13.834" endTime="16.277">
+<Sync time="13.834"/>
+&lt;LN-INITIAL-1&gt; &lt;LN-INITIAL-2&gt; &lt;LN-INITIAL-3&gt; &lt;LN-INITIAL-4&gt; &lt;LN-INITIAL-5&gt; &lt;LN-INITIAL-6&gt; &lt;LN-INITIAL-7&gt; &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="16.277" endTime="18.465">
+<Sync time="16.277"/>
+okay hang out one sec \\
+</Turn>
+<Turn speaker="spk2" startTime="18.465" endTime="19.17">
+<Sync time="18.465"/>
+okay &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk3" startTime="19.17" endTime="33.178">
+<Sync time="19.17"/>
+&lt;P&gt; &lt;BN&gt; &lt;TP&gt; &lt;BN&gt; &lt;TP&gt; &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="33.178" endTime="34.651">
+<Sync time="33.178"/>
+okay and he is in Woodchest \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="34.651" endTime="36.378">
+<Sync time="34.651"/>
+<Who nb="1"/>
+yes [os he is in Woodchest eo] \\
+<Who nb="2"/>
+okay [os what can eo] I do \\
+</Turn>
+<Turn speaker="spk2" startTime="36.378" endTime="44.913">
+<Sync time="36.378"/>
+ah we've talked for uh time being \\
+<Sync time="39.183"/>
+&lt;B&gt; ah \\
+<Sync time="40.154"/>
+uh im but now he's here \\
+<Sync time="42.182"/>
+so he wants now th- the cassette \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="44.913" endTime="47.651">
+<Sync time="44.913"/>
+<Who nb="1"/>
+okay [os we'll eo] &lt;P&gt; make him active again \\
+<Who nb="2"/>
+[os okay eo ] \\
+</Turn>
+<Turn speaker="spk2" startTime="47.651" endTime="48.088">
+<Sync time="47.651"/>
+yeah \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="48.088" endTime="53.856">
+<Sync time="48.088"/>
+<Who nb="1"/>
+okay [os and eo] \\
+<Who nb="2"/>
+[os a- eo] another thing ma'am \\
+<Sync time="50.629"/>
+<Who nb="1"/>
+[os sure eo] \\
+<Who nb="2"/>
+[os uh eo] her- uh his a his a &lt;NU&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="53.856" endTime="59.234">
+<Sync time="53.856"/>
+it's a i- it doesn't work i- p- properly now \\
+<Sync time="56.988"/>
+so I can change now &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="59.234" endTime="61.167">
+<Sync time="59.234"/>
+<Who nb="1"/>
+the uh machine doesn't [os work eo ] \\
+<Who nb="2"/>
+[os yes eo] \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="61.167" endTime="62.01">
+<Sync time="61.167"/>
+<Who nb="1"/>
+[os yes eo] \\
+<Who nb="2"/>
+[os okay eo] \\
+</Turn>
+<Turn speaker="spk1" startTime="62.01" endTime="64.604">
+<Sync time="62.01"/>
+I'm going to send you a new machine okay \\
+</Turn>
+<Turn speaker="spk1" startTime="64.604" endTime="68.574">
+<Sync time="64.604"/>
+to his addre- \\
+<Sync time="65.154"/>
+let me just make &lt;BN&gt; sure it's &lt;ADDR-NUMBER-1&gt; &lt;ADDR-NUMBER-2&gt; &lt;ADDR-NUMBER-3&gt; &lt;ADDR-NUMBER-4&gt; \\
+<Sync time="67.654"/>
+&lt;STREET-NUMBER-1&gt; &lt;STREET-NUMBER-2&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="68.574" endTime="68.912">
+<Sync time="68.574"/>
+yeah \\
+</Turn>
+<Turn speaker="spk1" startTime="68.912" endTime="71.303">
+<Sync time="68.912"/>
+&lt;B&gt; I'm gonna send a new machine to him \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="71.303" endTime="74.256">
+<Sync time="71.303"/>
+<Who nb="1"/>
+ and uh [os the eo] \\
+<Who nb="2"/>
+[os could eo] your return it in that box \\
+</Turn>
+<Turn speaker="spk1" startTime="74.256" endTime="76.019">
+<Sync time="74.256"/>
+and what I'll do is send a label \\
+</Turn>
+<Turn speaker="spk2" startTime="76.019" endTime="76.834">
+<Sync time="76.019"/>
+&lt;B&gt; okay \\
+</Turn>
+<Turn speaker="spk1" startTime="76.834" endTime="77.409">
+<Sync time="76.834"/>
+okay \\
+</Turn>
+<Turn speaker="spk2" startTime="77.409" endTime="78.265">
+<Sync time="77.409"/>
+okay ma'am \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="78.265" endTime="79.723">
+<Sync time="78.265"/>
+<Who nb="1"/>
+thank [os you so eo] \\
+<Who nb="2"/>
+[os /* send it */ &lt;P&gt; eo] and and i- \\
+</Turn>
+<Turn speaker="spk2" startTime="79.723" endTime="80.996">
+<Sync time="79.723"/>
+if he wants to talk with you \\
+</Turn>
+<Turn speaker="spk1" startTime="80.996" endTime="81.746">
+<Sync time="80.996"/>
+sure put him on \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="81.746" endTime="84.137">
+<Sync time="81.746"/>
+<Who nb="1"/>
+&lt;CHKL&gt; [os okay &lt;CHKL&gt; welcome eo] \\
+<Who nb="2"/>
+[os thank you eo] \\
+<Sync time="83.487"/>
+<Who nb="1"/>
+[os okay bye eo] \\
+<Who nb="2"/>
+[os okay eo] \\
+</Turn>
+<Turn speaker="spk3" startTime="84.137" endTime="86.225">
+<Sync time="84.137"/>
+&lt;P&gt; &lt;BN&gt; &lt;VB&gt; &lt;TN&gt; &lt;B&gt; \\
+</Turn>
+</Section>
+</Episode>
+</Trans>

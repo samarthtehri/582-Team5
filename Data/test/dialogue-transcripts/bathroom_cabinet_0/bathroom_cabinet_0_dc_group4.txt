@@ -1,0 +1,33 @@
+{"user": "Human", "index": 1, "text": "Hey Zara. Can you help me put the towels away? They are in the bathroom.", "intent": "Inform_location"}
+{"user": "Alien", "index": 1, "text": "Hey, yes. I can help you. I see the towels. Where should they go?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 2, "text": "The towels need to go in the cabinet.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 2, "text": "Okay. I do see the cabinets and I see that there is space for the towels.", "intent": "Inform_observation"}
+{"user": "Alien", "index": 3, "text": "I'm a bit lost. Are these the towels that should go in the cabinet?", "intent": "Inform_confused"}
+{"user": "Human", "index": 3, "text": "Yes. That is correct. These are the towels that need to go in the cabinet.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 3, "text": "We just need to put two of the towels in the cabinet.", "intent": "Inform_action"}
+{"user": "Alien", "index": 4, "text": "Here is the first towel. I'm not sure what to do with it.", "intent": "Ask_guidence"}
+{"user": "Human", "index": 4, "text": "You are now in front of the table holding one of the towels.", "intent": "Inform_location"}
+{"user": "Human", "index": 4, "text": "You have the towel in your hand because you were about to put it away.", "intent": "Inform_object"}
+{"user": "Human", "index": 4, "text": "Do you know where to put the towel?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 4, "text": "Oh yes! That's right. I opened the cabinet so that I can put the towels inside.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 5, "text": "Can I put the towel in any cabinet?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 5, "text": "Yes. You can put it inside any of the cabinets.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 6, "text": "Should all of the towels go inside the cabinet or just that one?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 6, "text": "We just need to put away two of the towels.", "intent": "Inform_action"}
+{"user": "Alien", "index": 7, "text": "Okay. I think I get it. Two of the towels need to go inside the cabinet and they can go in any of the cabinets", "intent": "Inform_understanding"}
+{"user": "Human", "index": 7, "text": "Zara, that is right! You've definitely gotten the hang of this!", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 8, "text": "Do you want some assistance to make things go faster?", "intent": "Ask_want_help"}
+{"user": "Alien", "index": 8, "text": "I only have one more towel left, so I am okay. Thank you!", "intent": "Inform_condition"}
+{"user": "Human", "index": 8, "text": "No problem; you're doing great, Zara!", "intent": "Casual_response"}
+{"user": "Human", "index": 9, "text": "You look a little lost. Do you remember where the towel goes?", "intent": "Ask_know_location"}
+{"user": "Alien", "index": 9, "text": "I forgot, sorry. I can't remember if they can go inside any cabinet or in a specific cabinet.", "intent": "Inform_confused"}
+{"user": "Human", "index": 9, "text": "Do you remember where you put the other towel?", "intent": "Ask_know_location"}
+{"user": "Alien", "index": 9, "text": "Yes, I do remember. Can I put this towel next to that towel?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 9, "text": "Yes, you can put it next to that towel.", "intent": "Inform_action"}
+{"user": "Human", "index": 10, "text": "Great job! It looks perfect right next to the other towel.", "intent": "Inform_action"}
+{"user": "Alien", "index": 10, "text": "Thank you! What now? Both towels are inside the cabinet.", "intent": "Explain_confused"}
+{"user": "Human", "index": 10, "text": "Now, we just need to close all of the cabinets", "intent": "Inform_action"}
+{"user": "Alien", "index": 11, "text": "Okay, the cabinets are now closed.", "intent": "Inform_observation"}
+{"user": "Human", "index": 11, "text": "Zara, that was perfect. We are done. Great job!", "intent": "Casual_response"}
+{"user": "Alien", "index": 11, "text": "We make a great team!", "intent": "Casual_response"}
+{"user": "Human", "index": 11, "text": "We sure do; we sure do!", "intent": "Casual_response"}

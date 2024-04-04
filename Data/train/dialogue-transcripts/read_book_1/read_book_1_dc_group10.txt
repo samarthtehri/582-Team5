@@ -1,0 +1,39 @@
+{"user": "Human", "index": 1, "text": "Hey Zara!", "intent": "Extend_greetings"}
+{"user": "Alien", "index": 1, "text": "Hi Michael!", "intent": "Extend_greetings"}
+{"user": "Human", "index": 1, "text": "Shall we get started?", "intent": "Ask_get_started"}
+{"user": "Alien", "index": 1, "text": "Yes! Let's do it", "intent": "Inform_get_started"}
+{"user": "Human", "index": 2, "text": "I remember a book I liked. Do you know where it is?", "intent": "Ask_know_location"}
+{"user": "Alien", "index": 2, "text": "Yea, it is right here on this shelf", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 2, "text": "Is that the right book you grabbed?", "intent": "Ask_know_object"}
+{"user": "Alien", "index": 2, "text": "Yes, there is also this other book next to it that you like", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 2, "text": "Nice, can you grab that one as well?", "intent": "Inform_other"}
+{"user": "Alien", "index": 2, "text": "Sure", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 3, "text": "Grabbing the book now", "intent": "Inform_condition"}
+{"user": "Human", "index": 3, "text": "Nice, do you know what you want to do with those books?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 3, "text": "Yes, I want to read it on that chair over there", "intent": "Inform_condition"}
+{"user": "Alien", "index": 5, "text": "Michael, should I sit in this chair here to read the books?", "intent": "Display_confusion"}
+{"user": "Human", "index": 5, "text": "Yeah, you should sit there", "intent": "Inform_action"}
+{"user": "Human", "index": 5, "text": "that chair is pretty comfortable so you can relax and enjoy reading the books", "intent": "Inform_object"}
+{"user": "Alien", "index": 5, "text": "Okay, sounds good Michael. Thanks", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 6, "text": "Hey Michael, these books are very good!", "intent": "Casual_observation"}
+{"user": "Human", "index": 6, "text": "Thanks Zara, I knew you'd like them", "intent": "Casual_response"}
+{"user": "Human", "index": 6, "text": "Now that you're done reading them, what do you wanna do with them?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 6, "text": "Yes, I want to put them down here on the counter", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 7, "text": "Huh, which counter should I put it on?", "intent": "Display_confusion"}
+{"user": "Alien", "index": 7, "text": "Michael, can you help me out with my problem?", "intent": "Ask_guidence"}
+{"user": "Human", "index": 7, "text": "Sure thing, how about you place the books down on this table here with the T.V. on it", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 7, "text": "Okay, I will go do that", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 8, "text": "Is it this counter right here?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 8, "text": "Yes, it is that one there", "intent": "Inform_location"}
+{"user": "Alien", "index": 9, "text": "Okay, here I go to put the books back", "intent": "Inform_condition"}
+{"user": "Human", "index": 9, "text": "Sounds good, be careful to not knock the T.V. over ", "intent": "Inform_other"}
+{"user": "Alien", "index": 10, "text": "Here's one book", "intent": "Inform_condition"}
+{"user": "Alien", "index": 10, "text": "Michael, should I put them side by side or on top of another", "intent": "Ask_guidence"}
+{"user": "Human", "index": 10, "text": "You can put the next to each other, that's fine", "intent": "Inform_action"}
+{"user": "Alien", "index": 11, "text": "Okay, I will put the second book next to the first one", "intent": "Inform_condition"}
+{"user": "Human", "index": 11, "text": "Nice, did you enjoy reading the books?", "intent": "Casual_question"}
+{"user": "Alien", "index": 11, "text": "Yes! I very much liked reading your book suggestions, thanks", "intent": "Casual_response"}
+{"user": "Human", "index": 12, "text": "Well that was fun, good job in learning how to read a book Zara!", "intent": "Casual_observation"}
+{"user": "Alien", "index": 12, "text": "Thanks Michael, couldn't have done it without you", "intent": "Casual_response"}
+{"user": "Alien", "index": 12, "text": "Well then, till next time?", "intent": "Extend_goodbyes"}
+{"user": "Human", "index": 12, "text": "Sounds good. I'll see ya later!", "intent": "Extend_goodbyes"}

@@ -1,0 +1,49 @@
+{"user": "Human", "index": 1, "text": "Hi zara! How are you doing today?", "intent": "Extend_greetings"}
+{"user": "Alien", "index": 1, "text": "I am great thank you for asking", "intent": "Extend_greetings"}
+{"user": "Human", "index": 1, "text": "I'm a little hungry. Do you want to bake some bread together?", "intent": "Casual_question"}
+{"user": "Alien", "index": 1, "text": "Sure", "intent": "Casual_response"}
+{"user": "Human", "index": 1, "text": "Let\u2019s go to the oven together", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 2, "text": "What now?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 2, "text": "Please open the oven first", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 2, "text": "Which is the oven", "intent": "Ask_about_object"}
+{"user": "Human", "index": 2, "text": "The white square object in front of you.", "intent": "Inform_object"}
+{"user": "Alien", "index": 2, "text": "Okay, got it", "intent": "Inform_understanding"}
+{"user": "Human", "index": 3, "text": "Then walk to the toaster and get a piece of bread.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 3, "text": "Where is the toaster?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 3, "text": "Take a few steps to the right and you'll see it.", "intent": "Inform_object"}
+{"user": "Alien", "index": 3, "text": "Is it the black object?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 3, "text": "Yes", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 4, "text": "Please pick up one slice of the bread from the toaster", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 4, "text": "Okay, got it", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 5, "text": "What now?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 5, "text": "Walk back to the oven", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 5, "text": "Okay", "intent": "Inform_understanding"}
+{"user": "Human", "index": 6, "text": "Now please put the bread into the oven", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 6, "text": "Okay, got it", "intent": "Inform_understanding"}
+{"user": "Human", "index": 7, "text": "Hey zara, are you okay?", "intent": "Ask_okay"}
+{"user": "Alien", "index": 7, "text": "I am a bit confused", "intent": "Inform_confused"}
+{"user": "Human", "index": 7, "text": "Do you remember what we were doing?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 7, "text": "Yes", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 8, "text": "Now please close the oven door", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 8, "text": "Sure", "intent": "Inform_understanding"}
+{"user": "Human", "index": 9, "text": "Now the bread is baked.", "intent": "Inform_other"}
+{"user": "Human", "index": 9, "text": "Please open the oven", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 9, "text": "Okay", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 10, "text": "What now?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 10, "text": "Take out the bread.", "intent": "Inform_next_step"}
+{"user": "Human", "index": 10, "text": "Be careful it's hot", "intent": "Inform_other"}
+{"user": "Alien", "index": 10, "text": "Okay, got it", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 11, "text": "What now?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 11, "text": "After we finish using the oven, we will close it to keep the inside clean.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 11, "text": "Okay", "intent": "Inform_understanding"}
+{"user": "Human", "index": 12, "text": "Lets's find a plate to put the bread on.", "intent": "Inform_next_step"}
+{"user": "Human", "index": 12, "text": "Do you know where the plate is?", "intent": "Ask_know_location"}
+{"user": "Alien", "index": 12, "text": "No", "intent": "Yes-no_negative"}
+{"user": "Human", "index": 12, "text": "It's to the left of the sink.", "intent": "Inform_location"}
+{"user": "Alien", "index": 12, "text": "Okay, got it", "intent": "Inform_understanding"}
+{"user": "Human", "index": 13, "text": "Now you can place the bread on a plate.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 13, "text": "Okay", "intent": "Inform_understanding"}
+{"user": "Human", "index": 13, "text": "Nice job!", "intent": "Casual_response"}
+{"user": "Human", "index": 14, "text": "Have you learned how to use an oven?", "intent": "Casual_question"}
+{"user": "Alien", "index": 14, "text": "Yes, thanks to you", "intent": "Casual_response"}
+{"user": "Human", "index": 14, "text": "You are welcome. Have a good day", "intent": "Extend_goodbyes"}

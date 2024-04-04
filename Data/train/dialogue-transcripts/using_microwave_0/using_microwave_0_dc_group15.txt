@@ -1,0 +1,39 @@
+{"user": "Human", "index": 1, "text": "Hey Zara!", "intent": "Extend_greetings"}
+{"user": "Alien", "index": 1, "text": "Hey Michael!", "intent": "Extend_greetings"}
+{"user": "Human", "index": 1, "text": "Do you want to eat some salmon today?", "intent": "Ask_get_started"}
+{"user": "Alien", "index": 1, "text": "Yes, how do we cook it?", "intent": "Ask_guidence"}
+{"user": "Human", "index": 1, "text": "We're going to microwave it", "intent": "Inform_action"}
+{"user": "Human", "index": 2, "text": "First take the salmon", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 2, "text": "Ok got it", "intent": "Inform_understanding"}
+{"user": "Human", "index": 3, "text": "Now open the door to the microwave so you can put the salmon in", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 3, "text": "Like this?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 3, "text": "Yes just like that", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 4, "text": "Do you know what to do next?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 4, "text": "Yes now I just put the salmon into the microwave", "intent": "Inform_understanding"}
+{"user": "Human", "index": 4, "text": "Yes, good job!", "intent": "Casual_response"}
+{"user": "Human", "index": 5, "text": "Now close the door to the microwave '", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 5, "text": "Ok", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 6, "text": "What do I do now?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 6, "text": "Set the timer to 5 minutes", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 6, "text": "There's a cook meat setting, can I press that?", "intent": "Inform_observation"}
+{"user": "Human", "index": 6, "text": "Yes that works ", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 7, "text": "It didn't do anything, what do I do?", "intent": "Inform_confused"}
+{"user": "Human", "index": 7, "text": "That's ok, you haven't hit the start button yet so do that and it'll start", "intent": "Inform_action"}
+{"user": "Alien", "index": 7, "text": "Ok got it, it's cooking now", "intent": "Inform_understanding"}
+{"user": "Human", "index": 8, "text": "It's done cooking, open the door now", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 8, "text": "Ok got it", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 8, "text": "What do I do now?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 9, "text": "Take out the salmon", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 9, "text": "Got it", "intent": "Inform_understanding"}
+{"user": "Human", "index": 10, "text": "Are you forgetting something?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 10, "text": "Yes I forgot to close the door to the microwave", "intent": "Inform_observation"}
+{"user": "Human", "index": 10, "text": "That's correct", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 10, "text": "I'm closing it now", "intent": "Inform_understanding"}
+{"user": "Human", "index": 11, "text": "Go to the dinner table, we'll prepare the salmon", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 11, "text": "Ok got it, going there now", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 11, "text": "What do I do with the salmon now?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 12, "text": "Put the salmon down on the table", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 12, "text": "Ok got it", "intent": "Inform_understanding"}
+{"user": "Human", "index": 13, "text": "Now come back here and help me decide what else to cook", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 13, "text": "Ok coming there now", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 13, "text": "I want to try some other food with this salmon", "intent": "Casual_response"}

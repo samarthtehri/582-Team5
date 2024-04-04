@@ -1,0 +1,262 @@
+<?xml version="1.0" ?>
+<!DOCTYPE Trans SYSTEM "trans-14-loqui.dtd">
+<Trans audio_filename="82" scribe="Boris" version="4" version_date="090217" corpus_version="2.0">
+<Speakers>
+<Speaker accent="" check="no" dialect="native" id="spk1" name="librarian#1" scope="local"/>
+<Speaker accent="" check="no" dialect="native" id="spk2" name="caller#2" scope="local"/>
+<Speaker accent="" check="no" dialect="native" id="spk3" name="caller#3" scope="local"/>
+</Speakers>
+<Episode>
+<Section endTime="110.0" startTime="0" type="report">
+<Turn endTime="1.532" speaker="spk1" startTime="0.0">
+<Sync time="0.0"/>
+thank you for waiting \\
+</Turn>
+<Turn endTime="2.012" speaker="spk3" startTime="1.532">
+<Sync time="1.532"/>
+uhhm \\
+</Turn>
+<Turn endTime="10.198" speaker="spk1" startTime="2.012">
+<Sync time="2.012"/>
+&lt;P&gt; okay \\
+<Sync time="3.329"/>
+&lt;P&gt; you say that a- you want \\
+<Sync time="8.059"/>
+&lt;P&gt; to change your address isn't it \\
+</Turn>
+<Turn endTime="10.604" speaker="spk3" startTime="10.198">
+<Sync time="10.198"/>
+yeah \\
+</Turn>
+<Turn endTime="12.136" speaker="spk1" startTime="10.604">
+<Sync time="10.604"/>
+okay I'm ready now \\
+</Turn>
+<Turn endTime="14.763" speaker="spk3 spk1" startTime="12.136">
+<Sync time="12.136"/>
+<Who nb="1"/>
+okay &lt;P&gt; [os change it to P mm eo] \\
+<Who nb="2"/>
+[os oh my god hold on eo] \\ <!--Michal Novemsky 31-March-2010 Changed "um /* right */" to "oh my god"-->
+</Turn>
+<Turn endTime="19.036" speaker="spk1" startTime="14.763">
+<Sync time="14.763"/>
+Andrew Heiskell Library please hold and be patient \\
+<Sync time="18.223"/>
+&lt;P&gt; yes \\
+</Turn>
+<Turn endTime="21.084" speaker="spk3" startTime="19.036">
+<Sync time="19.036"/>
+change it to P O box \\
+</Turn>
+<Turn endTime="23.178" speaker="spk1" startTime="21.084">
+<Sync time="21.084"/>
+P O box \\
+</Turn>
+<Turn endTime="25.397" speaker="spk3" startTime="23.178">
+<Sync time="23.178"/>
+mmhm it's a long number &lt;PO-NUMBER-1&gt; \\
+</Turn>
+<Turn endTime="26.366" speaker="spk1" startTime="25.397">
+<Sync time="25.397"/>
+mmhm &lt;BN&gt;\\
+</Turn>
+<Turn endTime="27.142" speaker="spk3" startTime="26.366">
+<Sync time="26.366"/>
+&lt;PO-NUMBER-2&gt; \\
+</Turn>
+<Turn endTime="27.67" speaker="spk1" startTime="27.142">
+<Sync time="27.142"/>
+mmhm \\
+</Turn>
+<Turn endTime="28.295" speaker="spk3" startTime="27.67">
+<Sync time="27.67"/>
+&lt;PO-NUMBER-3&gt; \\
+</Turn>
+<Turn endTime="28.826" speaker="spk1" startTime="28.295">
+<Sync time="28.295"/>
+mmhm \\
+</Turn>
+<Turn endTime="29.357" speaker="spk3" startTime="28.826">
+<Sync time="28.826"/>
+&lt;PO-NUMBER-4&gt; \\
+</Turn>
+<Turn endTime="29.857" speaker="spk1" startTime="29.357">
+<Sync time="29.357"/>
+mmhm &lt;BN&gt; \\
+</Turn>
+<Turn endTime="30.951" speaker="spk3" startTime="29.857">
+<Sync time="29.857"/>
+&lt;BN&gt; &lt;PO-NUMBER-5&gt; &lt;PO-NUMBER-6&gt; \\
+</Turn>
+<Turn endTime="31.669" speaker="spk1" startTime="30.951">
+<Sync time="30.951"/>
+mmhm \\
+</Turn>
+<Turn endTime="33.263" speaker="spk3" startTime="31.669">
+<Sync time="31.669"/>
+&lt;CITY&gt; &lt;STATE&gt; \\
+</Turn>
+<Turn endTime="35.388" speaker="spk1" startTime="33.263">
+<Sync time="33.263"/>
+&lt;CITY&gt; mmhm \\
+</Turn>
+<Turn endTime="37.138" speaker="spk3" startTime="35.388">
+<Sync time="35.388"/>
+&lt;ZIP-NUMBER-1&gt; &lt;ZIP-NUMBER-2&gt; \\
+</Turn>
+<Turn endTime="38.241" speaker="spk1" startTime="37.138">
+<Sync time="37.138"/>
+&lt;P&gt; mmhm \\
+</Turn>
+<Turn endTime="46.161" speaker="spk3" startTime="38.241">
+<Sync time="38.241"/>
+&lt;ZIP-NUMBER-3&gt; \\
+<Sync time="39.023"/>
+&lt;P&gt; wait a minute hold on where am I at &lt;ZIP-NUMBER-1&gt; &lt;ZIP-NUMBER-2&gt; \\
+<Sync time="43.817"/>
+&lt;P&gt; &lt;ZIP-NUMBER-3&gt; &lt;P&gt; &lt;ZIP-NUMBER-4&gt; &lt;ZIP-NUMBER-5&gt; \\
+</Turn>
+<Turn endTime="48.861" speaker="spk1" startTime="46.161">
+<Sync time="46.161"/>
+&lt;P&gt; okay the telephone number is still the same? \\
+</Turn>
+<Turn endTime="53.406" speaker="spk3 spk1" startTime="48.861">
+<Sync time="48.861"/>
+<Who nb="1"/>
+yeah [os it a the same eo] \\
+<Who nb="2"/>
+[eo you want to eo] and the address &lt;AD-NUMBER-1&gt; &lt;AD-NUMBER-2&gt; &lt;AD-NUMBER-3&gt; &lt;AD-NUMBER-4&gt; is the same \\
+</Turn>
+<Turn endTime="55.406" speaker="spk1" startTime="53.406">
+<Sync time="53.406"/>
+&lt;P&gt; is the same address no \\
+</Turn>
+<Turn endTime="56.593" speaker="spk3" startTime="55.406">
+<Sync time="55.406"/>
+th- the &lt;BN&gt; what address \\
+</Turn>
+<Turn endTime="59.89" speaker="spk1 spk3" startTime="56.593">
+<Sync time="56.593"/>
+<Who nb="1"/>
+&lt;AD-NUMBER-1&gt; &lt;AD-NUMBER-2&gt; &lt;AD-NUMBER-3&gt; [os &lt;AD-NUMBER-4&gt; eo] \\
+<Who nb="2"/>
+[os no eo] that's changed to the P O box \\
+</Turn>
+<Turn endTime="62.874" speaker="spk1" startTime="59.89">
+<Sync time="59.89"/>
+okay and what is your permanent address we need a \\
+</Turn>
+<Turn endTime="64.342" speaker="spk3" startTime="62.874">
+<Sync time="62.874"/>
+well that's going to be the permanent address \\
+</Turn>
+<Turn endTime="66.123" speaker="spk1" startTime="64.342">
+<Sync time="64.342"/>
+I know but we need a regular address too \\ <!--Michal Novemsky 31-March-2010 Changed "regualr" to "regular"-->
+</Turn>
+<Turn endTime="68.061" speaker="spk3" startTime="66.123">
+<Sync time="66.123"/>
+&lt;B&gt; &lt;P&gt; um \\
+</Turn>
+<Turn endTime="72.082" speaker="spk1" startTime="68.061">
+<Sync time="68.061"/>
+&lt;P&gt; otherwise it's a big confusion \\
+<Sync time="71.303"/>
+believe me \\
+</Turn>
+<Turn endTime="76.182" speaker="spk3 spk1" startTime="72.082">
+<Sync time="72.082"/>
+<Who nb="1"/>
+&lt;P&gt; [os okay I don't want that eo] \\
+<Who nb="2"/>
+&lt;P&gt; [os we not going eo] to use it but we have to have it in our file \\
+</Turn>
+<Turn endTime="77.713" speaker="spk3" startTime="76.182">
+<Sync time="76.182"/>
+okay &lt;AD-NUMBER-5&gt; &lt;AD-NUMBER-6&gt; \\
+</Turn>
+<Turn endTime="79.213" speaker="spk1" startTime="77.713">
+<Sync time="77.713"/>
+&lt;AD-NUMBER-5&gt; &lt;AD-NUMBER-6&gt; \\
+</Turn>
+<Turn endTime="80.338" speaker="spk3" startTime="79.213">
+<Sync time="79.213"/>
+&lt;STREET&gt; \\
+</Turn>
+<Turn endTime="87.214" speaker="spk1" startTime="80.338">
+<Sync time="80.338"/>
+&lt;P&gt; &lt;STREET&gt; \\
+<Sync time="84.182"/>
+&lt;P&gt; &lt;STREET&gt; \\
+<Sync time="86.495"/>
+okay \\
+</Turn>
+<Turn endTime="90.308" speaker="spk3" startTime="87.214">
+<Sync time="87.214"/>
+mm &lt;P&gt; ah &lt;CITY&gt; &lt;STATE&gt; &lt;ZIP&gt; \\
+</Turn>
+<Turn endTime="96.291" speaker="spk1" startTime="90.308">
+<Sync time="90.308"/>
+&lt;P&gt; &lt;CITY&gt; &lt;STATE&gt; &lt;ZIP&gt; \\
+<Sync time="94.041"/>
+&lt;P&gt; thank you very much \\
+</Turn>
+<Turn endTime="96.864" speaker="spk3" startTime="96.291">
+<Sync time="96.291"/>
+okay \\
+</Turn>
+<Turn endTime="97.447" speaker="spk1" startTime="96.864">
+<Sync time="96.864"/>
+that's it \\
+</Turn>
+<Turn endTime="101.823" speaker="spk3 spk1" startTime="97.447">
+<Sync time="97.447"/>
+<Who nb="1"/>
+that's [os all eo] \\
+<Who nb="2"/>
+[os all what you need eo] today \\
+<Sync time="99.291"/>
+<Who nb="1"/>
+yeah [os but I want everything eo] to go to the P O box \\
+<Who nb="2"/>
+[os &lt;NU&gt; eo] \\
+</Turn>
+<Turn endTime="103.355" speaker="spk1" startTime="101.823">
+<Sync time="101.823"/>
+yes it for sure will go \\
+</Turn>
+<Turn endTime="106.048" speaker="spk3 spk1" startTime="103.355">
+<Sync time="103.355"/>
+<Who nb="1"/>
+[os okay eo] \\
+
+
+<Who nb="2"/>
+[os we eo] put in our records as your permanent address \\
+</Turn>
+<Turn endTime="107.815" speaker="spk1 spk3" startTime="106.048">
+<Sync time="106.048"/>
+<Who nb="1"/>
+just in [os case you need it eo] \\
+<Who nb="2"/>
+[os okay eo]
+</Turn>
+<Turn endTime="108.623" speaker="spk3" startTime="107.815">
+<Sync time="107.815"/>
+thank you \\
+</Turn>
+<Turn endTime="109.192" speaker="spk1" startTime="108.623">
+<Sync time="108.623"/>
+you're welcome \\
+</Turn>
+<Turn endTime="110.0" speaker="spk3 spk1" startTime="109.192">
+<Sync time="109.192"/>
+<Who nb="1"/>
+[os bye bye eo]\\
+<Who nb="2"/>
+[os bye bye eo] \\
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14-loqui.dtd">
+<Trans scribe="Administrator" audio_filename="68" version="6" version_date="081208" corpus_version="2.0">
+<Speakers>
+<Speaker id="spk1" name="Librarian # 1" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="Caller # 2" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="research-header-info" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="76.498">
+<!--Michal Novemsky 12-April-2010 Changed endTime to 76.498 from 82.687 after editing .wav file -->
+<Turn startTime="0" endTime="3.141" speaker="spk3">
+<Sync time="0"/>
+note verbal consent given but not part of extracted file \\
+</Turn>
+<Turn speaker="spk1" startTime="3.141" endTime="6.84">
+<Sync time="3.141"/>
+&lt;P&gt; &lt;G&gt; \\
+<Sync time="5.643"/>
+alright what is your name sir \\
+</Turn>
+<Turn speaker="spk2" startTime="6.84" endTime="14.981">
+<Sync time="6.84"/>
+&lt;B&gt; eh it's my wife &lt;FIRSTNAME&gt; &lt;LASTNAME&gt; \\
+<Sync time="10.739"/>
+&lt;LN-INITIAL-1&gt; &lt;LN-INITIAL-2&gt; &lt;LN-INITIAL-3&gt; &lt;P&gt; \\
+<Sync time="12.128"/>
+&lt;LN-INITIAL-4&gt; &lt;LN-INITIAL-5&gt; &lt;P&gt; &lt;LN-INITIAL-6&gt; &lt;P&gt; \\
+<Sync time="13.645"/>
+&lt;LN-INITIAL-7&gt; &lt;LN-INITIAL-8&gt; &lt;LN-INITIAL-9&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="14.981" endTime="18.137">
+<Sync time="14.981"/>
+&lt;BN&gt; okay \\
+<Sync time="15.746"/>
+&lt;P&gt; do you have the numbers of the books that she wants \\
+</Turn>
+<Turn speaker="spk2" startTime="18.137" endTime="20.888">
+<Sync time="18.137"/>
+yeah they're all on fifty nine &lt;BN&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="20.888" endTime="27.513">
+<Sync time="20.888"/>
+&lt;BN&gt; okay give me one sec &lt;BN&gt; \\
+<Sync time="24.638"/>
+&lt;BN&gt; alright if they're all fifty nine then we can just \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="27.513" endTime="29.013">
+<Sync time="27.513"/>
+<Who nb="1"/>
+&lt;BN&gt; [os read eo] off the last three &lt;BN&gt;\\
+<Who nb="2"/>
+[os yes eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="29.013" endTime="31.81">
+<Sync time="29.013"/>
+&lt;BN&gt; nine sixty &lt;BN&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="31.81" endTime="32.373">
+<Sync time="31.81"/>
+okay &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="32.373" endTime="37.81">
+<Sync time="32.373"/>
+&lt;BN&gt; nine one four &lt;BN&gt; \\
+<Sync time="35.138"/>
+&lt;IR&gt; &lt;BN&gt; eight nine five \\
+</Turn>
+<Turn speaker="spk1" startTime="37.81" endTime="41.143">
+<Sync time="37.81"/>
+okay \\
+<Sync time="38.418"/>
+I'm gonna to put someone else on hold \\
+<Sync time="40.01"/>
+I'll be right back okay \\
+</Turn>
+<Turn speaker="spk2" startTime="41.143" endTime="41.706">
+<Sync time="41.143"/>
+&lt;P&gt; good &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="41.706" endTime="45.097">
+<Sync time="41.706"/>
+&lt;TN&gt; &lt;P&gt; \\
+<Sync time="44.237"/>
+okay &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="45.097" endTime="46.691">
+<Sync time="45.097"/>
+<Who nb="1"/>
+the last [os one was eo] \\
+<Who nb="2"/>
+[os and the last one eo] is \\
+</Turn>
+<Turn speaker="spk2" startTime="46.691" endTime="48.535">
+<Sync time="46.691"/>
+five &lt;P&gt; four nine \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="48.535" endTime="51.05">
+<Sync time="48.535"/>
+<Who nb="1"/>
+five four [os nine eo] \\
+<Who nb="2"/>
+[os and eo] eight nine five \\
+</Turn>
+<Turn speaker="spk1" startTime="51.05" endTime="52.206">
+<Sync time="51.05"/>
+eight nine five we got \\
+</Turn>
+<Turn speaker="spk2" startTime="52.206" endTime="53.253">
+<Sync time="52.206"/>
+&lt;P&gt; yeah &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="53.253" endTime="53.847">
+<Sync time="53.253"/>
+&lt;P&gt; okay \\
+</Turn>
+<Turn speaker="spk2" startTime="53.847" endTime="59.274">
+<Sync time="53.847"/>
+okay &lt;BN&gt; \\
+<Sync time="55.807"/>
+what uh are you ya- having a little trouble there with the telephone lines \\
+</Turn>
+<Turn speaker="spk1" startTime="59.274" endTime="60.633">
+<Sync time="59.274"/>
+&lt;BN&gt; no there's no trouble \\
+</Turn>
+<Turn speaker="spk2" startTime="60.633" endTime="63.008">
+<Sync time="60.633"/>
+oh &lt;BN&gt; \\ 
+<Sync time="61.758"/>
+how's your air conditioning \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="63.008" endTime="66.711">
+<Sync time="63.008"/>
+<Who nb="1"/>
+[os air condition is nice &lt;CHKL&gt; eo] \\
+<Who nb="2"/>
+[os &lt;G&gt; &lt;CHKL&gt; &lt;CHKL&gt; eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="66.711" endTime="69.836">
+<Sync time="66.711"/>
+&lt;CHKL&gt; it better be nice \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="69.836" endTime="71.164">
+<Sync time="69.836"/>
+<Who nb="1"/>
+[os yeah eo] \\
+<Who nb="2"/>
+[os it's hard eo] to get along \\
+</Turn>
+<Turn speaker="spk1" startTime="71.164" endTime="71.633">
+<Sync time="71.164"/>
+yeah \\
+</Turn>
+<Turn speaker="spk2" startTime="71.633" endTime="73.648">
+<Sync time="71.633"/>
+&lt;CHKL&gt; &lt;B&gt; have a nice day \\
+</Turn>
+<Turn speaker="spk1" startTime="73.648" endTime="74.382">
+<Sync time="73.648"/>
+you too &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="74.382" endTime="74.898">
+<Sync time="74.382"/>
+take care \\
+</Turn>
+<Turn speaker="spk1" startTime="74.898" endTime="76.498">
+<!--Michal Novemsky 12-April-2010 Changed endTime to 76.498 from 76.497 after editing .wav file -->
+<Sync time="74.898"/>
+bye bye &lt;BN&gt; \\
+</Turn>
+</Section>
+</Episode>
+</Trans>

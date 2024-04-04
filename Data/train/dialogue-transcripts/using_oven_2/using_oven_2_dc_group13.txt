@@ -1,0 +1,50 @@
+{"user": "Human", "index": 1, "text": "Hey Zara!", "intent": "Extend_greetings"}
+{"user": "Alien", "index": 1, "text": "Greetings, Michael.", "intent": "Extend_greetings"}
+{"user": "Human", "index": 1, "text": "Today, I will show you show how to bake bake using the oven.", "intent": "Inform_other"}
+{"user": "Alien", "index": 1, "text": "Shall we get started?", "intent": "Ask_get_started"}
+{"user": "Human", "index": 1, "text": "Yes, let's do this!", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 2, "text": " Here is the oven, and it is what we're going to use for this task. It is used to bake food.", "intent": "Inform_object"}
+{"user": "Human", "index": 2, "text": "The first step would be to open the oven.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 2, "text": "Ok, that makes sense.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 3, "text": "Now that you've opened the oven, you'll need some bread.", "intent": "Inform_next_step"}
+{"user": "Human", "index": 3, "text": "You can find some bread in the toaster right behind me.", "intent": "Inform_location"}
+{"user": "Alien", "index": 3, "text": "Is this the bread you mentioned?", "intent": "Ask_guidence"}
+{"user": "Human", "index": 3, "text": "Yeah, you've got it.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 4, "text": "Is it ok to take it from this appliance?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 4, "text": "yes, you can grab the bread from the toaster since it has not been toasted yet.", "intent": "Inform_action"}
+{"user": "Human", "index": 5, "text": "Now that you've got some bread, you'll want to place it in the oven.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 5, "text": "Got it.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 6, "text": "And then I put it in.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 6, "text": "Awesome job!", "intent": "Casual_response"}
+{"user": "Human", "index": 7, "text": "The next step would be to close the oven so that it can heat the bread.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 7, "text": "Oh, ok.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 7, "text": "Now you'll want to wait for the bread finish heating before opening the oven again. We'll give this some time.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 7, "text": "That makes sense.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 8, "text": "We've waited enough and the bread should be ready now.", "intent": "Inform_other"}
+{"user": "Human", "index": 8, "text": "Go ahead and open the oven so you can remove the bread from it. Careful with your hands since it is hot.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 8, "text": "I see it has changed color. Fascinating!", "intent": "Casual_observation"}
+{"user": "Human", "index": 9, "text": "when you're ready, grab the bread out of the oven.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 9, "text": "I'm ready now. Grabbing it.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 9, "text": "Oh! You didn't hurt yourself grabbing it, did you?", "intent": "Ask_okay"}
+{"user": "Alien", "index": 9, "text": "I am perfectly fine.", "intent": "Inform_condition"}
+{"user": "Human", "index": 10, "text": "Now that you're done baking the bread, please go ahead and shut the oven closed again.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 10, "text": "Oh, ok.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 11, "text": "Please, place the bread you're holding on the plate.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 11, "text": "I think I got it.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 11, "text": "The \"plate\"...", "intent": "Display_confusion"}
+{"user": "Human", "index": 11, "text": "Are you sure you've placed it in the plate? That was the pan.", "intent": "Ask_sure_about_action"}
+{"user": "Alien", "index": 11, "text": "Can you tell more about plates?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 11, "text": "Sure, I can describe it to you. A plate is a broad, mainly flat vessel on which food can be served unlike a pan which is used to cook food. ", "intent": "Ask_sure_about_action"}
+{"user": "Human", "index": 11, "text": "Do you need a better description or was that understandable enough?", "intent": "Ask_need_info"}
+{"user": "Alien", "index": 11, "text": "No. That was enough. Thank you.", "intent": "Yes-no_negative"}
+{"user": "Alien", "index": 12, "text": "Ok. I think I got it now.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 12, "text": "OK, give it a shot! I think you've got this, Zara!", "intent": "Ask_take_next_step"}
+{"user": "Alien", "index": 13, "text": "Is this a plate?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 13, "text": "Yes! That's it you've found a plate.", "intent": "Inform_other"}
+{"user": "Human", "index": 13, "text": "Do you recall what to do with that piece of bread in your hands?", "intent": "Ask_need_info"}
+{"user": "Alien", "index": 13, "text": "", "intent": "Yes-no_negative"}
+{"user": "Human", "index": 14, "text": "Awesome you've got it on the plate. ", "intent": "Inform_other"}
+{"user": "Human", "index": 14, "text": "I think you now know how to bake bread using an oven. You learn quick!", "intent": "Inform_other"}
+{"user": "Alien", "index": 14, "text": "Yay!", "intent": "Casual_response"}
+{"user": "Human", "index": 15, "text": "That was great! I hope you thought so too. See you later.", "intent": "Extend_goodbyes"}
+{"user": "Alien", "index": 15, "text": "Thank you. It indeed was great.", "intent": "Extend_goodbyes"}

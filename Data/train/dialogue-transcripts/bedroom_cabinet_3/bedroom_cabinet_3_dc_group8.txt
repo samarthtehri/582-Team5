@@ -1,0 +1,45 @@
+{"user": "Human", "index": 1, "text": "Hey, how are you doing today?", "intent": "Extend_greetings"}
+{"user": "Alien", "index": 1, "text": "I am good, how about you?", "intent": "Extend_greetings"}
+{"user": "Human", "index": 1, "text": "Great, thanks for asking", "intent": "Casual_response"}
+{"user": "Human", "index": 1, "text": "I feel like cleaning up my room.", "intent": "Inform_action"}
+{"user": "Human", "index": 1, "text": "Do you want to help me?", "intent": "Ask_want_help"}
+{"user": "Alien", "index": 1, "text": "I'm very happy to help you", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 1, "text": "How should I start?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 1, "text": "Follow me", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 1, "text": "Sure", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 2, "text": "is this the right place to start\uff1f", "intent": "Ask_about_location"}
+{"user": "Human", "index": 2, "text": "No", "intent": "Yes-no_negative"}
+{"user": "Human", "index": 3, "text": "Turn around", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 3, "text": "Ok, got it.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 3, "text": "What's next?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 3, "text": "Now pick up one of the toys from the shelf", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 3, "text": "Got it", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 3, "text": "Is this one Okay?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 3, "text": "Great", "intent": "Casual_response"}
+{"user": "Human", "index": 4, "text": "Follow me ", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 4, "text": "Okay", "intent": "Inform_understanding"}
+{"user": "Human", "index": 5, "text": "Now open up the cupboard below", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 5, "text": "Is this yellow box a cupboard?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 5, "text": "Yes", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 6, "text": "Now put the toy on the top shelf of the cupboard", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 6, "text": "Got it", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 6, "text": "I put it in", "intent": "Inform_condition"}
+{"user": "Human", "index": 6, "text": "Very good", "intent": "Casual_response"}
+{"user": "Human", "index": 7, "text": "Now let's go back to the bookshelf in the room", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 7, "text": "Okay", "intent": "Inform_understanding"}
+{"user": "Human", "index": 8, "text": "Pick up the toy from the bookshelf", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 8, "text": "Same as last time?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 8, "text": "Yes", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 8, "text": "Got it", "intent": "Inform_understanding"}
+{"user": "Human", "index": 9, "text": "Now follow me, let us put the toy back in the cupboard", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 9, "text": "Got it", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 10, "text": "What's next\uff1f", "intent": "Ask_next_step"}
+{"user": "Human", "index": 10, "text": "Now put the toy on the top shelf of the cupboard", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 10, "text": "Next to where we put last time?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 10, "text": "Yes", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 11, "text": "Very good, now close the cupboard", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 11, "text": "Okay", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 11, "text": "Are we done?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 11, "text": "Yes", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 11, "text": "Thank you so much for your help", "intent": "Casual_response"}
+{"user": "Alien", "index": 11, "text": "You are welcome", "intent": "Casual_response"}

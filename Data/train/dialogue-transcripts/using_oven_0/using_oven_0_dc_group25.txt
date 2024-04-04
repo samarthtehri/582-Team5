@@ -1,0 +1,59 @@
+{"user": "Human", "index": 1, "text": "Hello Zara! How are you doing today?", "intent": "Extend_greetings"}
+{"user": "Alien", "index": 1, "text": "Hello Michael, I am doing well.", "intent": "Extend_greetings"}
+{"user": "Human", "index": 1, "text": "Let's begin the task now.", "intent": "Inform_get_started"}
+{"user": "Human", "index": 1, "text": "Do you know where you need to go?", "intent": "Ask_know_location"}
+{"user": "Alien", "index": 1, "text": "Yes, I am going to the kitchen.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 1, "text": "Good, let's go there now.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 1, "text": "Okay!", "intent": "Inform_understanding"}
+{"user": "Human", "index": 2, "text": "This is the oven.", "intent": "Inform_object"}
+{"user": "Human", "index": 2, "text": "Do you know what to do next?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 2, "text": "Yes, I need to open the door.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 2, "text": "Yes, go ahead and do that.", "intent": "Ask_take_next_step"}
+{"user": "Alien", "index": 2, "text": "Okay, the oven is open.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 3, "text": "Do you know what we have to do now?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 3, "text": "Yes, we need the bread.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 3, "text": "Do you know where it is?", "intent": "Ask_know_location"}
+{"user": "Alien", "index": 3, "text": "It is in the toaster.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 3, "text": "Good, you should head over to the toaster now.", "intent": "Inform_action"}
+{"user": "Alien", "index": 3, "text": "Okay, I am at the toaster.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 4, "text": "Do you know what to do now?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 4, "text": "Yes, I need to take the bread from the toaster.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 4, "text": "That's right!", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 4, "text": "Okay, I am picking up the bread.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 5, "text": "Now that I have the bread, should I return to the oven?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 5, "text": "Yes, you should now walk back to the oven.", "intent": "Inform_action"}
+{"user": "Alien", "index": 5, "text": "Okay, I am on my way.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 6, "text": "Alright, do you know what's next?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 6, "text": "I think I need to put the bread into the oven.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 6, "text": "That's right, you may proceed.", "intent": "Inform_action"}
+{"user": "Alien", "index": 6, "text": "Okay, I have placed the bread in the oven.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 7, "text": "Do I need to close the door on the oven now?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 7, "text": "Yes, it is very important that you close the door before using the oven.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 7, "text": "Thank you, I will do that now.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 8, "text": "Now what?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 8, "text": "You need to wait for the oven to bake the bread. It will be done soon.", "intent": "Inform_action"}
+{"user": "Alien", "index": 8, "text": "Okay!", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 8, "text": "Should I open the oven now?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 8, "text": "Yes, the bread should be done now.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 8, "text": "Okay, I am opening the oven.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 9, "text": "You can take out the bread now, but be careful, because it might be hot.", "intent": "Inform_action"}
+{"user": "Alien", "index": 9, "text": "Okay, thank you for the warning.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 9, "text": "The bread is not hot, so I have taken it from the oven.", "intent": "Inform_observation"}
+{"user": "Human", "index": 9, "text": "Good job!", "intent": "Casual_observation"}
+{"user": "Alien", "index": 10, "text": "What do I have to do now?", "intent": "Inform_confused"}
+{"user": "Human", "index": 10, "text": "Remember to close the oven after you are done using it.", "intent": "Inform_action"}
+{"user": "Alien", "index": 10, "text": "Thank you, I will do that now!", "intent": "Inform_understanding"}
+{"user": "Human", "index": 11, "text": "Do you know what to do with the bread?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 11, "text": "Yes, I should put it on a plate.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 11, "text": "Do you know where the plates are?", "intent": "Ask_know_location"}
+{"user": "Alien", "index": 11, "text": "Yes, the plates are over there.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 11, "text": "Good, walk over to the plates.", "intent": "Inform_action"}
+{"user": "Alien", "index": 11, "text": "Okay, I am going there now.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 12, "text": "Should I set the bread on top of a plate now?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 12, "text": "That's right, go ahead.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 12, "text": "Okay!", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 13, "text": "Is there anything else I need to do?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 13, "text": "No, you have finished the task.", "intent": "Inform_action"}
+{"user": "Alien", "index": 13, "text": "Great!", "intent": "Inform_understanding"}
+{"user": "Human", "index": 13, "text": "You did a great job baking the bread! Goodbye!", "intent": "Extend_goodbyes"}
+{"user": "Alien", "index": 13, "text": "Thank you for being so helpful! See you soon!", "intent": "Extend_goodbyes"}

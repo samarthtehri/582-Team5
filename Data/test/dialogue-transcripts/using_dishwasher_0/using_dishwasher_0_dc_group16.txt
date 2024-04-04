@@ -1,0 +1,63 @@
+{"user": "Human", "index": 1, "text": "Hey, How are you doing today.", "intent": "Extend_greetings"}
+{"user": "Alien", "index": 1, "text": " Hi! I'm good, how are you? ", "intent": "Extend_greetings"}
+{"user": "Alien", "index": 1, "text": "What are we doing today? ", "intent": "Ask_about_action"}
+{"user": "Human", "index": 1, "text": "We are going to need to wash the plate before we can cook dinner.", "intent": "Inform_action"}
+{"user": "Alien", "index": 2, "text": "What do I have to do first?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 2, "text": "First we are going to need to clean the plate that the cupcake is on.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 2, "text": "Okay! Where is the plate?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 2, "text": "The plate is next to the computer. Lets go over to it.", "intent": "Inform_location"}
+{"user": "Alien", "index": 3, "text": "Is this the correct plate?", "intent": "Ask_guidence"}
+{"user": "Human", "index": 3, "text": "Yes, that is the correct plate. ", "intent": "Inform_object"}
+{"user": "Alien", "index": 3, "text": "What should I do with the plate?", "intent": "Ask_guidence"}
+{"user": "Human", "index": 3, "text": "Now you should pick up the plate.", "intent": "Inform_action"}
+{"user": "Alien", "index": 4, "text": "Okay! What should I do next?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 4, "text": "You need to take the plate to the dishwasher.", "intent": "Inform_action"}
+{"user": "Alien", "index": 4, "text": "Where is the dishwasher?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 4, "text": "The dishwasher is in the kitchen, to the right of the oven.", "intent": "Inform_location"}
+{"user": "Human", "index": 4, "text": "We can walk to the dishwasher now that you have the plate.", "intent": "Inform_action"}
+{"user": "Alien", "index": 4, "text": "Okay! Let's walk over to the dishwasher ", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 5, "text": "Is this the dishwasher?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 5, "text": "Yes! That is the dishwasher. ", "intent": "Inform_object"}
+{"user": "Human", "index": 5, "text": "Do you know how to use the dishwasher?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 5, "text": "No I don't. What do I have to do first?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 5, "text": "First you are going to want to grab the handle and open the dishwasher.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 5, "text": "Okay, I'll open it!", "intent": "Inform_understanding"}
+{"user": "Human", "index": 6, "text": "Now that the dishwasher is open, do you know what to do?", "intent": "Ask_know_action"}
+{"user": "Alien", "index": 6, "text": "Hmm maybe put the plate inside?", "intent": "Inform_observation"}
+{"user": "Human", "index": 6, "text": "Yes! You are going to want to put the plate in the dishwasher.", "intent": "Inform_action"}
+{"user": "Alien", "index": 6, "text": "Okay let me do it!", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 7, "text": "What do I do next?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 7, "text": "Once the plate is in the dishwasher, you need to close it.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 7, "text": "How do I close it?", "intent": "Inform_confused"}
+{"user": "Human", "index": 7, "text": "You are going to want to grab the same handle you used to open it, but you want to push it shut.", "intent": "Inform_action"}
+{"user": "Alien", "index": 8, "text": "Okay! What do I do now?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 8, "text": "Now that the dishwasher is closed, you need to start it.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 8, "text": "How do I start it?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 8, "text": "You can start the dishwasher by pressing the start button.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 8, "text": "Okay!", "intent": "Inform_understanding"}
+{"user": "Human", "index": 9, "text": "Now we need to wait for the dishwasher to run and then we can take the dish out.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 9, "text": "Okay, how do you take the dish out?", "intent": "Inform_confused"}
+{"user": "Human", "index": 9, "text": "You can take the dish out the same way you put it in, you first need to open the dishwasher again.", "intent": "Inform_action"}
+{"user": "Alien", "index": 9, "text": "I'll open it", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 10, "text": "What should I do now?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 10, "text": "Now you are going to want to take the dish out of the dishwasher", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 10, "text": "How do I take it out?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 10, "text": "You can take the dish out by grabbing it from where you left it.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 10, "text": "Okay I'll take it out!", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 11, "text": "What should I do next?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 11, "text": "Now that the dish is clean, you need to close the dishwasher again.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 11, "text": "Should I close it holding the handle?", "intent": "Ask_guidence"}
+{"user": "Human", "index": 11, "text": "Yes, you can close it with the same handle as earlier.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 12, "text": "What do I do next?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 12, "text": "Now we are going to need to put the plate down.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 12, "text": "Where should I put the plate?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 12, "text": "We can put the plate down at the dinner table.", "intent": "Inform_location"}
+{"user": "Alien", "index": 12, "text": "Okay! I'll walk over there ", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 13, "text": "What should I do now?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 13, "text": "Now you are going to place the plate on the table.", "intent": "Inform_action"}
+{"user": "Alien", "index": 13, "text": "Where should I put the plate?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 13, "text": "You can place the plate on the table in front of the empty seat.", "intent": "Inform_location"}
+{"user": "Alien", "index": 14, "text": "Did I do that correctly?", "intent": "Casual_question"}
+{"user": "Human", "index": 14, "text": "Yes you did, you have successfully cleaned the plate.", "intent": "Casual_response"}
+{"user": "Alien", "index": 14, "text": "Great! Thank you for teaching me today!", "intent": "Extend_goodbyes"}
+{"user": "Human", "index": 14, "text": "Good work, I am glad to help!", "intent": "Extend_goodbyes"}

@@ -1,0 +1,42 @@
+{"user": "Human", "index": 1, "text": "Hello Zara!", "intent": "Extend_greetings"}
+{"user": "Human", "index": 1, "text": "Do you want to learn how to cook with a stove?", "intent": "Ask_get_started"}
+{"user": "Alien", "index": 1, "text": "Yes I am hungry too! Let's do it!", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 2, "text": "To start off can you grab a pot?", "intent": "Inform_action"}
+{"user": "Alien", "index": 2, "text": "Sure thing. Where can I get a pot from?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 2, "text": "The pot is on the dining table behind us", "intent": "Inform_location"}
+{"user": "Alien", "index": 2, "text": "Okay, I see it.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 3, "text": "I see the pot", "intent": "Inform_observation"}
+{"user": "Human", "index": 3, "text": "Great, what do you think we should do with it?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 3, "text": "Pick it up?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 3, "text": "Yes, start with that", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 4, "text": "Good job, can you bring it back to the stove?", "intent": "Inform_action"}
+{"user": "Alien", "index": 4, "text": "Of course I can do that.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 4, "text": "But why do we even need a pot to use the stove?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 4, "text": "Well, we are only using the stove to provide heat and cook our food. But we need something to keep our food in and that's why we're using this pot", "intent": "Casual_response"}
+{"user": "Human", "index": 5, "text": "Now you can place it on the stove", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 5, "text": "Should I center it on the circles?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 5, "text": "Yes", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 5, "text": "Those are the stove coils, that is where the heat is produced", "intent": "Inform_object"}
+{"user": "Human", "index": 6, "text": "What do you think we should we do now?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 6, "text": "Should we heat it up?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 6, "text": "Very Good", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 6, "text": "Turn that dial to turn on the stove", "intent": "Inform_action"}
+{"user": "Human", "index": 7, "text": "Good job! Now we just wait and observe", "intent": "Casual_observation"}
+{"user": "Alien", "index": 7, "text": "So now do we just stand here and look at our food? When do we know what to do next?", "intent": "Display_confusion"}
+{"user": "Human", "index": 7, "text": "Those are good questions. We have to give it some time to cook so we can eat it later. Most importantly, we need to be alert to make sure our food doesn't get overcooked. ", "intent": "Casual_response"}
+{"user": "Alien", "index": 7, "text": "Sounds good, that is useful information. Please let me know when our food is cooked", "intent": "Inform_understanding"}
+{"user": "Human", "index": 8, "text": "The food is done cooking now", "intent": "Inform_object"}
+{"user": "Alien", "index": 8, "text": "What should we do then?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 8, "text": "We no longer need the stove hot, what do you think we should do?", "intent": "Ask_know_action"}
+{"user": "Alien", "index": 8, "text": "Turn off the dial", "intent": "Inform_understanding"}
+{"user": "Human", "index": 9, "text": "Great, now we can bring the food to where we eat", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 9, "text": "Okay, I'll start by grabbing the pot", "intent": "Inform_understanding"}
+{"user": "Human", "index": 10, "text": "Do you remember where we eat?", "intent": "Ask_need_info"}
+{"user": "Alien", "index": 10, "text": "In the kitchen?", "intent": "Inform_confused"}
+{"user": "Human", "index": 10, "text": "Yes, but specifically at the dining table.", "intent": "Inform_location"}
+{"user": "Alien", "index": 10, "text": "Ah, okay", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 11, "text": "So I just put it down here?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 11, "text": "Yes, that is where we eat, so it makes sense to have the food there.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 12, "text": "Okay, are you ready to eat now?", "intent": "Casual_question"}
+{"user": "Alien", "index": 12, "text": "I think I might go back to the stove and try cooking something else, if that is alright?", "intent": "Casual_question"}
+{"user": "Human", "index": 12, "text": "Sounds great!", "intent": "Yes-no_positive"}

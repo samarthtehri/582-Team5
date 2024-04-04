@@ -1,0 +1,34 @@
+{"user": "Human", "index": 1, "text": "Hey Zara!", "intent": "Extend_greetings"}
+{"user": "Alien", "index": 1, "text": "Hi Michael!", "intent": "Extend_greetings"}
+{"user": "Human", "index": 1, "text": "Are you ready to get started to clean the bathroom?", "intent": "Ask_get_started"}
+{"user": "Alien", "index": 1, "text": "Yes! Let's get some towels on to the cabinet", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 1, "text": "Okay, let's head to the bathroom then,", "intent": "Inform_location"}
+{"user": "Human", "index": 2, "text": "Do you know what to do next?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 2, "text": "Yes, I'll open the cabinets door first", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 2, "text": "Wow, Zara, that elasticity is not good for your back.", "intent": "Casual_observation"}
+{"user": "Alien", "index": 3, "text": "The towels are the these white fluffy sheets right?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 3, "text": "Correct!", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 4, "text": "Okay, then I'm just going to grab one of them right now", "intent": "Inform_observation"}
+{"user": "Human", "index": 4, "text": "How are you doing Zara?", "intent": "Ask_okay"}
+{"user": "Alien", "index": 4, "text": "Just fine Michael, thank you for asking", "intent": "Inform_condition"}
+{"user": "Human", "index": 5, "text": "Take the lead zara you know what to do", "intent": "Ask_take_next_step"}
+{"user": "Alien", "index": 5, "text": "I'm going to put on this middle cabinet", "intent": "Inform_understanding"}
+{"user": "Human", "index": 6, "text": "Be careful with your head, don't hit the door of the cabinet", "intent": "Casual_observation"}
+{"user": "Alien", "index": 6, "text": "Okay, got it!", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 6, "text": "Should I put it on the top shelf?", "intent": "Ask_guidence"}
+{"user": "Human", "index": 6, "text": "Yes, there's no problem", "intent": "Inform_action"}
+{"user": "Alien", "index": 7, "text": "What now?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 7, "text": "You can get another towel if you want", "intent": "Inform_next_step"}
+{"user": "Human", "index": 7, "text": "Okay, you can go ahead and pick another one", "intent": "Ask_take_next_step"}
+{"user": "Alien", "index": 8, "text": "Why are towel called towels?", "intent": "Casual_question"}
+{"user": "Human", "index": 8, "text": "Oh, it comes from the Proto-Germainic language, a word used for the verb \"to wash\"", "intent": "Casual_response"}
+{"user": "Human", "index": 8, "text": "Go ahead, pick the towel", "intent": "Ask_take_next_step"}
+{"user": "Alien", "index": 8, "text": "Okay", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 9, "text": "Should I put it on the same cabinet?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 9, "text": "Yes, go ahead", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 10, "text": "How are you doing?", "intent": "Ask_okay"}
+{"user": "Alien", "index": 10, "text": "I'm  doing fine! You've been helping me a lot", "intent": "Inform_condition"}
+{"user": "Human", "index": 11, "text": "Now, that we are done, don't forget to close the doors", "intent": "Inform_action"}
+{"user": "Alien", "index": 11, "text": "Okay, sounds good!", "intent": "Inform_understanding"}
+{"user": "Human", "index": 11, "text": "That was fun, bye bye zara!", "intent": "Extend_goodbyes"}
+{"user": "Alien", "index": 11, "text": "Bye Michael, that was a good time", "intent": "Extend_goodbyes"}

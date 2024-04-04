@@ -1,0 +1,831 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14-loqui.dtd">
+<Trans scribe="user" audio_filename="2.san" version="9" version_date="100228" corpus_version="2.0">
+<Speakers>
+<Speaker id="spk1" name="librarian#1" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="Caller#1" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="365.160">
+<Turn startTime="0" endTime="2.468" speaker="spk1">
+<Sync time="0"/>
+this is a library for the blind \\
+<Sync time="1.381"/>
+how can I help you \\
+</Turn>
+<Turn speaker="spk2" startTime="2.468" endTime="3.22">
+<Sync time="2.468"/>
+a- good morning \\
+</Turn>
+<Turn speaker="spk1" startTime="3.22" endTime="10.326">
+<Sync time="3.22"/>
+&lt;B&gt; good morning \\
+<Sync time="3.768"/>
+let me ask you a question \\
+<Sync time="4.865"/>
+&lt;P&gt; for the purpose of improving our service \\
+<Sync time="7.512"/>
+we would like to record this conversation \\
+<Sync time="9.397"/>
+is okay with you \\
+</Turn>
+<Turn speaker="spk2" startTime="10.326" endTime="11.004">
+<Sync time="10.326"/>
+thats fine \\
+</Turn>
+<Turn speaker="spk1" startTime="11.004" endTime="13.004">
+<Sync time="11.004"/>
+okay \\
+<Sync time="11.757"/>
+may I have your last name \\
+</Turn>
+<Turn speaker="spk2" startTime="13.004" endTime="15.215">
+<Sync time="13.004"/>
+&lt;LASTNAME&gt; &lt;TP&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="15.215" endTime="15.779">
+<Sync time="15.215"/>
+&lt;LN-INITIAL-1&gt; &lt;LN-INITIAL-2&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="15.779" endTime="17.361">
+<Sync time="15.779"/>
+&lt;LN-INITIAL-1&gt; &lt;LN-INITIAL-2&gt; &lt;LN-INITIAL-3&gt; &lt;LN-INITIAL-4&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="17.361" endTime="17.994">
+<Sync time="17.361"/>
+mmhm \\
+</Turn>
+<Turn speaker="spk2" startTime="17.994" endTime="19.030">
+<Sync time="17.994"/>
+&lt;LN-INITIAL-5&gt; &lt;LN-INITIAL-6&gt; &lt;LN-INITIAL-7&gt; &lt;LN-INITIAL-8&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="19.030" endTime="26.331">
+<Sync time="19.030"/>
+&lt;P&gt; \\
+<Sync time="20.533"/>
+okay \\
+<Sync time="20.938"/>
+&lt;P&gt; \\
+<Sync time="24.460"/>
+&lt;B&gt; &lt;LN-INITIAL-1&gt; &lt;LN-INITIAL-2&gt; &lt;LN-INITIAL-3&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="26.331" endTime="27.601">
+<Sync time="26.331"/>
+ahha \\
+<Sync time="27.007"/>
+&lt;LN-INITIAL-4&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="27.601" endTime="28.123">
+<Sync time="27.601"/>
+ahha \\
+</Turn>
+<Turn speaker="spk2" startTime="28.123" endTime="31.512">
+<Sync time="28.123"/>
+&lt;LN-INITIAL-5&gt; &lt;LN-INITIAL-6&gt; &lt;LN-INITIAL-7&gt; &lt;LN-INITIAL-8&gt; \\
+<Sync time="29.461"/>
+&lt;P&gt; &lt;B&gt; &lt;P&gt;\\
+</Turn>
+<Turn speaker="spk1" startTime="31.512" endTime="32.688">
+<Sync time="31.512"/>
+&lt;LN-INITIAL-7&gt; \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="32.688" endTime="34.315">
+<Sync time="32.688"/>
+<Who nb="1"/>
+[os &lt;LN-INITIAL-8&gt; eo] \\
+<Who nb="2"/>
+[os first eo] name is N \\
+</Turn>
+<Turn speaker="spk2" startTime="34.315" endTime="40.964">
+<Sync time="34.315"/>
+n- n- &lt;P&gt; no \\
+<Sync time="35.218"/>
+uh v- &lt;FN-INITIAL-1&gt; &lt;FIRSTNAME&gt; \\
+<Sync time="36.844"/>
+&lt;P&gt;
+<Sync time="37.560"/>
+but this is probably under my daughter \\
+<Sync time="38.869"/>
+her name is &lt;FULLNAME&gt; \\
+<Sync time="40.072"/>
+with a &lt;FN-INITIAL-1&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="40.964" endTime="49.843">
+<Sync time="40.964"/>
+okay let me do it again \\
+<Sync time="42.446"/>
+because &lt;P&gt; y- \\
+<Sync time="43.915"/>
+&lt;ST&gt; &lt;LN-INITIAL-2&gt; &lt;LN-INITIAL-3&gt; &lt;LN-INITIAL-4&gt; &lt;LN-INITIAL-5&gt; &lt;LN-INITIAL-6&gt; &lt;P&gt; &lt;LN-initials-7&gt; &lt;/ST&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="49.843" endTime="52.62">
+<Sync time="49.843"/>
+&lt;LN-INITIAL-7&gt; &lt;LN-INITIAL-8&gt; \\
+<Sync time="50.583"/>
+&lt;P&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="52.62" endTime="53.631">
+<Sync time="52.62"/>
+B like boy \\
+</Turn>
+<Turn speaker="spk2" startTime="53.631" endTime="62.289">
+<Sync time="53.631"/>
+D as in dog \\
+<Sync time="54.467"/>
+&lt;P&gt; \\
+<Sync time="57.429"/>
+&lt;LASTNAME&gt; \\
+<Sync time="58.405"/>
+&lt;P&gt; &lt;BN&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="62.289" endTime="68.269">
+<Sync time="62.289"/>
+&lt;ST&gt; /* hard to get */ &lt;/ST&gt; \\
+<Sync time="64.853"/>
+I'm sorry for giving &lt;P&gt; trouble but I can not find it \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="68.269" endTime="70.183">
+<Sync time="68.269"/>
+<Who nb="1"/>
+&lt;LN-INITIAL-1&gt; &lt;LN-INITIAL-2&gt; &lt;LN-INITIAL-3&gt; [os &lt;LN-INITIAL-4&gt; eo] \\
+<Who nb="2"/>
+[so one second eo] one second \\
+</Turn>
+<Turn speaker="spk1" startTime="70.183" endTime="71.571">
+<Sync time="70.183"/>
+&lt;LN-INITIAL-1&gt; &lt;LN-INITIAL-2&gt; &lt;LN-INITIAL-3&gt; &lt;LN-INITIAL-4&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="71.571" endTime="76.197">
+<Sync time="71.571"/>
+&lt;LN-INITIAL-5&gt; &lt;LN-INITIAL-6&gt; &lt;LN-INITIAL-7&gt; &lt;LN-INITIAL-8&gt; \\
+<Sync time="73.328"/>
+&lt;P&gt; N as in Nancy \\
+</Turn>
+<Turn speaker="spk1" startTime="76.197" endTime="76.65">
+<Sync time="76.197"/>
+&lt;B&gt; mm \\
+</Turn>
+<Turn speaker="spk2" startTime="76.65" endTime="78.234">
+<Sync time="76.65"/>
+&lt;P&gt; \\
+<Sync time="77.398"/>
+D as in dog \\
+</Turn>
+<Turn speaker="spk1" startTime="78.234" endTime="84.587">
+<Sync time="78.234"/>
+mmhm \\
+<Sync time="79.103"/>
+&lt;P&gt; \\
+<Sync time="82.060"/>
+um \\
+<Sync time="82.631"/>
+may I ask you \\
+<Sync time="83.222"/>
+where do you live \\
+</Turn>
+<Turn speaker="spk2" startTime="84.587" endTime="87.158">
+<Sync time="84.587"/>
+ &lt;TN&gt; ah &lt;TOWN&gt; \\
+<Sync time="85.536"/>
+&lt;ADDRESS-DIGIT-1&gt; &lt;ADDRESS-DIGIT-2&gt; &lt;ADDRESS-DIGIT-3&gt; &lt;STREETNAME&gt; street \\
+</Turn>
+<Turn speaker="spk1" startTime="87.158" endTime="89.307">
+<Sync time="87.158"/>
+okay and your telephone number \\
+</Turn>
+<Turn speaker="spk2" startTime="89.307" endTime="93.178">
+<Sync time="89.307"/>
+&lt;PHONE-DIGIT-1&gt; &lt;PHONE-DIGIT-2&gt; &lt;PHONE-DIGIT-3&gt; &lt;P&gt; &lt;PHONE-DIGIT-4&gt; &lt;PHONE-DIGIT-5&gt; &lt;PHONE-DIGIT-6&gt; &lt;P&gt; &lt;PHONE-DIGIT-7&gt; &lt;PHONE-DIGIT-8&gt; &lt;PHONE-DIGIT-9&gt; &lt;PHONE-DIGIT-10&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="93.178" endTime="100.628">
+<Sync time="93.178"/>
+&lt;P&gt; &lt;TP&gt; &lt;BN&gt; \\
+<Sync time="95.83"/>
+&lt;ST&gt; mmhm /* check the reference */ &lt;/ST&gt; \\ 
+<Sync time="98.413"/>
+sometime \\
+</Turn>
+<Turn speaker="spk2" startTime="100.628" endTime="103.871">
+<Sync time="100.628"/>
+&lt;B&gt; a she not too long ago uh \\
+<Sync time="102.365"/>
+taken books out \\
+</Turn>
+<Turn speaker="spk1" startTime="103.871" endTime="111.803">
+<Sync time="103.871"/>
+I know \\
+<Sync time="104.444"/>
+I know this is \\
+<Sync time="105.355"/>
+I can not find \\
+<Sync time="106.198"/>
+either I can not find it or \\
+<Sync time="107.767"/>
+&lt;P&gt; \\
+<Sync time="109.103"/>
+wait a second \\
+<Sync time="109.767"/>
+&lt;ST&gt; system is getting itself &lt;/ST&gt; \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="111.803" endTime="114.169">
+<Sync time="111.803"/>
+<Who nb="1"/>
+[os /* mm */ eo] the first name you said is &lt;FIRSTNAME&gt; \\
+<Who nb="2"/>
+[os don't eo] \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="114.169" endTime="115.414">
+<Sync time="114.169"/>
+<Who nb="1"/>
+yes [os with a &lt;FN-INITIAL-1&gt; eo] \\
+<Who nb="2"/>
+[os aaa eo] \\
+</Turn>
+<Turn speaker="spk1" startTime="115.414" endTime="115.620">
+<Sync time="115.414"/>
+okay \\
+</Turn>
+<Turn speaker="spk2" startTime="115.620" endTime="115.962">
+<Sync time="115.620"/>
+&lt;CT&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="115.962" endTime="120.32">
+<Sync time="115.962"/>
+okay \\
+<Sync time="116.309"/>
+through the phone we got it \\
+<Sync time="117.196"/>
+&lt;P&gt; \\
+<Sync time="118.46"/>
+okay \\
+<Sync time="118.812"/>
+everything was okay \\
+</Turn>
+<Turn speaker="spk2" startTime="120.32" endTime="126.783">
+<Sync time="120.32"/>
+okay &lt;B&gt; umm \\
+<Sync time="121.728"/>
+&lt;P&gt; \\
+<Sync time="122.514"/>
+this is this is our first time ever really \\
+<Sync time="124.851"/>
+um taking books out the library \\
+</Turn>
+<Turn speaker="spk1" startTime="126.783" endTime="127.34">
+<Sync time="126.783"/>
+ahha \\
+</Turn>
+<Turn speaker="spk2" startTime="127.34" endTime="131.705">
+<Sync time="127.34"/>
+and I wanted to return them \\
+<Sync time="129.482"/>
+because I think the is date August eighth \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="131.705" endTime="136.492">
+<Sync time="131.705"/>
+<Who nb="1"/>
+[os ahha eo] \\
+<Who nb="2"/>
+[os that eo] the book should be returned \\
+<Sync time="133.580"/>
+<Who nb="1"/>
+[os ahha eo] \\
+<Who nb="2"/>
+[os &lt;B&gt; she eo] also had one audio &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="136.492" endTime="137.791">
+<Sync time="136.492"/>
+umm cassette \\
+</Turn>
+<Turn speaker="spk1" startTime="137.791" endTime="138.266">
+<Sync time="137.791"/>
+ahha \\
+</Turn>
+<Turn speaker="spk2" startTime="138.266" endTime="140.276">
+<Sync time="138.266"/>
+&lt;B&gt; which was to one of the books \\
+</Turn>
+<Turn speaker="spk1" startTime="140.276" endTime="140.586">
+<Sync time="140.276"/>
+ahha \\
+</Turn>
+<Turn speaker="spk2" startTime="140.586" endTime="145.126">
+<Sync time="140.586"/>
+&lt;B&gt; did they say that they can be mailed \\
+<Sync time="143.022"/>
+&lt;P&gt; in a regular mail box or \\
+</Turn>
+<Turn speaker="spk1" startTime="145.126" endTime="148.679">
+<Sync time="145.126"/>
+yes \\
+<Sync time="145.426"/>
+the books and cassette \\
+<Sync time="146.691"/>
+the recorded books yes \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="148.679" endTime="150.900">
+<Sync time="148.679"/>
+<Who nb="1"/>
+okay so the [os recorded books eo] \\
+<Who nb="2"/>
+[os regular eo] books no \\
+</Turn>
+<Turn speaker="spk2" startTime="150.900" endTime="152.543">
+<Sync time="150.900"/>
+okay so the regular umm \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="152.543" endTime="161.503">
+<Sync time="152.543"/>
+<Who nb="1"/>
+the large print books [os they have to come &lt;P&gt; return those eo] \\
+<Who nb="2"/>
+[os you have to return /*those*/ eo] \\
+<Sync time="155.641"/>
+<Who nb="1"/>
+&lt;B&gt; but the one in the green little [os cassette the can eo] \\
+<Who nb="2"/>
+[os yes they can eo] \\
+<Sync time="158.315"/>
+<Who nb="1"/>
+be mailed [os in just regular mail box eo] \\
+<Who nb="2"/>
+[os mailed to you eo] returned by mail also \\
+</Turn>
+<Turn speaker="spk2" startTime="161.503" endTime="165.969">
+<Sync time="161.503"/>
+okay question because \\
+<Sync time="162.986"/>
+are your familiar with &lt;P&gt; \\
+<Sync time="164.533"/>
+library of congress \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="165.969" endTime="168.382">
+<Sync time="165.969"/>
+<Who nb="1"/>
+&lt;P&gt; [os yes eo] \\
+<Who nb="2"/>
+[os the eo] multi state center \\
+</Turn>
+<Turn speaker="spk1" startTime="168.382" endTime="168.873">
+<Sync time="168.382"/>
+yes \\
+</Turn>
+<Turn speaker="spk2" startTime="168.873" endTime="172.121">
+<Sync time="168.873"/>
+&lt;B&gt; these are two different &lt;P&gt; places right like \\
+</Turn>
+<Turn speaker="spk1" startTime="172.121" endTime="172.685">
+<Sync time="172.121"/>
+no &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="172.685" endTime="176.534">
+<Sync time="172.685"/>
+wha- wou- /* it is */ \\
+<Sync time="174.243"/>
+it is the place is is a storage place \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="176.534" endTime="178.964">
+<Sync time="176.534"/>
+<Who nb="1"/>
+the multi center this where we store [os books that eo] \\
+<Who nb="2"/>
+[os okay eo] \\
+</Turn>
+<Turn speaker="spk1" startTime="178.964" endTime="181.475">
+<Sync time="178.964"/>
+are below \\
+<Sync time="179.918"/>
+below fifty thousand \\
+</Turn>
+<Turn speaker="spk2" startTime="181.475" endTime="184.69">
+<Sync time="181.475"/>
+okay \\
+<Sync time="182.455"/>
+so I can just drop these in the mail \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="184.69" endTime="187.341">
+<Sync time="184.69"/>
+<Who nb="1"/>
+and it will take it back to the places [os in Cincinnati right eo] \\
+<Who nb="2"/>
+[os correct correct eo] \\
+</Turn>
+<Turn speaker="spk1" startTime="187.341" endTime="189.482">
+<Sync time="187.341"/>
+&lt;B&gt; this is what the address says in the back \\
+</Turn>
+<Turn speaker="spk2" startTime="189.482" endTime="194.199">
+<Sync time="189.482"/>
+okay how can I find out how many cassettes \\
+<Sync time="192.35"/>
+was in the case &lt;P&gt;\\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="194.199" endTime="198.216">
+<Sync time="194.199"/>
+<Who nb="1"/>
+&lt;B&gt; does is that what the indication [os one eo] \\
+<Who nb="2"/>
+[os it says eo] three C \\
+</Turn>
+<Turn speaker="spk1" startTime="198.216" endTime="199.336">
+<Sync time="198.216"/>
+or two C \\
+</Turn>
+<Turn speaker="spk2" startTime="199.336" endTime="200.433">
+<Sync time="199.336"/>
+or one \\
+</Turn>
+<Turn speaker="spk1" startTime="200.433" endTime="201.936">
+<Sync time="200.433"/>
+or one C \\
+<Sync time="201.220"/>
+mmhm \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="201.936" endTime="203.378">
+<Sync time="201.936"/>
+<Who nb="1"/>
+okay cause [os I have eo] \\
+<Who nb="2"/>
+[os you eo] know that we\\
+</Turn>
+<Turn speaker="spk1" startTime="203.378" endTime="206.935">
+<Sync time="203.378"/>
+every cassette has four sides \\
+<Sync time="205.081"/>
+&lt;P&gt; \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="206.935" endTime="214.239">
+<Sync time="206.935"/>
+<Who nb="1"/>
+every cassette has four [os sides &lt;B&gt; eo] \\
+<Who nb="2"/>
+[os yes eo] \\
+<Sync time="209.374"/>
+<Who nb="1"/>
+[os &lt;B&gt; eo] \\
+<Who nb="2"/>
+[os yes eo] \\
+<Sync time="209.874"/>
+<Who nb="1"/>
+well I would [os think two sides eo] \\
+<Who nb="2"/>
+[os &lt;NU&gt; eo] \\
+<Sync time="211.782"/>
+<Who nb="1"/>
+play on one side play on the other [os side eo]\\
+<Who nb="2"/>
+[os no no eo] no \\
+</Turn>
+<Turn speaker="spk1" startTime="214.239" endTime="226.283">
+<Sync time="214.239"/>
+every cassette will have four sides \\
+<Sync time="216.295"/>
+and you can play one and two \\
+<Sync time="218.064"/>
+&lt;P&gt; \\
+<Sync time="219.825"/>
+three and four \\
+<Sync time="220.638"/>
+&lt;P&gt; \\
+<Sync time="221.993"/>
+with it \\
+<Sync time="222.834"/>
+do you have eh \\
+<Sync time="223.348"/>
+do you have the machine by &lt;P&gt; \\
+<Sync time="225.557"/>
+close by \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="226.283" endTime="230.595">
+<Sync time="226.283"/>
+<Who nb="1"/>
+no not [os in front eo] of me \\
+<Who nb="2"/>
+[os okay eo] \\
+<Sync time="227.337"/>
+<Who nb="1"/>
+I'm at work [os now eo] \\
+<Who nb="2"/>
+[os okay eo] in the right hand side you will have \\
+</Turn>
+<Turn speaker="spk1" startTime="230.595" endTime="231.719">
+<Sync time="230.595"/>
+six buttons \\
+</Turn>
+<Turn speaker="spk2" startTime="231.719" endTime="232.417">
+<Sync time="231.719"/>
+&lt;P&gt; ahha \\
+</Turn>
+<Turn speaker="spk1" startTime="232.417" endTime="237.518">
+<Sync time="232.417"/>
+the middle one \\
+<Sync time="233.255"/>
+&lt;P&gt; \\
+<Sync time="234.122"/>
+has to be facing to the left \\
+<Sync time="236.006"/>
+&lt;P&gt; down to the left \\
+</Turn>
+<Turn speaker="spk2" startTime="237.518" endTime="238.166">
+<Sync time="237.518"/>
+mmhm \\
+</Turn>
+<Turn speaker="spk1" startTime="238.166" endTime="249.287">
+<Sync time="238.166"/>
+when you playing one and two \\
+<Sync time="239.645"/>
+&lt;P&gt; &lt;B&gt; when you finish that cassette \\
+<Sync time="242.366"/>
+one and two \\
+<Sync time="243.106"/>
+you put it again in one \\
+<Sync time="244.883"/>
+and move the switch to the le- the right \\
+<Sync time="247.54"/>
+this is three and four \\
+</Turn>
+<Turn speaker="spk2" startTime="249.287" endTime="249.734">
+<Sync time="249.287"/>
+ahha \\
+</Turn>
+<Turn speaker="spk1" startTime="249.734" endTime="252.6">
+<Sync time="249.734"/>
+and you will be able to listen the other part of the tape \\
+</Turn>
+<Turn speaker="spk2" startTime="252.6" endTime="261.345">
+<Sync time="252.6"/>
+okay \\
+<Sync time="253.244"/>
+but my concern right now is \\
+<Sync time="255.261"/>
+whats in the cassette \\
+<Sync time="256.282"/>
+I'm just trying to make sure that \\
+<Sync time="257.591"/>
+my daughter put everything that supposed to been back \\
+<Sync time="260.098"/>
+in the &lt;P&gt; green \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="261.345" endTime="262.722">
+<Sync time="261.345"/>
+<Who nb="1"/>
+the [os storage eo] box \\
+<Who nb="2"/>
+[os &lt;B&gt; eo] \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="262.722" endTime="263.012">
+<Sync time="262.722"/>
+<Who nb="1"/>
+[os yes eo] \\
+<Who nb="2"/>
+[os &lt;B&gt; eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="263.012" endTime="266.54">
+<Sync time="263.012"/>
+so I'm just trying \\
+<Sync time="264.092"/>
+I see that they have slots for two tapes \\
+</Turn>
+<Turn speaker="spk1" startTime="266.54" endTime="267.22">
+<Sync time="266.54"/>
+okay \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="267.22" endTime="276.257">
+<Sync time="267.22"/>
+<Who nb="1"/>
+but like one [os this eo] \\
+<Who nb="2"/>
+[os its eo ] okay \\
+<Sync time="269.660"/>
+<Who nb="1"/>
+this /* tippens */ and their [os problems eo] \\
+<Who nb="2"/>
+[os the th- eo] cassette wi- will be a number one C \\
+<Sync time="273.17"/>
+<Who nb="1"/>
+&lt;P&gt; well see on the box it [os says eo] one C \\
+<Who nb="2"/>
+[os yes eo] \\
+</Turn>
+<Turn speaker="spk1" startTime="276.257" endTime="277.687">
+<Sync time="276.257"/>
+in- &lt;IR&gt; on the side or \\
+</Turn>
+<Turn speaker="spk2" startTime="277.687" endTime="278.680">
+<Sync time="277.687"/>
+yes on the side \\
+</Turn>
+<Turn speaker="spk1" startTime="278.680" endTime="279.187">
+<Sync time="278.680"/>
+yes \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="279.187" endTime="281.328">
+<Sync time="279.187"/>
+<Who nb="1"/>
+is that mean there is only [os one cassette eo] \\
+<Who nb="2"/>
+[os only one eo] cassette \\
+</Turn>
+<Turn speaker="spk2" startTime="281.328" endTime="286.23">
+<Sync time="281.328"/>
+okay thats what I wanna make sure \\
+<Sync time="283.393"/>
+that I dont wanna mail them out \\
+<Sync time="284.974"/>
+and &lt;BN&gt; &lt;B&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="286.23" endTime="286.731">
+<Sync time="286.23"/>
+yes \\
+</Turn>
+<Turn speaker="spk2" startTime="286.731" endTime="288.47">
+<Sync time="286.731"/>
+this one has one &lt;IR&gt; cassette \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="288.47" endTime="290.887">
+<Sync time="288.47"/>
+<Who nb="1"/>
+[os mmhm eo] \\
+<Who nb="2"/>
+[os okay and eo] then one more has one C \\
+</Turn>
+<Turn speaker="spk2" startTime="290.887" endTime="292.428">
+<Sync time="290.887"/>
+but I see two cassettes in there \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="292.428" endTime="296.333">
+<Sync time="292.428"/>
+<Who nb="1"/>
+and I don't know if my daughter put [so this extra one or what eo] \\ 
+<Who nb="2"/>
+[os ohh &lt;P&gt; hold on one second eo] \\ 
+</Turn>
+<Turn speaker="spk1" startTime="296.333" endTime="303.109">
+<Sync time="296.333"/>
+&lt;TN&gt; Andrew Heiskell Library please hold \\
+<Sync time="299.054"/>
+&lt;BN&gt; ah the only thing I can do is check the title \\
+<Sync time="302.206"/>
+of that book \\
+</Turn>
+<Turn speaker="spk2" startTime="303.109" endTime="304.43">
+<Sync time="303.109"/>
+okay can you \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="304.43" endTime="305.207">
+<Sync time="304.43"/>
+<Who nb="1"/>
+[os the witches eo] \\
+<Who nb="2"/>
+[os okay eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="305.207" endTime="306.403">
+<Sync time="305.207"/>
+its called the witches \\
+</Turn>
+<Turn speaker="spk1" startTime="306.403" endTime="307.604">
+<Sync time="306.403"/>
+the witches &lt;CHKL&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="307.604" endTime="309.119">
+<Sync time="307.604"/>
+yes do you need uh \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="309.119" endTime="312.235">
+<Sync time="309.119"/>
+<Who nb="1"/>
+a number four six \\
+<Who nb="2"/>
+[os ah eo] \\
+<Sync time="310.838"/>
+<Who nb="1"/>
+[os two one eo] ah \\
+<Who nb="2"/>
+[os /* give */ me second eo] let me \\
+</Turn>
+<Turn speaker="spk2" startTime="312.235" endTime="313.674">
+<Sync time="312.235"/>
+okay &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="313.674" endTime="316.41">
+<Sync time="313.674"/>
+yes I need the number \\
+<Sync time="314.791"/>
+/* R C */ zero four \\
+</Turn>
+<Turn speaker="spk2" startTime="316.41" endTime="317.583">
+<Sync time="316.41"/>
+four six zero \\
+</Turn>
+<Turn speaker="spk1" startTime="317.583" endTime="318.005">
+<Sync time="317.583"/>
+mmhm \\
+</Turn>
+<Turn speaker="spk2" startTime="318.005" endTime="321.665">
+<Sync time="318.005"/>
+two one \\
+<Sync time="318.466"/>
+&lt;P&gt; &lt;TP&gt; &lt;BN&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="321.665" endTime="327.111">
+<Sync time="321.665"/>
+ahh &lt;NU&gt; coming up the witches here \\
+<Sync time="324.466"/>
+&lt;P&gt; thats probably she has it &lt;BN&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="327.111" endTime="337.153">
+<Sync time="327.111"/>
+I have tha- a that one cassette is in here \\
+<Sync time="329.63"/>
+but then she also has something thats C dash one \\
+<Sync time="332.442"/>
+and I don't know what that is \\
+<Sync time="333.65"/>
+I'm gonna try to put it in \\
+<Sync time="334.854"/>
+can this be played on a regular radio \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="337.153" endTime="340.799">
+<Sync time="337.153"/>
+<Who nb="1"/>
+um no can not be played in the regular cassette [so machine eo] &lt;P&gt; no \\
+<Who nb="2"/>
+[os &lt;B&gt; oh eo] cant be \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="340.799" endTime="342.803">
+<Sync time="340.799"/>
+<Who nb="1"/>
+ cause I would have [so put eo] \\ \\
+<Who nb="2"/>
+[os ummm eo] don't worry \\
+</Turn>
+<Turn speaker="spk1" startTime="342.803" endTime="346.547">
+<Sync time="342.803"/>
+I don't have that title here \\
+<Sync time="344.091"/>
+but uhh don't worry \\
+<Sync time="345.004"/>
+&lt;P&gt; just return it \\
+</Turn>
+<Turn speaker="spk2" startTime="346.547" endTime="347.898">
+<Sync time="346.547"/>
+I'm just going to return it \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="347.898" endTime="349.350">
+<Sync time="347.898"/>
+<Who nb="1"/>
+[os cause it says one C eo] \\
+<Who nb="2"/>
+[os yes mmhm &lt;TN&gt; eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="349.350" endTime="355.819">
+<Sync time="349.350"/>
+and &lt;B&gt; the witches it is here \\
+<Sync time="351.936"/>
+but she also got another &lt;P&gt; cassette in there \\
+<Sync time="354.509"/>
+I don't know &lt;CHKL&gt; what &lt;B&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="355.819" endTime="356.306">
+<Sync time="355.819"/>
+okay \\
+</Turn>
+<Turn speaker="spk2" startTime="356.306" endTime="359.982">
+<Sync time="356.306"/>
+okay so I'm going to just drop these in the mail \\
+<Sync time="357.917"/>
+and then I'm gonna have these delivered \\
+</Turn>
+<Turn speaker="spk1" startTime="359.982" endTime="360.402">
+<Sync time="359.982"/>
+yes \\
+</Turn>
+<Turn speaker="spk2" startTime="360.402" endTime="361.273">
+<Sync time="360.402"/>
+the books delivered \\
+</Turn>
+<Turn speaker="spk1" startTime="361.273" endTime="361.806">
+<Sync time="361.273"/>
+yes \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="361.806" endTime="363.048">
+<Sync time="361.806"/>
+<Who nb="1"/>
+okay thank [os you eo] so much \\
+<Who nb="2"/>
+[os okay eo] \\
+</Turn>
+<Turn speaker="spk1" startTime="363.048" endTime="363.628">
+<Sync time="363.048"/>
+you're welcome \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="363.628" endTime="365.160">
+<Sync time="363.628"/>
+<Who nb="1"/>
+[so okay bye bye eo] \\
+<Who nb="2"/>
+[so bye bye eo] \\
+</Turn>
+</Section>
+</Episode>
+</Trans>

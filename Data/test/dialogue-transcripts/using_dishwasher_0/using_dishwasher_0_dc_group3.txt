@@ -1,0 +1,51 @@
+{"user": "Human", "index": 1, "text": "Hey, would you like to make some dinner with me?", "intent": "Extend_greetings"}
+{"user": "Alien", "index": 1, "text": "Yes, I am quite hungry now", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 1, "text": "How do we cook?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 1, "text": "First we have to clean the plate. Lets clean the plate we used for cupcakes.", "intent": "Inform_action"}
+{"user": "Alien", "index": 1, "text": "Alright, sure", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 2, "text": "Where is the plate then?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 2, "text": "Oh its in the living room. Just follow me. ", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 2, "text": "Oh yeah, I remember eating the cupcake there", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 3, "text": "If I remember correctly, is this white dish the plate?", "intent": "Inform_understanding"}
+{"user": "Human", "index": 3, "text": "Yeah thats right!", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 3, "text": "Do you remember what to do with the plate?", "intent": "Ask_take_next_step"}
+{"user": "Alien", "index": 3, "text": "Indeed, we are going to clean it", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 3, "text": "Let me grab it real quick", "intent": "Inform_get_started"}
+{"user": "Alien", "index": 4, "text": "How are we supposed to clean this plate now?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 4, "text": "We can clean it by using the dishwasher.", "intent": "Inform_location"}
+{"user": "Alien", "index": 4, "text": "Let me guess, is the dishwasher in the kitchen?", "intent": "Inform_understanding"}
+{"user": "Human", "index": 4, "text": "Yes thats correct. Follow me.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 5, "text": "I see many instruments.", "intent": "Inform_observation"}
+{"user": "Alien", "index": 5, "text": "Which one is the dishwasher", "intent": "Ask_about_object"}
+{"user": "Human", "index": 5, "text": "The dishwasher is the large black appliance under the table. ", "intent": "Inform_object"}
+{"user": "Alien", "index": 5, "text": "Ok, how do I use the dishwasher", "intent": "Ask_about_object"}
+{"user": "Human", "index": 5, "text": "First open the dishwasher so you can place the plate inside it. ", "intent": "Inform_action"}
+{"user": "Alien", "index": 6, "text": "I believe I should put the plate into the dishwasher now.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 6, "text": "Yeah thats correct.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 6, "text": "Cool, on it", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 7, "text": "Are we done now?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 7, "text": "Now you need to close it so the dishwasher can clean the plate.", "intent": "Inform_action"}
+{"user": "Alien", "index": 7, "text": "Got it, I'll close it real quick", "intent": "Inform_get_started"}
+{"user": "Alien", "index": 8, "text": "Is the plate getting cleaned now?", "intent": "Explain_confused"}
+{"user": "Human", "index": 8, "text": "No. You need to turn the dishwasher on first to clean it. ", "intent": "Yes-no_negative"}
+{"user": "Human", "index": 8, "text": "Do you know how to turn it on? ", "intent": "Ask_take_next_step"}
+{"user": "Alien", "index": 8, "text": "I'm guessing I should press a button like the TV", "intent": "Inform_understanding"}
+{"user": "Human", "index": 8, "text": "Yes, you are correct.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 9, "text": "The dishwasher is done now. The plate is cleaned.", "intent": "Inform_object"}
+{"user": "Alien", "index": 9, "text": "Oh that was quick", "intent": "Inform_observation"}
+{"user": "Alien", "index": 9, "text": "Shall I remove the plate now?", "intent": "Ask_get_started"}
+{"user": "Human", "index": 9, "text": "Yeah", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 10, "text": "Oh the plate is shiny but wet", "intent": "Inform_observation"}
+{"user": "Human", "index": 10, "text": "Yeah, the dishwasher cleans plates very well. ", "intent": "Casual_response"}
+{"user": "Alien", "index": 11, "text": "Lets make food now!", "intent": "Ask_get_started"}
+{"user": "Human", "index": 11, "text": "Oh you forgot to close the dishwasher. ", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 11, "text": "My bad, I'll close it now", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 12, "text": "Are we eating here with this plate?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 12, "text": "Yeah, just bring the plate to the table right behind you. ", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 12, "text": "Okay", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 13, "text": "Where on the table shall I keep it?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 13, "text": "Uh you can just place the plate right in front of an empty seat. ", "intent": "Inform_object"}
+{"user": "Alien", "index": 13, "text": "Okay sure.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 14, "text": "Good job, now lets eat dinner!", "intent": "Extend_goodbyes"}
+{"user": "Alien", "index": 14, "text": "Alright", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 14, "text": "All this work has me hungry", "intent": "Inform_condition"}

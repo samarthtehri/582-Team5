@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14-loqui.dtd">
+<Trans scribe="Daveman" audio_filename="69" version="3" version_date="080827" corpus_version="2.0">
+<Speakers>
+<Speaker id="spk1" name="librarian#2" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="caller#1" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="research-header-info" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk4" name="non-speaking-librarian-activity#2" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="55.125">
+<Turn startTime="0" endTime="4.438" speaker="spk3">
+<Sync time="0"/>
+note verbal consent given but not part of extracted file \\
+</Turn>
+<Turn speaker="spk2" startTime="4.438" endTime="5.361">
+<Sync time="4.438"/>
+&lt;LN-INITIAL-1&gt; &lt;LN-INITIAL-2&gt; &lt;LN-INITIAL-3&gt; &lt;LN-INITIAL-4&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="5.361" endTime="6.625">
+<Sync time="5.361"/>
+and the first name is \\
+</Turn>
+<Turn speaker="spk2" startTime="6.625" endTime="8.962">
+<Sync time="6.625"/>
+&lt;FIRSTNAME&gt; &lt;FN-INITIAL-1&gt; &lt;FN-INITIAL-2&gt; &lt;FN-INITIAL-3&gt; &lt;FN-INITIAL-4&gt; &lt;FN-INITIAL-5&gt; &lt;FN-INITIAL-6&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="8.962" endTime="11.078">
+<Sync time="8.962"/>
+&lt;BN&gt; I'm sorry there's screeching wheels here &lt;BN&gt; \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="11.078" endTime="12.093">
+<Sync time="11.078"/>
+<Who nb="1"/>
+[os &lt;CHKL&gt; eo] \\
+<Who nb="2"/>
+[os &lt;CHKL&gt; eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="12.093" endTime="12.859">
+<Sync time="12.093"/>
+&lt;CHKL&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="12.859" endTime="14.062">
+<Sync time="12.859"/>
+&lt;BN&gt; that's /* bad */ &lt;CHKL&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="14.062" endTime="15.577">
+<Sync time="14.062"/>
+oh my goodness \\
+</Turn>
+<Turn speaker="spk1" startTime="15.577" endTime="17.827">
+<Sync time="15.577"/>
+okay &lt;B&gt; and what would you like &lt;BN&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="17.827" endTime="23.563">
+<Sync time="17.827"/>
+um \\
+<Sync time="18.905"/>
+R C &lt;P&gt; &lt;BN&gt; five six three eight one \\
+</Turn>
+<Turn speaker="spk1" startTime="23.563" endTime="26.172">
+<Sync time="23.563"/>
+okay &lt;P&gt; \\
+<Sync time="25.266"/>
+just the one title \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="26.172" endTime="27.726">
+<Sync time="26.172"/>
+<Who nb="1"/>
+a- no [os um eo] \\
+<Who nb="2"/>
+[os okay eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="27.726" endTime="31.729">
+<Sync time="27.726"/>
+&lt;P&gt; five six nine three six \\
+</Turn>
+<Turn speaker="spk1" startTime="31.729" endTime="33.517">
+<Sync time="31.729"/>
+mmhm &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="33.517" endTime="39.048">
+<Sync time="33.517"/>
+and &lt;P&gt; \\
+<Sync time="35.251"/>
+five seven &lt;BN&gt; three five three \\
+</Turn>
+<Turn speaker="spk1" startTime="39.048" endTime="39.97">
+<Sync time="39.048"/>
+okay \\
+</Turn>
+<Turn speaker="spk2" startTime="39.97" endTime="40.877">
+<Sync time="39.97"/>
+that's it \\
+</Turn>
+<Turn speaker="spk1" startTime="40.877" endTime="46.033">
+<Sync time="40.877"/>
+okay I'll try to get those out \\
+<Sync time="42.278"/>
+if not I'll put them on the reserve list \\
+<Sync time="44.018"/>
+and then you'll get them when &lt;B&gt; those copies come in \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="46.033" endTime="48.032">
+<Sync time="46.033"/>
+<Who nb="1"/>
+okay thanks [os so much eo] \\
+<Who nb="2"/>
+[os you're eo] welcome \\
+<Sync time="47.549"/>
+<Who nb="1"/>
+[os bye eo] \\
+<Who nb="2"/>
+[os good bye eo] \\
+</Turn>
+<Turn speaker="spk4" startTime="48.032" endTime="55.125">
+<Sync time="48.032"/>
+&lt;TN&gt; &lt;TN&gt; &lt;TN&gt; \\
+</Turn>
+</Section>
+</Episode>
+</Trans>

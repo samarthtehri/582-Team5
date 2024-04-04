@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14-loqui.dtd">
+<Trans scribe="Kenneth" audio_filename="14" version="10" version_date="100426" corpus_version="2.0">
+<Speakers>
+<Speaker id="spk1" name="librarian#1" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="caller#1" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="465.550">
+<Turn startTime="0" endTime="0.612">
+<Sync time="0"/>
+ \\
+</Turn>
+<Turn speaker="spk1" startTime="0.612" endTime="4.932">
+<Sync time="0.612"/>
+&lt;B&gt; and I just need verbal affirmation \\
+<Sync time="2.705"/>
+from you that you're okay with this call being recorded \\
+</Turn>
+<Turn speaker="spk2" startTime="4.932" endTime="7.717">
+<Sync time="4.932"/>
+&lt;B&gt; my goodness is this because of Washington \\
+</Turn>
+<Turn speaker="spk1" startTime="7.717" endTime="18.311">
+<Sync time="7.717"/>
+&lt;B&gt; no it's because they're trying to develop a better automated system \\
+<Sync time="11.894"/>
+so they want some real life &lt;P&gt; reference calls &lt;P&gt; \\
+<Sync time="15.442"/>
+on which to base uh the whole system on &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="18.311" endTime="21.503">
+<Sync time="18.311"/>
+uh huh \\ 
+<Sync time="19.602"/>
+&lt;B&gt; well I I don't mind \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="21.503" endTime="23.782">
+<Sync time="21.503"/>
+<Who nb="1"/>
+I mean [os I I have eo] nothing to hide \\
+<Who nb="2"/>
+[os okay eo] \\
+</Turn>
+<Turn speaker="spk1" startTime="23.782" endTime="32.39">
+<Sync time="23.782"/>
+right well if you want to change your mind like I said I can give you a phone number \\
+<Sync time="27.802"/>
+&lt;IR&gt; but &lt;IR&gt; it's just so that they can &lt;P&gt; \\
+<Sync time="30.678"/>
+like I said develop a better system \\
+</Turn>
+<Turn speaker="spk2" startTime="32.39" endTime="34.982">
+<Sync time="32.39"/>
+no thank you \\
+<Sync time="33.25"/>
+I have enough trouble seeing \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="34.982" endTime="38.363">
+<Sync time="34.982"/>
+<Who nb="1"/>
+&lt;CHKL&gt; the books I wanted [os in case eo] I want \\
+<Who nb="2"/>
+[os right right eo] \\
+<Sync time="37.379"/>
+<Who nb="1"/>
+to [os order eo] \\
+<Who nb="2"/>
+[os okay eo] \\
+</Turn>
+<Turn speaker="spk1" startTime="38.363" endTime="40.905">
+<Sync time="38.363"/>
+ma'am I want to put someone else on hold \\
+<Sync time="39.798"/>
+I'll be right back okay \\
+</Turn>
+<Turn speaker="spk2" startTime="40.905" endTime="41.461">
+<Sync time="40.905"/>
+you bet \\
+</Turn>
+<Turn speaker="spk1" startTime="41.461" endTime="44.863">
+<Sync time="41.461"/>
+miss \\
+<Sync time="42.915"/>
+&lt;P&gt; ma'am \\
+</Turn>
+<Turn speaker="spk2" startTime="44.863" endTime="45.462">
+<Sync time="44.863"/>
+yes \\
+</Turn>
+<Turn speaker="spk1" startTime="45.462" endTime="46.776">
+<Sync time="45.462"/>
+okay \\
+<Sync time="46.098"/>
+we're good to go \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="46.776" endTime="49.278">
+<Sync time="46.776"/>
+<Who nb="1"/>
+&lt;B&gt; oh uh you- you're ready [os now eo] \\
+<Who nb="2"/>
+[os yeah eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="49.278" endTime="59.821">
+<Sync time="49.278"/>
+&lt;B&gt; alright \\
+<Sync time="50.181"/>
+&lt;B&gt; uh I have just finished the um &lt;B&gt; \\
+<Sync time="53.624"/>
+&lt;P&gt; first two volumes of um &lt;B&gt; Prousts um &lt;P&gt; &lt;B&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="59.821" endTime="61.012">
+<Sync time="59.821"/>
+Remembrance of Things Past \\
+</Turn>
+<Turn speaker="spk2" startTime="61.012" endTime="61.708">
+<Sync time="61.012"/>
+yes \\
+</Turn>
+<Turn speaker="spk1" startTime="61.708" endTime="62.078">
+<Sync time="61.708"/>
+okay \\
+</Turn>
+<Turn speaker="spk2" startTime="62.078" endTime="71.303">
+<Sync time="62.078"/>
+&lt;B&gt; now \\
+<Sync time="62.902"/>
+I'm go- about to mail them back \\
+<Sync time="64.973"/>
+&lt;B&gt; uh I don't know what follows \\
+<Sync time="67.853"/>
+are there how many more there are \\
+<Sync time="69.805"/>
+and what they are \\
+</Turn>
+<Turn speaker="spk1" startTime="71.303" endTime="73.126">
+<Sync time="71.303"/>
+okay what is your name \\
+</Turn>
+<Turn speaker="spk2" startTime="73.126" endTime="74.724">
+<Sync time="73.126"/>
+&lt;FIRSTNAME&gt; &lt;LASTNAME&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="74.724" endTime="77.617">
+<Sync time="74.724"/>
+&lt;LN-INITIAL-1&gt; &lt;LN-INITIAL-2&gt; &lt;LN-INITIAL-3&gt; &lt;LN-INITIAL-4&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="77.617" endTime="79.095">
+<Sync time="77.617"/>
+&lt;LN-INITIAL-5&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="79.095" endTime="91.081">
+<Sync time="79.095"/>
+okay \\
+<Sync time="79.796"/>
+&lt;P&gt; &lt;BN&gt; &lt;CT&gt; \\
+<Sync time="82.55"/>
+&lt;BN&gt; &lt;TP&gt; &lt;P&gt; \\
+<Sync time="88.412"/>
+it looks like there's a three volumes total \\
+</Turn>
+<Turn speaker="spk2" startTime="91.081" endTime="95.583">
+<Sync time="91.081"/>
+&lt;P&gt; oh uh &lt;P&gt; you mean then I have one to go is that it \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="95.583" endTime="98.456">
+<Sync time="95.583"/>
+<Who nb="1"/>
+[os mmm eo] \\
+<Who nb="2"/>
+[os &lt;P&gt; because I eo] finished two \\
+</Turn>
+<Turn speaker="spk1" startTime="98.456" endTime="105.35">
+<Sync time="98.456"/>
+&lt;P&gt; in the \\
+<Sync time="100.465"/>
+the book that you read \\
+<Sync time="102.108"/>
+&lt;P&gt; uh I'll read you the description of the first one okay \\
+</Turn>
+<Turn speaker="spk2" startTime="105.35" endTime="105.842">
+<Sync time="105.35"/>
+yes \\
+</Turn>
+<Turn speaker="spk1" startTime="105.842" endTime="111.276">
+<Sync time="105.842"/>
+it says part one \\
+<Sync time="106.947"/>
+Swann's Way covers Marcel's youth and the love story of M Swann \\ <!-- Eddie Kang 26-April-2010 changed "Swannns"/"Marcels"/"swann" to "Swann's"/"Marcel's"/"Swann" -->
+</Turn>
+<Turn speaker="spk1 spk2" startTime="111.276" endTime="112.179">
+<Sync time="111.276"/>
+<Who nb="1"/>
+[os part two eo] \\
+<Who nb="2"/>
+[os yeah eo] \\
+</Turn>
+<Turn speaker="spk1" startTime="112.179" endTime="116.408">
+<Sync time="112.179"/>
+Within a Building Grove covers Marcel's boyish affair with Gilberte \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="116.408" endTime="120.494">
+<Sync time="116.408"/>
+<Who nb="1"/>
+[os yes eo] \\
+<Who nb="2"/>
+[os and eo] he goes off to the seaside for his health \\
+<Sync time="118.481"/>
+<Who nb="1"/>
+[os yes eo] \\
+<Who nb="2"/>
+[os did eo] you read anything past that \\
+</Turn>
+<Turn speaker="spk2" startTime="120.494" endTime="121.173">
+<Sync time="120.494"/>
+no \\
+</Turn>
+<Turn speaker="spk1" startTime="121.173" endTime="127.523">
+<Sync time="121.173"/>
+okay \\
+<Sync time="121.646"/>
+so there i- \\
+<Sync time="122.182"/>
+&lt;P&gt; that \\
+<Sync time="123.271"/>
+that one book \\
+<Sync time="124.421"/>
+is actually just eight \\
+<Sync time="126.187"/>
+eight cassettes \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="127.523" endTime="130.089">
+<Sync time="127.523"/>
+<Who nb="1"/>
+&lt;P&gt; [os so eo] the second book is nine cassettes \\
+<Who nb="2"/>
+[os yes eo] \\
+</Turn>
+<Turn speaker="spk1" startTime="130.089" endTime="131.424">
+<Sync time="130.089"/>
+and the third is eight \\
+</Turn>
+<Turn speaker="spk2" startTime="131.424" endTime="136.398">
+<Sync time="131.424"/>
+&lt;B&gt; oh my goodness \\
+<Sync time="133.006"/>
+I have two to go \\
+<Sync time="134.261"/>
+&lt;B&gt; what is the third then \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="136.398" endTime="143.548">
+<Sync time="136.398"/>
+<Who nb="1"/>
+&lt;P&gt; [os what is the name eo] \\
+<Who nb="2"/>
+[os it's it's just called eo] Remembrance of the Things \\
+<Sync time="139.085"/>
+<Who nb="1"/>
+&lt;B&gt; [os oh it's just a continu- &lt;B&gt; eo] \\
+<Who nb="2"/>
+[os Remembrance of Things Past eo] volumes one two and three &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="143.548" endTime="151.362">
+<Sync time="143.548"/>
+oh \\
+<Sync time="144.619"/>
+&lt;B&gt; ih \\
+<Sync time="145.234"/>
+&lt;B&gt; well I don't quite understand uh &lt;B&gt; \\
+<Sync time="147.514"/>
+I got the first and second volumes and there were four \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="151.362" endTime="154.014">
+<Sync time="151.362"/>
+<Who nb="1"/>
+&lt;P&gt; cassettes in [os each one eo] \\
+<Who nb="2"/>
+[os well I eo] umm \\
+</Turn>
+<Turn speaker="spk1" startTime="154.014" endTime="159.147">
+<Sync time="154.014"/>
+volume one is actu- &lt;P&gt; \\
+<Sync time="156.334"/>
+this this eight cassettes in volume one \\
+</Turn>
+<Turn speaker="spk2" startTime="159.147" endTime="161.44">
+<Sync time="159.147"/>
+well it's four but they're double \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="161.44" endTime="162.734">
+<Sync time="161.44"/>
+<Who nb="1"/>
+you [os know eo] \\
+<Who nb="2"/>
+[os right eo] right \\
+</Turn>
+<Turn speaker="spk1" startTime="162.734" endTime="174.853">
+<Sync time="162.734"/>
+&lt;P&gt; so what happened was because volume one was so big they just \\
+<Sync time="166.744"/>
+it can't fit on &lt;P&gt; less than eight cassettes \\
+<Sync time="169.501"/>
+so \\
+<Sync time="170.588"/>
+all those eight cassettes that you listened to are collectively known as volume one \\
+</Turn>
+<Turn speaker="spk2" startTime="174.853" endTime="179.614">
+<Sync time="174.853"/>
+&lt;B&gt; \\
+<Sync time="175.56"/>
+yes and now there's a just umm &lt;B&gt; \\
+<Sync time="178.195"/>
+what is the next \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="179.614" endTime="184.156">
+<Sync time="179.614"/>
+<Who nb="1"/>
+uh uh installment [os &lt;NU&gt; eo] \\
+<Who nb="2"/>
+[os it's called eo] Remembrance of Things Past Volume Two \\
+</Turn>
+<Turn speaker="spk1" startTime="184.156" endTime="188.53">
+<Sync time="184.156"/>
+and that will be total nine cassettes &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="188.53" endTime="190.181">
+<Sync time="188.53"/>
+I see \\
+<Sync time="189.337"/>
+&lt;B&gt; well \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="190.181" endTime="193.492">
+<Sync time="190.181"/>
+<Who nb="1"/>
+I I know that comes from [os Cincinnati doesn't eo] it \\
+<Who nb="2"/>
+[os yeah eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="193.492" endTime="197.225">
+<Sync time="193.492"/>
+so \\
+<Sync time="193.781"/>
+&lt;B&gt; so it will take time \\
+<Sync time="194.919"/>
+&lt;B&gt; will you please put me down for that \\
+</Turn>
+<Turn speaker="spk1" startTime="197.225" endTime="205.172">
+<Sync time="197.225"/>
+okay &lt;P&gt; \\
+<Sync time="198.662"/>
+should I just order volume three also \\
+<Sync time="200.819"/>
+so you don't have to order it again \\
+<Sync time="202.457"/>
+when you're done with volume two \\
+<Sync time="203.78"/>
+&lt;TP&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="205.172" endTime="209.989">
+<Sync time="205.172"/>
+ &lt;B&gt; uh \\
+<Sync time="206.96"/>
+&lt;P&gt; &lt;B&gt; &lt;CHKL&gt; that mixes me up \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="209.989" endTime="210.672">
+<Sync time="209.989"/>
+<Who nb="1"/>
+[os &lt;B&gt; ah eo] \\
+<Who nb="2"/>
+[os okay alright eo] \\
+</Turn>
+<Turn speaker="spk1" startTime="210.672" endTime="212.069">
+<Sync time="210.672"/>
+I'll just order volume two then \\
+</Turn>
+<Turn speaker="spk2" startTime="212.069" endTime="217.864">
+<Sync time="212.069"/>
+no wait a minute \\
+<Sync time="212.965"/>
+&lt;B&gt; what I mean by that is \\
+<Sync time="214.826"/>
+&lt;B&gt; ah ah i- I have volumes one and two \\
+</Turn>
+<Turn speaker="spk1" startTime="217.864" endTime="219.07">
+<Sync time="217.864"/>
+okay \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="219.07" endTime="223.646">
+<Sync time="219.07"/>
+<Who nb="1"/>
+&lt;P&gt; &lt;B&gt; there there're a total [os of eo] \\ <!-- Eddie Kang 26-April-2010 changed "there there" to "there there're" -->
+<Who nb="2"/>
+[os umm eo] in the \\
+</Turn>
+<Turn speaker="spk1" startTime="223.646" endTime="230.797">
+<Sync time="223.646"/>
+in the book description \\
+<Sync time="225.251"/>
+&lt;B&gt; it says volume one has \\
+<Sync time="228.682"/>
+let's let's call them part one and two \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="230.797" endTime="232.59">
+<Sync time="230.797"/>
+<Who nb="1"/>
+yes I have [os Swann's eo] Way \\ <!-- Eddie Kang 26-April-2010 changed "Swanns" to "Swann's" -->
+<Who nb="2"/>
+[os yeah eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="232.59" endTime="233.219">
+<Sync time="232.59"/>
+&lt;B&gt; and then \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="233.219" endTime="237.644">
+<Sync time="233.219"/>
+<Who nb="1"/>
+then the second [os volume eo] \\
+<Who nb="2"/>
+[os Within eo] a Budding Grove \\
+<Sync time="235.842"/>
+<Who nb="1"/>
+Within a Budding [os Grove eo] \\
+<Who nb="2"/>
+[os okay eo] \\
+</Turn>
+<Turn speaker="spk1" startTime="237.644" endTime="238.588">
+<Sync time="237.644"/>
+so \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="238.588" endTime="240.629">
+<Sync time="238.588"/>
+<Who nb="1"/>
+then it goes on [os to eo] \\
+<Who nb="2"/>
+[os then eo] they'll be \\
+</Turn>
+<Turn speaker="spk1" startTime="240.629" endTime="248.372">
+<Sync time="240.629"/>
+part three is the &lt;P&gt; \\
+<Sync time="243.449"/>
+Guermantes Way \\
+<Sync time="245.19"/>
+and part four is Cities of the Plain \\
+<Sync time="247.276"/>
+that will come together \\
+</Turn>
+<Turn speaker="spk2" startTime="248.372" endTime="250.093">
+<Sync time="248.372"/>
+&lt;B&gt; oh I see \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="250.093" endTime="251.788">
+<Sync time="250.093"/>
+<Who nb="1"/>
+[os for a total of eo] \\
+<Who nb="2"/>
+[os do you want me to send that eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="251.788" endTime="252.849">
+<Sync time="251.788"/>
+of &lt;B&gt; \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="252.849" endTime="256.435">
+<Sync time="252.849"/>
+<Who nb="1"/>
+[os uh eo] \\
+<Who nb="2"/>
+[os four eo] parts \\
+<Sync time="254.436"/>
+<Who nb="1"/>
+four [os parts eo] \\
+<Who nb="2"/>
+[os yeah eo] \\
+</Turn>
+<Turn speaker="spk1" startTime="256.435" endTime="259.087">
+<Sync time="256.435"/>
+but part three and four are considered the same book \\
+</Turn>
+<Turn speaker="spk2" startTime="259.087" endTime="264.891">
+<Sync time="259.087"/>
+&lt;B&gt; yes \\
+<Sync time="260.339"/>
+but it'll come \\
+<Sync time="261.049"/>
+I will be getting two more &lt;B&gt; volumes is that it &lt;B&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="264.891" endTime="267.395">
+<Sync time="264.891"/>
+&lt;P&gt; umm \\ 
+<Sync time="265.476"/>
+volumes are parts if \\
+</Turn>
+<Turn speaker="spk2" startTime="267.395" endTime="269.26">
+<Sync time="267.395"/>
+&lt;P&gt; well I shouldn't call them volumes \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="269.26" endTime="272.628">
+<Sync time="269.26"/>
+<Who nb="1"/>
+[os yeah just uh eo] \\
+<Who nb="2"/>
+[os &lt;B&gt; eo] \\
+<Sync time="270.671"/>
+<Who nb="1"/>
+[os there's part eo] three and part four \\
+<Who nb="2"/>
+[os two more packets eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="272.628" endTime="276.358">
+<Sync time="272.628"/>
+&lt;B&gt; part three \\
+<Sync time="273.539"/>
+and that will be at the end &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="276.358" endTime="277.978">
+<Sync time="276.358"/>
+<Who nb="1"/>
+[os that will eo] be \\
+<Who nb="2"/>
+[os &lt;NU&gt; eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="277.978" endTime="279.958">
+<Sync time="277.978"/>
+or is that only the third part \\
+</Turn>
+<Turn speaker="spk1" startTime="279.958" endTime="284.842">
+<Sync time="279.958"/>
+oh that's that's on- \\
+<Sync time="281.31"/>
+yeah that- that's not the end \\
+<Sync time="282.577"/>
+there's still parts five and six \\
+</Turn>
+<Turn speaker="spk2" startTime="284.842" endTime="286.813">
+<Sync time="284.842"/>
+&lt;B&gt; oh great &lt;B&gt; \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="286.813" endTime="290.851">
+<Sync time="286.813"/>
+<Who nb="1"/>
+[os &lt;CHKL&gt; eo] \\
+<Who nb="2"/>
+[os and I think eo] there's actually a part seven too \\
+<Sync time="288.881"/>
+<Who nb="1"/>
+&lt;P&gt; [os really eo] \\
+<Who nb="2"/>
+[os yeah eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="290.851" endTime="300.654">
+<Sync time="290.851"/>
+&lt;P&gt; &lt;B&gt; oh my goodness \\
+<Sync time="293.537"/>
+&lt;P&gt; &lt;B&gt; uh uh &lt;B&gt; \\
+<Sync time="296.691"/>
+&lt;B&gt; well \\
+<Sync time="297.962"/>
+I I wonder \\
+<Sync time="298.747"/>
+are they all by the same reader \\
+</Turn>
+<Turn speaker="spk1" startTime="300.654" endTime="306.91">
+<Sync time="300.654"/>
+all by- \\
+<Sync time="301.274"/>
+umm let's see \\
+<Sync time="303.424"/>
+&lt;P&gt; &lt;BN&gt; yeah \\
+<Sync time="305.576"/>
+all by the same narrator \\
+</Turn>
+<Turn speaker="spk2" startTime="306.91" endTime="317.218">
+<Sync time="306.91"/>
+mmm \\
+<Sync time="307.973"/>
+narrator yes \\
+<Sync time="309.195"/>
+&lt;B&gt; well \\
+<Sync time="310.944"/>
+I uh I can't leave out part three \\
+<Sync time="313.948"/>
+&lt;B&gt; uh so will you please &lt;P&gt; &lt;B&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="317.218" endTime="320.514">
+<Sync time="317.218"/>
+okay so what I'm gonna send is part three and four \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="320.514" endTime="322.457">
+<Sync time="320.514"/>
+<Who nb="1"/>
+three and [os four eo] \\
+<Who nb="2"/>
+[os yeah eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="322.457" endTime="326.042">
+<Sync time="322.457"/>
+but then it will go up to seven &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="326.042" endTime="331.375">
+<Sync time="326.042"/>
+and \\
+<Sync time="326.741"/>
+I can order that right now \\
+<Sync time="328.197"/>
+or I can order that \\
+<Sync time="329.147"/>
+when you're done with three and four \\
+<Sync time="330.686"/>
+whatever you want \\
+</Turn>
+<Turn speaker="spk2" startTime="331.375" endTime="339.285">
+<Sync time="331.375"/>
+&lt;B&gt; all that will take me some time \\
+<Sync time="333.702"/>
+&lt;B&gt; but and I want a couple of other things because \\
+<Sync time="336.592"/>
+&lt;B&gt; I'll tell you \\
+<Sync time="337.619"/>
+unalleviated Proust is \\ <!-- Eddie Kang 26-April-2010 changed "Unalleviated" to "unalleviated" -->
+</Turn>
+<Turn speaker="spk2 spk1" startTime="339.285" endTime="341.945">
+<Sync time="339.285"/>
+<Who nb="1"/>
+&lt;B&gt; a little [os rough eo] \\ 
+<Who nb="2"/>
+[os right eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="341.945" endTime="368.293">
+<Sync time="341.945"/>
+&lt;CHKL&gt; &lt;B&gt; umm \\
+<Sync time="343.67"/>
+there is a book \\
+<Sync time="345.129"/>
+&lt;B&gt; I heard about through \\
+<Sync time="346.945"/>
+well I can't read anymore \\
+<Sync time="348.376"/>
+but &lt;B&gt; my sister read in the New Yorker &lt;B&gt; \\
+<Sync time="351.401"/>
+uh a rev- umm \\
+<Sync time="353.25"/>
+&lt;B&gt; a biography of Proust by &lt;B&gt; some &lt;P&gt; older woman who took care of him \\
+<Sync time="358.736"/>
+Celeste &lt;B&gt; Albaret \\
+<Sync time="361.34"/>
+&lt;B&gt; I wonder i- i- if that book is on tape \\
+<Sync time="365.501"/>
+&lt;B&gt; it's called Monsieur Proust \\
+</Turn>
+<Turn speaker="spk1" startTime="368.293" endTime="375.308">
+<Sync time="368.293"/>
+&lt;P&gt; mmm it doesn't look like we have it \\
+<Sync time="370.992"/>
+&lt;P&gt; we do have a biography of him \\
+<Sync time="373.343"/>
+but it's not by the author you mentioned \\
+</Turn>
+<Turn speaker="spk2" startTime="375.308" endTime="378.593">
+<Sync time="375.308"/>
+&lt;P&gt; mmm &lt;P&gt; \\
+</Turn> <!-- Eddie Kang 26-April-2010 added a turn -->
+<Turn speaker="spk1" startTime="378.593" endTime="387.549">
+<Sync time="378.593"/>
+we have one by someone &lt;P&gt; \\
+<Sync time="380.42"/>
+whose last name I can't pronounce \\
+<Sync time="381.945"/>
+but it's spelled T A D &lt;P&gt; I &lt;P&gt; and an E with an accent on top \\
+</Turn>
+<Turn speaker="spk2" startTime="387.549" endTime="391.56">
+<Sync time="387.549"/>
+&lt;P&gt; t- T as in Thomas \\
+</Turn>
+<Turn speaker="spk1" startTime="391.56" endTime="393.045">
+<Sync time="391.56"/>
+T as in Thomas \\
+</Turn>
+<Turn speaker="spk2" startTime="393.045" endTime="394.961">
+<Sync time="393.045"/>
+A D as in David \\
+</Turn>
+<Turn speaker="spk1" startTime="394.961" endTime="397.873">
+<Sync time="394.961"/>
+right \\
+<Sync time="395.485"/>
+&lt;P&gt; and then what after that \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="397.873" endTime="401.892">
+<Sync time="397.873"/>
+<Who nb="1"/>
+I [os E U eo] \\
+<Who nb="2"/>
+[os I eo] and E with a little accent marker on top \\
+</Turn>
+<Turn speaker="spk2" startTime="401.892" endTime="404.176">
+<Sync time="401.892"/>
+&lt;P&gt; uh I don't know how to pronounce that either \\
+</Turn>
+<Turn speaker="spk1" startTime="404.176" endTime="404.681">
+<Sync time="404.176"/>
+right \\
+</Turn>
+<Turn speaker="spk2" startTime="404.681" endTime="411.57">
+<Sync time="404.681"/>
+is that a &lt;P&gt; mm well \\
+<Sync time="406.824"/>
+&lt;B&gt; well we'll forget that \\
+<Sync time="408.584"/>
+&lt;B&gt; alright uh then there are uh two other things \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="411.57" endTime="413.199">
+<Sync time="411.57"/>
+<Who nb="1"/>
+I would like to [os have &lt;G&gt; eo] \\
+<Who nb="2"/>
+[os sure eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="413.199" endTime="421.78">
+<Sync time="413.199"/>
+I'd like to try \\
+<Sync time="414.542"/>
+umm Edith Whartons &lt;B&gt; &lt;P&gt; uh Age of Innocence &lt;P&gt; \\
+<Sync time="419.415"/>
+and House of Mirth \\
+</Turn>
+<Turn startTime="421.78" endTime="425.052">
+<Sync time="421.78"/>
+&lt;P&gt; BN&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="425.052" endTime="449.267">
+<Sync time="425.052"/>
+okay \\
+<Sync time="426.467"/>
+&lt;TP&gt; \\
+<Sync time="435.665"/>
+and House of Mirth \\
+<Sync time="437.798"/>
+&lt;BN&gt; &lt;TP&gt; \\
+<Sync time="444.616"/>
+okay \\
+<Sync time="445.17"/>
+all the books are gonna be coming from Cincinnati \\
+<Sync time="447.388"/>
+so they- they'll arrive at the same time \\
+</Turn>
+<Turn speaker="spk2" startTime="449.267" endTime="450.388">
+<Sync time="449.267"/>
+&lt;P&gt; pardon \\
+</Turn>
+<Turn speaker="spk1" startTime="450.388" endTime="455.766">
+<Sync time="450.388"/>
+all the books are gonna be coming from Cincinnati \\
+<Sync time="453.007"/>
+so the Proust and the two Edith Wharton books \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="455.766" endTime="458.267">
+<Sync time="455.766"/>
+<Who nb="1"/>
+will arrive at the same [os time eo] \\
+<Who nb="2"/>
+[os oh I see eo] they a- all have to come \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="458.267" endTime="459.519">
+<Sync time="458.267"/>
+<Who nb="1"/>
+from [os Cincinnati eo] \\
+<Who nb="2"/>
+[os yeah eo] \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="459.519" endTime="462.355">
+<Sync time="459.519"/>
+<Who nb="1"/>
+&lt;B&gt; thank you very much for your [os help eo] \\
+<Who nb="2"/>
+[os you're eo] welcome \\
+</Turn>
+<Turn speaker="spk2" startTime="462.355" endTime="462.934">
+<Sync time="462.355"/>
+bye \\
+</Turn>
+<Turn speaker="spk1" startTime="462.934" endTime="463.47">
+<Sync time="462.934"/>
+bye bye\\
+</Turn>
+<Turn startTime="463.47" endTime="465.550">
+<Sync time="463.47"/>
+&lt;TN&gt; &lt;TN&gt; \\
+</Turn>
+</Section>
+</Episode>
+</Trans>

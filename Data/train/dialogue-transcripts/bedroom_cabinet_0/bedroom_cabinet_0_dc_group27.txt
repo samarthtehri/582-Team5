@@ -1,0 +1,40 @@
+{"user": "Human", "index": 1, "text": "Hey Zara!", "intent": "Extend_greetings"}
+{"user": "Alien", "index": 1, "text": "Hey Michael!", "intent": "Inform_confused"}
+{"user": "Human", "index": 1, "text": "Ready for our room tidying lesson?", "intent": "Casual_question"}
+{"user": "Alien", "index": 1, "text": "Absolutely, Michael! I'm eager to learn how humans keep things organized.", "intent": "Inform_get_started"}
+{"user": "Human", "index": 1, "text": "That's great come on over the bedroom and we can get started!", "intent": "Inform_action"}
+{"user": "Alien", "index": 1, "text": "Oh I forgot, where is the bedroom again Michael?", "intent": "Inform_confused"}
+{"user": "Human", "index": 1, "text": "That's fine Zara, the bedroom is where we sleep and rest.  It is the room with the bed and the bookshelf.", "intent": "Inform_location"}
+{"user": "Alien", "index": 1, "text": "Oh yes! I remember now, coming to the bedroom now.", "intent": "Inform_get_started"}
+{"user": "Human", "index": 2, "text": "Let's start tidying up now, we can start with the bookshelf.", "intent": "Inform_action"}
+{"user": "Human", "index": 2, "text": "Pick up one of the toys from the bookshelf.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 2, "text": "Okay, I've got one. What's next?", "intent": "Inform_understanding"}
+{"user": "Human", "index": 3, "text": "Good Job! Now I am going to teach you a very basic tidying task.", "intent": "Inform_action"}
+{"user": "Alien", "index": 3, "text": "Oh ok, so picking up this toy from the bookshelf is not tidying?", "intent": "Display_confusion"}
+{"user": "Human", "index": 3, "text": "Ha Ha! No, No that is not tidying, let us head to the bookshelf you will understand.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 3, "text": "So where is the cupboard?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 3, "text": "The cupboard is in the adjoining room.", "intent": "Inform_location"}
+{"user": "Human", "index": 4, "text": "Ok now what you are going to do next is going to be tidying, since the toy made the bookshelf look disorganized, we are changing its location to make the bookshelf look tidy.", "intent": "Inform_action"}
+{"user": "Alien", "index": 4, "text": "Oh ok I understand now.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 4, "text": "Ok now open the cupboard.", "intent": "Inform_next_step"}
+{"user": "Human", "index": 5, "text": "Now place the toy inside the cupboard.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 5, "text": "I have placed it, but how is this tidying up? Isn't it just shifting the toy's location?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 5, "text": "Excellent question! When the toy was in the bookshelf, it was visible to the naked eye thus making it look disorganized. But when we are keeping it in the cupboard, it makes the bookshelf look neat because the cupboard is designed to be closed hence the toy would not make the cupboard untidy.", "intent": "Inform_action"}
+{"user": "Alien", "index": 5, "text": "Oh ok! That makes perfect sense now.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 6, "text": "Alright so what next?", "intent": "Ask_guidence"}
+{"user": "Human", "index": 6, "text": "Now we return to the bookshelf to get the other toy.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 6, "text": "Based on my understanding, keeping the other toy in the cupboard would completely tidy up the bookshelf.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 6, "text": "Yes, you are absolutely right!", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 7, "text": "Now grab the other toy.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 7, "text": "This tidying up feels exciting and fun to do! I seem to be getting the hang of it.", "intent": "Casual_response"}
+{"user": "Human", "index": 8, "text": "Now we have to finish up the tidying of the bookshelf.", "intent": "Inform_action"}
+{"user": "Human", "index": 8, "text": "So now lets head back to the cupboard.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 8, "text": "Oh ok lets do that!", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 9, "text": "So right now I am going to place the toy inside the cupboard, based on my understanding.", "intent": "Inform_get_started"}
+{"user": "Human", "index": 9, "text": "Exactly, you are doing a great job! You are becoming a pro at this!", "intent": "Inform_action"}
+{"user": "Human", "index": 10, "text": "So what is the next step Zara?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 10, "text": "We close the cupboard to complete the tidying! Am I right?", "intent": "Inform_get_started"}
+{"user": "Human", "index": 10, "text": "Exactly! Now, close the cupboard.", "intent": "Inform_action"}
+{"user": "Alien", "index": 10, "text": "Thanks, Michael! This Earth tidying up is very intriguing.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 10, "text": "Thanks for your help Michael! Glad I can learn a lot from you.", "intent": "Extend_goodbyes"}
+{"user": "Human", "index": 10, "text": "Glad I can help!", "intent": "Extend_goodbyes"}

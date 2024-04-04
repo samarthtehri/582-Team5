@@ -1,0 +1,41 @@
+{"user": "Human", "index": 1, "text": "Hey, are you hungry? Let's make dinner.", "intent": "Casual_question"}
+{"user": "Alien", "index": 1, "text": "Yeah, sure.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 1, "text": "We need to get a clean plate first.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 1, "text": "Gotcha.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 2, "text": "Let's get the plate we used for lunch and clean it.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 2, "text": "I don't know where that is.", "intent": "Inform_confused"}
+{"user": "Human", "index": 2, "text": "Follow me, we left it by the computer.", "intent": "Inform_action"}
+{"user": "Alien", "index": 2, "text": "Is this the plate?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 2, "text": "Yep!", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 3, "text": "Got the plate!", "intent": "Inform_condition"}
+{"user": "Human", "index": 3, "text": "Ok, let's wash it in the sink.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 5, "text": "This doesn't look like somewhere I can wash things.", "intent": "Inform_confused"}
+{"user": "Human", "index": 5, "text": "That's the stove where we cook, don't you remember?", "intent": "Inform_location"}
+{"user": "Human", "index": 5, "text": "The dishwasher is right over here.", "intent": "Inform_location"}
+{"user": "Alien", "index": 5, "text": "oh, of course! ", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 6, "text": "How do I open this?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 6, "text": "Pull the handle on top.", "intent": "Inform_action"}
+{"user": "Alien", "index": 6, "text": "Woah, thanks!", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 7, "text": "Where in here do I put the plate?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 7, "text": "Plates go on the bottom, and bowls and cups go on the top shelf.", "intent": "Inform_action"}
+{"user": "Alien", "index": 7, "text": "Got it, thanks!", "intent": "Inform_understanding"}
+{"user": "Human", "index": 8, "text": "Just close it and hit start.", "intent": "Inform_action"}
+{"user": "Alien", "index": 8, "text": "Understood.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 9, "text": "Which button should I press to wash?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 9, "text": "The one on the right.", "intent": "Inform_object"}
+{"user": "Alien", "index": 9, "text": "Gotcha, thanks!", "intent": "Inform_understanding"}
+{"user": "Human", "index": 10, "text": "Ok. the dishwasher is done.", "intent": "Inform_other"}
+{"user": "Alien", "index": 10, "text": "Okay, I will take the plate out then.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 11, "text": "Got the plate.", "intent": "Inform_condition"}
+{"user": "Human", "index": 11, "text": "Ok, now what do you do?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 11, "text": "No.", "intent": "Yes-no_negative"}
+{"user": "Human", "index": 12, "text": "Make sure you close the dishwasher so you don't trip on it.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 12, "text": "Thanks for looking out for me! You know I'm a real clumsy gal.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 13, "text": "What do you want to make?", "intent": "Casual_question"}
+{"user": "Alien", "index": 13, "text": "I want to eat the pie on the table.", "intent": "Casual_response"}
+{"user": "Alien", "index": 14, "text": "What am I holding in my hand?", "intent": "Inform_confused"}
+{"user": "Human", "index": 14, "text": "It's a plate, you were gonna put some pie on it to eat.", "intent": "Inform_object"}
+{"user": "Alien", "index": 14, "text": "Oh, I remember now! Thanks!", "intent": "Inform_understanding"}
+{"user": "Human", "index": 15, "text": "Does that pie look good?", "intent": "Casual_question"}
+{"user": "Alien", "index": 15, "text": "It looks scrumptious!", "intent": "Casual_response"}
+{"user": "Human", "index": 15, "text": "Don't eat to much or your tummy will hurt from all the sugar.", "intent": "Inform_other"}

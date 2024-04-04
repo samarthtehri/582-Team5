@@ -1,0 +1,24 @@
+{"user": "Human", "index": 1, "text": "Alright, so this is my sink. Using the dishwasher for the glass might be a little overkill, so we can just rinse it here.", "intent": "Inform_object"}
+{"user": "Alien", "index": 1, "text": "Oh, alright.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 2, "text": "Alright, I'll go grab the glass first!", "intent": "Inform_get_started"}
+{"user": "Human", "index": 2, "text": "Sounds good. Then just bring it back here and you can rinse it at the sink.", "intent": "Inform_next_step"}
+{"user": "Human", "index": 3, "text": "Jeez, are you alright? Try not to jerk your back so violently like that.", "intent": "Ask_okay"}
+{"user": "Alien", "index": 3, "text": "What do you mean? I don't feel anything...", "intent": "Display_confusion"}
+{"user": "Human", "index": 3, "text": "Oh, okay. Well just bring the glass back here so we can wash it.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 4, "text": "Alright, what next?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 4, "text": "Just place it in the sink and turn it on.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 5, "text": "Alright, here we go!", "intent": "Inform_get_started"}
+{"user": "Human", "index": 5, "text": "I have no idea how you just phased it through the sink like that, but great work! Now just twist the knob to turn on the sink.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 6, "text": "Like this?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 6, "text": "Yup, great job!", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 7, "text": "It looks pretty rinsed. Do I turn it off now?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 7, "text": "Sure, go ahead.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 8, "text": "Great! Now just put it back on the dining table like the plate.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 8, "text": "Okay!", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 9, "text": "Is this a good place to put it?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 9, "text": "Sure, that works.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 10, "text": "Try and put it down a little gently. It's glass after all.", "intent": "Inform_action"}
+{"user": "Alien", "index": 10, "text": "Like this?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 10, "text": "...Sure. It doesn't seem like it cracked.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 11, "text": "What next?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 11, "text": "Well, I guess I could show you what that \"toaster oven\" you saw in my office can do.", "intent": "Inform_next_step"}

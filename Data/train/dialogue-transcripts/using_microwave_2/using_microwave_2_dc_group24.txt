@@ -1,0 +1,41 @@
+{"user": "Human", "index": 1, "text": "hey would you like to get started on making the salmon for dinner?", "intent": "Ask_get_started"}
+{"user": "Alien", "index": 1, "text": "Yup I am ready to start!", "intent": "Inform_get_started"}
+{"user": "Human", "index": 1, "text": "We will need to microwave the salmon first.", "intent": "Inform_next_step"}
+{"user": "Human", "index": 2, "text": "Ok first pick up the salmon.", "intent": "Inform_action"}
+{"user": "Alien", "index": 2, "text": "Understood, picking up the salmon now. ", "intent": "Inform_understanding"}
+{"user": "Human", "index": 3, "text": "That doesn't look like the salmon, are you sure that is it?", "intent": "Ask_sure_about_object"}
+{"user": "Alien", "index": 3, "text": "That is a good point, I do not remember salmon looking like this. ", "intent": "Explain_confused"}
+{"user": "Alien", "index": 3, "text": "Is that the salmon on the top of the microwave?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 3, "text": "Yes it is.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 3, "text": "I see, I will place this other object down.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 4, "text": "Good now pick up the salmon in order to put it in the microwave.", "intent": "Inform_action"}
+{"user": "Alien", "index": 4, "text": "Grabbing the salmon now. ", "intent": "Inform_understanding"}
+{"user": "Human", "index": 5, "text": "Now that you have the salmon, open up the microwave.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 5, "text": "Thanks for the help, I will open it up. ", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 6, "text": "Shoud I place the salmon in the microwave now? ", "intent": "Ask_next_step"}
+{"user": "Human", "index": 6, "text": "Yes put it in the center.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 7, "text": "Now close the microwave so that we can turn it on.", "intent": "Inform_action"}
+{"user": "Alien", "index": 7, "text": "Will do, closing it now. ", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 8, "text": "It does not look like the microwave is on.", "intent": "Inform_observation"}
+{"user": "Human", "index": 8, "text": "Yes it is not on.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 8, "text": "You need to press the button at the top right corner of it to start it.", "intent": "Inform_action"}
+{"user": "Alien", "index": 8, "text": "I see the button, will press it now. ", "intent": "Inform_understanding"}
+{"user": "Human", "index": 9, "text": "The salmon looks all cooked inside so now turn off the microwave.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 9, "text": "Ok, do I press the same button?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 9, "text": "Yes right in the same place from before.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 10, "text": "Now that the microwave is off, open it up.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 10, "text": "Will open it up now. ", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 11, "text": "Am I alright to take the salmon out of the microwave? ", "intent": "Ask_next_step"}
+{"user": "Human", "index": 11, "text": "Yes as it is all cooked now.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 12, "text": "Now that we are all done with the microwave we will close it.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 12, "text": "Easy enough, will close the microwave door now. ", "intent": "Inform_understanding"}
+{"user": "Human", "index": 13, "text": "Do you know what to do now?", "intent": "Ask_know_action"}
+{"user": "Alien", "index": 13, "text": "I'm not sure what to do with the salmon.", "intent": "Yes-no_negative"}
+{"user": "Human", "index": 13, "text": "We need to put it on the dinner table right there.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 13, "text": "Thank you, will head over there now.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 14, "text": "Can I place it anywhere on the table? ", "intent": "Ask_about_location"}
+{"user": "Human", "index": 14, "text": "No because we want to make sure that we can both reach it while sitting.", "intent": "Yes-no_negative"}
+{"user": "Human", "index": 14, "text": "Put it in the middle of the table.", "intent": "Inform_location"}
+{"user": "Human", "index": 15, "text": "Now that the salmon is all ready can you help me with the drinks next?", "intent": "Ask_get_started"}
+{"user": "Alien", "index": 15, "text": "Yea I would love to help you make the drinks! ", "intent": "Inform_get_started"}
+{"user": "Human", "index": 15, "text": "Okay come over to me by the sink so we can get started.", "intent": "Inform_action"}

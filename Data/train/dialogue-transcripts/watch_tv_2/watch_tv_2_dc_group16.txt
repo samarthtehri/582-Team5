@@ -1,0 +1,29 @@
+{"user": "Human", "index": 1, "text": "Hi! How are you doing?", "intent": "Extend_greetings"}
+{"user": "Alien", "index": 1, "text": "I am doing good, what am I learning about today?", "intent": "Extend_greetings"}
+{"user": "Human", "index": 1, "text": "I'm going to teach how to watch TV, it's in the living room!", "intent": "Inform_action"}
+{"user": "Alien", "index": 2, "text": "Okay what do I have to do to watch TV?", "intent": "Ask_guidence"}
+{"user": "Human", "index": 2, "text": "The Tv is the living room. Let`s walk over there!", "intent": "Inform_location"}
+{"user": "Alien", "index": 2, "text": "Now that we are in the living room is this the TV?", "intent": "Display_confusion"}
+{"user": "Human", "index": 2, "text": "No that is a computer, the TV i s over there!", "intent": "Inform_incorrect_object"}
+{"user": "Human", "index": 3, "text": "The TV is the bigger screen!", "intent": "Inform_location"}
+{"user": "Alien", "index": 3, "text": "Okay I understand that this is not the TV, I want to go to the bigger screen in the middle of the room. ", "intent": "Inform_observation"}
+{"user": "Human", "index": 3, "text": "Yes! You can walk to it now!", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 4, "text": "Okay, Now that I am over here what should I do now?", "intent": "Ask_guidence"}
+{"user": "Human", "index": 4, "text": "You have to click the button to turn it on.", "intent": "Inform_action"}
+{"user": "Alien", "index": 4, "text": "Okay I will click the button now.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 5, "text": "Okay, now that the tv is on, what do I have to do now?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 5, "text": "Walk over to the couch and start watching the TV!", "intent": "Inform_action"}
+{"user": "Alien", "index": 5, "text": "Okay, I will walk over to the couch now", "intent": "Inform_understanding"}
+{"user": "Human", "index": 6, "text": "We usually sit on the couch and relax when watching TV!", "intent": "Inform_action"}
+{"user": "Alien", "index": 6, "text": "Okay, I will sit down when I watch TV.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 7, "text": "Now what do I do?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 7, "text": "Just enjoy it and watch TV!", "intent": "Inform_action"}
+{"user": "Human", "index": 8, "text": "When you`re done you can walk over to the TV and turn it off. ", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 8, "text": "Okay I will walk over to the TV now.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 9, "text": "I am getting confused on how I turn off the TV.", "intent": "Display_confusion"}
+{"user": "Human", "index": 9, "text": "You need to press the same button you used to turn it on!", "intent": "Inform_action"}
+{"user": "Alien", "index": 9, "text": "Okay I will turn off the TV now.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 10, "text": "Good job! Let`s walk back to the kitchen!", "intent": "Inform_location"}
+{"user": "Alien", "index": 10, "text": "Okay, I will follow you to the kitchen!", "intent": "Inform_get_started"}
+{"user": "Human", "index": 11, "text": "I`t was good to meet you Zara!", "intent": "Extend_goodbyes"}
+{"user": "Alien", "index": 11, "text": "You too, thank you for the help!", "intent": "Extend_goodbyes"}

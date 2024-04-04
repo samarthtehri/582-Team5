@@ -1,0 +1,28 @@
+{"user": "Human", "index": 1, "text": "Let us go into the living room.", "intent": "Inform_next_step"}
+{"user": "Human", "index": 1, "text": "I have two books I would like to show you.", "intent": "Inform_object"}
+{"user": "Alien", "index": 1, "text": "Okay.", "intent": "Casual_response"}
+{"user": "Human", "index": 2, "text": "Grab this book up on the shelf.", "intent": "Inform_action"}
+{"user": "Alien", "index": 2, "text": "I have the book.", "intent": "Inform_condition"}
+{"user": "Human", "index": 3, "text": "Also grab the other book up on the shelf.", "intent": "Inform_action"}
+{"user": "Alien", "index": 3, "text": "Okay.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 3, "text": "I now have both of the books.", "intent": "Inform_condition"}
+{"user": "Human", "index": 4, "text": "Now that you know how to read, try sitting down and reading those two books.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 4, "text": "Ok, I will go to the chair in front of the table, to sit and try.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 5, "text": "Now that I am sitting, which book should I start with?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 5, "text": "Try starting with the book in your right hand, first.", "intent": "Inform_action"}
+{"user": "Alien", "index": 6, "text": "I have finished reading the first book.", "intent": "Casual_observation"}
+{"user": "Human", "index": 6, "text": "Nice.", "intent": "Casual_response"}
+{"user": "Human", "index": 6, "text": "Next try reading the second book, in your other hand.", "intent": "Ask_take_next_step"}
+{"user": "Alien", "index": 6, "text": "Okay.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 7, "text": "I have finished reading the second book now too.", "intent": "Inform_condition"}
+{"user": "Human", "index": 7, "text": "Did you enjoy reading the books?", "intent": "Casual_question"}
+{"user": "Alien", "index": 7, "text": "Yes, they were great recommendations.", "intent": "Casual_response"}
+{"user": "Human", "index": 8, "text": "Since you have finished, you can go set the books down.", "intent": "Inform_action"}
+{"user": "Alien", "index": 8, "text": "Can I set them down next to the TV?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 8, "text": "Sure.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 9, "text": "I'm putting the first book, in my right hand, down on the table.", "intent": "Inform_condition"}
+{"user": "Human", "index": 9, "text": "Okay.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 10, "text": "You can put the second book, in your left hand, next to the first on the table.", "intent": "Inform_location"}
+{"user": "Alien", "index": 10, "text": "Okay.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 11, "text": "Now that I have shown you the two books I like, we can discuss them while working in the kitchen.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 11, "text": "Okay, let us walk back to the kitchen.", "intent": "Inform_understanding"}

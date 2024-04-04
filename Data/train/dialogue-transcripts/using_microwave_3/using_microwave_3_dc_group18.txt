@@ -1,0 +1,39 @@
+{"user": "Human", "index": 1, "text": "\"Hey Zara, would you like to make some dinner with me?\"", "intent": "Extend_greetings"}
+{"user": "Alien", "index": 1, "text": "\"Hi Michael. I'd like to.\"", "intent": "Extend_greetings"}
+{"user": "Human", "index": 1, "text": "\"Great. If you'd like to begin, come over to the microwave.\"", "intent": "Ask_get_started"}
+{"user": "Alien", "index": 1, "text": "\"Coming over. I am ready to start!\"", "intent": "Inform_get_started"}
+{"user": "Human", "index": 2, "text": "\"We are going to be cooking the salmon on top of the microwave.\"", "intent": "Inform_object"}
+{"user": "Alien", "index": 2, "text": "\"I see the salmon. What should I do with it?\"", "intent": "Ask_about_action"}
+{"user": "Human", "index": 2, "text": "\"Please grab the salmon from the top of the microwave.\"", "intent": "Inform_next_step"}
+{"user": "Human", "index": 3, "text": "\"In order to put the salmon in the microwave, we have to first open it. Please do so now.\"", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 3, "text": "\"Will do. I know how to open the microwave.\"", "intent": "Inform_understanding"}
+{"user": "Human", "index": 4, "text": "\"Great. You can go ahead an place the salmon in the microwave.\"", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 4, "text": "\"I will place the salmon in the microwave.\"", "intent": "Inform_understanding"}
+{"user": "Human", "index": 5, "text": "\"The microwave will not work if the door is open. You must close the door in order to cook the salmon.\"", "intent": "Inform_action"}
+{"user": "Alien", "index": 5, "text": "\"Gotcha. I will close the microwave door then.\"", "intent": "Inform_understanding"}
+{"user": "Human", "index": 6, "text": "\"You can now go ahead and cook the salmon.\"", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 6, "text": "\"I am confused as to how long I should cook the salmon for.\"", "intent": "Explain_confused"}
+{"user": "Alien", "index": 6, "text": "\"How long would you cook the salmon for?\"", "intent": "Ask_guidence"}
+{"user": "Human", "index": 6, "text": "\"I would cook the salmon for 60 seconds. Please do so.\"", "intent": "Inform_action"}
+{"user": "Alien", "index": 6, "text": "\"Okay!\"", "intent": "Inform_understanding"}
+{"user": "Human", "index": 7, "text": "\"That should be enough. You can stop the microwave now.\"", "intent": "Inform_action"}
+{"user": "Alien", "index": 7, "text": "\"Okay, I will stop the microwave.\"", "intent": "Inform_understanding"}
+{"user": "Human", "index": 8, "text": "\"You must open the microwave back up in order to grab the salmon. Please open the microwave.\"", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 8, "text": "\"Finally! I will first open the microwave.\"", "intent": "Inform_understanding"}
+{"user": "Human", "index": 9, "text": "\"Please continue by grabbing the salmon out of the microwave.\"", "intent": "Ask_take_next_step"}
+{"user": "Alien", "index": 9, "text": "\"The salmon looks hot. I will take precaution as I grab the salmon.\"", "intent": "Inform_observation"}
+{"user": "Alien", "index": 10, "text": "\"Should I shut the microwave after I am finished cooking?\"", "intent": "Ask_about_action"}
+{"user": "Human", "index": 10, "text": "\"Yes you should.\"", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 10, "text": "\"I understand. I will close the microwave.\"", "intent": "Inform_understanding"}
+{"user": "Human", "index": 11, "text": "\"Are you sure you want to eat at the kitchen worktable?\"", "intent": "Ask_sure_about_location"}
+{"user": "Alien", "index": 11, "text": "\"I am unsure about this location.\"", "intent": "Inform_confused"}
+{"user": "Alien", "index": 11, "text": "\"Where should I eat this salmon?\"", "intent": "Ask_about_location"}
+{"user": "Human", "index": 11, "text": "\"We usually eat dinner at the dining table.\"", "intent": "Inform_location"}
+{"user": "Human", "index": 12, "text": "\"Please go to the dining table to eat.\"", "intent": "Ask_take_next_step"}
+{"user": "Alien", "index": 12, "text": "\"I understand now. I am going to the dining table.\"", "intent": "Inform_understanding"}
+{"user": "Human", "index": 13, "text": "\"Place the salmon on the table so you may eat comfortably.\"", "intent": "Inform_action"}
+{"user": "Alien", "index": 13, "text": "\"I understand.\"", "intent": "Inform_understanding"}
+{"user": "Human", "index": 13, "text": "\"The salmon smells good!\"", "intent": "Casual_observation"}
+{"user": "Alien", "index": 14, "text": "\"Is there anything else I must do to cook the salmon?\"", "intent": "Ask_guidence"}
+{"user": "Human", "index": 14, "text": "\"There is nothing else to do. Please enjoy your dinner.\"", "intent": "Inform_other"}
+{"user": "Alien", "index": 14, "text": "\"Okay! I will enjoy it!\"", "intent": "Inform_understanding"}

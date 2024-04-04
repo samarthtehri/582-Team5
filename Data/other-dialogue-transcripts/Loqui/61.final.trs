@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14-loqui.dtd">
+<Trans scribe="user" audio_filename="61" version="5" version_date="080827" corpus_version="2.0">
+<Speakers>
+<Speaker id="spk1" name="research-header-info" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="librarian#1" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="caller#2" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk4" name="non-speaking-librarian-activity#1" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="55.125">
+<Turn startTime="0" endTime="2.898" speaker="spk1">
+<Sync time="0"/>
+note \\
+<Sync time="0.455"/>
+verbal consent given but not part of extracted file \\
+</Turn>
+<Turn speaker="spk2" startTime="2.898" endTime="5.263">
+<Sync time="2.898"/>
+&lt;P&gt; how can I help you today \\
+</Turn>
+<Turn speaker="spk3" startTime="5.263" endTime="7.167">
+<Sync time="5.263"/>
+okay \\
+<Sync time="5.6"/>
+my name is &lt;FIRSTNAME&gt; &lt;LASTNAME&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="7.167" endTime="9.288">
+<Sync time="7.167"/>
+&lt;P&gt; okay mister &lt;LASTNAME&gt; \\
+<Sync time="8.375"/>
+what's the name of the book \\
+</Turn>
+<Turn speaker="spk3" startTime="9.288" endTime="20.854">
+<Sync time="9.288"/>
+okay it's the- the- \\
+<Sync time="10.397"/>
+the first two words are the name of a boy \\
+<Sync time="12.365"/>
+Hans H A N S \\
+<Sync time="14.874"/>
+Brinker B R I N &lt;P&gt; K E R \\
+<Sync time="18.905"/>
+and the Silver Skates \\
+</Turn>
+<Turn speaker="spk3 spk2" startTime="20.854" endTime="22.422">
+<Sync time="20.854"/>
+<Who nb="1"/>
+Hans Brinker [os and the eo] Silver \\
+<Who nb="2"/>
+[os yeah oe] \\
+</Turn>
+<Turn speaker="spk3" startTime="22.422" endTime="23.568">
+<Sync time="22.422"/>
+it's a- it's an old book \\ <!--Michal Novemsky 31-March-2010 Changed "a" to "an"-->
+</Turn>
+<Turn speaker="spk3 spk2" startTime="23.568" endTime="24.656">
+<Sync time="23.568"/>
+<Who nb="1"/>
+you [os probably know it eo] \\
+<Who nb="2"/>
+[os yeah it's old one eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="24.656" endTime="27.622">
+<Sync time="24.656"/>
+&lt;B&gt; &lt;P&gt; I'll have to order it \\
+</Turn>
+<Turn speaker="spk3" startTime="27.622" endTime="29.74">
+<Sync time="27.622"/>
+oh ya- okay \\ 
+<Sync time="28.448"/>
+is it on cassette do you know\\
+</Turn>
+<Turn speaker="spk2 spk3" startTime="29.74" endTime="30.907">
+<Sync time="29.74"/>
+<Who nb="1"/>
+yeah on [os cassette eo] \\
+<Who nb="2"/>
+[os &lt;G&gt; eo] \\
+</Turn>
+<Turn speaker="spk3" startTime="30.907" endTime="32.398">
+<Sync time="30.907"/>
+okay would you order it for me please \\
+</Turn>
+<Turn speaker="spk2" startTime="32.398" endTime="32.637">
+<Sync time="32.398"/>
+yep \\
+</Turn>
+<Turn speaker="spk3" startTime="32.637" endTime="33.966">
+<Sync time="32.637"/>
+&lt;P&gt; okay thanks so much \\ 
+</Turn>
+<Turn speaker="spk2" startTime="33.966" endTime="34.601">
+<Sync time="33.966"/>
+you're welcome \\
+</Turn>
+<Turn speaker="spk3" startTime="34.601" endTime="35.236">
+<Sync time="34.601"/>
+bye \\
+</Turn>
+<Turn speaker="spk2" startTime="35.236" endTime="35.729">
+<Sync time="35.236"/>
+bye bye \\
+</Turn>
+<Turn speaker="spk4" startTime="35.729" endTime="55.125">
+<Sync time="35.729"/>
+&lt;TN&gt; &lt;TN&gt; &lt;P&gt; \\
+</Turn>
+</Section>
+</Episode>
+</Trans>

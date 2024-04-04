@@ -1,0 +1,28 @@
+{"user": "Human", "index": 1, "text": "Would you like to watch TV next?", "intent": "Ask_take_next_step"}
+{"user": "Alien", "index": 1, "text": "Yes, let's watch TV.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 2, "text": "How do I watch TV?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 2, "text": "That is the dining table.", "intent": "iInform_object"}
+{"user": "Alien", "index": 2, "text": "Where is the TV?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 2, "text": "The TV is in the bedroom.", "intent": "Inform_location"}
+{"user": "Alien", "index": 3, "text": "Okay, I will go to the bedroom.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 3, "text": "You are now facing the TV. It is a large rectangular black screen.", "intent": "iInform_object"}
+{"user": "Alien", "index": 3, "text": "How do I start watching TV?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 4, "text": "Press the \"ON\" button located on the TV.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 4, "text": "Okay, I will press the button on the TV.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 5, "text": "Walk to the couch.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 5, "text": "Okay, I will walk to the couch.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 6, "text": "You can sit down now.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 6, "text": "Okay, I will sit down on the couch", "intent": "Inform_understanding"}
+{"user": "Human", "index": 7, "text": "Is watching TV fun?", "intent": "Casual_question"}
+{"user": "Alien", "index": 7, "text": "Yes, it is fun.", "intent": "Casual_response"}
+{"user": "Alien", "index": 8, "text": "What do I do now?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 8, "text": "You can walk to the TV.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 8, "text": "Okay, I will walk to the TV", "intent": "Inform_understanding"}
+{"user": "Human", "index": 9, "text": "You can turn off the TV by pressing the button.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 9, "text": "Okay, I will press the button.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 10, "text": "I am hungry", "intent": "Inform_condition"}
+{"user": "Human", "index": 10, "text": "Let us cook some food.", "intent": "Inform_action"}
+{"user": "Alien", "index": 10, "text": "I am going to the kitchen.", "intent": "Casual_observation"}
+{"user": "Human", "index": 10, "text": "Sounds good!", "intent": "Casual_response"}
+{"user": "Alien", "index": 11, "text": "What do you want to cook?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 11, "text": "I will check what ingredients we have and let you know.", "intent": "Casual_response"}

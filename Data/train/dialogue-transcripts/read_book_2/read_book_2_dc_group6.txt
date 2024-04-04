@@ -1,0 +1,39 @@
+{"user": "Human", "index": 1, "text": "Since you've been getting better at reading, do you want to see some of the books I like?", "intent": "Ask_get_started"}
+{"user": "Alien", "index": 1, "text": "That sounds great", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 1, "text": "What books do you like?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 1, "text": "My favorites are Bridgerton and To Kill a Mockingbird", "intent": "Inform_object"}
+{"user": "Alien", "index": 1, "text": "Interesting, I'll have to check them out", "intent": "Casual_response"}
+{"user": "Human", "index": 2, "text": "Why are you grabbing the phone?", "intent": "Ask_sure_about_object"}
+{"user": "Alien", "index": 2, "text": "Don't you read things on your phone?", "intent": "Explain_confused"}
+{"user": "Human", "index": 2, "text": "Oh you are right, but I want you to grab a book to read and not your phone. ", "intent": "Inform_object"}
+{"user": "Alien", "index": 3, "text": "Oh, where are the books?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 3, "text": "Put down the phone and I'll show you where they are", "intent": "Inform_next_step"}
+{"user": "Human", "index": 4, "text": "Bridgerton is that black book next to the picture on that shelf", "intent": "Inform_location"}
+{"user": "Alien", "index": 4, "text": "I see it", "intent": "Inform_understanding"}
+{"user": "Human", "index": 4, "text": "Grab it so you can read it later", "intent": "Inform_next_step"}
+{"user": "Human", "index": 5, "text": "To Kill a Mockingbird is the other book we'll be reading", "intent": "Inform_object"}
+{"user": "Human", "index": 5, "text": "It is on the shelf above you", "intent": "Inform_location"}
+{"user": "Alien", "index": 5, "text": "Okay I will get that book too", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 6, "text": "Okay I have the books, what next?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 6, "text": "Go to the desk first and I'll tell you what to do next.", "intent": "Inform_action"}
+{"user": "Human", "index": 7, "text": "Sit down in that chair and I'll tell you about them and see which of them you want to read", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 7, "text": "Okay, tell me about these books", "intent": "Ask_about_object"}
+{"user": "Alien", "index": 8, "text": "What is this book about?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 8, "text": "Bridgerton is a book with a lot of human drama including romance and high social expectations", "intent": "Inform_object"}
+{"user": "Alien", "index": 8, "text": "That sounds like it could be informative about general human interests", "intent": "Casual_response"}
+{"user": "Human", "index": 8, "text": "I agree", "intent": "Casual_response"}
+{"user": "Human", "index": 9, "text": "This book is To Kill a Mockingbird, it is a more serious story about racial injustice and societal prejudice", "intent": "Inform_object"}
+{"user": "Alien", "index": 9, "text": "They both sound interesting", "intent": "Inform_understanding"}
+{"user": "Human", "index": 10, "text": "Great work, that was basically a summary of both the books.", "intent": "Casual_response"}
+{"user": "Alien", "index": 10, "text": "That was really interesting and knowledgable. I liked learning about the literature you have on Earth.", "intent": "Casual_response"}
+{"user": "Human", "index": 10, "text": "That's nice to hear. Now let's keep these books next to the TV.", "intent": "Inform_action"}
+{"user": "Alien", "index": 10, "text": "Is the TV in the living room?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 10, "text": "Yes, that's right", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 11, "text": "Can you put the book down next to the TV", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 11, "text": "Yes I can do that", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 12, "text": "Now put the other one next to it", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 12, "text": "I'm leaving these here so I can read them later?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 12, "text": "Yes, if you'd like to", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 13, "text": "You did a good job talking about the books. I am hungry now, can we eat something?", "intent": "Inform_observation"}
+{"user": "Human", "index": 13, "text": "Sure, do you want to get something to eat from the kitchen?", "intent": "Ask_okay"}
+{"user": "Alien", "index": 13, "text": "Yes please", "intent": "Yes-no_positive"}

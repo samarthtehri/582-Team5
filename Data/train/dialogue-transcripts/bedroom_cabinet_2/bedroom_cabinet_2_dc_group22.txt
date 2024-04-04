@@ -1,0 +1,33 @@
+{"user": "Human", "index": 1, "text": "The toys are in the shelf in the room. Follow me.", "intent": "Inform_location"}
+{"user": "Alien", "index": 1, "text": "Sure, Michael. ", "intent": "Inform_understanding"}
+{"user": "Human", "index": 1, "text": "Ok, We're here.", "intent": "Inform_other"}
+{"user": "Human", "index": 2, "text": "Next, grab a toy from the shelf.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 2, "text": "Is this the toy you are talking about?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 2, "text": "No, that's a book.", "intent": "Yes-no_negative"}
+{"user": "Human", "index": 3, "text": "Put the book back on the shelf.", "intent": "Inform_action"}
+{"user": "Alien", "index": 3, "text": "Alright, no problem.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 4, "text": "The train in front of you is one of the toys.", "intent": "Inform_object"}
+{"user": "Alien", "index": 4, "text": "Is this the toy train you are talking about?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 4, "text": "Yes, that's one of the toys.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 5, "text": "We need to take the toy to the cupboard in the other room.", "intent": "Inform_next_step"}
+{"user": "Human", "index": 5, "text": "Its this way follow me.", "intent": "Inform_location"}
+{"user": "Alien", "index": 5, "text": "Ok, Michael.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 6, "text": "Alright, open the cupboard to put the toy inside.", "intent": "Inform_next_step"}
+{"user": "Human", "index": 6, "text": "Grab the door from the right and pull it out and to the left.", "intent": "Inform_action"}
+{"user": "Alien", "index": 6, "text": "Ok, Michael.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 7, "text": "Place the toy in the cupboard.", "intent": "Inform_action"}
+{"user": "Alien", "index": 7, "text": "The toy train is in the cupboard. ", "intent": "Inform_understanding"}
+{"user": "Human", "index": 7, "text": "Well done.", "intent": "Casual_observation"}
+{"user": "Human", "index": 8, "text": "Let's get the other toy from the shelf.", "intent": "Inform_next_step"}
+{"user": "Human", "index": 8, "text": "its back where we got the first toy.", "intent": "Inform_location"}
+{"user": "Alien", "index": 8, "text": "Sure", "intent": "Inform_understanding"}
+{"user": "Human", "index": 9, "text": "The toy is the yellow and red bug in front of you.", "intent": "Inform_object"}
+{"user": "Alien", "index": 9, "text": "Is this the right yellow and red bug toy you are talking about?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 9, "text": "Yeah, thats the right one.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 10, "text": "Do we take the toy to the same cupboard as before?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 10, "text": "Yup, let's head back over.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 11, "text": "Set the toy in the cupboard with the other one.", "intent": "Inform_action"}
+{"user": "Alien", "index": 11, "text": "Ok, I will put the toy red bug next to the toy train.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 12, "text": "Now that we're done we can close the cupboard", "intent": "Inform_next_step"}
+{"user": "Human", "index": 12, "text": "Move the doors the opposite way you did to open them to close it.", "intent": "Inform_action"}
+{"user": "Alien", "index": 12, "text": "Ok, I will close the cupboard.", "intent": "Inform_understanding"}

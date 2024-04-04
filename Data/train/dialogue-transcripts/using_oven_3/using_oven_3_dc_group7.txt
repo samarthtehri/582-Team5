@@ -1,0 +1,36 @@
+{"user": "Alien", "index": 1, "text": "Hey I'm hungry", "intent": "Inform_condition"}
+{"user": "Human", "index": 1, "text": "Maybe we could bake some bread if you'd like?", "intent": "Inform_action"}
+{"user": "Alien", "index": 1, "text": "Yeah that sounds good!", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 2, "text": "Open up the oven first!", "intent": "Inform_action"}
+{"user": "Alien", "index": 2, "text": "Ok i will do that", "intent": "Inform_understanding"}
+{"user": "Human", "index": 2, "text": "Be careful, it is very hot", "intent": "Inform_other"}
+{"user": "Human", "index": 3, "text": "Okay now grab the bread that we want to bake!", "intent": "Inform_action"}
+{"user": "Alien", "index": 3, "text": "Is this where it is?", "intent": "Inform_confused"}
+{"user": "Human", "index": 3, "text": "No, it's over here on my right side", "intent": "Yes-no_negative"}
+{"user": "Alien", "index": 4, "text": "Oh ok I see it", "intent": "Inform_understanding"}
+{"user": "Human", "index": 4, "text": "Okay, pick it up and go over to the oven!", "intent": "Inform_action"}
+{"user": "Alien", "index": 5, "text": "Ok I got the bread", "intent": "Inform_understanding"}
+{"user": "Human", "index": 5, "text": "Be careful now, we don't want to drop the bread and then have to start over!", "intent": "Inform_other"}
+{"user": "Human", "index": 6, "text": "Now then, put the bread in the oven, carefully", "intent": "Inform_action"}
+{"user": "Alien", "index": 6, "text": "Ok i will do that", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 7, "text": "I am placing the bread in the oven", "intent": "Inform_understanding"}
+{"user": "Human", "index": 7, "text": "Good! Now we are ready to bake it", "intent": "Inform_next_step"}
+{"user": "Human", "index": 7, "text": "Now go ahead and close the oven", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 8, "text": "How long should I bake this for?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 8, "text": "We want to bake it for around 20-30 minutes", "intent": "Inform_other"}
+{"user": "Alien", "index": 9, "text": "Ok it has been 20 minutes I am going to take this out now", "intent": "Inform_understanding"}
+{"user": "Human", "index": 9, "text": "Yup, it looks done", "intent": "Casual_observation"}
+{"user": "Human", "index": 9, "text": "Now go ahead and open the oven", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 9, "text": "Ok I am opening the oven now", "intent": "Inform_understanding"}
+{"user": "Human", "index": 10, "text": "Now remove the bread from the oven", "intent": "Inform_action"}
+{"user": "Human", "index": 10, "text": "Be careful it is probably very hot", "intent": "Inform_other"}
+{"user": "Alien", "index": 10, "text": "Ok i will do that", "intent": "Inform_understanding"}
+{"user": "Human", "index": 11, "text": "Make sure you close the oven behind you", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 11, "text": "Ok I am closing the oven now", "intent": "Inform_understanding"}
+{"user": "Human", "index": 12, "text": "go grab a plate to eat on", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 12, "text": "Ok i will do that", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 13, "text": "Should I put the bread on this plate?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 13, "text": "Yep, do that", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 13, "text": "Take a plate off the stack when you want to move around", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 14, "text": "Wow these plates are really clean!", "intent": "Casual_observation"}
+{"user": "Human", "index": 14, "text": "I just washed them! It did take me a while to make sure they shine properly!", "intent": "Casual_response"}

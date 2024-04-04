@@ -1,0 +1,24 @@
+{"user": "Human", "index": 1, "text": "Let's go to the bathroom to take a look at the cabinet!", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 1, "text": "OK, here we go!", "intent": "Inform_get_started"}
+{"user": "Human", "index": 2, "text": "Let's open the cabinet door and check around!", "intent": "Inform_action"}
+{"user": "Alien", "index": 2, "text": "Alright!", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 3, "text": "It looks like there is nothing in them!", "intent": "Inform_observation"}
+{"user": "Human", "index": 3, "text": "Yeah, so what do you think should be in them?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 4, "text": "It must be this! This is...?", "intent": "Inform_confused"}
+{"user": "Human", "index": 4, "text": "Exactly! This is towel!", "intent": "Inform_object"}
+{"user": "Alien", "index": 5, "text": "I guess I need to put them in each layer!", "intent": "Inform_get_started"}
+{"user": "Human", "index": 5, "text": "You are right!", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 6, "text": "This one in the top layer.....", "intent": "Other"}
+{"user": "Human", "index": 6, "text": "Good choice!", "intent": "Casual_response"}
+{"user": "Alien", "index": 7, "text": "First one done, next one!", "intent": "Inform_get_started"}
+{"user": "Human", "index": 7, "text": "Good job!", "intent": "Casual_response"}
+{"user": "Alien", "index": 8, "text": "Where should I put this on?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 8, "text": "How ever you want to manage them!", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 9, "text": "I think it should be here!", "intent": "Inform_observation"}
+{"user": "Human", "index": 9, "text": "Just take your time!", "intent": "Ask_know_next_step"}
+{"user": "Human", "index": 10, "text": "So you decide to put it here?", "intent": "Ask_sure_about_action"}
+{"user": "Alien", "index": 10, "text": "Yeah!", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 11, "text": "OK, here it goes!", "intent": "Inform_action"}
+{"user": "Alien", "index": 11, "text": "It looks tidy!", "intent": "Casual_response"}
+{"user": "Human", "index": 12, "text": "After organizing them, you can close the cabinet door.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 12, "text": "Sure! I am so happy to tidy them up!", "intent": "Inform_understanding"}

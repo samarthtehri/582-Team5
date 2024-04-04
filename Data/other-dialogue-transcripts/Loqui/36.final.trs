@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14-loqui.dtd">
+<Trans scribe="user" audio_filename="36" version="7" version_date="100420" corpus_version="1.0">
+<Speakers>
+<Speaker id="spk1" name="Librarian#1" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="Caller#2" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="non-speaker#3" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="384.804">
+<Turn startTime="0" endTime="6.065" speaker="spk1">
+<Sync time="0"/>
+&lt;P&gt; &lt;BN&gt; good afternoon \\
+<Sync time="1.405"/>
+the library is working with a research team \\ 
+<Sync time="3.09"/>
+to better improve our service \\
+<Sync time="4.369"/>
+would you mind if this call is recorded \\
+</Turn>
+<Turn speaker="spk2" startTime="6.065" endTime="6.986">
+<Sync time="6.065"/>
+no not at all \\
+</Turn>
+<Turn speaker="spk1" startTime="6.986" endTime="9.467">
+<Sync time="6.986"/>
+&lt;P&gt; ok \\
+<Sync time="7.774"/>
+&lt;P&gt; how can I help you today \\
+</Turn>
+<Turn speaker="spk2" startTime="9.467" endTime="22.19">
+<Sync time="9.467"/>
+yea umm \\
+<Sync time="10.159"/>
+I /* matched */ it in uh \\
+<Sync time="12.055"/>
+in two &lt;P&gt; books \\
+<Sync time="14.293"/>
+if you might have them \\
+<Sync time="15.173"/>
+or two tapes \\
+<Sync time="16.222"/>
+&lt;B&gt; and one &lt;BN&gt; is ah &lt;P&gt; &lt;B&gt; \\
+<Sync time="18.35"/>
+ah &lt;P&gt; an autobiography of Peggy Guggenheim \\ <!--Eddie Kang 20-April-2010 changed "and autobiography" to "an autobiography"-->
+</Turn>
+<Turn speaker="spk1 spk2" startTime="22.19" endTime="25.147">
+<Sync time="22.19"/>
+<Who nb="1"/>
+&lt;P&gt; what is your name [os ma'am eo] \\
+<Who nb="2"/>
+[os my eo] name is &lt;FIRSTNAME&gt; &lt;LASTNAME&gt; &lt;BN&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="25.147" endTime="29.467">
+<Sync time="25.147"/>
+&lt;P&gt; &lt;LN-INITIAL-1&gt; &lt;LN-INITIAL-2&gt; &lt;LN-INITIAL-3&gt; &lt;P&gt; &lt;LN-INITIAL-4&gt; &lt;LN-INITIAL-5&gt; &lt;LN-INITIAL-6&gt; \\
+<Sync time="28.629"/>
+as in Sam \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="29.467" endTime="31.838">
+<Sync time="29.467"/>
+<Who nb="1"/>
+&lt;P&gt; &lt;FIRSTNAME&gt; is [os the first eo] name \\
+<Who nb="2"/>
+&lt;TP&gt; [os right eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="31.838" endTime="41.823">
+<Sync time="31.838"/>
+&lt;P&gt; and I have a biography of her \\ 
+<Sync time="34.411"/>
+but &lt;P&gt; I \\
+<Sync time="35.616"/>
+&lt;P&gt; would like t- &lt;P&gt; one that she has written &lt;B&gt;\\
+<Sync time="39.05"/>
+&lt;P&gt; &lt;BN&gt; I think she has written several \\
+</Turn>
+<Turn speaker="spk3" startTime="41.823" endTime="46.971">
+<Sync time="41.823"/>
+&lt;TP&gt; &lt;P&gt; &lt;BN&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="46.971" endTime="48.197">
+<Sync time="46.971"/>
+first name is Deborah \\
+</Turn>
+<Turn speaker="spk2" startTime="48.197" endTime="52.278">
+<Sync time="48.197"/>
+no oh i- \\ 
+<Sync time="49.597"/>
+the the- o- office name &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="52.278" endTime="53.168">
+<Sync time="52.278"/>
+<Who nb="1"/>
+[os the eo] \\
+<Who nb="2"/>
+[os the eo] ahh \\
+</Turn>
+<Turn speaker="spk1" startTime="53.168" endTime="54.861">
+<Sync time="53.168"/>
+you want an aut- autobiography \\
+</Turn>
+<Turn speaker="spk2" startTime="54.861" endTime="57.031">
+<Sync time="54.861"/>
+of Peggy &lt;P&gt; Peggy \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="57.031" endTime="58.2">
+<Sync time="57.031"/>
+<Who nb="1"/>
+P E [os G G eo] Y \\
+<Who nb="2"/>
+[os Peggy eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="58.2" endTime="59.265">
+<Sync time="58.2"/>
+Guggenheim \\
+</Turn>
+<Turn speaker="spk1" startTime="59.265" endTime="59.78">
+<Sync time="59.265"/>
+yea \\
+</Turn>
+<Turn speaker="spk2" startTime="59.78" endTime="62.436">
+<Sync time="59.78"/>
+&lt;BN&gt; &lt;P&gt; thank you &lt;B&gt; \\
+</Turn>
+<Turn speaker="spk3" startTime="62.436" endTime="79.412">
+<Sync time="62.436"/>
+&lt;BN&gt; &lt;P&gt; &lt;TP&gt; &lt;P&gt; &lt;B&gt; &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="79.412" endTime="82.171">
+<Sync time="79.412"/>
+ok it's ahh &lt;P&gt; \\
+<Sync time="80.764"/>
+it's a really old book \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="82.171" endTime="83.483">
+<Sync time="82.171"/>
+<Who nb="1"/>
+&lt;B&gt; well [so I- eo] \\
+<Who nb="2"/>
+[so I eo] could send it to you \\
+</Turn>
+<Turn speaker="spk3" startTime="83.483" endTime="85.009">
+<Sync time="83.483"/>
+it's called Out of the Century \\
+</Turn>
+<Turn speaker="spk2" startTime="85.009" endTime="90.491">
+<Sync time="85.009"/>
+&lt;P&gt; &lt;BN&gt; and &lt;BN&gt; &lt;P&gt; you say an old book \\
+<Sync time="88.702"/>
+old \\
+<Sync time="89.26"/>
+you know when it was written \\
+</Turn>
+<Turn speaker="spk2" startTime="90.491" endTime="94.83">
+<Sync time="90.491"/>
+&lt;P&gt; hmm when I- \\
+<Sync time="92.16"/>
+when I saw old I mean \\
+<Sync time="93.161"/>
+it was recorded a long time &lt;B&gt; ago \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="94.83" endTime="100.217">
+<Sync time="94.83"/>
+<Who nb="1"/>
+so I don't know [os how the eo] quality is \\
+<Who nb="2"/>
+[os oh eo] \\
+<Sync time="96.332"/>
+<Who nb="1"/>
+compared to [os the ones that come eo] out nowadays \\
+<Who nb="2"/>
+[os I see eo] \\
+<Sync time="98.598"/>
+<Who nb="1"/>
+&lt;B&gt; ohh I see cause [os of it eo] \\
+<Who nb="2"/>
+[os but eo] \\
+</Turn>
+<Turn speaker="spk1" startTime="100.217" endTime="109.316">
+<Sync time="100.217"/>
+&lt;P&gt; &lt;BN&gt; the date here says \\
+<Sync time="103.262"/>
+&lt;P&gt; &lt;BN&gt; nineteen eighty one \\
+<Sync time="105.678"/>
+that could be when \\
+<Sync time="107.149"/>
+&lt;P&gt; the- they made this recording though \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="109.316" endTime="113.753">
+<Sync time="109.316"/>
+<Who nb="1"/>
+&lt;B&gt; probably I think she probably died in [os seventeen eo] \\
+<Who nb="2"/>
+[os okay eo] \\
+<Sync time="111.996"/>
+<Who nb="1"/>
+nineteen seventy [os something eo] so \\
+<Who nb="2"/>
+[os she eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="113.753" endTime="119.016">
+<Sync time="113.753"/>
+&lt;B&gt; umm &lt;B&gt; \\
+<Sync time="115.487"/>
+doesn't say \\
+<Sync time="116.35"/>
+&lt;P&gt; what year she \\
+<Sync time="117.371"/>
+&lt;P&gt; wrote the book \\
+</Turn>
+<Turn speaker="spk1" startTime="119.016" endTime="120.461">
+<Sync time="119.016"/>
+&lt;P&gt; no \\
+</Turn>
+<Turn speaker="spk2" startTime="120.461" endTime="122.774">
+<Sync time="120.461"/>
+&lt;P&gt; ok but it is an autobiography \\
+</Turn>
+<Turn speaker="spk1" startTime="122.774" endTime="123.132">
+<Sync time="122.774"/>
+yea \\
+</Turn>
+<Turn speaker="spk2" startTime="123.132" endTime="125.97">
+<Sync time="123.132"/>
+&lt;B&gt; ok &lt;B&gt; can I \\
+<Sync time="124.6"/>
+&lt;P&gt; can I request that \\ 
+</Turn>
+<Turn speaker="spk1" startTime="125.97" endTime="126.256">
+<Sync time="125.97"/>
+yep \\
+</Turn>
+<Turn speaker="spk2" startTime="126.256" endTime="130.692">
+<Sync time="126.256"/>
+&lt;B&gt; ok and I hav- \\
+<Sync time="128.069"/>
+on- &lt;P&gt; one other quick question \\
+</Turn>
+<Turn speaker="spk1" startTime="130.692" endTime="131.127">
+<Sync time="130.692"/>
+sure \\
+</Turn>
+<Turn speaker="spk2" startTime="131.127" endTime="136.008">
+<Sync time="131.127"/>
+I'm looking for \\
+<Sync time="132.266"/>
+&lt;P&gt; some travel &lt;BN&gt; tapes on umm \\
+<Sync time="134.555"/>
+&lt;P&gt; &lt;B&gt; Argentina \\
+</Turn>
+<Turn speaker="spk1" startTime="136.008" endTime="137.179">
+<Sync time="136.008"/>
+&lt;P&gt; &lt;TP&gt; ok \\
+</Turn>
+<Turn speaker="spk2" startTime="137.179" endTime="156.385">
+<Sync time="137.179"/>
+&lt;P&gt; and uh &lt;P&gt; Chile &lt;B&gt; \\
+<Sync time="139.182"/>
+&lt;BN&gt; &lt;P&gt; &lt;B&gt; &lt;TP&gt; \\
+<Sync time="146.226"/>
+could be Buenos Aires and whatever \\
+<Sync time="148.061"/>
+&lt;BN&gt; &lt;P&gt; &lt;TN&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="156.385" endTime="215.99">
+<Sync time="156.385"/>
+&lt;CT&gt; &lt;B&gt; \\ 
+<Sync time="157.752"/>
+&lt;P&gt; &lt;B&gt; \\
+<Sync time="160.293"/>
+&lt;P&gt; &lt;BN&gt; &lt;TP&gt; &lt;B&gt; &lt;TP&gt; \\
+<Sync time="211.681"/>
+&lt;B&gt; hmm I did a search for travel books \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="215.99" endTime="218.542">
+<Sync time="215.99"/>
+<Who nb="1"/>
+and I [os put eo] Chile in the annotations \\
+<Who nb="2"/>
+[os mhmm eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="218.542" endTime="222.119">
+<Sync time="218.542"/>
+yea &lt;B&gt; &lt;NU&gt; come up &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="222.119" endTime="236.721">
+<Sync time="222.119"/>
+one of them here is &lt;BN&gt; \\
+<Sync time="223.806"/>
+&lt;P&gt; Along the Inca Road \\
+<Sync time="225.523"/>
+the womens journey into an ancient empire \\
+<Sync time="227.932"/>
+&lt;P&gt; &lt;B&gt; uh records her \\
+<Sync time="231.199"/>
+&lt;P&gt; six month \\
+<Sync time="232.786"/>
+&lt;P&gt; &lt;B&gt; three thousand mile trip through Ecuador Peru Bolivia and Chile \\ 
+</Turn>
+<Turn startTime="236.721" endTime="239.034" speaker="spk2">
+<Sync time="236.721"/>
+&lt;P&gt; &lt;NU&gt; \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="239.034" endTime="240.851">
+<Sync time="239.034"/>
+<Who nb="1"/>
+&lt;P&gt; [os when eo] &lt;B&gt; \\
+<Who nb="2"/>
+[os this eo] looks like she's \\
+</Turn>
+<Turn speaker="spk1" startTime="240.851" endTime="242.191">
+<Sync time="240.851"/>
+she's exploring like ancient \\
+</Turn>
+<Turn speaker="spk2" startTime="242.191" endTime="243.565">
+<Sync time="242.191"/>
+&lt;P&gt; this is not \\
+</Turn>
+<Turn speaker="spk1" startTime="243.565" endTime="244.805">
+<Sync time="243.565"/>
+&lt;P&gt; things \\
+</Turn>
+<Turn speaker="spk2" startTime="244.805" endTime="260.554">
+<Sync time="244.805"/>
+sounds good but I- \\
+<Sync time="245.564"/>
+&lt;B&gt; it's not what I &lt;P&gt; need now \\
+<Sync time="247.295"/>
+&lt;TP&gt; &lt;B&gt; umm &lt;B&gt; &lt;P&gt; &lt;ST&gt; \\
+<Sync time="252.072"/>
+do you \\
+<Sync time="252.681"/>
+&lt;BN&gt; &lt;P&gt; do they have travel records \\
+<Sync time="255.053"/>
+you know them &lt;P&gt; that \\
+<Sync time="256.717"/>
+&lt;B&gt; like umm Fodor \\
+<Sync time="258.694"/>
+&lt;P&gt; and umm \\
+</Turn>
+<Turn speaker="spk1" startTime="260.554" endTime="263.583">
+<Sync time="260.554"/>
+we might but they \\
+<Sync time="261.532"/>
+I'm guessing if we do \\
+<Sync time="262.581"/>
+they're really old \\
+</Turn>
+<Turn speaker="spk2" startTime="263.583" endTime="268.87">
+<Sync time="263.583"/>
+&lt;P&gt; yea \\
+<Sync time="264.513"/>
+&lt;B&gt; well whatever you- \\
+<Sync time="265.562"/>
+you know \\
+<Sync time="265.944"/>
+do you have anything else on &lt;P&gt; \\
+<Sync time="267.351"/>
+Argentina for instance \\
+</Turn>
+<Turn speaker="spk3" startTime="268.87" endTime="324.484">
+<Sync time="268.87"/>
+&lt;P&gt; &lt;TP&gt; &lt;B&gt; &lt;TP&gt; &lt;B&gt; &lt;P&gt; &lt;B&gt; &lt;P&gt; &lt;B&gt; &lt;P&gt; &lt;TP&gt; &lt;B&gt; &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="324.484" endTime="326.938">
+<Sync time="324.484"/>
+I'm not seeing anything that's like a travel book \\
+</Turn>
+<Turn speaker="spk2" startTime="326.938" endTime="336.77">
+<Sync time="326.938"/>
+oh no &lt;BN&gt; \\
+<Sync time="328.083"/>
+&lt;P&gt; the- &lt;P&gt; \\
+<Sync time="329.323"/>
+an- n- &lt;G&gt; \\
+<Sync time="330.682"/>
+the other one sounded very interesting \\
+<Sync time="332.319"/>
+but it was \\
+<Sync time="332.755"/>
+she was following a trail of \\
+<Sync time="335.094"/>
+&lt;P&gt; &lt;B&gt; of Inca \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="336.77" endTime="337.74">
+<Sync time="336.77"/>
+<Who nb="1"/>
+right [os right eo] \\
+<Who nb="2"/>
+[os yea eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="337.74" endTime="348.854">
+<Sync time="337.74"/>
+and &lt;B&gt; and Argentina \\
+<Sync time="339.453"/>
+it doesn't have to be a &lt;B&gt; \\
+<Sync time="341.246"/>
+a travel you know \\
+<Sync time="342.713"/>
+/* book */ like a photo of somebody \\
+<Sync time="344.505"/>
+but somebody if it's &lt;B&gt; &lt;P&gt; \\
+<Sync time="346.509"/>
+&lt;B&gt; I'd guess you're usi- you'd tell me if you had it \\
+</Turn>
+<Turn startTime="348.854" endTime="350.792" speaker="spk1 spk2">
+<Sync time="348.854"/>
+<Who nb="1"/>
+[os yea eo] \\
+<Who nb="2"/>
+[os &lt;B&gt; or eo] anything on anybody \\
+</Turn>
+<Turn speaker="spk2" startTime="350.792" endTime="367.081">
+<Sync time="350.792"/>
+but a woman who's \\
+<Sync time="351.584"/>
+traveling through Argentina sounds good but \\
+<Sync time="354.037"/>
+&lt;B&gt; and &lt;P&gt; \\
+<Sync time="355.326"/>
+I don't think the ancient trails are \\
+<Sync time="357.283"/>
+&lt;B&gt; &lt;P&gt; do you know what \\
+<Sync time="359.095"/>
+I'm going to ask you to send me the \\
+<Sync time="360.832"/>
+the- i- &lt;P&gt; the one on uh \\
+<Sync time="363.006"/>
+&lt;B&gt; first one you told me about the woman &lt;BN&gt; \\
+<Sync time="364.935"/>
+&lt;B&gt; following &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="367.081" endTime="367.399">
+<Sync time="367.081"/>
+ok \\
+</Turn>
+<Turn speaker="spk2" startTime="367.399" endTime="369.061">
+<Sync time="367.399"/>
+the ancient Inca trails \\
+</Turn>
+<Turn speaker="spk1" startTime="369.061" endTime="369.351">
+<Sync time="369.061"/>
+right \\
+</Turn>
+<Turn speaker="spk2" startTime="369.351" endTime="372.005">
+<Sync time="369.351"/>
+ok \\
+<Sync time="369.911"/>
+do you have my \\
+<Sync time="370.682"/>
+&lt;P&gt; name and address \\
+</Turn>
+<Turn speaker="spk1" startTime="372.005" endTime="374.27">
+<Sync time="372.005"/>
+&lt;P&gt; as long as your address didn't change \\
+</Turn>
+<Turn speaker="spk2" startTime="374.27" endTime="375.929">
+<Sync time="374.27"/>
+no &lt;STREET-NUMBER-1&gt; &lt;STREET-NUMBER-2&gt; &lt;STREET-NUMBER-3&gt; &lt;STREETNAME&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="375.929" endTime="376.544">
+<Sync time="375.929"/>
+that's what we have \\
+</Turn>
+<Turn speaker="spk2" startTime="376.544" endTime="377.866">
+<Sync time="376.544"/>
+ok thank you very much \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="377.866" endTime="378.409">
+<Sync time="377.866"/>
+<Who nb="1"/>
+[os you're welcome eo] \\ 
+<Who nb="2"/>
+[os ciao eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="378.409" endTime="378.864">
+<Sync time="378.409"/>
+bye bye \\
+</Turn>
+<Turn speaker="spk1" startTime="378.864" endTime="384.804">
+<Sync time="378.864"/>
+bye &lt;P&gt; &lt;TN&gt; &lt;P&gt; \\
+</Turn>
+</Section>
+</Episode>
+</Trans>

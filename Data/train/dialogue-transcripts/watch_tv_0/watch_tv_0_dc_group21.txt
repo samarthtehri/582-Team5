@@ -1,0 +1,22 @@
+{"user": "Human", "index": 1, "text": "Let's go back to the counter and we can talk about your next leson", "intent": "Inform_location"}
+{"user": "Alien", "index": 1, "text": "Ok I am on my way", "intent": "Inform_understanding"}
+{"user": "Human", "index": 2, "text": "Let's walk into the living room", "intent": "Inform_location"}
+{"user": "Alien", "index": 2, "text": "Is this the TV", "intent": "Ask_about_object"}
+{"user": "Human", "index": 2, "text": "Correct! That giant screen is called a TV", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 3, "text": "Now I want you to press that button", "intent": "Inform_action"}
+{"user": "Alien", "index": 3, "text": "Got it", "intent": "Inform_understanding"}
+{"user": "Human", "index": 4, "text": "Now I want you to go take a seat on the couch", "intent": "Inform_location"}
+{"user": "Alien", "index": 4, "text": "Ok I will go there now", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 5, "text": "Wow this is comfortable!", "intent": "Inform_observation"}
+{"user": "Human", "index": 5, "text": "Good! Us humans love taking time to just sit on the couch and watch TV", "intent": "Casual_response"}
+{"user": "Alien", "index": 6, "text": "I can see why you humans watch so much TV. This feels awesome!", "intent": "Inform_understanding"}
+{"user": "Human", "index": 6, "text": "Isn't it great? Now I want you to get back up and walk over to the TV again", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 7, "text": "Ok what should I do next?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 7, "text": "Now you are going to press that button again", "intent": "Inform_action"}
+{"user": "Alien", "index": 8, "text": "Like this?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 8, "text": "Perfect! That button is how you turn the TV on and off", "intent": "Inform_object"}
+{"user": "Alien", "index": 8, "text": "Neat! I now know how this TV thing works", "intent": "Inform_understanding"}
+{"user": "Human", "index": 9, "text": "Let's go back to the counter and we can talk about your next lesson", "intent": "Inform_location"}
+{"user": "Alien", "index": 9, "text": "Ok let's go", "intent": "Inform_understanding"}
+{"user": "Human", "index": 10, "text": "Are you ready for your next lesson?", "intent": "Ask_take_next_step"}
+{"user": "Alien", "index": 10, "text": "Yep! I am excited to see what there is to do next", "intent": "Yes-no_positive"}

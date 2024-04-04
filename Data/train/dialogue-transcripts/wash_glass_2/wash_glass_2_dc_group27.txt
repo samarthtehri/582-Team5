@@ -1,0 +1,34 @@
+{"user": "Human", "index": 1, "text": "Hi Zara!", "intent": "Extend_greetings"}
+{"user": "Alien", "index": 1, "text": "Hi Michael!", "intent": "Extend_greetings"}
+{"user": "Human", "index": 1, "text": "Ready for another lesson today?", "intent": "Casual_question"}
+{"user": "Alien", "index": 1, "text": "Yes! I am excited to learn a new human skill.", "intent": "Inform_get_started"}
+{"user": "Human", "index": 2, "text": "Let's start by washing some glasses and having a drink. First, go pick up a glass.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 2, "text": "OK, I am going to get the glasses now!", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 3, "text": "Is this a glass?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 3, "text": "Are you sure that's a glass? Or is that a plate?", "intent": "Ask_know_object"}
+{"user": "Alien", "index": 4, "text": "I am not sure... So this is a plate? What is the difference between them?", "intent": "Inform_confused"}
+{"user": "Human", "index": 4, "text": "No problem! Let me explain...", "intent": "iInform_object"}
+{"user": "Human", "index": 5, "text": "Glasses are tall for holding drinks. Plates are broad for food.", "intent": "iInform_object"}
+{"user": "Alien", "index": 5, "text": "Oh I see! So that was a plate, this is the glass then!", "intent": "Inform_understanding"}
+{"user": "Human", "index": 6, "text": "Are you sure you have the glass now?", "intent": "Ask_know_object"}
+{"user": "Alien", "index": 6, "text": "Yeah this is the right object!", "intent": "Inform_understanding"}
+{"user": "Human", "index": 6, "text": "The glass looks dirty, we need to wash it before having a drink.", "intent": "Inform_action"}
+{"user": "Alien", "index": 6, "text": "OK, so how do I wash it?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 6, "text": "Bring the glass over to the sink so that we can rinse it.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 7, "text": "OK, I put the glass in the sink. What should I do next to rinse it?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 7, "text": "We need to turn on the water to rinse it.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 8, "text": "Water is on! How should I wash it?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 8, "text": "Scrub it with the sponge to clean the glass.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 9, "text": "OK, the glass is cleaned now!", "intent": "Inform_observation"}
+{"user": "Human", "index": 9, "text": "Awesome, the glass is clean now, you can turn off the water.", "intent": "Inform_next_step"}
+{"user": "Human", "index": 10, "text": "Awesome the glass is clean now we can get the drink. ", "intent": "Inform_action"}
+{"user": "Alien", "index": 10, "text": "OK! Let's get the drink!", "intent": "Inform_understanding"}
+{"user": "Human", "index": 11, "text": "Ok now you can take the glass back to the table for the drink.", "intent": "Inform_location"}
+{"user": "Alien", "index": 11, "text": "Sure! Shall I use this table here?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 11, "text": "Sure! You can use that table.", "intent": "Casual_response"}
+{"user": "Human", "index": 12, "text": "Keep the glass on the table so we can have our drink.", "intent": "Inform_action"}
+{"user": "Alien", "index": 12, "text": "OK, then where can I get the drink?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 13, "text": "The drink is in the fridge, can you come here and take it?", "intent": "Inform_location"}
+{"user": "Alien", "index": 13, "text": "Sure! I'll get the drink from the fridge.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 14, "text": "Thanks for your help Michael! Glad I can learn a lot from you.", "intent": "Other"}
+{"user": "Human", "index": 14, "text": "Glad I can help!", "intent": "Extend_goodbyes"}

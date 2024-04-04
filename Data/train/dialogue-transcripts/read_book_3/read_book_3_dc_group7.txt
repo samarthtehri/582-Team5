@@ -1,0 +1,31 @@
+{"user": "Alien", "index": 1, "text": "I am bored", "intent": "Inform_condition"}
+{"user": "Human", "index": 1, "text": "There's books on the bookshelf if you'd like to read!", "intent": "Inform_location"}
+{"user": "Alien", "index": 1, "text": "Isn't this the bookshelf?", "intent": "Display_confusion"}
+{"user": "Human", "index": 1, "text": "No, silly! It's over here on my left", "intent": "Yes-no_negative"}
+{"user": "Alien", "index": 2, "text": "Ok whoops I am going there now", "intent": "Inform_understanding"}
+{"user": "Human", "index": 2, "text": "Do you know what books you like to read?", "intent": "Ask_sure_about_object"}
+{"user": "Alien", "index": 2, "text": "No but I see we have some options", "intent": "Yes-no_negative"}
+{"user": "Human", "index": 2, "text": "That's right, go ahead and pick anything you like!", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 3, "text": "What do you think of this one?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 3, "text": "That's a great choice! I loved reading that book the first time!", "intent": "Inform_object"}
+{"user": "Human", "index": 4, "text": "The other book on that shelf is also really great!", "intent": "Inform_location"}
+{"user": "Alien", "index": 4, "text": "Ok I will take that too", "intent": "Inform_understanding"}
+{"user": "Human", "index": 5, "text": "You can go to the desk and take a look at them if you'd like", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 5, "text": "Ok i will do that", "intent": "Inform_understanding"}
+{"user": "Human", "index": 6, "text": "Sit down, and get comfortable!", "intent": "Ask_take_next_step"}
+{"user": "Alien", "index": 6, "text": "Ok i will do that", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 7, "text": "I really liked the main character in this book", "intent": "Inform_observation"}
+{"user": "Human", "index": 7, "text": "Are you talking about this book?", "intent": "Ask_know_object"}
+{"user": "Alien", "index": 7, "text": "Oh yeah I read the entire book just by looking at it. It's a skill my people have.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 7, "text": "You can do WHAT?!", "intent": "Casual_response"}
+{"user": "Human", "index": 8, "text": "Well, how about the other one?", "intent": "Inform_object"}
+{"user": "Alien", "index": 8, "text": "This book is pretty good too. I think I like the first one more though.", "intent": "Inform_observation"}
+{"user": "Human", "index": 8, "text": "Yeah I agree! That story was a lot more fun to read!", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 9, "text": "If you want to leave the books in here, we can come back to them later!", "intent": "Inform_action"}
+{"user": "Alien", "index": 9, "text": "Ok i will do that", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 10, "text": "Wow that book was heavier than I thought", "intent": "Inform_observation"}
+{"user": "Human", "index": 10, "text": "Yeah, it's almost 600 pages long!", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 11, "text": "Wow my arm phasing through the monitor didn't hurt at all", "intent": "Inform_condition"}
+{"user": "Human", "index": 11, "text": "Yeah, that still really freaks me out", "intent": "Casual_response"}
+{"user": "Human", "index": 12, "text": "Great, let's head outside now!", "intent": "Inform_location"}
+{"user": "Alien", "index": 12, "text": "Ok I will follow you", "intent": "Inform_understanding"}

@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14-loqui.dtd">
+<Trans scribe="user" audio_filename="71" version="3" version_date="080827" corpus_version="2.0">
+<Speakers>
+<Speaker id="spk1" name="research-header-info" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="non-speaking-librarian-activity" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="Caller#1" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk4" name="Librarian#2" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="220.500">
+<Turn startTime="0" endTime="3.168" speaker="spk1">
+<Sync time="0"/>
+note \\
+<Sync time="0.329"/>
+verbal consent given but not part of extracted file \\
+</Turn>
+<Turn speaker="spk2" startTime="3.168" endTime="7.25">
+<Sync time="3.168"/>
+&lt;P&gt; &lt;BN&gt; \\
+</Turn>
+<Turn speaker="spk3" startTime="7.25" endTime="8.505">
+<Sync time="7.25"/>
+&lt;B&gt; &lt;TN&gt; I'd like to order some books \\
+</Turn>
+<Turn speaker="spk4" startTime="8.505" endTime="9.735">
+<Sync time="8.505"/>
+what is your name \\
+</Turn>
+<Turn speaker="spk3" startTime="9.735" endTime="15.106">
+<Sync time="9.735"/>
+&lt;FIRSTNAME&gt; &lt;LASTNAME&gt; \\
+<Sync time="10.798"/>
+&lt;LN-INITIAL-1&gt; &lt;LN-INITIAL-2&gt; &lt;LN-INITIAL-3&gt; &lt;P&gt; &lt;LN-INITIAL-4&gt; &lt;LN-INITIAL-5&gt; &lt;LN-INITIAL-6&gt; \\
+<Sync time="12.88"/>
+&lt;P&gt; &lt;LN-INITIAL-7&gt; &lt;LN-INITIAL-8&gt; &lt;LN-INITIAL-9&gt; &lt;LN-INITIAL-10&gt; &lt;LN-INITIAL-11&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="15.106" endTime="20.532">
+<Sync time="15.106"/>
+&lt;P&gt; &lt;TN&gt; &lt;BN&gt; \\
+</Turn>
+<Turn speaker="spk4" startTime="20.532" endTime="22.628">
+<Sync time="20.532"/>
+Miss &lt;LASTNAME&gt; do you have the numbers of the books you want \\
+</Turn>
+<Turn speaker="spk3" startTime="22.628" endTime="24.202">
+<Sync time="22.628"/>
+the number \\
+</Turn>
+<Turn speaker="spk4 spk3" startTime="24.202" endTime="25.49">
+<Sync time="24.202"/>
+<Who nb="1"/>
+[os yea eo] \\
+<Who nb="2"/>
+[os no eo] I wouldn't know the numbers \\
+</Turn>
+<Turn speaker="spk3" startTime="25.49" endTime="26.444">
+<Sync time="25.49"/>
+I just know the names \\
+</Turn>
+<Turn speaker="spk3 spk4" startTime="26.444" endTime="27.231">
+<Sync time="26.444"/>
+<Who nb="1"/>
+I've [os never read eo] them \\
+<Who nb="2"/>
+[os okay eo] \\
+</Turn>
+<Turn speaker="spk3" startTime="27.231" endTime="28.996">
+<Sync time="27.231"/>
+&lt;P&gt; you want me to leave a recording \\
+</Turn>
+<Turn speaker="spk4" startTime="28.996" endTime="30.193">
+<Sync time="28.996"/>
+no what are the names \\
+</Turn>
+<Turn speaker="spk3" startTime="30.193" endTime="31.405">
+<Sync time="30.193"/>
+okay \\
+<Sync time="30.723"/>
+Blinded \\ 
+</Turn>
+<Turn speaker="spk2" startTime="31.405" endTime="37.081">
+<Sync time="31.405"/>
+&lt;P&gt; &lt;BN&gt; &lt;TP&gt; \\ 
+</Turn>
+<Turn speaker="spk4" startTime="37.081" endTime="39.044">
+<Sync time="37.081"/>
+okay is this by Stephen White \\
+</Turn>
+<Turn speaker="spk3" startTime="39.044" endTime="39.694">
+<Sync time="39.044"/>
+correct \\
+</Turn>
+<Turn speaker="spk4" startTime="39.694" endTime="41.769">
+<Sync time="39.694"/>
+&lt;P&gt; okay we should have a copy in \\
+</Turn>
+<Turn speaker="spk3" startTime="41.769" endTime="47.123">
+<Sync time="41.769"/>
+&lt;P&gt; um The Hafta \\
+<Sync time="44.637"/>
+H A F T A \\
+</Turn>
+<Turn speaker="spk4" startTime="47.123" endTime="49.669">
+<Sync time="47.123"/>
+&lt;P&gt; H A F T E \\
+</Turn>
+<Turn speaker="spk3" startTime="49.669" endTime="50.082">
+<Sync time="49.669"/>
+A \\
+</Turn>
+<Turn speaker="spk4" startTime="50.082" endTime="50.583">
+<Sync time="50.082"/>
+A \\
+</Turn>
+<Turn speaker="spk2" startTime="50.583" endTime="58.81">
+<Sync time="50.583"/>
+&lt;P&gt; &lt;BN&gt; &lt;TP&gt; \\
+</Turn>
+<Turn speaker="spk4" startTime="58.81" endTime="60.575">
+<Sync time="58.81"/>
+the third letter is F like Frank \\
+</Turn>
+<Turn speaker="spk3" startTime="60.575" endTime="62.697">
+<Sync time="60.575"/>
+&lt;P&gt; pardon \\
+</Turn>
+<Turn speaker="spk4 spk3" startTime="62.697" endTime="65.96">
+<Sync time="62.697"/>
+<Who nb="1"/>
+the third letter of this word is F like [os Frank eo] \\
+<Who nb="2"/>
+[os correct eo] \\
+</Turn>
+<Turn speaker="spk4" startTime="65.96" endTime="68.081">
+<Sync time="65.96"/>
+okay it doesn't look like we have that one \\ <!--Michal Novemsky 31-March-2010 Changed "dosen't" to "doesn't"-->
+</Turn>
+<Turn speaker="spk3" startTime="68.081" endTime="70.661">
+<Sync time="68.081"/>
+&lt;P&gt; &lt;BN&gt; okay \\
+<Sync time="69.273"/>
+um The Rice Mother \\
+</Turn>
+<Turn speaker="spk2" startTime="70.661" endTime="79.185">
+<Sync time="70.661"/>
+&lt;P&gt; &lt;BN&gt; &lt;TP&gt; \\
+</Turn>
+<Turn speaker="spk4" startTime="79.185" endTime="81.928">
+<Sync time="79.185"/>
+Rice Mother \\
+<Sync time="79.955"/>
+we also don't have \\
+</Turn>
+<Turn speaker="spk3" startTime="81.928" endTime="86.183">
+<Sync time="81.928"/>
+okay \\
+<Sync time="82.651"/>
+&lt;P&gt; um \\
+<Sync time="84.074"/>
+&lt;P&gt; My Sister's Keeper \\ <!--Michal Novemsky 31-March-2010 added apostrophe in "Sister's"-->
+</Turn>
+<Turn speaker="spk2" startTime="86.183" endTime="95.052">
+<Sync time="86.183"/>
+&lt;P&gt; &lt;BN&gt; &lt;TP&gt; \\ 
+</Turn>
+<Turn speaker="spk4" startTime="95.052" endTime="98.984">
+<Sync time="95.052"/>
+by Jodi \\
+<Sync time="96.387"/>
+&lt;P&gt; Pic- oult er- Picoult \\
+</Turn>
+<Turn speaker="spk3" startTime="98.984" endTime="99.493">
+<Sync time="98.984"/>
+yes &lt;BN&gt; \\
+</Turn>
+<Turn speaker="spk4" startTime="99.493" endTime="101.779">
+<Sync time="99.493"/>
+&lt;P&gt; okay we should have a copy of that one in \\
+</Turn>
+<Turn speaker="spk3" startTime="101.779" endTime="105.033">
+<Sync time="101.779"/>
+okay Moloka \\
+<Sync time="103.47"/>
+M O L O K A \\
+</Turn>
+<Turn speaker="spk2" startTime="105.033" endTime="118.838">
+<Sync time="105.033"/>
+&lt;P&gt; &lt;BN&gt; &lt;TP&gt; \\
+</Turn>
+<Turn speaker="spk4" startTime="118.838" endTime="122.357">
+<Sync time="118.838"/>
+is it by \\
+<Sync time="119.983"/>
+&lt;P&gt; O A &lt;P&gt; Bushnell \\
+</Turn>
+<Turn speaker="spk3" startTime="122.357" endTime="129.701">
+<Sync time="122.357"/>
+&lt;P&gt; no it's by Alan \\
+<Sync time="124.671"/>
+&lt;P&gt; ah Alan \\
+<Sync time="127.555"/>
+&lt;P&gt; Bre- Brennert \\ <!--Michal Novemsky 31-March-2010 added "t" to the end of "Brennert"-->
+</Turn>
+<Turn speaker="spk4" startTime="129.701" endTime="131.315">
+<Sync time="129.701"/>
+okay we don't have that one now \\
+</Turn>
+<Turn speaker="spk3" startTime="131.315" endTime="135.054">
+<Sync time="131.315"/>
+okay \\
+<Sync time="132.004"/>
+&lt;P&gt; um &lt;B&gt; The House in Amalfi \\ <!--Michal Novemsky 31-March-2010 Changed "and the" to "in"-->
+</Turn>
+<Turn speaker="spk2" startTime="135.054" endTime="138.347">
+<Sync time="135.054"/>
+&lt;P&gt; &lt;TP&gt; \\
+</Turn>
+<Turn speaker="spk4" startTime="138.347" endTime="139.479">
+<Sync time="138.347"/>
+the house and the what \\
+</Turn>
+<Turn speaker="spk3" startTime="139.479" endTime="142.931">
+<Sync time="139.479"/>
+ Amalfi \\
+<Sync time="140.338"/>
+&lt;P&gt; A M A L F I \\
+</Turn>
+<Turn speaker="spk2" startTime="142.931" endTime="156.146">
+<Sync time="142.931"/>
+&lt;P&gt; &lt;TP&gt; &lt;BN&gt; \\
+</Turn>
+<Turn speaker="spk4" startTime="156.146" endTime="157.196">
+<Sync time="156.146"/>
+we don't have that one either \\
+</Turn>
+<Turn speaker="spk3" startTime="157.196" endTime="160.201">
+<Sync time="157.196"/>
+okay \\
+<Sync time="157.895"/>
+&lt;CT&gt; I'm Just &lt;P&gt; Finishing \\
+</Turn>
+<Turn speaker="spk2" startTime="160.201" endTime="174.792">
+<Sync time="160.201"/>
+&lt;P&gt; &lt;TP&gt; &lt;BN&gt; \\
+</Turn>
+<Turn speaker="spk4" startTime="174.792" endTime="175.861">
+<Sync time="174.792"/>
+we don't have that one \\
+</Turn>
+<Turn speaker="spk3" startTime="175.861" endTime="179.736">
+<Sync time="175.861"/>
+okay and the last one is Loves \\
+<Sync time="177.506"/>
+L O V E apostrophe S \\
+</Turn>
+<Turn speaker="spk2" startTime="179.736" endTime="187.307">
+<Sync time="179.736"/>
+&lt;P&gt; &lt;TN&gt; &lt;BN&gt; \\
+</Turn>
+<Turn speaker="spk4" startTime="187.307" endTime="188.69">
+<Sync time="187.307"/>
+you know who the author of that book is \\
+</Turn>
+<Turn speaker="spk3" startTime="188.69" endTime="194.925">
+<Sync time="188.69"/>
+no I don't \\
+<Sync time="189.425"/>
+I just have the name \\
+<Sync time="190.641"/>
+&lt;P&gt; some of these may be too new \\
+</Turn>
+<Turn speaker="spk4" startTime="194.925" endTime="202.294">
+<Sync time="194.925"/>
+&lt;P&gt; alright \\
+<Sync time="195.958"/>
+&lt;P&gt; I'm not seeing that one either \\
+</Turn>
+<Turn speaker="spk3" startTime="202.294" endTime="206.08">
+<Sync time="202.294"/>
+okay \\
+<Sync time="202.89"/>
+so whatever you have that I said \\
+<Sync time="204.496"/>
+if you could send it \\
+<Sync time="205.214"/>
+I'd appreciate it \\
+</Turn>
+<Turn speaker="spk4" startTime="206.08" endTime="206.526">
+<Sync time="206.08"/>
+okay \\
+</Turn>
+<Turn speaker="spk3" startTime="206.526" endTime="207.273">
+<Sync time="206.526"/>
+thank you sir \\ 
+</Turn>
+<Turn speaker="spk4" startTime="207.273" endTime="207.932">
+<Sync time="207.273"/>
+you're welcome \\ 
+</Turn>
+<Turn speaker="spk3" startTime="207.932" endTime="208.364">
+<Sync time="207.932"/>
+bye bye \\
+</Turn>
+<Turn speaker="spk4" startTime="208.364" endTime="208.767">
+<Sync time="208.364"/>
+bye \\
+</Turn>
+<Turn speaker="spk2" startTime="208.767" endTime="220.500">
+<Sync time="208.767"/>
+&lt;BN&gt; &lt;TN&gt; &lt;P&gt; \\
+</Turn>
+</Section>
+</Episode>
+</Trans>

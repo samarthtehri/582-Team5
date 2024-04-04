@@ -1,0 +1,36 @@
+{"user": "Human", "index": 1, "text": "Do you know where is the plate?", "intent": "Ask_know_location"}
+{"user": "Alien", "index": 1, "text": "Yes, I believe its at the other room.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 2, "text": "is this the plate?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 2, "text": "yes that the plate.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 3, "text": " Are you OK? Let me know what's up.", "intent": "Ask_okay"}
+{"user": "Alien", "index": 3, "text": " I am good.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 3, "text": "What should we do about the cupcake?", "intent": "Explain_confused"}
+{"user": "Human", "index": 3, "text": "you can just leave it there.", "intent": "Inform_action"}
+{"user": "Alien", "index": 4, "text": "Should the dishwasher be in the kitchen?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 4, "text": "yes it's.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 5, "text": "alright let go.", "intent": "Ask_get_started"}
+{"user": "Alien", "index": 5, "text": "I will follow you.", "intent": "Inform_get_started"}
+{"user": "Human", "index": 6, "text": "You know how to use the dishwasher right?", "intent": "Ask_know_action"}
+{"user": "Alien", "index": 6, "text": "Yea i am pretty Sure.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 6, "text": "You open it first.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 7, "text": "and you put the plate in to it.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 7, "text": "correct.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 8, "text": "close the dishwasher.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 8, "text": "uh hmm", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 9, "text": "then turn it on.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 9, "text": "yes.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 10, "text": "and we just wait for it to be done.", "intent": "Inform_observation"}
+{"user": "Human", "index": 10, "text": "should be fast.", "intent": "Casual_response"}
+{"user": "Alien", "index": 10, "text": "ah, lets get it out.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 10, "text": "sure.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 11, "text": "grab the plate.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 11, "text": "yes.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 12, "text": "and close it.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 12, "text": "do it.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 13, "text": "where should i put it?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 13, "text": "whereever the the table is empty is fine.", "intent": "Inform_location"}
+{"user": "Alien", "index": 13, "text": "ok i think i get it.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 14, "text": "I will leave it accross your pudding.", "intent": "Inform_confused"}
+{"user": "Human", "index": 14, "text": "ah I am cool with that.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 15, "text": "now make me some dinner, human.", "intent": "Ask_about_action"}
+{"user": "Human", "index": 15, "text": "aye ma'am.", "intent": "Yes-no_positive"}

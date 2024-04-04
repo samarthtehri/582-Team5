@@ -1,0 +1,44 @@
+{"user": "Human", "index": 1, "text": "Hey Zara!", "intent": "Extend_greetings"}
+{"user": "Alien", "index": 1, "text": "Hi Michael", "intent": "Extend_greetings"}
+{"user": "Human", "index": 1, "text": "Are you ready to get started to learn how to cook with a stove?", "intent": "Ask_get_started"}
+{"user": "Alien", "index": 1, "text": "Of course!", "intent": "Ask_get_started"}
+{"user": "Alien", "index": 2, "text": "Do you know what to do next?", "intent": "Ask_next_step"}
+{"user": "Alien", "index": 2, "text": "Yes", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 2, "text": "I'm going to get the cookingpot on top of the table", "intent": "Inform_understanding"}
+{"user": "Human", "index": 3, "text": "Zara you cannot grab the cookingpot from that side of the table, try moving here", "intent": "Inform_action"}
+{"user": "Alien", "index": 3, "text": "Ok! I'm sorry Michael", "intent": "Inform_condition"}
+{"user": "Human", "index": 3, "text": "Zara are you sure you that's the cooking pot?", "intent": "Ask_sure_about_object"}
+{"user": "Alien", "index": 4, "text": "I'm not sure", "intent": "Inform_confused"}
+{"user": "Alien", "index": 4, "text": "Can you help me Michael?", "intent": "Ask_guidence"}
+{"user": "Human", "index": 4, "text": "That's a plate that you are holding, the cooking pot is the black recipient right there", "intent": "Inform_action"}
+{"user": "Human", "index": 5, "text": "So, what's your favorite type of pasta?", "intent": "Casual_question"}
+{"user": "Alien", "index": 5, "text": "Fusilli, because it looks funny.", "intent": "Casual_response"}
+{"user": "Alien", "index": 5, "text": "Thank you for asking Michael, that question made me calm down", "intent": "Inform_condition"}
+{"user": "Human", "index": 5, "text": "Do you know what to do next?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 5, "text": "I'm going to grab the cooking pot, the black recipient right there!", "intent": "Inform_understanding"}
+{"user": "Human", "index": 6, "text": "Do you need my help?", "intent": "Ask_want_help"}
+{"user": "Alien", "index": 6, "text": "No need", "intent": "Yes-no_negative"}
+{"user": "Alien", "index": 6, "text": "I know that the stove is right there, I just need to take the pot there.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 7, "text": "Where should I put the cooking pot?", "intent": "Ask_guidence"}
+{"user": "Human", "index": 7, "text": "On top of the stove, right on of these circles.", "intent": "Inform_action"}
+{"user": "Alien", "index": 8, "text": "How do I start it?", "intent": "Inform_understanding"}
+{"user": "Human", "index": 8, "text": "You press that button right there", "intent": "Inform_action"}
+{"user": "Human", "index": 9, "text": "Now you can turn it off, it is done.", "intent": "Inform_action"}
+{"user": "Alien", "index": 9, "text": "What do you mean it is done? we didn't cook anything", "intent": "Casual_observation"}
+{"user": "Human", "index": 9, "text": "I'm mean that when there's something there, you will turn off when it's done", "intent": "Casual_response"}
+{"user": "Alien", "index": 9, "text": "So how do I turn it off, just press the same button?", "intent": "Ask_guidence"}
+{"user": "Human", "index": 9, "text": "Yes", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 10, "text": "Do you know what to do now?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 10, "text": "Yes", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 10, "text": "I'm going to take the pot and then put it on the table", "intent": "Inform_understanding"}
+{"user": "Human", "index": 11, "text": "Do you remember where the table is?", "intent": "Ask_know_action"}
+{"user": "Alien", "index": 11, "text": "Yes", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 11, "text": "The table is where I got the cooking pot in the first place", "intent": "Inform_observation"}
+{"user": "Human", "index": 12, "text": "You can put it wherever you like on the table zara", "intent": "Inform_action"}
+{"user": "Alien", "index": 12, "text": "Sound good!", "intent": "Inform_understanding"}
+{"user": "Human", "index": 12, "text": "How are you feeling?", "intent": "Ask_okay"}
+{"user": "Alien", "index": 12, "text": "I'm doing great Michael, you are helping me so much and being very attentive towards my well being", "intent": "Inform_condition"}
+{"user": "Human", "index": 13, "text": "And Zara by the way, where did you get that nice orange top?", "intent": "Casual_question"}
+{"user": "Alien", "index": 13, "text": "Oh, I got it at Zara, they had a 50% off black friday discount", "intent": "Casual_response"}
+{"user": "Human", "index": 13, "text": "Good looks Zara, bye bye", "intent": "Extend_goodbyes"}
+{"user": "Alien", "index": 13, "text": "Bye Michael!", "intent": "Extend_goodbyes"}

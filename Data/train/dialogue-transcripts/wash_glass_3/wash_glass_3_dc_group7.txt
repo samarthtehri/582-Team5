@@ -1,0 +1,29 @@
+{"user": "Human", "index": 1, "text": "Do you want help with something?", "intent": "Ask_want_help"}
+{"user": "Alien", "index": 1, "text": "I want a drink", "intent": "Ask_guidence"}
+{"user": "Human", "index": 1, "text": "There is juice in the fridge", "intent": "Inform_location"}
+{"user": "Alien", "index": 1, "text": "What do I drink it in?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 2, "text": "There are glasses on the table", "intent": "Inform_location"}
+{"user": "Alien", "index": 2, "text": "But these are dirty", "intent": "Inform_confused"}
+{"user": "Human", "index": 2, "text": "Oh, you can wash them in the sink", "intent": "Inform_action"}
+{"user": "Alien", "index": 3, "text": "Ok I will wash it", "intent": "Inform_understanding"}
+{"user": "Human", "index": 3, "text": "The sink is over here", "intent": "Inform_location"}
+{"user": "Alien", "index": 4, "text": "Is this the sink?", "intent": "Inform_confused"}
+{"user": "Human", "index": 4, "text": "No, it is on my other side", "intent": "Inform_incorrect_location"}
+{"user": "Alien", "index": 5, "text": "Oh ok I will go there", "intent": "Inform_understanding"}
+{"user": "Human", "index": 5, "text": "Go ahead and get started!", "intent": "Ask_take_next_step"}
+{"user": "Human", "index": 6, "text": "Put the glass in the sink", "intent": "Inform_action"}
+{"user": "Alien", "index": 6, "text": "Ok i will do that", "intent": "Inform_understanding"}
+{"user": "Human", "index": 7, "text": "Now turn on the faucet", "intent": "Inform_action"}
+{"user": "Alien", "index": 7, "text": "Ok i will do that", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 8, "text": "Ok now what?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 8, "text": "Okay, now turn off the tap", "intent": "Inform_action"}
+{"user": "Alien", "index": 9, "text": "Ok now what?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 9, "text": "Okay, the glass is now clean, you can take it out of the sink", "intent": "Inform_action"}
+{"user": "Human", "index": 10, "text": "Okay, now go put it on the table and grab the juice", "intent": "Inform_action"}
+{"user": "Alien", "index": 10, "text": "Ok i will do that", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 11, "text": "Where did you say the juice was again?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 11, "text": "Over here, it's in the fridge", "intent": "Inform_location"}
+{"user": "Alien", "index": 12, "text": "Is this the fridge?", "intent": "Inform_confused"}
+{"user": "Human", "index": 12, "text": "Nope, it's on my other side", "intent": "Inform_incorrect_location"}
+{"user": "Alien", "index": 13, "text": "Oh haha I did it twice", "intent": "Casual_observation"}
+{"user": "Human", "index": 13, "text": "Haha don't worry, it takes a little getting used to!", "intent": "Casual_response"}

@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14-loqui.dtd">
+<Trans scribe="Daveman" audio_filename="6" version="10" version_date="100419" corpus_version="2.0">
+<Speakers>
+<Speaker id="spk1" name="libarian #1" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="caller #1" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="134.360">
+<Turn startTime="0" endTime="1.512" speaker="spk1">
+<Sync time="0"/>
+yes \\ 
+<Sync time="0.665"/>
+how can I help you \\ 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1.512" endTime="4.559">
+<Sync time="1.512"/>
+<Who nb="1"/>
+[os I'm sorry could you please wait eo] &lt;IR&gt; \\ 
+<Who nb="2"/>
+[os yes could you tell eo] me if this tape is available \\ <!--Eddie Kang 19-April-2010 changed "text" to "tape"-->
+</Turn>
+<Turn speaker="spk2 spk1" startTime="4.559" endTime="9.184">
+<Sync time="4.559"/>
+<Who nb="1"/>
+/* R C */ five nine five [os forty four eo] \\ 
+<Who nb="2"/>
+[os hold on hold on one s- eo] hold on one second \\
+</Turn>
+<Turn speaker="spk1" startTime="9.184" endTime="23.791">
+<Sync time="9.184"/>
+&lt;TN&gt; Andrew Heiskell Library please hold \\
+<Sync time="11.95"/>
+for the purpose of um \\
+<Sync time="14.075"/>
+improving our qua- telephone \\
+<Sync time="16.172"/>
+&lt;P&gt; it's the request the quality of our telephone request &lt;P&gt; \\ 
+<Sync time="19.855"/>
+we are going to &lt;P&gt; \\
+<Sync time="20.948"/>
+record this conversation is ok with you \\
+<Sync time="23.198"/>
+&lt;BN&gt; \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="23.791" endTime="25.979">
+<Sync time="23.791"/>
+<Who nb="1"/>
+you're gonna record it to see if [os its eo] available \\ <!-- Eddie Kang 26-April-2010 changed "availible" to "available" -->
+<Who nb="2"/>
+[os um eo] \\
+</Turn>
+<Turn speaker="spk1" startTime="25.979" endTime="27.769">
+<Sync time="25.979"/>
+no record our conversation \\
+</Turn>
+<Turn speaker="spk2" startTime="27.769" endTime="28.957">
+<Sync time="27.769"/>
+oh yes okay \\
+</Turn>
+<Turn speaker="spk1" startTime="28.957" endTime="30.692">
+<Sync time="28.957"/>
+okay \\
+<Sync time="29.332"/>
+give me your last name please \\
+</Turn>
+<Turn speaker="spk2" startTime="30.692" endTime="35.511">
+<Sync time="30.692"/>
+its five nine five forty four \\
+<Sync time="33.489"/>
+&lt;P&gt; &lt;BN&gt; &lt;P&gt;\\
+</Turn>
+<Turn speaker="spk1" startTime="35.511" endTime="37.452">
+<Sync time="35.511"/>
+&lt;CHKL&gt; \\
+<Sync time="36.328"/>
+I need your name \\
+</Turn>
+<Turn speaker="spk2" startTime="37.452" endTime="39.324">
+<Sync time="37.452"/>
+oh &lt;FIRST NAME&gt; &lt;SECOND NAME&gt; \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="39.324" endTime="43.499">
+<Sync time="39.324"/>
+<Who nb="1"/>
+&lt;LN-INITIAL-1&gt; &lt;LN-initial-2&gt; &lt;LN-initial-3&gt; [os &lt;LN-initial-4&gt; &lt;LN-initial-5&gt; &lt;LN-initial-6&gt; eo] \\ 
+<Who nb="2"/>
+[os &lt;LN-INITIAL-1&gt; &lt;LN-initial-2&gt; &lt;LN-initial-3&gt; eo] \\
+<Sync time="41.511"/>
+<Who nb="1"/>
+&lt;LN-INITIAL-1&gt; &lt;LN-initial-2&gt; &lt;LN-initial-3&gt; [os &lt;LN-initial-4&gt; eo]&lt;LN-initial-5&gt; \\ 
+<Who nb="2"/>
+[os mmhm eo] \\
+</Turn>
+<Turn speaker="spk1" startTime="43.499" endTime="44.155">
+<Sync time="43.499"/>
+mmhm \\
+</Turn>
+<Turn speaker="spk2" startTime="44.155" endTime="47.759">
+<Sync time="44.155"/>
+&lt;LN-initial-5&gt; &lt;LN-initial-6&gt; &lt;B&gt; &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="47.759" endTime="49.975">
+<Sync time="47.759"/>
+&lt;TP&gt; and are you a member of the libary \\
+</Turn>
+<Turn speaker="spk2" startTime="49.975" endTime="52.891">
+<Sync time="49.975"/>
+yeah &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="52.891" endTime="55.016">
+<Sync time="52.891"/>
+okay give me your telephone number \\
+</Turn>
+<Turn speaker="spk2" startTime="55.016" endTime="56.828">
+<Sync time="55.016"/>
+three a- &lt;PHONE-DIGIT-1&gt; &lt;PHONE-DIGIT-2&gt; &lt;PHONE-DIGIT-3&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="56.828" endTime="57.564">
+<Sync time="56.828"/>
+mmhm \\
+</Turn>
+<Turn speaker="spk2" startTime="57.564" endTime="59.244">
+<Sync time="57.564"/>
+&lt;B&gt; &lt;PHONE-DIGIT-3&gt; &lt;PHONE-DIGIT-4&gt; &lt;PHONE-DIGIT-5&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="59.244" endTime="59.525">
+<Sync time="59.244"/>
+mmhm \\
+</Turn>
+<Turn speaker="spk2" startTime="59.525" endTime="66.456">
+<Sync time="59.525"/>
+&lt;PHONE-DIGIT-6&gt; &lt;PHONE-DIGIT-7&gt; &lt;PHONE-DIGIT-8&gt; &lt;PHONE-DIGIT-9&gt; \\
+<Sync time="62.025"/>
+&lt;P&gt; &lt;TP&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="66.456" endTime="68.964">
+<Sync time="66.456"/>
+okie dokie one second &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="68.964" endTime="69.496">
+<Sync time="68.964"/>
+yeah \\
+</Turn>
+<Turn speaker="spk1" startTime="69.496" endTime="78.687">
+<Sync time="69.496"/>
+&lt;P&gt; was looking for your number and I hope you have the right one &lt;P&gt; yes perfect \\
+<Sync time="74.144"/>
+okay let me order this book for you &lt;P&gt; \\
+<Sync time="76.535"/>
+I do have the number \\
+</Turn>
+<Turn speaker="spk2" startTime="78.687" endTime="79.666">
+<Sync time="78.687"/>
+you have it availible \\
+</Turn>
+<Turn speaker="spk1" startTime="79.666" endTime="81.869">
+<Sync time="79.666"/>
+five nine five four four \\
+</Turn>
+<Turn speaker="spk2" startTime="81.869" endTime="82.744">
+<Sync time="81.869"/>
+yes &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="82.744" endTime="86.451">
+<Sync time="82.744"/>
+&lt;TP&gt; I do not have it availible but I'll reserve that book for you okay \\ 
+</Turn>
+<Turn speaker="spk2" startTime="86.451" endTime="89.386">
+<Sync time="86.451"/>
+&lt;B&gt; good \\ 
+<Sync time="87.287"/>
+I wanna see maybe the others are availible \\ <!--Eddie Kang 19-April-2010 changed "waanna" to "wanna"-->
+</Turn>
+<Turn speaker="spk1 spk2" startTime="89.386" endTime="90.557">
+<Sync time="89.386"/>
+<Who nb="1"/>
+ok give me [os another one eo] \\
+<Who nb="2"/>
+[os &lt;B&gt; it is eo] \\ 
+</Turn>
+<Turn speaker="spk2" startTime="90.557" endTime="94.84">
+<Sync time="90.557"/>
+five eight &lt;P&gt; eight &lt;P&gt; zero five &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="94.84" endTime="96.137">
+<Sync time="94.84"/>
+&lt;TP&gt; okay &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="96.137" endTime="97.747">
+<Sync time="96.137"/>
+<Who nb="1"/>
+is that [os available eo] \\ 
+<Who nb="2"/>
+[os yes I do have eo] it \\
+</Turn>
+<Turn speaker="spk2" startTime="97.747" endTime="98.175">
+<Sync time="97.747"/>
+yes \\
+</Turn>
+<Turn speaker="spk1" startTime="98.175" endTime="98.8">
+<Sync time="98.175"/>
+mmhm \\
+</Turn>
+<Turn speaker="spk2" startTime="98.8" endTime="103.113">
+<Sync time="98.8"/>
+okay that's good and there's another one &lt;B&gt; \\ 
+<Sync time="100.675"/>
+you gotta have a little patience cause I can't see \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="103.113" endTime="103.816">
+<Sync time="103.113"/>
+<Who nb="1"/>
+[os okay eo] \\
+<Who nb="2"/>
+[os ah eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="103.816" endTime="107.230">
+<Sync time="103.816"/>
+five nine &lt;P&gt; two three two &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="107.230" endTime="108.871">
+<Sync time="107.230"/>
+five nine two three two \\
+</Turn>
+<Turn speaker="spk2" startTime="108.871" endTime="109.528">
+<Sync time="108.871"/>
+yes \\
+</Turn>
+<Turn speaker="spk1" startTime="109.528" endTime="127.879">
+<Sync time="109.528"/>
+mmhm &lt;P&gt; \\
+<Sync time="111.036"/>
+uh one second &lt;ST&gt; five nine &lt;/ST&gt; &lt;P&gt;\\
+<Sync time="114.295"/>
+&lt;ST&gt; two three two &lt;/ST&gt; \\
+<Sync time="115.387"/>
+&lt;ST&gt; I don't know for what reason didn't take &lt;P&gt; &lt;/ST&gt; \\
+<Sync time="119.326"/>
+&lt;ST&gt; okay let me change the prefix okay &lt;/ST&gt; &lt;P&gt;\\
+<Sync time="123.307"/>
+&lt;ST&gt; so this is five nine &lt;P&gt; two three two &lt;/ST&gt; \\ 
+<Sync time="126.473"/>
+okay the next one \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="127.879" endTime="131.41">
+<Sync time="127.879"/>
+<Who nb="1"/>
+I do [os have eo] this one \\
+<Who nb="2"/>
+[os &lt;NU&gt; eo] &lt;P&gt; \\
+<Sync time="128.769"/>
+<Who nb="1"/>
+[os too eo] \\
+<Who nb="2"/>
+[os okay eo] that's it \\
+<Sync time="129.738"/>
+<Who nb="1"/>
+[os okay oh thank you eo] \\
+<Who nb="2"/>
+[os okay oh thank you eo] \\ 
+</Turn>
+<Turn speaker="spk1" startTime="131.41" endTime="132.081">
+<Sync time="131.41"/>
+your welcome \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="132.081" endTime="133.3">
+<Sync time="132.081"/>
+<Who nb="1"/>
+[os yeah bye eo] bye \\
+<Who nb="2"/>
+[os bye eo] \\
+</Turn>
+<Turn startTime="133.3" endTime="134.360">
+<Sync time="133.3"/>
+&lt;TN&gt; \\ 
+</Turn>
+</Section>
+</Episode>
+</Trans>

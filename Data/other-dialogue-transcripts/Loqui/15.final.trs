@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14-loqui.dtd">
+<Trans scribe="Administrator" audio_filename="15" version="5" version_date="100426" corpus_version="2.0">
+<Speakers>
+<Speaker id="spk1" name="Librarian#1" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="caller#1" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="86.688">
+<Turn startTime="0" endTime="4.734">
+<Sync time="0"/>
+&lt;P&gt; &lt;P&gt; &lt;TC&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="4.734" endTime="11.41">
+<Sync time="4.734"/>
+good morning \\
+<Sync time="5.958"/>
+right now the library is working with the research team \\
+<Sync time="8.144"/>
+to better improve our service \\
+<Sync time="9.504"/>
+would you mind if this call is recorded \\
+</Turn>
+<Turn speaker="spk2" startTime="11.41" endTime="12.004">
+<Sync time="11.41"/>
+no \\
+</Turn>
+<Turn speaker="spk1" startTime="12.004" endTime="14.015">
+<Sync time="12.004"/>
+&lt;B&gt; &lt;BN&gt; okay how can I help you today \\
+</Turn>
+<Turn speaker="spk2" startTime="14.015" endTime="21.164">
+<Sync time="14.015"/>
+&lt;B&gt; hi well I'm a new member \\
+<Sync time="15.586"/>
+and I know I haven't gotten any books yet \\
+<Sync time="17.477"/>
+so I don't quite know how this works \\
+<Sync time="19.008"/>
+&lt;B&gt; can I order a book over the telephone \\
+</Turn>
+<Turn speaker="spk1" startTime="21.164" endTime="21.758">
+<Sync time="21.164"/>
+yeah \\ 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="21.758" endTime="23.805">
+<Sync time="21.758"/>
+<Who nb="1"/>
+&lt;B&gt; okay [os umm eo] \\
+<Who nb="2"/>
+[os what is eo] your name \\
+</Turn>
+<Turn speaker="spk2" startTime="23.805" endTime="29.310">
+<Sync time="23.805"/>
+my name is &lt;LASTNAME&gt; \\
+<Sync time="25.289"/>
+&lt;LN-INITIAL-1&gt; &lt;LN-INITIAL-2&gt; &lt;LN-INITIAL-3&gt; &lt;LN-INITIAL-4&gt; &lt;P&gt; \\
+<Sync time="26.352"/>
+&lt;LN-INITIAL-5&gt; &lt;LN-INITIAL-6&gt; &lt;LN-INITIAL-7&gt; &lt;LN-INITIAL-8&gt; &lt;LN-INITIAL-9&gt; &lt;LN-INITIAL-10&gt; &lt;BN&gt; \\
+<Sync time="27.899"/>
+&lt;BN&gt; &lt;FIRSTNAME&gt; &lt;BN&gt; \\
+</Turn>
+<Turn startTime="29.310" endTime="30.013" speaker="spk2 spk1">
+<Sync time="29.310"/>
+<Who nb="1"/>
+[os press &lt;NU&gt; eo] \\
+<Who nb="2"/>
+[os okay eo] \\
+</Turn>
+<Turn speaker="spk1" startTime="30.013" endTime="35.06">
+<Sync time="30.013"/>
+&lt;P&gt; &lt;BN&gt; and do you have the number of the book or the title of the authors \\
+</Turn>
+<Turn speaker="spk2" startTime="35.06" endTime="40.374">
+<Sync time="35.06"/>
+I have the title \\
+<Sync time="36.045"/>
+the title is ca - \\
+<Sync time="37.092"/>
+is Running With Scissors \\
+<Sync time="38.983"/>
+I don't know who the author is \\
+</Turn>
+<Turn startTime="40.374" endTime="45.89">
+<Sync time="40.374"/>
+&lt;P&gt; &lt;B&gt; &lt;TN&gt; &lt;P&gt; &lt;B&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="45.89" endTime="52.015">
+<Sync time="45.89"/>
+&lt;B&gt; okay the author is Augusten Burroughs \\ 
+<Sync time="48.609"/>
+all our copies are out but I will put it on your reserve list \\
+</Turn>
+<Turn speaker="spk2" startTime="52.015" endTime="52.453">
+<Sync time="52.015"/>
+okay \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="52.453" endTime="54.015">
+<Sync time="52.453"/>
+<Who nb="1"/>
+[os &lt;B&gt; so eo] \\
+<Who nb="2"/>
+[os it eo] means whenever \\ 
+</Turn>
+<Turn speaker="spk1" startTime="54.015" endTime="60.764">
+<Sync time="54.015"/>
+you're at the top of the list \\
+<Sync time="55.14"/>
+and a free copy comes in \\
+<Sync time="56.468"/>
+the computer will automatically say &lt;P&gt; \\
+<Sync time="58.452"/>
+you know send this to &lt;FIRSTNAME&gt; &lt;LASTNAME&gt; \\ 
+</Turn>
+<Turn speaker="spk2" startTime="60.764" endTime="65.466">
+<Sync time="60.764"/>
+okay \\
+<Sync time="61.374"/>
+&lt;B&gt; is there a time limit that you can keep a book \\
+<Sync time="64.123"/>
+like the regular library \\
+</Turn>
+<Turn speaker="spk1" startTime="65.466" endTime="74.059">
+<Sync time="65.466"/>
+there's no official time limit \\
+<Sync time="67.372"/>
+there's suggestive limit of a month \\
+<Sync time="69.185"/>
+but pretty much whenever you're done \\
+<Sync time="71.044"/>
+whenever you're satisfied with the book \\
+<Sync time="72.794"/>
+just send it back to us \\
+</Turn>
+<Turn speaker="spk2" startTime="74.059" endTime="74.606">
+<Sync time="74.059"/>
+okay \\
+</Turn>
+<Turn speaker="spk1" startTime="74.606" endTime="75.106">
+<Sync time="74.606"/>
+yeah \\
+</Turn>
+<Turn speaker="spk2" startTime="75.106" endTime="78.06">
+<Sync time="75.106"/>
+alright great &lt;P&gt; \\
+<Sync time="76.481"/>
+&lt;B&gt; so that's on the list then \\
+</Turn>
+<Turn speaker="spk1" startTime="78.06" endTime="78.482">
+<Sync time="78.06"/>
+yeah \\
+</Turn>
+<Turn speaker="spk2" startTime="78.482" endTime="79.630">
+<Sync time="78.482"/>
+okay \\
+<Sync time="78.935"/>
+thank you \\
+</Turn>
+<Turn speaker="spk1" startTime="79.630" endTime="80.02">
+<Sync time="79.630"/>
+you're welcome \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="80.02" endTime="81.035">
+<Sync time="80.02"/>
+<Who nb="1"/>
+alright bye [os bye eo] \\
+<Who nb="2"/>
+[os bye eo] \\
+</Turn>
+<Turn startTime="81.035" endTime="86.688">
+<Sync time="81.035"/>
+&lt;TN&gt; &lt;TN&gt; &lt;P&gt; \\
+</Turn>
+</Section>
+</Episode>
+</Trans>

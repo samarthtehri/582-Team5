@@ -1,0 +1,69 @@
+{"user": "Human", "index": 1, "text": "Hey, How are you doing today Zara?", "intent": "Extend_greetings"}
+{"user": "Alien", "index": 1, "text": "Hey! I'm great, how are you?", "intent": "Extend_greetings"}
+{"user": "Human", "index": 1, "text": "Today, I am going to teach you how to use the oven to bake bread.", "intent": "Inform_action"}
+{"user": "Alien", "index": 1, "text": "Cool! What should I do first?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 1, "text": "First you are going to want to walk over to the oven.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 1, "text": "Okay let's go!", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 2, "text": "What should I do now?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 2, "text": "Now that you are at the oven, you are going to want to open it.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 2, "text": "How do I open the oven?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 2, "text": "You can open the Oven by pulling the handle.", "intent": "Inform_action"}
+{"user": "Alien", "index": 2, "text": "Okay I'll open it!", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 3, "text": "What do I do next?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 3, "text": "Now you are going to want to get a piece of bread.", "intent": "Inform_action"}
+{"user": "Alien", "index": 3, "text": "Where is the bread?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 3, "text": "You can get a piece of bread from the toaster.", "intent": "Inform_location"}
+{"user": "Alien", "index": 3, "text": "Okay! I'll go get it!", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 4, "text": "Is this the toaster?", "intent": "Ask_guidence"}
+{"user": "Human", "index": 4, "text": "Yes, that is the toaster.", "intent": "Inform_object"}
+{"user": "Alien", "index": 4, "text": "What should I do with the toaster?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 4, "text": "Now grab a piece of bread out of the toaster.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 4, "text": "Alright I'll get one!", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 5, "text": "What do I do next?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 5, "text": "Now you need to take the piece of bread back over to the oven.", "intent": "Inform_next_step"}
+{"user": "Human", "index": 5, "text": "Do you remember where the oven is?", "intent": "Ask_know_location"}
+{"user": "Alien", "index": 5, "text": "Yes I remember! I'll walk over to the oven", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 6, "text": "What should I do now?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 6, "text": "Now you are going to want to place the bread in the oven.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 6, "text": "Where in the oven should I place the bread?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 6, "text": "You can place the bread on the rack in the oven.", "intent": "Inform_location"}
+{"user": "Alien", "index": 6, "text": "Okay!", "intent": "Inform_understanding"}
+{"user": "Human", "index": 7, "text": "Do you understand what you need to do now?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 7, "text": "I'm confused...  I don't know what should I do now", "intent": "Inform_confused"}
+{"user": "Human", "index": 7, "text": "Well you are going to want to close the oven now.", "intent": "Inform_next_step"}
+{"user": "Human", "index": 7, "text": "Do you know how to close the oven?", "intent": "Ask_know_action"}
+{"user": "Alien", "index": 7, "text": "I don't think I do ", "intent": "Yes-no_negative"}
+{"user": "Alien", "index": 8, "text": "How do I close the oven?", "intent": "Ask_guidence"}
+{"user": "Human", "index": 8, "text": "You can close the oven by grabbing the handle and pushing the oven shut.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 8, "text": "Okay! Am I doing it correctly?", "intent": "Ask_guidence"}
+{"user": "Human", "index": 8, "text": "Yes! you correctly shut the oven.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 9, "text": "What do we do now?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 9, "text": "We must wait for the bread to cook.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 9, "text": "What do I do now that is ready?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 9, "text": "When the bread is ready we can open the oven.", "intent": "Inform_next_step"}
+{"user": "Human", "index": 9, "text": "Go ahead and open the oven.", "intent": "Inform_action"}
+{"user": "Alien", "index": 9, "text": "Okay! I'll open the oven!", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 10, "text": "What do I do next?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 10, "text": "Next, you are going to want to carefully take the bread out of the oven.", "intent": "Inform_next_step"}
+{"user": "Human", "index": 10, "text": "Be careful the bread might be hot.", "intent": "Casual_observation"}
+{"user": "Alien", "index": 10, "text": "Okay! thanks, I'll take it out carefully", "intent": "Casual_response"}
+{"user": "Alien", "index": 11, "text": "What do I do now?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 11, "text": "You are going to want to close the oven now.", "intent": "Inform_action"}
+{"user": "Alien", "index": 11, "text": "How do I close it?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 11, "text": "You can close it by pushing the oven door shut.", "intent": "Inform_action"}
+{"user": "Alien", "index": 11, "text": "Okay! I'll close it", "intent": "Inform_understanding"}
+{"user": "Human", "index": 12, "text": "Do you know what to do now that you have the bread?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 12, "text": "No I don't know", "intent": "Yes-no_negative"}
+{"user": "Human", "index": 12, "text": "Now you are going to need to walk over to the plates.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 12, "text": "Okay, where are the plates?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 12, "text": "They are on the counter to the left of the sink.", "intent": "Inform_location"}
+{"user": "Alien", "index": 12, "text": "Okay I'll walk over there!", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 13, "text": "What should I do now?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 13, "text": "Now that you are at the plates, you are going to want to put the bread on one.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 13, "text": "What plate should I place the bread?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 13, "text": "You can put it on any plate, but the top one is the easiest.", "intent": "Inform_location"}
+{"user": "Alien", "index": 13, "text": "Okay!", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 14, "text": "Is there anything else to do now?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 14, "text": "Nope! you just used the oven to bake bread.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 14, "text": "Okay! Thanks for teaching me!", "intent": "Extend_goodbyes"}
+{"user": "Human", "index": 14, "text": "No problem! Good job today making bread. ", "intent": "Extend_goodbyes"}

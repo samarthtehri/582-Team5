@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14-loqui.dtd">
+<Trans scribe="AZ" audio_filename="12" version="5" version_date="100426" corpus_version="2.0">
+<Speakers>
+<Speaker id="spk1" name="librarian#1" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="caller#1" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="non-speaking-librarian-activity#1" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode program="" air_date="">
+<Section type="report" startTime="0" endTime="75.686">
+<Turn startTime="0" endTime="10.817" speaker="spk3">
+<Sync time="0"/>
+&lt;TN&gt;
+</Turn>
+<Turn speaker="spk1" startTime="10.817" endTime="17.89">
+<Sync time="10.817"/>
+&lt;TC&gt; &lt;P&gt; good morning \\
+<Sync time="12.624"/>
+right now the library is working with a research team \\
+<Sync time="14.886"/>
+to better improve our service \\
+<Sync time="16.293"/>
+would you mind if this call is recorded \\
+</Turn>
+<Turn speaker="spk2" startTime="17.89" endTime="18.879">
+<Sync time="17.89"/>
+not at all \\
+</Turn>
+<Turn speaker="spk1" startTime="18.879" endTime="20.788">
+<Sync time="18.879"/>
+&lt;P&gt; okay how can I help you today \\
+</Turn> <!-- Eddie Kang 26-April-2010 added a turn -->
+<Turn speaker="spk2" startTime="20.788" endTime="36.221">
+<Sync time="20.788"/>
+I'm calling for &lt;FIRSTNAME&gt; &lt;LASTNAME&gt; \\
+<Sync time="23.202"/>
+&lt;LN-LETTER-1&gt; &lt;LN-LETTER-2&gt; &lt;LN-LETTER-3&gt; &lt;LN-LETTER-4&gt; &lt;LN-LETTER-5&gt; \\
+<Sync time="24.4"/>
+&lt;ADDR-DIGIT-1&gt; &lt;ADDR-DIGIT-2&gt; &lt;ADDR-STREET&gt; in &lt;CITY&gt; \\
+<Sync time="27.252"/>
+&lt;B&gt; um \\
+<Sync time="28.241"/>
+we were wondering if you had \\
+<Sync time="30.218"/>
+Evidence That Demands a Verdict by Josh McDowell \\
+<Sync time="34.439"/>
+&lt;B&gt; on cassette \\
+</Turn>
+<Turn speaker="spk3" startTime="36.221" endTime="60.230">
+<Sync time="36.221"/>
+&lt;TP&gt; &lt;BN&gt; &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="60.230" endTime="64.907">
+<Sync time="60.230"/>
+okay &lt;P&gt; Evidence That Demands a Verdict \\
+<Sync time="62.397"/>
+we can get from \\
+<Sync time="64.108"/>
+Florida \\
+</Turn>
+<Turn speaker="spk2" startTime="64.907" endTime="66.032">
+<Sync time="64.907"/>
+excellent \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="66.032" endTime="69.869">
+<Sync time="66.032"/>
+<Who nb="1"/>
+&lt;P&gt; is there anything else that I ca- [os want eo] \\
+<Who nb="2"/>
+[os that's eo] it \\
+</Turn>
+<Turn speaker="spk1" startTime="69.869" endTime="70.4">
+<Sync time="69.869"/>
+okay \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="70.4" endTime="71.806">
+<Sync time="70.4"/>
+<Who nb="1"/>
+thank you very [os much eo] \\
+<Who nb="2"/>
+[os you're eo] welcome \\
+</Turn>
+<Turn speaker="spk2" startTime="71.806" endTime="72.181">
+<Sync time="71.806"/>
+bye \\
+</Turn>
+<Turn speaker="spk1" startTime="72.181" endTime="72.806">
+<Sync time="72.181"/>
+bye \\
+</Turn>
+<Turn speaker="spk3" startTime="72.806" endTime="75.686">
+<Sync time="72.806"/>
+&lt;TN&gt; &lt;TN&gt; \\
+</Turn>
+</Section>
+</Episode>
+</Trans>

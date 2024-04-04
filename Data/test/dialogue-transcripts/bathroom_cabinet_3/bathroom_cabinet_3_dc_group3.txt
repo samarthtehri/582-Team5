@@ -1,0 +1,51 @@
+{"user": "Human", "index": 1, "text": "Hey, How are you? Would you like to follow me to do some cleaning?", "intent": "Extend_greetings"}
+{"user": "Alien", "index": 1, "text": "Hi! yeah sure I would love to help", "intent": "Extend_greetings"}
+{"user": "Alien", "index": 1, "text": "What do we need to clean?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 1, "text": "The bathroom. Its just right next to the office. ", "intent": "Inform_location"}
+{"user": "Alien", "index": 1, "text": "Okay, then where is the office?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 1, "text": "The office is through the door in front of you.", "intent": "Inform_location"}
+{"user": "Alien", "index": 1, "text": "Cool, I'll lead the way to check my understanding of house layout", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 2, "text": "I see this bowl. How do I clean it?", "intent": "Ask_guidence"}
+{"user": "Human", "index": 2, "text": "Thats the toilet. We do not need to clean that. Come to the table instead. ", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 2, "text": "Okay, I'm here now.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 2, "text": "I see another bowl. Is that also a toilet", "intent": "Casual_observation"}
+{"user": "Human", "index": 2, "text": "No thats the sink. The sink is part of the table. The towels on the table need to be placed in the cabinet. ", "intent": "Inform_object"}
+{"user": "Alien", "index": 2, "text": "Okay sure", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 3, "text": "How do we clean this place?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 3, "text": "We are going to put the towels into the cabinet. ", "intent": "Inform_action"}
+{"user": "Alien", "index": 3, "text": "I'm feeling lost. I don't what towels are but I do know I have to use these small doors", "intent": "Display_confusion"}
+{"user": "Human", "index": 3, "text": "The towels are the three fuzzy white objects placed on the right side of the table. ", "intent": "Inform_object"}
+{"user": "Alien", "index": 3, "text": "So I will open these cabinets first", "intent": "Inform_understanding"}
+{"user": "Human", "index": 3, "text": "Right!", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 4, "text": "So these piled up white cyclinders are towels right?", "intent": "Inform_understanding"}
+{"user": "Human", "index": 4, "text": "Thats right!", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 4, "text": "And they go into the cabinets?", "intent": "Inform_understanding"}
+{"user": "Human", "index": 4, "text": "Yup", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 5, "text": "I'll grab one of them first", "intent": "Inform_get_started"}
+{"user": "Human", "index": 5, "text": "Okay! ", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 6, "text": "Which of the three cabinets do I put the towel into?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 6, "text": "Uh you can just place it in the middle one. ", "intent": "Inform_action"}
+{"user": "Alien", "index": 6, "text": "Sure, I will take that one", "intent": "Inform_get_started"}
+{"user": "Alien", "index": 7, "text": "I see three levels in the cabinet", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 7, "text": "Which one do I put it into?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 7, "text": "You can place it on any level you prefer. Just pick one. ", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 7, "text": "I shall put it in the top level because I am quite tall ", "intent": "Inform_get_started"}
+{"user": "Human", "index": 7, "text": "Hahaha okay", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 8, "text": "Now I put another towel in this cabinet right?", "intent": "Inform_understanding"}
+{"user": "Human", "index": 8, "text": "Thats right!", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 9, "text": "Do you remember what the towel was?", "intent": "Ask_sure_about_object"}
+{"user": "Alien", "index": 9, "text": "Yep! its right in front of me", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 9, "text": "Thats correct. ", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 9, "text": "I've picked it up now", "intent": "Inform_get_started"}
+{"user": "Human", "index": 10, "text": "Do you know where to place the next towel?", "intent": "Ask_sure_about_action"}
+{"user": "Alien", "index": 10, "text": "I am not sure. The middle one already has a towel. ", "intent": "Inform_confused"}
+{"user": "Human", "index": 10, "text": "We want all the towels at the same place so you can just place it right next to the first one. ", "intent": "Inform_action"}
+{"user": "Alien", "index": 10, "text": "Oh, sure!", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 11, "text": "Since we want them in the same place, I'll keep the towel next to the first one", "intent": "Inform_understanding"}
+{"user": "Human", "index": 11, "text": "Sounds good to me.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 12, "text": "Shall I put the third towel in?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 12, "text": "No there's no need to. Ill be using it soon.", "intent": "Inform_action"}
+{"user": "Alien", "index": 12, "text": "So are we done with cleaning?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 12, "text": "Yeah. We just need to close the cabinet.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 12, "text": "Oh! I almost forgot about that", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 12, "text": "I shall do that", "intent": "Inform_get_started"}

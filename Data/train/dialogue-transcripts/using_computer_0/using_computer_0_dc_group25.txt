@@ -1,0 +1,39 @@
+{"user": "Human", "index": 1, "text": "Hello Zara! How are you doing today?", "intent": "Extend_greetings"}
+{"user": "Alien", "index": 1, "text": "Hello! I am doing well thank you for asking", "intent": "Extend_greetings"}
+{"user": "Human", "index": 1, "text": "Do you know what this object is?", "intent": "Ask_know_object"}
+{"user": "Alien", "index": 1, "text": "No, is it not the computer?", "intent": "Inform_confused"}
+{"user": "Human", "index": 1, "text": "No, it is the stove. The computer is not in the kitchen.", "intent": "Inform_object"}
+{"user": "Alien", "index": 1, "text": "Okay, I understand that now, thank you.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 2, "text": "Let's get started now!", "intent": "Inform_get_started"}
+{"user": "Human", "index": 2, "text": "Should we head to the room with the computer now?", "intent": "Ask_take_next_step"}
+{"user": "Alien", "index": 2, "text": "Yes, let's go!", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 2, "text": "Do you know where the computer is?", "intent": "Ask_sure_about_location"}
+{"user": "Alien", "index": 2, "text": "Yes, I know where to go.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 2, "text": "Do you know what to do now?", "intent": "Ask_know_action"}
+{"user": "Alien", "index": 2, "text": "No, I am not sure.", "intent": "Yes-no_negative"}
+{"user": "Human", "index": 3, "text": "You should reach under the table to turn the computer on", "intent": "Inform_action"}
+{"user": "Alien", "index": 3, "text": "Okay, I can do that now", "intent": "Inform_understanding"}
+{"user": "Human", "index": 4, "text": "Are you okay Zara? Do you need any help?", "intent": "Ask_okay"}
+{"user": "Alien", "index": 4, "text": "I am okay.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 4, "text": "But I am not sure what I am doing now.", "intent": "Explain_confused"}
+{"user": "Human", "index": 5, "text": "You should turn around to face the computer again and sit so that you can use it. ", "intent": "Inform_action"}
+{"user": "Alien", "index": 5, "text": "Okay, I will do that", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 6, "text": "I am confused. What should I do now?", "intent": "Inform_confused"}
+{"user": "Human", "index": 6, "text": "You should grab the mouse so that you can operate the computer.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 6, "text": "Okay, I understand. ", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 7, "text": "What is going on now?", "intent": "Inform_confused"}
+{"user": "Human", "index": 7, "text": "You can continue using the mouse to control the computer", "intent": "Inform_object"}
+{"user": "Alien", "index": 7, "text": "Okay, I got it. ", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 8, "text": "Can you guide me on what to do when I am finished with the computer", "intent": "Ask_guidence"}
+{"user": "Human", "index": 8, "text": "Yes, I can!", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 8, "text": "When you are finished you can put the mouse back on the table.", "intent": "Inform_action"}
+{"user": "Alien", "index": 8, "text": "Okay, I understand. ", "intent": "Inform_understanding"}
+{"user": "Human", "index": 9, "text": "Are you sure there is nothing else you are supposed to do after putting the mouse down?", "intent": "Ask_sure_about_action"}
+{"user": "Alien", "index": 9, "text": "No, I am not sure.", "intent": "Yes-no_negative"}
+{"user": "Human", "index": 9, "text": "Okay, I can help.", "intent": "Inform_other"}
+{"user": "Human", "index": 10, "text": "You should reach under the table and press the same button you used earlier so that you can turn off the computer.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 10, "text": "Okay, I understand. I can do that. ", "intent": "Inform_understanding"}
+{"user": "Human", "index": 10, "text": "Great! You have now learned how to use a computer! Those are all the steps. ", "intent": "Inform_other"}
+{"user": "Alien", "index": 10, "text": "Great, thank you for helping!", "intent": "Inform_understanding"}
+{"user": "Human", "index": 10, "text": "Of course! Goodbye, I will see you soon. ", "intent": "Extend_goodbyes"}
+{"user": "Alien", "index": 10, "text": "Goodbye! See you soon!", "intent": "Extend_goodbyes"}

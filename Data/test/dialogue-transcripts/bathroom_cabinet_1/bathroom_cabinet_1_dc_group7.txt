@@ -1,0 +1,24 @@
+{"user": "Human", "index": 1, "text": "Hey we should go clean the bathroom, it has been a while since we cleaned it", "intent": "Inform_get_started"}
+{"user": "Alien", "index": 1, "text": "Ok let's do that", "intent": "Inform_understanding"}
+{"user": "Human", "index": 2, "text": "Now go ahead and open the cabinets, we need to place some towels inside them", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 2, "text": "Ok i will do that", "intent": "Inform_understanding"}
+{"user": "Human", "index": 3, "text": "Now pick up a towel", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 3, "text": "Ok i will do that", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 4, "text": "Ok I have the towel now what?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 4, "text": "Now go to the middle cabinet and place the towel inside it", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 5, "text": "Do you mean this cabinet?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 5, "text": "That is correct, yep", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 6, "text": "Ok I am placing the towel", "intent": "Inform_understanding"}
+{"user": "Human", "index": 6, "text": "Perfect, now we have to put one more towel right next to that", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 7, "text": "Should I grab the other towel?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 7, "text": "Yeah, go ahead and do that!", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 8, "text": "Ok I have the towel", "intent": "Inform_understanding"}
+{"user": "Human", "index": 8, "text": "Great, you know what to do next", "intent": "Inform_next_step"}
+{"user": "Human", "index": 9, "text": "Now move over to the cabinet and place it right next to the towel you just placed", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 9, "text": "Ok i will put this there", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 10, "text": "Where am I placing this?", "intent": "Display_confusion"}
+{"user": "Human", "index": 10, "text": "In the middle cabinet, on the top shelf", "intent": "Inform_location"}
+{"user": "Alien", "index": 11, "text": "Oh ok I will place this up there", "intent": "Inform_understanding"}
+{"user": "Human", "index": 11, "text": "That's perfect!", "intent": "Inform_other"}
+{"user": "Human", "index": 12, "text": "Now close all the cabinets and we are done!", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 12, "text": "Ok i will do that", "intent": "Inform_understanding"}

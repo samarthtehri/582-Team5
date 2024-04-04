@@ -1,0 +1,52 @@
+{"user": "Human", "index": 1, "text": "Hey, zara! How are you doing today?", "intent": "Extend_greetings"}
+{"user": "Alien", "index": 1, "text": "I am great thank you for asking", "intent": "Extend_greetings"}
+{"user": "Human", "index": 1, "text": "What do you want to learn today?", "intent": "Casual_question"}
+{"user": "Alien", "index": 1, "text": "Anyting is fine", "intent": "Casual_response"}
+{"user": "Human", "index": 1, "text": "Okay", "intent": "Casual_response"}
+{"user": "Human", "index": 1, "text": "Then I am gonna show you how to use computer today", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 1, "text": "Great, that sounds good", "intent": "Casual_response"}
+{"user": "Human", "index": 1, "text": "Let's walk to the computer first.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 1, "text": "Okay", "intent": "Casual_response"}
+{"user": "Human", "index": 2, "text": "Follow me", "intent": "Inform_action"}
+{"user": "Alien", "index": 2, "text": "Okay", "intent": "Casual_response"}
+{"user": "Alien", "index": 2, "text": "Is this the computer?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 2, "text": "No", "intent": "Yes-no_negative"}
+{"user": "Human", "index": 2, "text": "That's a TV, the computer monitor isn't that big.", "intent": "Inform_object"}
+{"user": "Human", "index": 2, "text": "The computer is in front of me. Come here", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 2, "text": "Okay", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 3, "text": "Is this it?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 3, "text": "Yes", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 4, "text": "What now?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 4, "text": "Now you can start the computer.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 4, "text": "How do I do that", "intent": "Ask_about_action"}
+{"user": "Human", "index": 4, "text": "There is a button there that you press and the computer turns on.", "intent": "Inform_action"}
+{"user": "Alien", "index": 4, "text": "Where is this button?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 4, "text": "On the computer case in front of you", "intent": "Inform_object"}
+{"user": "Human", "index": 4, "text": "Turn the switch on", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 4, "text": "Okay", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 5, "text": "What now?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 5, "text": "Do you see the chair in front of the computer?", "intent": "Casual_question"}
+{"user": "Alien", "index": 5, "text": "Yes", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 5, "text": "We usually sit in chairs and use computers", "intent": "Inform_action"}
+{"user": "Alien", "index": 5, "text": "Okay", "intent": "Inform_understanding"}
+{"user": "Human", "index": 6, "text": "you can sit on the chair", "intent": "Inform_action"}
+{"user": "Alien", "index": 6, "text": "Sure", "intent": "Inform_understanding"}
+{"user": "Human", "index": 7, "text": "Now pick up the mouse", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 7, "text": "Sure", "intent": "Inform_understanding"}
+{"user": "Human", "index": 8, "text": "How do you feel about using the computer?", "intent": "Casual_question"}
+{"user": "Alien", "index": 8, "text": "It feels great so far", "intent": "Casual_response"}
+{"user": "Human", "index": 8, "text": "Let me know when you're done", "intent": "Casual_response"}
+{"user": "Alien", "index": 8, "text": "Sure", "intent": "Casual_response"}
+{"user": "Alien", "index": 9, "text": "I am done using it", "intent": "Casual_observation"}
+{"user": "Human", "index": 9, "text": "Okay", "intent": "Casual_response"}
+{"user": "Human", "index": 9, "text": "Please put the mouse back on the table first.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 9, "text": "Alright", "intent": "Inform_understanding"}
+{"user": "Human", "index": 10, "text": "Next we need to shut down the computer.", "intent": "Inform_next_step"}
+{"user": "Human", "index": 10, "text": "Do you know how to turn off your computer?", "intent": "Ask_know_action"}
+{"user": "Alien", "index": 10, "text": "No", "intent": "Yes-no_negative"}
+{"user": "Human", "index": 10, "text": "Just like you turn on a computer. Press that button again", "intent": "Inform_action"}
+{"user": "Alien", "index": 10, "text": "Sure", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 11, "text": "I turned off the computer", "intent": "Inform_observation"}
+{"user": "Human", "index": 11, "text": "Great", "intent": "Casual_response"}
+{"user": "Human", "index": 11, "text": "how do you feel today?", "intent": "Casual_question"}
+{"user": "Alien", "index": 11, "text": "Very good", "intent": "Casual_response"}

@@ -1,0 +1,40 @@
+{"user": "Human", "index": 1, "text": "Hey would like to watch some tv?", "intent": "Extend_greetings"}
+{"user": "Alien", "index": 1, "text": "Yes! I would love to after a long day of work", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 1, "text": "Ok. Ill follow you", "intent": "Inform_action"}
+{"user": "Alien", "index": 1, "text": "I think I know where the TV is, lets go", "intent": "Inform_get_started"}
+{"user": "Alien", "index": 2, "text": "So we are in the kitchen ", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 2, "text": "Is this box the TV?", "intent": "Inform_confused"}
+{"user": "Human", "index": 2, "text": "No. The tv is in the living room. We have to go to the living room first.", "intent": "Yes-no_negative"}
+{"user": "Alien", "index": 3, "text": "Oh I think I know where the living room is", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 3, "text": "Follow me", "intent": "Inform_get_started"}
+{"user": "Human", "index": 3, "text": "okay!", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 3, "text": "Is the big flat  black slab the TV?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 3, "text": "Yeah thats right", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 4, "text": "What do I do with the TV now?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 4, "text": "You have to turn the tv on. Press the button on the bottom left side of the tv to turn it on. ", "intent": "Inform_action"}
+{"user": "Alien", "index": 4, "text": "Sure! I see the button", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 4, "text": "Do I just push the button in?", "intent": "Ask_get_started"}
+{"user": "Human", "index": 4, "text": "Yeah. The tv should turn on", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 5, "text": "Ooh, the TV is glowing and showing pictures!", "intent": "Inform_observation"}
+{"user": "Human", "index": 5, "text": "Yeah the tv is on now. Don't stand too close, just relax and and sit down.", "intent": "Inform_action"}
+{"user": "Alien", "index": 5, "text": "Do I sit on this white cushion?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 5, "text": "Yeah thats right.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 6, "text": "I'll sit on this side of the couch", "intent": "Inform_get_started"}
+{"user": "Alien", "index": 6, "text": "The couch is very soft and comfortable!", "intent": "Inform_observation"}
+{"user": "Human", "index": 6, "text": "Yes its very relaxing while watching tv.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 7, "text": "Oh the sport looks quite interesting", "intent": "Casual_observation"}
+{"user": "Human", "index": 7, "text": "Yeah thats soccer. They are having a big tournament right now. ", "intent": "Inform_object"}
+{"user": "Alien", "index": 8, "text": "I am well rested now", "intent": "Inform_condition"}
+{"user": "Alien", "index": 8, "text": "How do I turn the TV off?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 8, "text": "Press the button again to turn the tv off. ", "intent": "Inform_action"}
+{"user": "Alien", "index": 8, "text": "Ok sure", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 9, "text": "Did you like watching tv?", "intent": "Ask_need_info"}
+{"user": "Alien", "index": 9, "text": "Yep, it was exhilarating to watch the people run around", "intent": "Casual_response"}
+{"user": "Alien", "index": 9, "text": "I'm pressing the same button to turn in off", "intent": "Inform_get_started"}
+{"user": "Human", "index": 9, "text": "Glad you liked it", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 10, "text": "Do you want to grab a snack in the kitchen?", "intent": "Inform_get_started"}
+{"user": "Alien", "index": 10, "text": "Yeah sure, I am quite hungry", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 10, "text": "I'll head there, follow me", "intent": "Inform_get_started"}
+{"user": "Human", "index": 10, "text": "Okay!", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 11, "text": "You can watch tv while eating snacks. Its my favorite thing to do.", "intent": "Casual_response"}
+{"user": "Alien", "index": 11, "text": "Interesting, I'll try that next time", "intent": "Casual_response"}

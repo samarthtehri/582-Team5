@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14-loqui.dtd">
+<Trans scribe="Kenneth" audio_filename="72" version="6" version_date="080827" corpus_version="2.0">
+<Speakers>
+<Speaker id="spk1" name="research-header-info" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="caller#2" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="librarian#1" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="110.250">
+<Turn startTime="0" endTime="3.819" speaker="spk1">
+<Sync time="0"/>
+note verbal consent given but not part of extracted file \\
+</Turn>
+<Turn speaker="spk3" startTime="3.819" endTime="4.906">
+<Sync time="3.819"/>
+&lt;TN&gt; how can I help you today \\
+</Turn>
+<Turn speaker="spk2" startTime="4.906" endTime="10.025">
+<Sync time="4.906"/>
+&lt;TN&gt; uh my name is &lt;FIRSTNAME&gt; &lt;LASTNAME&gt; \\
+<Sync time="7.619"/>
+and I would like to order a book \\
+</Turn>
+<Turn speaker="spk3" startTime="10.025" endTime="13.813">
+<Sync time="10.025"/>
+&lt;TN&gt; that's &lt;LN-INITIAL-1&gt; &lt;LN-INITIAL-2&gt; &lt;LN-INITIAL-3&gt; \\
+<Sync time="12.527"/>
+&lt;LN-INITIAL-4&gt; &lt;LN-INITIAL-5&gt; &lt;LN-INITIAL-6&gt; &lt;LN-INITIAL-7&gt; &lt;LN-INITIAL-8&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="13.813" endTime="14.26">
+<Sync time="13.813"/>
+right \\
+</Turn>
+<Turn speaker="spk3" startTime="14.26" endTime="17.654">
+<Sync time="14.26"/>
+okay \\
+<Sync time="14.89"/>
+Miss &lt;LASTNAME&gt; \\
+<Sync time="16.058"/>
+do you have the numbers of the books you want \\
+</Turn>
+<Turn speaker="spk2" startTime="17.654" endTime="25.796">
+<Sync time="17.654"/>
+uh no I don't have any numbers \\
+<Sync time="20.315"/>
+no I don't &lt;B&gt; \\
+<Sync time="21.237"/>
+but I was wondering \\
+<Sync time="22.25"/>
+if I could get the lastest novel \\
+<Sync time="23.999"/>
+by Danielle Steel \\
+</Turn>
+<Turn speaker="spk3" startTime="25.796" endTime="40.221">
+<Sync time="25.796"/>
+&lt;TP&gt; &lt;P&gt; okay let's see \\
+<Sync time="30.736"/>
+&lt;TP&gt; &lt;P&gt; &lt;BN&gt; okay \\
+<Sync time="36.543"/>
+it looks like \\
+<Sync time="37.336"/>
+the latest one we have in is called The House \\
+</Turn>
+<Turn speaker="spk2" startTime="40.221" endTime="41.21">
+<Sync time="40.221"/>
+fine \\
+</Turn>
+<Turn speaker="spk3 spk2" startTime="41.21" endTime="45.491">
+<Sync time="41.21"/>
+<Who nb="1"/>
+is that [os good eo] \\
+<Who nb="2"/>
+[os I don't eo] think I've read that \\ <!--Michal Novemsky 31-March-2010 Changed "I" to "I've"-->
+<Sync time="43.203"/>
+<Who nb="1"/>
+[os okay eo] \\
+<Who nb="2"/>
+and uh- a- and uh- a- \\
+</Turn>
+<Turn speaker="spk2" startTime="45.491" endTime="48.384">
+<Sync time="45.491"/>
+the latest of uh Barbara Bradford Taylor \\
+</Turn>
+<Turn speaker="spk3" startTime="48.384" endTime="61.652">
+<Sync time="48.384"/>
+&lt;TP&gt; &lt;BN&gt; &lt;P&gt; okay it's- \\
+<Sync time="58.638"/>
+Unexpected Blessings \\
+<Sync time="60.49"/>
+we have a copy in \\
+</Turn>
+<Turn speaker="spk2" startTime="61.652" endTime="67.142">
+<Sync time="61.652"/>
+&lt;P&gt; fine \\
+<Sync time="63.389"/>
+&lt;P&gt; did you say that \\
+<Sync time="65.568"/>
+what uh I missed that \\
+</Turn>
+<Turn speaker="spk3" startTime="67.142" endTime="71.624">
+<Sync time="67.142"/>
+oh uh \\
+<Sync time="67.924"/>
+I said we have a copy of her latest book called Unexpected Blessings \\
+</Turn>
+<Turn speaker="spk2 spk3" startTime="71.624" endTime="73.567">
+<Sync time="71.624"/>
+<Who nb="1"/>
+oh thank you \\
+<Sync time="72.667"/>
+[os that's eo] &lt;BN&gt; good \\
+<Who nb="2"/>
+[os yeah eo] <!--Michal Novemsky 31-March-2010 added in "yeah", which overlaps with previous "that's"-->
+</Turn>
+<Turn speaker="spk3" startTime="73.567" endTime="75.835">
+<Sync time="73.567"/>
+is there anything else you need today \\
+</Turn>
+<Turn speaker="spk2" startTime="75.835" endTime="77.099">
+<Sync time="75.835"/>
+uh no \\
+</Turn>
+<Turn speaker="spk3" startTime="77.099" endTime="77.685">
+<Sync time="77.099"/>
+okay \\
+</Turn>
+<Turn speaker="spk2" startTime="77.685" endTime="78.739">
+<Sync time="77.685"/>
+that'll be fine \\
+</Turn>
+<Turn speaker="spk3" startTime="78.739" endTime="79.159">
+<Sync time="78.739"/>
+right \\
+</Turn>
+<Turn speaker="spk2" startTime="79.159" endTime="80.304">
+<Sync time="79.159"/>
+thank you so much \\
+</Turn>
+<Turn speaker="spk3" startTime="80.304" endTime="80.9">
+<Sync time="80.304"/>
+you're welcome \\
+</Turn>
+<Turn speaker="spk2" startTime="80.9" endTime="83.106">
+<Sync time="80.9"/>
+when can I expect them \\
+<Sync time="82.528"/>
+do you know \\
+</Turn>
+<Turn speaker="spk3" startTime="83.106" endTime="88.909">
+<Sync time="83.106"/>
+I assigned it to you just now \\
+<Sync time="85.917"/>
+so they'll probably leave our building tomorrow or Thursday
+</Turn>
+<Turn speaker="spk2 spk3" startTime="88.909" endTime="92.52">
+<Sync time="88.909"/>
+<Who nb="1"/>
+[os fine eo] \\
+<Who nb="2"/>
+[os from there eo] however long it takes the mail system to get to you \\
+</Turn>
+<Turn speaker="spk2" startTime="92.52" endTime="94.789">
+<Sync time="92.52"/>
+wonderful \\
+<Sync time="93.884"/>
+thank you so much \\
+</Turn>
+<Turn speaker="spk3" startTime="94.789" endTime="95.5">
+<Sync time="94.789"/>
+you're welcome \\
+</Turn>
+<Turn speaker="spk2" startTime="95.5" endTime="96.004">
+<Sync time="95.5"/>
+bye bye \\
+</Turn>
+<Turn speaker="spk3" startTime="96.004" endTime="110.250">
+<Sync time="96.004"/>
+bye \\
+<Sync time="96.431"/>
+&lt;P&gt; &lt;TN&gt; \\
+</Turn>
+</Section>
+</Episode>
+</Trans>

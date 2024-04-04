@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14-loqui.dtd">
+<Trans scribe="Daveman" audio_filename="39.san" version="5" version_date="091116" corpus_version="2.0">
+<Speakers>
+<Speaker id="spk1" name="non-speaking-librarian-activity#1" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="librarian#1" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="caller#2" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="204.552">
+<Turn startTime="0" endTime="4.623" speaker="spk1">
+<Sync time="0"/>
+&lt;TN&gt; &lt;VB&gt; &lt;TN&gt; &lt;VB&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="4.623" endTime="10.77">
+<Sync time="4.623"/>
+hi right now the library's working with a research team \\
+<Sync time="7.246"/>
+to better improve our service \\
+<Sync time="8.623"/>
+would you mind if this call is recorded &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk3" startTime="10.77" endTime="14.302">
+<Sync time="10.77"/>
+oh it's okay \\
+<Sync time="11.634"/>
+um I just want to know how late you're open tonight \\
+</Turn>
+<Turn speaker="spk2" startTime="14.302" endTime="19.117">
+<Sync time="14.302"/>
+um we're not open on Wednesdays \\
+<Sync time="16.111"/>
+but tomorrow is twelve to seven \\
+<Sync time="17.754"/>
+&lt;P&gt; &lt;VB&gt; &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk3" startTime="19.117" endTime="21.706">
+<Sync time="19.117"/>
+oh \\
+<Sync time="20.148"/>
+you're not open on Wednesday \\
+</Turn>
+<Turn speaker="spk2" startTime="21.706" endTime="22.050">
+<Sync time="21.706"/>
+no \\
+</Turn>
+<Turn speaker="spk3" startTime="22.050" endTime="26.048">
+<Sync time="22.050"/>
+&lt;B&gt; can you &lt;P&gt; \\
+<Sync time="23.355"/>
+um can I order some books for my husband \\
+</Turn>
+<Turn speaker="spk2" startTime="26.048" endTime="27.367">
+<Sync time="26.048"/>
+&lt;TN&gt; sure \\ 
+<Sync time="26.579"/>
+what is &lt;BN&gt; /* his name */ \\
+</Turn>
+<Turn speaker="spk3" startTime="27.367" endTime="29.522">
+<Sync time="27.367"/>
+oh &lt;FIRSTNAME&gt; &lt;VB&gt; &lt;LASTNAME&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="29.522" endTime="31.999">
+<Sync time="29.522"/>
+&lt;LN-INITIAL-1&gt; &lt;LN-INITIAL-2&gt; &lt;LN-INITIAL-3&gt; &lt;LN-INITIAL-4&gt; &lt;LN-INITIAL-5&gt; &lt;BN&gt; \\
+</Turn>
+<Turn speaker="spk3 spk2" startTime="31.999" endTime="34.666">
+<Sync time="31.999"/>
+<Who nb="1"/>
+&lt;LN-INITIAL-6&gt; &lt;LN-INITIAL-7&gt; [os &lt;LN-INITIAL-8&gt; &lt;LN-INITIAL-9&gt; eo] \\
+<Who nb="2"/>
+[os okay yeah eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="34.666" endTime="36.558">
+<Sync time="34.666"/>
+did you want to pick them up tomorrow or \\
+</Turn>
+<Turn speaker="spk3 spk2" startTime="36.558" endTime="38.59">
+<Sync time="36.558"/>
+<Who nb="1"/>
+&lt;B&gt; [os um eo] \\
+<Who nb="2"/>
+[os you want me to eo] send them out \\
+</Turn>
+<Turn speaker="spk3" startTime="38.59" endTime="41.546">
+<Sync time="38.59"/>
+&lt;B&gt; well yeah you could s- send them that'd be fine \\
+</Turn>
+<Turn speaker="spk2" startTime="41.546" endTime="44.225">
+<Sync time="41.546"/>
+okay &lt;P&gt; &lt;B&gt;\\
+<Sync time="42.234"/>
+do you have the numbers of the books he wants &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk3" startTime="44.225" endTime="45.741">
+<Sync time="44.225"/>
+um &lt;P&gt; no \\
+</Turn>
+<Turn speaker="spk2 spk3" startTime="45.741" endTime="46.318">
+<Sync time="45.741"/>
+<Who nb="1"/>
+[os okay eo] \\
+<Who nb="2"/>
+[os &lt;B&gt; eo] \\
+</Turn>
+<Turn speaker="spk3" startTime="46.318" endTime="53.501">
+<Sync time="46.318"/>
+&lt;B&gt; I I'm not even sure &lt;P&gt; \\
+<Sync time="49.336"/>
+but the way they did &lt;BN&gt; it with me last time \\
+<Sync time="51.443"/>
+was I just mentioned some authors \\
+</Turn>
+<Turn speaker="spk2" startTime="53.501" endTime="54.018">
+<Sync time="53.501"/>
+sure &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk3" startTime="54.018" endTime="67.253">
+<Sync time="54.018"/>
+okay \\
+<Sync time="54.783"/>
+&lt;B&gt; well &lt;P&gt;&lt;VB&gt; I was thinking &lt;P&gt; \\
+<Sync time="57.246"/>
+Upda- Updike John Updike \\
+<Sync time="60.344"/>
+&lt;B&gt; or um \\
+<Sync time="62.141"/>
+it's the first name John for Cheever \\
+<Sync time="64.706"/>
+C H E E V E R &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="67.253" endTime="72.588">
+<Sync time="67.253"/>
+mm it might be &lt;P&gt; \\
+<Sync time="68.994"/>
+&lt;B&gt; yes for Updike you just want me to pick a random one we have in &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk3 spk2" startTime="72.588" endTime="74.383">
+<Sync time="72.588"/>
+<Who nb="1"/>
+yeah and you [os could just eo] \\
+<Who nb="2"/>
+[os &lt;G&gt; eo] \\
+</Turn>
+<Turn speaker="spk3" startTime="74.383" endTime="96.554">
+<Sync time="74.383"/>
+anything \\
+<Sync time="74.992"/>
+and then um \\
+<Sync time="75.979"/>
+&lt;BN&gt; also um &lt;VB&gt; &lt;B&gt; &lt;P&gt; \\
+<Sync time="80.717"/>
+lets see &lt;BN&gt; um &lt;P&gt; &lt;VB&gt; \\
+<Sync time="84.241"/>
+&lt;VB&gt; &lt;B&gt; F Scott Fitzgerald if you have any of the- \\
+<Sync time="87.206"/>
+he already read he loved the um\\
+<Sync time="89.714"/>
+Brideshead Revisited the short stories \\
+<Sync time="91.795"/>
+&lt;VB&gt; \\
+<Sync time="92.273"/>
+&lt;VB&gt; so if you have &lt;P&gt; \\
+<Sync time="93.925"/>
+some other stuff by him I think he'd &lt;VB&gt; probably &lt;VB&gt; like him \\ 
+</Turn>
+<Turn speaker="spk2" startTime="96.554" endTime="98.564">
+<Sync time="96.554"/>
+&lt;VB&gt; okay &lt;VB&gt; &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk3" startTime="98.564" endTime="114.783">
+<Sync time="98.564"/>
+and um &lt;VB&gt; &lt;P&gt; &lt;B&gt; &lt;P&gt; \\
+<Sync time="105.215"/>
+uh &lt;B&gt; &lt;VB&gt; &lt;P&gt; \\
+<Sync time="108.095"/>
+&lt;B&gt; &lt;P&gt; \\
+<Sync time="109.607"/>
+are there any &lt;P&gt; sort of m- &lt;P&gt; \\
+<Sync time="111.71"/>
+he really liked Kavalier and Clay \\
+</Turn>
+<Turn speaker="spk2" startTime="114.783" endTime="115.695">
+<Sync time="114.783"/>
+right &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk3" startTime="115.695" endTime="123.473">
+<Sync time="115.695"/>
+do you know of anything that would be &lt;BN&gt; &lt;P&gt; \\
+<Sync time="118.187"/>
+similar to that or something or &lt;P&gt; \\
+<Sync time="120.687"/>
+&lt;VB&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="123.473" endTime="125.492">
+<Sync time="123.473"/>
+unfortunately I've never read the book &lt;VB&gt; \\
+</Turn>
+<Turn speaker="spk3" startTime="125.492" endTime="146.567">
+<Sync time="125.492"/>
+oh okay &lt;B&gt; um okay &lt;B&gt; well &lt;P&gt; \\ 
+<Sync time="128.143"/>
+alright a- this is sort of a long shot \\
+<Sync time="129.929"/>
+I'll try John O'Hara \\
+<Sync time="131.857"/>
+&lt;B&gt; &lt;VB&gt; I mean I know he's not very popular &lt;P&gt; now but &lt;P&gt; \\
+<Sync time="136.244"/>
+I used to read him and &lt;P&gt; &lt;VB&gt; I think he might like him &lt;P&gt; \\
+<Sync time="140.04"/>
+so so far I've given you three Johns John Updike John Cheever &lt;B&gt; \\
+<Sync time="145.376"/>
+and John O'Hara \\
+</Turn>
+<Turn speaker="spk2" startTime="146.567" endTime="147.173">
+<Sync time="146.567"/>
+right &lt;P&gt; \\ 
+</Turn>
+<Turn speaker="spk3" startTime="147.173" endTime="150.135">
+<Sync time="147.173"/>
+&lt;B&gt; but I don't know if Cheever's first name is &lt;P&gt; John \\
+</Turn>
+<Turn speaker="spk2" startTime="150.135" endTime="151.285">
+<Sync time="150.135"/>
+it is &lt;VB&gt; \\
+</Turn>
+<Turn speaker="spk3" startTime="151.285" endTime="151.864">
+<Sync time="151.285"/>
+oh it is \\
+</Turn>
+<Turn speaker="spk2" startTime="151.864" endTime="152.302">
+<Sync time="151.864"/>
+yeah \\
+</Turn>
+<Turn speaker="spk3" startTime="152.302" endTime="168.973">
+<Sync time="152.302"/>
+&lt;P&gt; okay that's weird okay um &lt;P&gt; \\
+<Sync time="155.545"/>
+&lt;B&gt; and then um &lt;VB&gt; &lt;P&gt; \\
+<Sync time="159.346"/>
+&lt;VB&gt; &lt;P&gt; &lt;VB&gt; \\
+<Sync time="162.909"/>
+um &lt;VB&gt; \\
+<Sync time="165.039"/>
+&lt;B&gt; oh and F Scott Fitzgerald and that should be &lt;P&gt; \\
+<Sync time="167.751"/>
+that should give you enough \\
+</Turn>
+<Turn speaker="spk2" startTime="168.973" endTime="170.791">
+<Sync time="168.973"/>
+how many books do you want me to send &lt;VB&gt; total \\
+</Turn>
+<Turn speaker="spk3" startTime="170.791" endTime="175.417">
+<Sync time="170.791"/>
+can you send &lt;P&gt; \\
+<Sync time="171.916"/>
+a lot like just &lt;P&gt; \\
+<Sync time="173.901"/>
+you know &lt;BN&gt; what I mean \\ 
+<Sync time="174.959"/>
+yeah \\
+</Turn>
+<Turn speaker="spk2" startTime="175.417" endTime="176.127">
+<Sync time="175.417"/>
+okay &lt;VB&gt; \\
+</Turn>
+<Turn speaker="spk3" startTime="176.127" endTime="177.0">
+<Sync time="176.127"/>
+perfect &lt;B&gt; \\ 
+</Turn>
+<Turn speaker="spk2" startTime="177.0" endTime="177.219">
+<Sync time="177.0"/>
+right \\
+</Turn>
+<Turn speaker="spk3" startTime="177.219" endTime="178.94">
+<Sync time="177.219"/>
+and you have our address &lt;B&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="178.94" endTime="181.207">
+<Sync time="178.94"/>
+as &lt;VB&gt; long as it didn't change &lt;B&gt; &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk3" startTime="181.207" endTime="186.608">
+<Sync time="181.207"/>
+&lt;B&gt; um &lt;VB&gt; &lt;P&gt; well &lt;P&gt; \\
+<Sync time="183.539"/>
+&lt;B&gt; I'll just &lt;P&gt; give it to you in case &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="186.608" endTime="187.099">
+<Sync time="186.608"/>
+&lt;P&gt; sure \\
+</Turn>
+<Turn speaker="spk3" startTime="187.099" endTime="189.961">
+<Sync time="187.099"/>
+you d- \\
+<Sync time="187.435"/>
+okay it's \\
+<Sync time="188.406"/>
+&lt;STREETNUMBER&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="189.961" endTime="190.447">
+<Sync time="189.961"/>
+right \\
+</Turn>
+<Turn speaker="spk3" startTime="190.447" endTime="193.247">
+<Sync time="190.447"/>
+&lt;STREETNAME&gt; \\
+<Sync time="192.084"/>
+it's apartment \\
+</Turn>
+<Turn speaker="spk3 spk2" startTime="193.247" endTime="195.322">
+<Sync time="193.247"/>
+<Who nb="1"/>
+&lt;APARTMENT&gt; [os as in eo] &lt;EXAMPLE&gt; \\
+<Who nb="2"/>
+[os yeah eo] \\
+</Turn>
+<Turn speaker="spk3" startTime="195.322" endTime="195.862">
+<Sync time="195.322"/>
+oh you have it \\
+</Turn>
+<Turn speaker="spk2" startTime="195.862" endTime="196.498">
+<Sync time="195.862"/>
+yeah &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk3 spk2" startTime="196.498" endTime="198.625">
+<Sync time="196.498"/>
+<Who nb="1"/>
+okay great thank you so [os much eo] \\
+<Who nb="2"/>
+[os you're eo] welcome \\
+</Turn>
+<Turn speaker="spk3" startTime="198.625" endTime="199.462">
+<Sync time="198.625"/>
+kay bye \\
+</Turn>
+<Turn speaker="spk2" startTime="199.462" endTime="199.813">
+<Sync time="199.462"/>
+bye \\
+</Turn>
+<Turn speaker="spk1" startTime="199.813" endTime="204.552">
+<Sync time="199.813"/>
+&lt;P&gt; &lt;TN&gt; &lt;TN&gt; &lt;P&gt; \\
+</Turn>
+</Section>
+</Episode>
+</Trans>

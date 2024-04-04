@@ -1,0 +1,26 @@
+{"user": "Human", "index": 1, "text": "Now that we're done with our chores in the kitchen, Are you ready to watch TV?", "intent": "Ask_get_started"}
+{"user": "Alien", "index": 1, "text": "Yes, lets get started Michael.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 2, "text": "Ok, Let's head over to the TV then.", "intent": "Inform_get_started"}
+{"user": "Alien", "index": 2, "text": "Is this the TV?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 2, "text": "No, that's the computer. Its not a TV.", "intent": "Yes-no_negative"}
+{"user": "Alien", "index": 3, "text": "Now is this the TV?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 3, "text": "Yeah, that's the TV.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 4, "text": "Now we need to turn on the tv.", "intent": "Inform_next_step"}
+{"user": "Human", "index": 4, "text": "press the power button at the bottom of the screen.", "intent": "Inform_action"}
+{"user": "Alien", "index": 4, "text": "Ok, I will turn the TV on. ", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 5, "text": "What should I do now that the TV is on?", "intent": "Ask_guidence"}
+{"user": "Human", "index": 5, "text": "You could sit on the couch to get a better view of the TV.", "intent": "Inform_other"}
+{"user": "Alien", "index": 5, "text": "That is a good idea, Michael. ", "intent": "Casual_response"}
+{"user": "Human", "index": 6, "text": "You could sit down you know. You don't have to stand up with the couch behind you.", "intent": "Casual_observation"}
+{"user": "Alien", "index": 6, "text": "Alright, thank you. ", "intent": "Casual_response"}
+{"user": "Human", "index": 7, "text": "How's the show?", "intent": "Casual_question"}
+{"user": "Alien", "index": 7, "text": "It was very interesting and informative.", "intent": "Casual_response"}
+{"user": "Human", "index": 8, "text": "Let's head back to the kitchen. Go back to the TV to turn it off.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 8, "text": "No problem.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 9, "text": "How do I turn off the TV?", "intent": "Ask_guidence"}
+{"user": "Human", "index": 9, "text": "Press the power button. The same one you pressed to turn it on.", "intent": "Inform_action"}
+{"user": "Alien", "index": 9, "text": "Ok, Michael.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 10, "text": "Now that the TV is off, Let's head over to the kitchen.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 10, "text": "Ok, lets go Michael.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 11, "text": "Alright, let's get back to our kitchen chores. Are you ready?", "intent": "Ask_take_next_step"}
+{"user": "Alien", "index": 11, "text": "Yes, I am. ", "intent": "Yes-no_positive"}

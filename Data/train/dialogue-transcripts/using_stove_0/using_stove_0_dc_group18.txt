@@ -1,0 +1,29 @@
+{"user": "Human", "index": 1, "text": "\"Hey Zara, how are you today?\"", "intent": "Extend_greetings"}
+{"user": "Alien", "index": 1, "text": "\"Hi Michael.  I am doing well today.\"", "intent": "Extend_greetings"}
+{"user": "Human", "index": 1, "text": "\"Today we are learning to cook with the stove. Would you like to get started?\"", "intent": "Ask_get_started"}
+{"user": "Alien", "index": 1, "text": "\"I am ready, let us begin.\"", "intent": "Inform_get_started"}
+{"user": "Human", "index": 2, "text": "\"In order to use the stove, we must find a cooking pot. Please find the cooking pot.\"", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 2, "text": "\"I understand. I saw the cooking pot on the dinner table. I will retrieve it.\"", "intent": "Inform_understanding"}
+{"user": "Human", "index": 3, "text": "\"Great! Please grab the cooking pot for me.\"", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 3, "text": "\"Now that I have the pot, what would you like me to do with it?\"", "intent": "Ask_guidence"}
+{"user": "Human", "index": 4, "text": "\"Please bring the cooking pot back over to the stove so we may begin cooking.\"", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 4, "text": "\"Will do. On my way over!\"", "intent": "Inform_understanding"}
+{"user": "Human", "index": 4, "text": "Great, we have all the tools we need to cook!\"", "intent": "Casual_observation"}
+{"user": "Human", "index": 5, "text": "\"Place the cooking pot on the front right burner.\"", "intent": "Inform_action"}
+{"user": "Alien", "index": 5, "text": "Did I place the cooking pot on the correct burner?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 5, "text": "Yes you did. Well done!", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 6, "text": "\"In order to cook, we must turn the burner on. Please turn the front right burner on.\"", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 6, "text": "\"I am familiar with this. I will turn the front right burner on.\"", "intent": "Inform_understanding"}
+{"user": "Human", "index": 7, "text": "\"Since our meal is finished cooking, please turn the burner off.\"", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 7, "text": "\"I understand. I am turning the burner off now.\"", "intent": "Inform_understanding"}
+{"user": "Human", "index": 8, "text": "\"Now, what do you think we must do next?\"", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 8, "text": "\"Should I take the cooking pot off the burner?\"", "intent": "Ask_next_step"}
+{"user": "Human", "index": 8, "text": "\"Yes, please do so now.\"", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 8, "text": "\"Remember, the pot is hot! Be careful with it.\"", "intent": "Casual_observation"}
+{"user": "Alien", "index": 8, "text": "\"I will make sure to use the handles.\"", "intent": "Casual_response"}
+{"user": "Human", "index": 9, "text": "\"Now bring the cooking pot to the dining table so that we may eat.\"", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 9, "text": "\"I will bring the pot over to the table.\"", "intent": "Inform_understanding"}
+{"user": "Human", "index": 10, "text": "\"Place the cooking pot on the dining table.\"", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 10, "text": "\"Sure thing.\"", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 11, "text": "\"Now that the cooking pot is on the table, I am confused about how to continue cooking.\"", "intent": "Inform_confused"}
+{"user": "Human", "index": 11, "text": "\"There is no more cooking to be done. You may leave the stove and enjoy the meal you've cooked.\"", "intent": "Inform_action"}

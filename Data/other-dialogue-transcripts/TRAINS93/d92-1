@@ -1,0 +1,79 @@
+Dialogue: d92-1
+Number of utterances files: 54
+Length of dialogue: 189.448858
+Estimated number of turns: 32
+
+utt1  : s:  hello <sil> can I help you
+utt2  : u:  yeah I want t- I want to determine the maximum number of boxcars of
+            oranges <sil> that I can get to Bath <sil> by seven a.m. <sil>
+            tomorrow morning
+utt3  :     so <brth> hm <sil>
+            so I guess all the boxcars will have to go through oran- <sil>
+            through Corning because that's where the orange juice <brth>
+            orange factory is
+utt4  :     so from Corning to Bath how far is that
+utt5  : s:  two hours
+utt6  : u:  and it's gonna take us also an hour to load <sil> boxcars right
+utt7  : s:  right + +
+utt8  : u:  + okay + so <sil> hm so <sil> every trip will take at least <sil>
+            three hours <sil> then
+utt9  :     um
+utt10 : s:  right we can unload any amount of cargo onto a train in one hour
+utt11 :     so we can + <sil> do a maximum of three + boxcars in an hour
+utt12 : u:  + right <sil> okay +
+utt13 :     okay <sil> so I guess one thing we can do oh <brth> so <brth>
+            I guess one thing is that we should see how many boxcars we can actually
+            get to Corning in four hours
+utt14 :     um how far is it from Avon to Bath <sil> to Corning
+utt15 : s:  <click> <brth> that's six hours it's + shorter + through Dansville
+utt16 : u:  + okay +
+utt17 :     from Avon oh no but the thing is is that I was thinking if s- <sil>
+            I was wondering if we could actually pick up those two boxcars which are
+            at <sil> + Bath +
+utt18 : s:  + mm +
+utt19 : u:  but I think that we can't even put them in <sil> to <brth>
+            that they won't even come in to play
+utt20 :     unless how far is it from Elmira <brth> to Bath
+utt21 : s:  two hours
+utt22 : u:  oh really <sil> so then w- we could actually take <brth>
+            like engine E two
+utt23 :     have it go to bath <sil> pick up those two box cars there
+utt24 :     take it to Corn- how long from Bath to Corning an hour I guess
+utt25 : s:  two hours
+utt26 : u:  oh wait a second I thought <sil> well from from like Elmira <brth>
+            through to Corning to Bath is how many hours
+utt27 : s:  four hours + +
+utt28 : u:  + oh + that's four hours so wa- we're like screwed as far as tho- those
+            two box cars at Bath go
+utt29 :     like I don- I don't think we s- so to get the maximum number of box cars
+            of oranges <brth>
+            to bath by seven am I don't think we can even use those two at bath
+utt30 :     because there <sil> we because we can't get an engine <brth>
+            to Bath in time
+utt31 : s:  that's right
+utt32 : u:  okay <brth> so we have the three boxcars at <sil> Dansville
+utt33 :     so how far is it from Avon to Danville
+utt34 : s:  three hours
+utt35 : u:  three hours then from Dansville to Corning
+utt36 : s:  one hour
+utt37 : u:  okay so we we can actually use those three boxcars right
+utt38 : s:  mm-hm
+utt39 : u:  okay so that's three boxcars
+utt40 :     okay so that's engine E one
+utt41 :     from Avon going to Dansville <sil> pick up the three boxcars
+utt42 :     go to Corning load them up and then take it to Bath
+utt43 :     okay so that's <sil> good
+utt44 :     so then I guess we can also take <sil> like engine E <sil> two <brth>
+            <sil> with those two boxcars from Elmira
+utt45 :     take it to Corning
+utt46 :     so Elmira to Corning is two hours
+utt47 : s:  mm-hm
+utt48 : u:  okay <brth> and <sil> okay <brth> so <sil> yeah <sil>
+            that that should also work
+utt49 : s:  mm-hm
+utt50 : u:  so le- so <sil> did you wanna repeat that <sil> plan
+utt51 : s:  okay engine E one goes to Dansville picks up three boxcars
+utt52 :     goes to Corning <sil> is loaded with oranges and goes to Bath
+utt53 :     engine E two picks <sil> takes the two boxcars <brth> at Elmira <sil>
+            to Corning where they're loaded with oranges and then takes them to Bath
+utt54 : u:  okay so that gives us a maximum number of five <sil> okay

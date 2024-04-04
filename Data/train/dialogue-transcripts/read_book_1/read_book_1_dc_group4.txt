@@ -1,0 +1,27 @@
+{"user": "Human", "index": 1, "text": "Hey Zara, I have two books that I think you would like. Would you like to see them?", "intent": "Casual_question"}
+{"user": "Alien", "index": 1, "text": "Yes, I'd love to.", "intent": "Casual_response"}
+{"user": "Human", "index": 1, "text": "Great, let's go to the next room.", "intent": "Inform_location"}
+{"user": "Human", "index": 2, "text": "The books are on the shelf.", "intent": "Inform_location"}
+{"user": "Alien", "index": 2, "text": "Okay, I see the book on the shelf.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 3, "text": "Do you need help carrying the books?", "intent": "Ask_want_help"}
+{"user": "Alien", "index": 3, "text": "I think I got this. The other book is on the shelf. And I have two hands and it's only two books.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 4, "text": "I have the books now. What should I do with these books?", "intent": "Explain_confused"}
+{"user": "Human", "index": 4, "text": "These books are for you to read whenever you want. You can just put them on the table for later.", "intent": "Inform_next_step"}
+{"user": "Human", "index": 5, "text": "You can put the books on the other table.", "intent": "Inform_location"}
+{"user": "Alien", "index": 5, "text": "Is this not the table that you are referring to?", "intent": "Explain_confused"}
+{"user": "Human", "index": 5, "text": "This is not the table. The other table is on the other side of the room.", "intent": "Inform_location"}
+{"user": "Human", "index": 6, "text": "Are you okay? Do you know remember where the other table is at?", "intent": "Ask_know_location"}
+{"user": "Alien", "index": 6, "text": "No I do not remember where the other table is at.", "intent": "Explain_confused"}
+{"user": "Human", "index": 7, "text": "Perhaps you're just tired. Do you need to rest?", "intent": "Ask_okay"}
+{"user": "Alien", "index": 7, "text": "I am not tired. I think I was just confused. But I think I got it now. I need to put the books on the other table.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 8, "text": "Are these really books? How do I know these are books?", "intent": "Inform_confused"}
+{"user": "Human", "index": 8, "text": "These are indeed books. Books have pages in them. These are books with pages in them.", "intent": "Inform_object"}
+{"user": "Alien", "index": 9, "text": "Is this the table that you are referring to?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 9, "text": "Yes, that is correct! That is the table.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 9, "text": "You can put the books there.", "intent": "Inform_action"}
+{"user": "Alien", "index": 10, "text": "Okay, I have put the books on the table.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 10, "text": "Do no forget the other book. You can put it on the table too.", "intent": "Inform_action"}
+{"user": "Human", "index": 11, "text": "Great job, Zara. Now you can come back to this table and read the books whenever you want. Let's go back to the other room.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 11, "text": "Thank you for giving me these books. I am excited and ready to read these later.", "intent": "Inform_condition"}
+{"user": "Human", "index": 12, "text": "I will you later, Zara. If you need me, I'll be here.", "intent": "Extend_goodbyes"}
+{"user": "Alien", "index": 12, "text": "Thank you. I'll be in the kitchen if you need me. Take care.", "intent": "Inform_confused"}

@@ -1,0 +1,35 @@
+{"user": "Human", "index": 1, "text": "Hey Zara!", "intent": "Extend_greetings"}
+{"user": "Alien", "index": 1, "text": "Greetings, Michael.", "intent": "Extend_greetings"}
+{"user": "Human", "index": 1, "text": "Today, we are going to learn to microwave salmon.", "intent": "Inform_other"}
+{"user": "Alien", "index": 1, "text": "I'm ready when you are.", "intent": "Inform_get_started"}
+{"user": "Human", "index": 2, "text": "We'll start off by grabbing the salmon. Please do when you can.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 2, "text": "I think I understand.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 2, "text": "", "intent": "Display_confusion"}
+{"user": "Human", "index": 3, "text": "You've grabbed the bell pepper. Are you confused what salmon is?", "intent": "Ask_know_object"}
+{"user": "Human", "index": 3, "text": "I suppose I am.", "intent": "Yes-no_negative"}
+{"user": "Alien", "index": 3, "text": "Can you give me more info about salmon?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 3, "text": "That is fine! Salmon is fish and here it is in syrofoam on top of the microwave.", "intent": "Inform_object"}
+{"user": "Alien", "index": 4, "text": "Is this the salmon?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 4, "text": "You've got it. ", "intent": "Inform_other"}
+{"user": "Human", "index": 5, "text": "Now that you have the salmon, you need to open the microwave so you can place it inside. ", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 5, "text": "Ok, that makes sense.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 6, "text": "The next step is to place the salmon inside the microwave.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 6, "text": "Got it.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 7, "text": "Now you would need to close the microwave so that it can begin the process of heating the salmon. ", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 7, "text": "Got it.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 8, "text": "Please push the start button so that it is timed to heat the salmon for 30 seconds.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 8, "text": "Ok.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 9, "text": "Please hit pause button to stop the heating process since it's been enough time.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 9, "text": "OH! Done.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 10, "text": "Now that it has stopped, please open the microwave back up so we can remove the salmon.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 10, "text": "Understandable.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 11, "text": "Feel free to take out the salmon from the microwave, Zara!", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 11, "text": "Roger that!", "intent": "Inform_understanding"}
+{"user": "Human", "index": 12, "text": "Now that the salmon is out, please close the microwave.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 12, "text": "Will do.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 13, "text": "Let's move toward the plates to we can serve the salmon.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 13, "text": "On it.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 14, "text": "Please place it on the table as it would make things a bit easier when distributing it on the plates.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 14, "text": "Placing.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 15, "text": "You've done fine Zara! I am glad this went smoothly! Good bye!", "intent": "Extend_goodbyes"}
+{"user": "Alien", "index": 15, "text": "I feel the same. Thank you very much.", "intent": "Extend_goodbyes"}

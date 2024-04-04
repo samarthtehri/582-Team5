@@ -1,0 +1,22 @@
+{"user": "Alien", "index": 1, "text": "How are you doing today?", "intent": "Extend_greetings"}
+{"user": "Human", "index": 1, "text": "I am good, thank you for asking", "intent": "Extend_greetings"}
+{"user": "Alien", "index": 1, "text": "Do you know TV? What is this?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 1, "text": "The TV is a big screen that can play videos. ", "intent": "Inform_get_started"}
+{"user": "Alien", "index": 1, "text": "May I watch the TV?", "intent": "Ask_guidence"}
+{"user": "Human", "index": 1, "text": "Sure, and can you help me to watch TV? ", "intent": "Ask_want_help"}
+{"user": "Alien", "index": 1, "text": "Hot to get start?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 1, "text": "You need to find the TV first, do you know where is it?", "intent": "Ask_know_location"}
+{"user": "Alien", "index": 1, "text": "I don't know", "intent": "Inform_confused"}
+{"user": "Human", "index": 1, "text": "The TV is in the living room", "intent": "iInform_object"}
+{"user": "Alien", "index": 1, "text": "Got it. Let's go", "intent": "Ask_get_started"}
+{"user": "Human", "index": 2, "text": "Now you have found the TV, can you open it", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 2, "text": "How to open the TV?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 2, "text": "Hit the open button on the corner of the screen", "intent": "Inform_action"}
+{"user": "Alien", "index": 2, "text": "Got it.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 3, "text": "Are you lost? ", "intent": "Ask_okay"}
+{"user": "Alien", "index": 3, "text": "What happened?", "intent": "Display_confusion"}
+{"user": "Human", "index": 3, "text": "No worries, you are opening the TV, and your next step is to hit the open button", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 3, "text": "I see", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 4, "text": "I opened the TV", "intent": "Inform_condition"}
+{"user": "Alien", "index": 4, "text": "Is this correct?", "intent": "Inform_confused"}
+{"user": "Human", "index": 4, "text": "Great, now you can sit and watch", "intent": "Inform_next_step"}

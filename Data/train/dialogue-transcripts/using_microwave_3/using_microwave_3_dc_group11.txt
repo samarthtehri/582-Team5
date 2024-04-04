@@ -1,0 +1,59 @@
+{"user": "Human", "index": 1, "text": "Zara, you should come to the kitchen worktable to get started! ", "intent": "Inform_action"}
+{"user": "Alien", "index": 1, "text": "Yes, I am on the way!", "intent": "Inform_understanding"}
+{"user": "Human", "index": 1, "text": "Are you ready to learn how to microwave food?", "intent": "Ask_get_started"}
+{"user": "Alien", "index": 1, "text": "Yes, let's do it!", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 2, "text": "We will now learn by microwaving the salmon. ", "intent": "Inform_next_step"}
+{"user": "Human", "index": 2, "text": "First step is to pick up the salmon to place inside the microwave. ", "intent": "Inform_action"}
+{"user": "Alien", "index": 2, "text": "Is this the Salmon?", "intent": "Inform_confused"}
+{"user": "Human", "index": 2, "text": "Yes, that's it! ", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 2, "text": "Okay, I picked it up. ", "intent": "Inform_understanding"}
+{"user": "Human", "index": 3, "text": "Once we have the food, we can put the food inside the microwave. ", "intent": "Inform_next_step"}
+{"user": "Human", "index": 3, "text": "To open the microwave, pull the door handle. ", "intent": "Inform_action"}
+{"user": "Alien", "index": 3, "text": "Which way do I pull it?", "intent": "Inform_confused"}
+{"user": "Human", "index": 3, "text": "Pull it straight, towards yourself!", "intent": "Inform_action"}
+{"user": "Alien", "index": 3, "text": "Okay, makes sense. I got it!", "intent": "Inform_understanding"}
+{"user": "Human", "index": 4, "text": "Do you know the next step?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 4, "text": "Do I put the Salmon inside the microwave? ", "intent": "Ask_about_action"}
+{"user": "Human", "index": 4, "text": "Yes, that's right! ", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 4, "text": "You are doing great!", "intent": "Casual_observation"}
+{"user": "Alien", "index": 4, "text": "Thank you!", "intent": "Casual_response"}
+{"user": "Alien", "index": 4, "text": "Okay, I did it! ", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 5, "text": "Okay, what do I do next?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 5, "text": "Once the food is in, we can close the microwave door! ", "intent": "Inform_next_step"}
+{"user": "Human", "index": 5, "text": "To do so, you need to push the door until it clicks! ", "intent": "Inform_action"}
+{"user": "Alien", "index": 5, "text": "Okay I did it! ", "intent": "Inform_understanding"}
+{"user": "Human", "index": 5, "text": "Great job!", "intent": "Casual_observation"}
+{"user": "Human", "index": 6, "text": "Do you know what's the next step?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 6, "text": "Do I take the food out now? I am not sure. ", "intent": "Explain_confused"}
+{"user": "Human", "index": 6, "text": "No, not quite yet. ", "intent": "Yes-no_negative"}
+{"user": "Human", "index": 6, "text": "To make the microwave run and heat up our food, we need to tell it to do so by pressing the button to run. ", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 6, "text": "Okay I understand, I pressed the button! ", "intent": "Inform_understanding"}
+{"user": "Human", "index": 7, "text": "Now, after a little bit, our food should be heated up and we can tell the microwave to stop running. ", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 7, "text": "Do I press the stop button to make it stop?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 7, "text": "Yes, that's right!", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 7, "text": "Okay, I pressed it!", "intent": "Inform_understanding"}
+{"user": "Human", "index": 8, "text": "Do you know what to do next? ", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 8, "text": "To get heated Salmon out, we need to open the door. ", "intent": "Inform_understanding"}
+{"user": "Human", "index": 8, "text": "Yes that's right!", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 8, "text": "Go head and open the door, the same way we opened it to put the food in. ", "intent": "Inform_action"}
+{"user": "Alien", "index": 8, "text": "Yes, done!", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 9, "text": "Can I just grab the food inside?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 9, "text": "Yes, just be careful it may be hot!", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 9, "text": "Thanks for the warning, I got it!", "intent": "Inform_understanding"}
+{"user": "Human", "index": 10, "text": "Now, are we done or are we missing something? ", "intent": "Ask_know_action"}
+{"user": "Alien", "index": 10, "text": "I think we are done but I am not sure!", "intent": "Inform_confused"}
+{"user": "Human", "index": 10, "text": "Once we get the food out, we need to close the microwave door. ", "intent": "Inform_action"}
+{"user": "Alien", "index": 10, "text": "Oh, that makes sense. ", "intent": "Inform_understanding"}
+{"user": "Human", "index": 11, "text": "Do you know where to go now?", "intent": "Ask_know_object"}
+{"user": "Alien", "index": 11, "text": "Yes, I am going to the kitchen worktable. ", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 11, "text": "Are you sure this is where we go?", "intent": "Ask_sure_about_location"}
+{"user": "Alien", "index": 11, "text": "No, you are right! ", "intent": "Yes-no_negative"}
+{"user": "Alien", "index": 11, "text": "I need to go to the dining table to put the food down. ", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 12, "text": "Is this the dining table? ", "intent": "Ask_about_location"}
+{"user": "Human", "index": 12, "text": "Yes, the dining table is right in front of you. ", "intent": "Inform_location"}
+{"user": "Human", "index": 13, "text": "Do you know what to do next? ", "intent": "Ask_know_action"}
+{"user": "Alien", "index": 13, "text": "Yes, I can put the heated salmon down here. ", "intent": "Inform_understanding"}
+{"user": "Human", "index": 13, "text": "Yes, that's exactly right! ", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 14, "text": "How did I do on microwaving salmon?", "intent": "Casual_question"}
+{"user": "Human", "index": 14, "text": "You did an awesome job! ", "intent": "Casual_response"}
+{"user": "Alien", "index": 14, "text": "Thanks!", "intent": "Casual_response"}

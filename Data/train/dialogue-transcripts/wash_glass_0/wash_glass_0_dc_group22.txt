@@ -1,0 +1,40 @@
+{"user": "Human", "index": 1, "text": "Come up to the sink to clean our glasses.", "intent": "Inform_action"}
+{"user": "Alien", "index": 1, "text": "Where is this sink?", "intent": "Inform_confused"}
+{"user": "Human", "index": 1, "text": "It's the metal basin in the counter.", "intent": "Inform_location"}
+{"user": "Human", "index": 2, "text": "Go to the table to get the glasses to wash them.", "intent": "Inform_action"}
+{"user": "Alien", "index": 2, "text": "Where is the table?", "intent": "Ask_guidence"}
+{"user": "Human", "index": 2, "text": "The wooden platform over by the door.", "intent": "Inform_location"}
+{"user": "Alien", "index": 2, "text": "Ok", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 3, "text": "Where is the glass?", "intent": "Ask_guidence"}
+{"user": "Human", "index": 3, "text": "The empty glass cylinders on the table are the glasses we need", "intent": "iInform_object"}
+{"user": "Alien", "index": 3, "text": "Is this the right cylinder?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 3, "text": "That's right. Bring it back over here.", "intent": "iInform_object"}
+{"user": "Alien", "index": 4, "text": "Do I go back to the sink?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 4, "text": "Yes, bring the glass here.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 4, "text": "I have arrived", "intent": "Inform_condition"}
+{"user": "Human", "index": 5, "text": "Alright, now put the glass in the sink.", "intent": "Inform_action"}
+{"user": "Alien", "index": 5, "text": "Is this what I am supposed to be doing?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 5, "text": "Yes, that's correct.", "intent": "Inform_action"}
+{"user": "Human", "index": 6, "text": "Now turn on the sink. Turn the handle to start the water.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 6, "text": "Where is the handle for the sink?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 6, "text": "It's a the base of the nozzle above the metal basin.", "intent": "Inform_location"}
+{"user": "Alien", "index": 6, "text": "Like this?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 6, "text": "That's correct", "intent": "Inform_action"}
+{"user": "Human", "index": 7, "text": "Turn the nozzle again the opposite way to turn the water back off.", "intent": "Inform_action"}
+{"user": "Alien", "index": 7, "text": "Ok", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 8, "text": "Is the glass clean?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 8, "text": "Yes, it is clean.", "intent": "iInform_object"}
+{"user": "Alien", "index": 8, "text": "What do I do now?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 8, "text": "take the glass out of the sink.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 8, "text": "Alright", "intent": "Inform_understanding"}
+{"user": "Human", "index": 9, "text": "Now, take the glass back to the table.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 9, "text": "The same table as before?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 9, "text": "Yes, by the door.", "intent": "Inform_location"}
+{"user": "Alien", "index": 9, "text": "Ok", "intent": "Inform_understanding"}
+{"user": "Human", "index": 10, "text": "Put the glass back on the table.", "intent": "Inform_action"}
+{"user": "Alien", "index": 10, "text": "Is this where it is supposed to be?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 10, "text": "Yup, that's fine.", "intent": "Inform_location"}
+{"user": "Human", "index": 11, "text": "Alright, come back over to the sink.", "intent": "Ask_take_next_step"}
+{"user": "Alien", "index": 11, "text": "Alright.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 11, "text": "Nice, you seem to be getting the hang of this.", "intent": "Casual_observation"}
+{"user": "Alien", "index": 11, "text": "Thank you very much", "intent": "Casual_response"}

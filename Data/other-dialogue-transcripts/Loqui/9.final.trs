@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14-loqui.dtd">
+<Trans scribe="Kenneth" audio_filename="9" version="6" version_date="080510" corpus_version="1.0">
+<Speakers>
+<Speaker id="spk1" name="librarian#1" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="caller#1" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="caller#2" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="226.327">
+<Turn startTime="0" endTime="2.441">
+<Sync time="0"/>
+&lt;P&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="2.441" endTime="8.662">
+<Sync time="2.441"/>
+&lt;TC&gt; good morning \\
+<Sync time="3.346"/>
+right now the library is working with a research team &lt;TN&gt; \\
+<Sync time="5.481"/>
+to better improve our service \\
+<Sync time="6.775"/>
+would you mind if this call is recorded \\
+</Turn>
+<Turn speaker="spk2" startTime="8.662" endTime="9.442">
+<Sync time="8.662"/>
+not at all \\
+</Turn>
+<Turn speaker="spk1" startTime="9.442" endTime="11.629">
+<Sync time="9.442"/>
+&lt;P&gt; okay how can I help you today &lt;TN&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="11.629" endTime="13.32">
+<Sync time="11.629"/>
+my &lt;TN&gt; name is &lt;FIRSTNAME&gt; &lt;LASTNAME&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="13.32" endTime="15.509">
+<Sync time="13.32"/>
+&lt;TP&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="15.509" endTime="16.789">
+<Sync time="15.509"/>
+want me to spell it &lt;TN&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="16.789" endTime="17.775">
+<Sync time="16.789"/>
+no that's fine \\
+</Turn>
+<Turn speaker="spk2" startTime="17.775" endTime="22.126">
+<Sync time="17.775"/>
+&lt;P&gt; &lt;B&gt; /* &lt;ST&gt;S 2 8&lt;/ST&gt; */ I think we have talked before \\
+</Turn>
+<Turn speaker="spk1" startTime="22.126" endTime="26.196">
+<Sync time="22.126"/>
+right \\
+<Sync time="22.908"/>
+&lt;P&gt; &lt;BN&gt; okay \\
+<Sync time="25.354"/>
+I gotcha \\
+</Turn>
+<Turn speaker="spk2" startTime="26.196" endTime="31.15">
+<Sync time="26.196"/>
+okay can you tell me what's on the way to me \\
+<Sync time="29.362"/>
+when &lt;P&gt; things went out \\
+</Turn>
+<Turn speaker="spk1" startTime="31.15" endTime="32.526">
+<Sync time="31.15"/>
+&lt;B&gt; &lt;BN&gt; &lt;P&gt; sure \\
+</Turn>
+<Turn speaker="spk2" startTime="32.526" endTime="36.277">
+<Sync time="32.526"/>
+I've got about um &lt;P&gt; &lt;B&gt; \\
+<Sync time="34.966"/>
+five books left \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="36.277" endTime="39.26">
+<Sync time="36.277"/>
+<Who nb="1"/>
+&lt;BN&gt; &lt;P&gt; [os okay eo] it looks like the latest \\
+<Who nb="2"/>
+[os oh eo] \\
+</Turn>
+<Turn speaker="spk1" startTime="39.26" endTime="45.057">
+<Sync time="39.26"/>
+&lt;P&gt; well not the very latest \\
+<Sync time="40.92"/>
+but a large shipment should've went out \\
+<Sync time="43.307"/>
+&lt;P&gt; maybe August first \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="45.057" endTime="47.733">
+<Sync time="45.057"/>
+<Who nb="1"/>
+&lt;P&gt; &lt;BN&gt; on the [os first eo] \\
+<Who nb="2"/>
+[os nine eo] \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="47.733" endTime="49.381">
+<Sync time="47.733"/>
+<Who nb="1"/>
+[os books eo] \\
+<Who nb="2"/>
+[os nine eo] books \\
+</Turn>
+<Turn speaker="spk1" startTime="49.381" endTime="49.935">
+<Sync time="49.381"/>
+yeah \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="49.935" endTime="51.599">
+<Sync time="49.935"/>
+<Who nb="1"/>
+what's [os todays date eo] \\
+<Who nb="2"/>
+[os I'll throw out eo] some titles \\
+</Turn>
+<Turn speaker="spk2" startTime="51.599" endTime="52.359">
+<Sync time="51.599"/>
+today's the eighth \\
+</Turn>
+<Turn speaker="spk1" startTime="52.359" endTime="56.244">
+<Sync time="52.359"/>
+Young Wives \\ 
+<Sync time="54.042"/>
+Pen Pals \\
+<Sync time="55.035"/>
+Marrying Mom \\
+</Turn>
+<Turn speaker="spk2" startTime="56.244" endTime="58.384">
+<Sync time="56.244"/>
+oh I got a couple \\
+<Sync time="57.319"/>
+yeah I got some of those \\
+</Turn>
+<Turn speaker="spk1" startTime="58.384" endTime="63.563">
+<Sync time="58.384"/>
+you got some of those \\
+<Sync time="59.281"/>
+Mel \\
+<Sync time="60.041"/>
+Mistress Ann \\
+<Sync time="61.117"/>
+&lt;P&gt; Last Good Man \\
+</Turn>
+<Turn speaker="spk2" startTime="63.563" endTime="64.405">
+<Sync time="63.563"/>
+uh huh \\
+</Turn>
+<Turn speaker="spk1" startTime="64.405" endTime="65.287">
+<Sync time="64.405"/>
+okay \\
+</Turn>
+<Turn speaker="spk2" startTime="65.287" endTime="67.105">
+<Sync time="65.287"/>
+so what's \\
+<Sync time="65.861"/>
+that's the last that went out \\
+</Turn>
+<Turn speaker="spk1" startTime="67.105" endTime="71.527">
+<Sync time="67.105"/>
+no after that \\
+<Sync time="68.498"/>
+&lt;P&gt; um hold on I'll check &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="71.527" endTime="73.345">
+<Sync time="71.527"/>
+because half of those have gone back already \\
+</Turn>
+<Turn startTime="73.345" endTime="76.306">
+<Sync time="73.345"/>
+&lt;P&gt; &lt;IR&gt; \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="76.306" endTime="77.246">
+<Sync time="76.306"/>
+<Who nb="1"/>
+do you have to [os dispatch eo]\\
+<Who nb="2"/>
+[os Miss &lt;LASTNAME&gt; eo] \\
+</Turn>
+<Turn speaker="spk1" startTime="77.246" endTime="78.402">
+<Sync time="77.246"/>
+yeah I'm gonna put someone off on hold \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="78.402" endTime="79.697">
+<Sync time="78.402"/>
+<Who nb="1"/>
+I'll [os be right back eo] \\
+<Who nb="2"/>
+[os sure go right eo] ahead \\
+</Turn>
+<Turn startTime="79.697" endTime="82.811">
+<Sync time="79.697"/>
+&lt;P&gt; &lt;TC&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="82.811" endTime="83.323">
+<Sync time="82.811"/>
+good morning \\
+</Turn>
+<Turn speaker="spk1 spk3" startTime="83.323" endTime="85.32">
+<Sync time="83.323"/>
+<Who nb="1"/>
+Andrew Heiskell [os library please eo] hold \\
+<Who nb="2"/>
+[os yes eo] \\
+</Turn>
+<Turn startTime="85.32" endTime="88.016">
+<Sync time="85.32"/>
+&lt;P&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="88.016" endTime="92.947">
+<Sync time="88.016"/>
+okay the latest ones that went out were \\
+<Sync time="90.657"/>
+Memory In Death by J D Robb \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="92.947" endTime="95.77">
+<Sync time="92.947"/>
+<Who nb="1"/>
+[os Always eo] A Thief by Kay Hooper \\
+<Who nb="2"/>
+[os got it eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="95.77" endTime="96.368">
+<Sync time="95.77"/>
+okay \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="96.368" endTime="98.109">
+<Sync time="96.368"/>
+<Who nb="1"/>
+[os they're on their way when did they go eo] \\
+<Who nb="2"/>
+[os and &lt;P&gt; also eo] \\
+</Turn>
+<Turn speaker="spk1" startTime="98.109" endTime="110.016">
+<Sync time="98.109"/>
+&lt;B&gt; mm &lt;P&gt; \\
+<Sync time="102.061"/>
+it's hard to tell \\
+<Sync time="102.754"/>
+cause the date says \\
+<Sync time="103.698"/>
+August third and August fourth \\
+<Sync time="105.193"/>
+but that's not the actual day \\
+<Sync time="106.587"/>
+that it leaves \\
+<Sync time="107.416"/>
+it's usually a day or two \\
+<Sync time="108.649"/>
+&lt;P&gt; ahead of that \\
+</Turn>
+<Turn speaker="spk2" startTime="110.016" endTime="110.835">
+<Sync time="110.016"/>
+oh \\
+</Turn>
+<Turn speaker="spk1" startTime="110.835" endTime="111.798">
+<Sync time="110.835"/>
+so \\
+</Turn>
+<Turn speaker="spk2" startTime="111.798" endTime="113.784">
+<Sync time="111.798"/>
+&lt;P&gt; because umm \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="113.784" endTime="117.225">
+<Sync time="113.784"/>
+<Who nb="1"/>
+there [os was eo] \\
+<Who nb="2"/>
+[os maybe like eo] the sixth \\
+<Sync time="115.156"/>
+<Who nb="1"/>
+there was a [os delay eo] \\
+<Who nb="2"/>
+[os probably eo] the seventh \\
+</Turn>
+<Turn speaker="spk2" startTime="117.225" endTime="121.834">
+<Sync time="117.225"/>
+and I um \\
+<Sync time="119.091"/>
+&lt;P&gt; I was totally out of books \\
+</Turn>
+<Turn speaker="spk1" startTime="121.834" endTime="122.566">
+<Sync time="121.834"/>
+right \\
+</Turn>
+<Turn speaker="spk2" startTime="122.566" endTime="123.61">
+<Sync time="122.566"/>
+and then I get crazy \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="123.61" endTime="126.036">
+<Sync time="123.61"/>
+<Who nb="1"/>
+so you don't have any books on you right [os now eo] \\
+<Who nb="2"/>
+[os oh no no eo] I have \\
+</Turn>
+<Turn speaker="spk2" startTime="126.036" endTime="128.589">
+<Sync time="126.036"/>
+I probably have &lt;P&gt; five \\
+</Turn>
+<Turn speaker="spk1" startTime="128.589" endTime="129.396">
+<Sync time="128.589"/>
+okay \\
+</Turn>
+<Turn speaker="spk2" startTime="129.396" endTime="136.3">
+<Sync time="129.396"/>
+&lt;P&gt; but &lt;P&gt; you know if I don't \\
+<Sync time="131.586"/>
+call you and holler \\
+<Sync time="133.073"/>
+&lt;CHKL&gt; then I'll be out \\
+<Sync time="135.093"/>
+and it makes me nuts \\
+</Turn>
+<Turn speaker="spk1" startTime="136.3" endTime="143.364">
+<Sync time="136.3"/>
+&lt;B&gt; I'm seeing a lot of books here that are &lt;P&gt; \\
+<Sync time="139.542"/>
+like older \\
+<Sync time="140.598"/>
+&lt;P&gt; so I'm just gonna clear these off your list \\
+</Turn>
+<Turn startTime="143.364" endTime="147.948">
+<Sync time="143.364"/>
+&lt;P&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="147.948" endTime="150.11">
+<Sync time="147.948"/>
+you mean like on reserve &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="150.11" endTime="157.998">
+<Sync time="150.11"/>
+no like it's still saying you have them checked out &lt;P&gt; \\
+<Sync time="155.536"/>
+like these are back from January of this year \\
+</Turn>
+<Turn speaker="spk2" startTime="157.998" endTime="162.477">
+<Sync time="157.998"/>
+oh &lt;TN&gt; &lt;P&gt; \\
+<Sync time="160.815"/>
+nothing stays in my house that long \\
+</Turn>
+<Turn speaker="spk1" startTime="162.477" endTime="163.442">
+<Sync time="162.477"/>
+right \\
+</Turn>
+<Turn speaker="spk2" startTime="163.442" endTime="173.916">
+<Sync time="163.442"/>
+because really I r- \\
+<Sync time="164.255"/>
+I read a book at every- a day &lt;P&gt; \\
+<Sync time="168.185"/>
+you know besides the eyes I'm on oxygen \\
+<Sync time="171.297"/>
+and in weather like this \\
+<Sync time="172.731"/>
+I don't get out at all \\
+</Turn>
+<Turn speaker="spk1" startTime="173.916" endTime="175.324">
+<Sync time="173.916"/>
+right &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="175.324" endTime="196.253">
+<Sync time="175.324"/>
+so reading is my salvation &lt;P&gt; \\
+<Sync time="181.658"/>
+well &lt;P&gt; \\
+<Sync time="182.263"/>
+I guess they're on the way \\
+<Sync time="183.676"/>
+and uh &lt;P&gt; \\
+<Sync time="185.672"/>
+I won't be out \\
+<Sync time="186.86"/>
+&lt;B&gt; I'm trying to think of \\
+<Sync time="188.192"/>
+oh I remember my \\
+<Sync time="189.318"/>
+my cousin was telling me &lt;B&gt; &lt;P&gt; \\
+<Sync time="191.214"/>
+reminded me I should say \\
+<Sync time="192.727"/>
+of Karen Robards &lt;P&gt; \\
+<Sync time="195.371"/>
+&lt;B&gt; the author \\
+</Turn>
+<Turn speaker="spk1" startTime="196.253" endTime="196.786">
+<Sync time="196.253"/>
+right \\
+</Turn>
+<Turn speaker="spk2" startTime="196.786" endTime="199.187">
+<Sync time="196.786"/>
+do you have anything like newish from her \\
+</Turn>
+<Turn speaker="spk1" startTime="199.187" endTime="212.728">
+<Sync time="199.187"/>
+&lt;P&gt; &lt;B&gt; &lt;TP&gt; \\
+<Sync time="208.311"/>
+yeah \\
+<Sync time="208.832"/>
+there's a bunch of books I can send now \\
+<Sync time="210.562"/>
+do you want me to put her on your author list \\
+</Turn>
+<Turn speaker="spk2" startTime="212.728" endTime="216.653">
+<Sync time="212.728"/>
+yes you could because um \\ <!-- Eddie Kang 26-April-2010 changed "that's you could because of" to "yes you could because um" -->
+<Sync time="214.597"/>
+I really forgot that name &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="216.653" endTime="218.959">
+<Sync time="216.653"/>
+&lt;B&gt; I'll send out a few now \\
+</Turn>
+<Turn speaker="spk2" startTime="218.959" endTime="219.778">
+<Sync time="218.959"/>
+okay great &lt;BN&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="219.778" endTime="221.495">
+<Sync time="219.778"/>
+and I'll put her on the list \\
+</Turn>
+<Turn speaker="spk2" startTime="221.495" endTime="223.071">
+<Sync time="221.495"/>
+thank you so very much \\
+</Turn>
+<Turn speaker="spk1" startTime="223.071" endTime="223.541">
+<Sync time="223.071"/>
+you're welcome \\
+</Turn>
+<Turn speaker="spk2" startTime="223.541" endTime="224.275">
+<Sync time="223.541"/>
+right bye bye \\
+</Turn>
+<Turn speaker="spk1" startTime="224.275" endTime="224.753">
+<Sync time="224.275"/>
+bye bye \\
+</Turn>
+<Turn startTime="224.753" endTime="226.327">
+<Sync time="224.753"/>
+&lt;TC&gt; \\
+</Turn>
+</Section>
+</Episode>
+</Trans>

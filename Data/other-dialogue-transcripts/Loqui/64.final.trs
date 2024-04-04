@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14-loqui.dtd">
+<Trans scribe="Daveman" audio_filename="64" version="4" version_date="081115" corpus_version="2.0">
+<Speakers>
+<Speaker id="spk1" name="librarian#2" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="caller#1" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="research-header-info" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk4" name="non-speaking-librarian-activity#2" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="55.126">
+<Turn startTime="0" endTime="4.078" speaker="spk3">
+<Sync time="0"/>
+note verbal consent given but not part of extracted file &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="4.078" endTime="5.437">
+<Sync time="4.078"/>
+this is &lt;LASTNAME&gt; \\
+</Turn>
+<Turn speaker="spk4" startTime="5.437" endTime="11.697">
+<Sync time="5.437"/>
+&lt;TN&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="11.697" endTime="13.697">
+<Sync time="11.697"/>
+miss &lt;LASTNAME&gt; do you have the numbers of the books you want \\
+</Turn>
+<Turn speaker="spk2" startTime="13.697" endTime="18.474">
+<Sync time="13.697"/>
+yes \\
+<Sync time="14.415"/>
+R C O five two six nine &lt;TN&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="18.474" endTime="19.412">
+<Sync time="18.474"/>
+okay &lt;TN&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="19.412" endTime="22.99">
+<Sync time="19.412"/>
+R C five two zero eight four \\
+</Turn>
+<Turn speaker="spk1" startTime="22.99" endTime="23.498">
+<Sync time="22.99"/>
+alright \\
+</Turn>
+<Turn speaker="spk2" startTime="23.498" endTime="27.506">
+<Sync time="23.498"/>
+&lt;TN&gt; R C five zero two seven four &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="27.506" endTime="31.615">
+<Sync time="27.506"/>
+okay &lt;P&gt; \\
+<Sync time="30.631"/>
+is that all of them \\
+</Turn>
+<Turn speaker="spk2" startTime="31.615" endTime="32.943">
+<Sync time="31.615"/>
+yes that's the three \\
+</Turn>
+<Turn speaker="spk1" startTime="32.943" endTime="36.083">
+<Sync time="32.943"/>
+okay &lt;TN&gt; \\
+<Sync time="33.755"/>
+looks like we should have two of those books in \\
+</Turn>
+<Turn speaker="spk2" startTime="36.083" endTime="38.849">
+<Sync time="36.083"/>
+&lt;G&gt; well that's great \\
+<Sync time="37.474"/>
+and you'll send them out \\
+</Turn>
+<Turn speaker="spk1" startTime="38.849" endTime="41.255">
+<Sync time="38.849"/>
+and the other will be on your request list \\
+</Turn>
+<Turn speaker="spk2" startTime="41.255" endTime="44.927">
+<Sync time="41.255"/>
+which one is uh uh not available &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="44.927" endTime="45.692">
+<Sync time="44.927"/>
+oh um \\
+</Turn>
+<Turn speaker="spk2" startTime="45.692" endTime="47.129">
+<Sync time="45.692"/>
+the last one &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="47.129" endTime="48.223">
+<Sync time="47.129"/>
+yeah the last one \\
+</Turn>
+<Turn speaker="spk2" startTime="48.223" endTime="49.197">
+<Sync time="48.223"/>
+okay \\ 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="49.197" endTime="51.394">
+<Sync time="49.197"/>
+<Who nb="1"/>
+alright well thank you very [os much eo]\\
+
+<Who nb="2"/>
+[os you're eo] welcome \\
+</Turn>
+<Turn speaker="spk2" startTime="51.394" endTime="51.753">
+<Sync time="51.394"/>
+bye \\
+</Turn>
+<Turn speaker="spk1" startTime="51.753" endTime="55.126">
+<Sync time="51.753"/>
+bye &lt;TN&gt; \\
+</Turn>
+</Section>
+</Episode>
+</Trans>

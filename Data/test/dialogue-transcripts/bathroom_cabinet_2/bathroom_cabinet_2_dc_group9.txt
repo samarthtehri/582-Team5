@@ -1,0 +1,34 @@
+{"user": "Human", "index": 1, "text": "Zara we should go put towels away", "intent": "Inform_get_started"}
+{"user": "Alien", "index": 1, "text": "Okay where are the towels?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 1, "text": "They are in the bathroom follow me", "intent": "Inform_location"}
+{"user": "Alien", "index": 1, "text": "Okay I will", "intent": "Inform_understanding"}
+{"user": "Human", "index": 2, "text": "First open the cabinets where we will put the towels", "intent": "Inform_action"}
+{"user": "Alien", "index": 2, "text": "Oh is this the cabinet?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 2, "text": "No that is the washing machine the Cabinets are to your right", "intent": "Inform_action"}
+{"user": "Alien", "index": 2, "text": "Oh sorry I will open the cabinets now", "intent": "Inform_understanding"}
+{"user": "Human", "index": 2, "text": "Its okay Zara it happens", "intent": "Casual_response"}
+{"user": "Human", "index": 3, "text": "Now can you put the towels in the cabinet?", "intent": "Inform_action"}
+{"user": "Alien", "index": 3, "text": "Okay I will do that", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 4, "text": "Im walking over to the towels now", "intent": "Inform_understanding"}
+{"user": "Human", "index": 4, "text": "Yes Zara Nice Job those are the towels.", "intent": "Inform_object"}
+{"user": "Human", "index": 5, "text": "Now pick up a towel now", "intent": "Inform_action"}
+{"user": "Alien", "index": 5, "text": "Okay I will do that", "intent": "Inform_understanding"}
+{"user": "Human", "index": 5, "text": "", "intent": "Inform_action"}
+{"user": "Human", "index": 6, "text": "Now put the towel in the cabinet", "intent": "Inform_action"}
+{"user": "Alien", "index": 6, "text": "Im sorry is this the cabinet", "intent": "Inform_confused"}
+{"user": "Human", "index": 6, "text": "Its okay zara yes that is the cabinet", "intent": "Inform_location"}
+{"user": "Alien", "index": 7, "text": "Okay I put the towel in the cabinet", "intent": "Inform_understanding"}
+{"user": "Human", "index": 7, "text": "Nice Job Zara!", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 8, "text": "Now you should go get another towel", "intent": "Inform_action"}
+{"user": "Alien", "index": 8, "text": "Okay I will do that", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 9, "text": "Is this the right towel?", "intent": "Inform_confused"}
+{"user": "Human", "index": 9, "text": "Yes that is the right towel good job Zara", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 10, "text": "Okay where should I put this towel", "intent": "Inform_confused"}
+{"user": "Human", "index": 10, "text": "Put it right next to the other towel Zara", "intent": "Inform_action"}
+{"user": "Alien", "index": 10, "text": "", "intent": "Inform_confused"}
+{"user": "Alien", "index": 11, "text": "Okay I put the towel in the cabinet what else should I do?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 12, "text": "Now you just have to close the Cabinets Zara", "intent": "Inform_action"}
+{"user": "Alien", "index": 12, "text": "How do I close the cabinets?", "intent": "Inform_confused"}
+{"user": "Human", "index": 12, "text": "It's the same as how you opened them but backwards", "intent": "Inform_action"}
+{"user": "Alien", "index": 12, "text": "Oh that makes sense I will now do that", "intent": "Inform_understanding"}
+{"user": "Human", "index": 12, "text": "Nice Job Zara", "intent": "Inform_other"}

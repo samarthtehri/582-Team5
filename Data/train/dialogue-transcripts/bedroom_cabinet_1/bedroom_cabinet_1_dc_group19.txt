@@ -1,0 +1,33 @@
+{"user": "Human", "index": 1, "text": "Let's clean up the bedroom by putting away our toys.", "intent": "Inform_action"}
+{"user": "Alien", "index": 1, "text": "Okay, let us go to the bedroom.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 2, "text": "Can you pick up the first toy?", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 2, "text": "Okay, I will pick up the toy.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 3, "text": "I want to put these toys in the cupboard.", "intent": "Inform_next_step"}
+{"user": "Human", "index": 3, "text": "Do you know where the cupboard is?", "intent": "Ask_know_location"}
+{"user": "Alien", "index": 3, "text": "Yes, it is in the neighboring room.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 3, "text": "I will walk there now.", "intent": "Inform_observation"}
+{"user": "Alien", "index": 4, "text": "How should we put the toy in the cupboard?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 4, "text": "A cupboard is an object that can store other items. You can put items in a cupboard by opening its door.", "intent": "Inform_object"}
+{"user": "Alien", "index": 4, "text": "Okay, I will open the door.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 5, "text": "I will put the toy in the cupboard.", "intent": "Inform_observation"}
+{"user": "Human", "index": 5, "text": "Sounds great!", "intent": "Casual_response"}
+{"user": "Human", "index": 6, "text": "There is still one more toy in the room. Let us go get it.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 6, "text": "Okay let's go back to the room.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 7, "text": "Are you okay? Let me know if you need a break.", "intent": "Ask_okay"}
+{"user": "Alien", "index": 7, "text": "Yes, I am okay.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 7, "text": "I forgot why we are standing in front of this bookshelf.", "intent": "Explain_confused"}
+{"user": "Human", "index": 7, "text": "The bookshelf has toys in it that we want to remove.", "intent": "Inform_object"}
+{"user": "Human", "index": 7, "text": "Do you know what we should do next?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 7, "text": "Yes, we should take the toy off the bookshelf.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 7, "text": "That's right! Are you ready to begin?", "intent": "Ask_get_started"}
+{"user": "Alien", "index": 7, "text": "Yes, I am ready.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 8, "text": "I will remove the toy train from the bookshelf.", "intent": "Inform_observation"}
+{"user": "Human", "index": 8, "text": "Alright, thanks! The cupboard looks neat and empty now.", "intent": "Casual_response"}
+{"user": "Human", "index": 9, "text": "Let us go put this toy away in the cupboard.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 9, "text": "Okay, let's go to the cupboard.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 10, "text": "Looks like the cupboard is already open.", "intent": "Inform_object"}
+{"user": "Alien", "index": 10, "text": "Okay, I will put this toy next to the other toy.", "intent": "Inform_observation"}
+{"user": "Human", "index": 11, "text": "It looks messy when the cupboard door is kept open.", "intent": "Inform_other"}
+{"user": "Alien", "index": 11, "text": "Should I close the cupboard door to keep the room looking neat?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 11, "text": "Yes, please do that.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 11, "text": "Sure, let me close the cupboard door.", "intent": "Inform_understanding"}

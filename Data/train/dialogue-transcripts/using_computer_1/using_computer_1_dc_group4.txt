@@ -1,0 +1,50 @@
+{"user": "Alien", "index": 1, "text": "Hey Michael! How was your day today?", "intent": "Extend_greetings"}
+{"user": "Human", "index": 1, "text": "It was pretty busy, but it's fine now since I now have some time to relax. Thanks for asking!", "intent": "Extend_greetings"}
+{"user": "Human", "index": 1, "text": "How about yourself?", "intent": "Casual_question"}
+{"user": "Alien", "index": 1, "text": "My day was fine, nothing too crazy.", "intent": "Casual_response"}
+{"user": "Alien", "index": 2, "text": "I have a question for you. Can you show me how to use the computer? I always see it on your desk, and I've always wanted to know how to use it.", "intent": "Casual_question"}
+{"user": "Human", "index": 2, "text": "Sure Zara! I'm glad that you are constantly wanting to learn new things.", "intent": "Casual_response"}
+{"user": "Alien", "index": 2, "text": "Awesome! Can you teach me some things now while you have some free time?", "intent": "Ask_get_started"}
+{"user": "Human", "index": 2, "text": "Sure! Let's go.", "intent": "Inform_get_started"}
+{"user": "Human", "index": 3, "text": "Do you know what we have to do first to start using the computer?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 3, "text": "", "intent": "Display_confusion"}
+{"user": "Alien", "index": 3, "text": "No, I am not sure.", "intent": "Explain_confused"}
+{"user": "Human", "index": 3, "text": "Ok, that's perfectly fine. First, we need to turn the computer on.", "intent": "Inform_action"}
+{"user": "Alien", "index": 3, "text": "How do we do that?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 4, "text": "There is a power button on the PC under the desk that you have to press. Once you press it, the computer should turn on!", "intent": "Inform_action"}
+{"user": "Alien", "index": 4, "text": "This button right here?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 4, "text": "That's correct! Awesome job!", "intent": "Inform_action"}
+{"user": "Alien", "index": 5, "text": "Awesome! What do I have to do next?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 5, "text": "Well, before you start using the computer, you should sit down in the chair. It will make the experience much more comfortable and enjoyable!", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 5, "text": "Do I have to sit in the chair for the computer to work properly?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 5, "text": "Great question, but no, you don't HAVE to sit in the chair in order to work the computer. I just think using the computer while sitting down is much more comfortable compared to using it standing up.", "intent": "Inform_action"}
+{"user": "Human", "index": 5, "text": "It is completely up to you though.", "intent": "Inform_action"}
+{"user": "Alien", "index": 6, "text": "I guess you are right! I'll take a seat in the chair then.", "intent": "Inform_observation"}
+{"user": "Human", "index": 6, "text": "Haha, ok do whatever makes you feel comfortable!", "intent": "Casual_response"}
+{"user": "Alien", "index": 6, "text": "Now what do I need to do to start using the computer?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 6, "text": "Now that the computer is on, you can use the mouse and keyboard in front of you in order to navigate through the computer.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 7, "text": "", "intent": "Display_confusion"}
+{"user": "Alien", "index": 7, "text": "What is a mouse and keyboard?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 7, "text": "Great question! The mouse is the small, black thing to your right. You use it select things, scroll up and down webpages, and a bunch of other things.", "intent": "Inform_object"}
+{"user": "Alien", "index": 7, "text": "How do I use this mouse?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 7, "text": "Treat it like a virtual hand. You have to pick it up and move it around based on where you want to be on the screen. ", "intent": "Inform_action"}
+{"user": "Alien", "index": 8, "text": "", "intent": "Display_confusion"}
+{"user": "Alien", "index": 8, "text": "I feel very confused right now. I picked it up and am moving it around, but nothing is happening!", "intent": "Explain_confused"}
+{"user": "Human", "index": 8, "text": "Well, you can't take it off the desk. You have to move the mouse around on the desk in order to navigate throughout the computer.", "intent": "Inform_action"}
+{"user": "Alien", "index": 9, "text": "So, do I use it like this?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 9, "text": "Not necessarily. Now, you have to move the mouse around on the table in order to start actually using the computer.", "intent": "Inform_action"}
+{"user": "Alien", "index": 9, "text": "", "intent": "Display_confusion"}
+{"user": "Alien", "index": 9, "text": "Ugh, I still feel extremely confused and overwhelmed!", "intent": "Explain_confused"}
+{"user": "Alien", "index": 10, "text": "Can you show me how to do it? Maybe if I see you doing it, I will get a better understanding of what I have to do.", "intent": "Ask_guidence"}
+{"user": "Human", "index": 10, "text": "You know what, maybe next time. You see frustrated and overwhelmed right now, so I feel like it is not the ideal learning conditions.", "intent": "Yes-no_negative"}
+{"user": "Alien", "index": 10, "text": "I feel like I understand what you are saying, but at the same time, I feel lost.", "intent": "Inform_observation"}
+{"user": "Human", "index": 10, "text": "That is completely okay! You should still be proud of yourself, you made a lot of progress today.", "intent": "Casual_response"}
+{"user": "Human", "index": 10, "text": "You learned how to turn the computer on, which is biggest step when it comes to using the computer. Now, you just have to practice using the mouse and keyboard. Once you get that down, you will be able to use the computer.", "intent": "Casual_response"}
+{"user": "Alien", "index": 11, "text": "Fine, I will take your word for it.", "intent": "Inform_observation"}
+{"user": "Alien", "index": 11, "text": "Is there anything I have to do before I leave?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 11, "text": "Yes, whenever you are done using the computer, it is a good practice to turn it off.", "intent": "Inform_next_step"}
+{"user": "Human", "index": 11, "text": "Do you know how to turn the computer off?", "intent": "Ask_know_action"}
+{"user": "Alien", "index": 11, "text": "No, I am not really sure how to do that.", "intent": "Yes-no_negative"}
+{"user": "Human", "index": 11, "text": "That is perfectly fine. All you have to do is press the same power button you pressed to turn the computer on again in order to turn it off.", "intent": "Inform_action"}
+{"user": "Alien", "index": 11, "text": "Like this?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 11, "text": "Exactly, just like that! Nice job Zara!", "intent": "Inform_action"}

@@ -1,0 +1,35 @@
+{"user": "Human", "index": 1, "text": "Zara, do you want to have a drink?", "intent": "Ask_get_started"}
+{"user": "Alien", "index": 1, "text": "Yes, human named Michael, I would like to consume some liquid water.", "intent": "Inform_get_started"}
+{"user": "Human", "index": 1, "text": "Zara, let's start by picking up the glass. Its right on the dining table.", "intent": "Inform_action"}
+{"user": "Human", "index": 1, "text": "Please go ahead and grab the glass as it's dirty ", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 2, "text": "I will proceed, human named Michael. ", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 2, "text": "Is this the glass to grab?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 2, "text": "Yes, that's the one. ", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 3, "text": "But Michael, one is an integer.", "intent": "Display_confusion"}
+{"user": "Human", "index": 3, "text": "Okay but you didnt get the glass", "intent": "Inform_incorrect_action"}
+{"user": "Human", "index": 3, "text": "Can you please go grab the GLASS on the dining table?", "intent": "Inform_action"}
+{"user": "Alien", "index": 4, "text": "Yes Michael, I will walk to the table and pick up the glass.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 5, "text": "I have picked up the glass. It appears to be contaminated with dust.", "intent": "Inform_observation"}
+{"user": "Human", "index": 5, "text": "Yes, that's why we are going to wash it.", "intent": "Inform_action"}
+{"user": "Human", "index": 6, "text": "Can you put the glass in the sink?", "intent": "Ask_take_next_step"}
+{"user": "Alien", "index": 6, "text": "Yes, I will put the glass in the sink.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 7, "text": "The glass in in the sink. It is still contaminated with dust.", "intent": "Inform_observation"}
+{"user": "Human", "index": 7, "text": "Can you turn on the tap?", "intent": "Ask_take_next_step"}
+{"user": "Alien", "index": 7, "text": "What is a tap?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 8, "text": "The tap is right there,its where the water comes out of.", "intent": "Inform_location"}
+{"user": "Human", "index": 8, "text": "Pull the faucet lever and the water will come out.", "intent": "Ask_take_next_step"}
+{"user": "Alien", "index": 8, "text": "I will pull the faucet lever to lure the water out.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 9, "text": "Its clean, do you know how to turn off the tap?", "intent": "Ask_know_action"}
+{"user": "Alien", "index": 9, "text": "Yes, I assume I turn the lever the other way.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 9, "text": "Yup, that's right.", "intent": "Inform_other"}
+{"user": "Human", "index": 10, "text": "Pick up the glass from the sink", "intent": "Inform_action"}
+{"user": "Alien", "index": 10, "text": "Ok, I will pick up the glass from the sink.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 11, "text": "Do you mind putting back the glass?", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 11, "text": "Ok, I will put back the glass.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 12, "text": "Do I situate the glass on the surface of the table?", "intent": "Ask_guidence"}
+{"user": "Human", "index": 12, "text": "Yup", "intent": "Inform_other"}
+{"user": "Alien", "index": 12, "text": "I will proceed to situate the glass on the surface of the table, human named Michael.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 13, "text": "What would you like to drink?", "intent": "Ask_know_object"}
+{"user": "Alien", "index": 13, "text": "I am very curious about the taste of H2O. ", "intent": "Inform_condition"}
+{"user": "Human", "index": 14, "text": "What do Aliens drink anyway?", "intent": "Casual_question"}
+{"user": "Human", "index": 14, "text": "Mature members of my species do not require sustenance. I just eat and drink because it is an interesting sensation.", "intent": "Casual_response"}

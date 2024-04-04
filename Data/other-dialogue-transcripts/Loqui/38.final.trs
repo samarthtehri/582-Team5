@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14-loqui.dtd">
+<Trans scribe="Administrator" audio_filename="38" version="4" version_date="080627" corpus_version="2.0">
+<Speakers>
+<Speaker id="spk1" name="Librarian # 1" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="Caller # 2" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="182.291">
+<Turn startTime="0" endTime="1.453">
+<Sync time="0"/>
+&lt;TC&gt; &lt;BN&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="1.453" endTime="10.998">
+<Sync time="1.453"/>
+can I ask another question \\
+<Sync time="3.14"/>
+&lt;P&gt; hi right now the library is working with a research team \\
+<Sync time="8.014"/>
+to better improve our service \\
+<Sync time="9.404"/>
+would you mind if this call is recorded \\
+</Turn>
+<Turn speaker="spk2" startTime="10.998" endTime="13.81">
+<Sync time="10.998"/>
+no no &lt;CGH&gt; &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="13.81" endTime="14.826">
+<Sync time="13.81"/>
+okay how can I help you \\
+</Turn>
+<Turn speaker="spk2" startTime="14.826" endTime="16.685">
+<Sync time="14.826"/>
+uh I want to know if you have a certain book \\
+</Turn>
+<Turn speaker="spk1" startTime="16.685" endTime="17.326">
+<Sync time="16.685"/>
+sure \\
+</Turn>
+<Turn speaker="spk2" startTime="17.326" endTime="19.096">
+<Sync time="17.326"/>
+uh the title is March \\
+</Turn>
+<Turn speaker="spk1" startTime="19.096" endTime="21.299">
+<Sync time="19.096"/>
+by Doctorow \\
+</Turn>
+<Turn speaker="spk2" startTime="21.299" endTime="29.205">
+<Sync time="21.299"/>
+I don't know by whom it was \\
+<Sync time="23.283"/>
+&lt;P&gt; it has &lt;P&gt; it was a Pulitzer Prize winner about a year ago \\
+</Turn>
+<Turn speaker="spk1" startTime="29.205" endTime="57.19">
+<Sync time="29.205"/>
+&lt;TP&gt; &lt;CT&gt; &lt;P&gt; &lt;TP&gt; \\
+<Sync time="54.471"/>
+I have a feeling it's the one by Doctorow \\
+</Turn>
+<Turn speaker="spk2" startTime="57.19" endTime="58.502">
+<Sync time="57.19"/>
+yeah \\
+</Turn>
+<Turn speaker="spk1" startTime="58.502" endTime="61.158">
+<Sync time="58.502"/>
+but I don't know for sure that that was a Pulitzer \\
+</Turn>
+<Turn speaker="spk2" startTime="61.158" endTime="70.331">
+<Sync time="61.158"/>
+well but i- it's about the father of the little women \\
+<Sync time="65.626"/>
+I mean do you know \\
+<Sync time="67.002"/>
+&lt;P&gt; can you find out what it's about cause I didn't think it was Doctorow \\
+</Turn>
+<Turn speaker="spk1" startTime="70.331" endTime="83.378">
+<Sync time="70.331"/>
+oh this is about &lt;B&gt; &lt;P&gt; \\
+<Sync time="78.456"/>
+this is about the Civil War \\
+</Turn>
+<Turn speaker="spk2" startTime="83.378" endTime="91.965">
+<Sync time="83.378"/>
+I don't know &lt;P&gt; \\
+<Sync time="85.138"/>
+but that was in that era \\
+<Sync time="86.732"/>
+this word is not the time of his just the word the month March \\
+</Turn>
+<Turn speaker="spk1" startTime="91.965" endTime="94.589">
+<Sync time="91.965"/>
+&lt;P&gt; oh this is called The March \\
+</Turn>
+<Turn speaker="spk2" startTime="94.589" endTime="95.216">
+<Sync time="94.589"/>
+no no \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="95.216" endTime="97.390">
+<Sync time="95.216"/>
+<Who nb="1"/>
+[os it's eo] &lt;P&gt; it has no the &lt;CHKL&gt; \\
+<Who nb="2"/>
+[os yes eo]
+</Turn>
+<Turn startTime="97.390" endTime="114.222">
+<Sync time="97.390"/>
+&lt;TP&gt; &lt;P&gt; &lt;BN&gt; &lt;TP&gt; &lt;IR&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="114.222" endTime="116.972">
+<Sync time="114.222"/>
+ma'am I'm gonna put someone else on hold I'll be right back okay \\
+</Turn>
+<Turn speaker="spk2" startTime="116.972" endTime="117.941">
+<Sync time="116.972"/>
+yeah than- \\
+</Turn>
+<Turn speaker="spk1" startTime="117.941" endTime="131.665">
+<Sync time="117.941"/>
+&lt;P&gt; &lt;TC&gt; \\
+<Sync time="119.331"/>
+good afternoon Andrew &lt;BN&gt; Heiskell Library please hold &lt;BN&gt; \\
+<Sync time="122.181"/>
+&lt;BN&gt; &lt;P&gt; \\
+<Sync time="130.306"/>
+right okay yeah \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="131.665" endTime="134.029">
+<Sync time="131.665"/>
+<Who nb="1"/>
+[os yes eo] \\
+
+<Who nb="2"/>
+[os it's eo] by Geraldine Brooks \\
+</Turn>
+<Turn speaker="spk1" startTime="134.029" endTime="134.696">
+<Sync time="134.029"/>
+what is your name \\
+</Turn>
+<Turn speaker="spk2" startTime="134.696" endTime="137.633">
+<Sync time="134.696"/>
+&lt;FIRSTNAME&gt; &lt;LASTNAME&gt; \\ 
+<Sync time="136.118"/>
+&lt;BN&gt; &lt;LN-INITIAL-1&gt; &lt;LN-INITIAL-2&gt; &lt;LN-INITIAL-3&gt; &lt;LN-INITIAL-4&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="137.633" endTime="151.086">
+<Sync time="137.633"/>
+&lt;TN&gt; &lt;P&gt; &lt;TP&gt; &lt;P&gt; &lt;BN&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="151.086" endTime="151.992">
+<Sync time="151.086"/>
+&lt;CT&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="151.992" endTime="163.758">
+<Sync time="151.992"/>
+&lt;P&gt; &lt;TP&gt; \\
+<Sync time="160.743"/>
+okay miss &lt;LASTNAME&gt; the book is being recorded right now \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="163.758" endTime="164.398">
+<Sync time="163.758"/>
+<Who nb="1"/>
+[os unfort- eo] \\
+<Who nb="2"/>
+[os oh good eo] \\
+</Turn>
+<Turn speaker="spk1" startTime="164.398" endTime="166.093">
+<Sync time="164.398"/>
+unfortunately it doesn't have a number \\
+</Turn>
+<Turn speaker="spk2" startTime="166.093" endTime="166.766">
+<Sync time="166.093"/>
+oh \\
+</Turn>
+<Turn speaker="spk1" startTime="166.766" endTime="168.813">
+<Sync time="166.766"/>
+so I can't put it on your reserve list yet \\
+</Turn>
+<Turn speaker="spk2" startTime="168.813" endTime="170.203">
+<Sync time="168.813"/>
+well what can what can I do \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="170.203" endTime="173.797">
+<Sync time="170.203"/>
+<Who nb="1"/>
+[os umm eo] \\ 
+<Who nb="2"/>
+[os &lt;G&gt; eo] \\
+<Sync time="170.64"/>
+<Who nb="1"/>
+it takes about nine months for a year [os to a eo] book to be fully recorded \\
+<Who nb="2"/>
+[os oh eo] \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="173.797" endTime="174.437">
+<Sync time="173.797"/>
+<Who nb="1"/>
+[os oh wow eo] \\
+<Who nb="2"/>
+[os so I'd eo] \\
+</Turn>
+<Turn speaker="spk1" startTime="174.437" endTime="176.265">
+<Sync time="174.437"/>
+try back in a month or two \\
+</Turn>
+<Turn speaker="spk2" startTime="176.265" endTime="177.749">
+<Sync time="176.265"/>
+I hope I remember \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="177.749" endTime="179.233">
+<Sync time="177.749"/>
+<Who nb="1"/>
+[os &lt;CHKL&gt; okay eo] \\
+<Who nb="2"/>
+[os &lt;CHKL&gt; eo] \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="179.233" endTime="180.827">
+<Sync time="179.233"/>
+<Who nb="1"/>
+thank you [os then eo] \\
+<Who nb="2"/>
+[os you're eo] welcome \\
+</Turn>
+<Turn speaker="spk1" startTime="180.827" endTime="182.291">
+<Sync time="180.827"/>
+bye bye &lt;TN&gt; \\
+</Turn>
+</Section>
+</Episode>
+</Trans>

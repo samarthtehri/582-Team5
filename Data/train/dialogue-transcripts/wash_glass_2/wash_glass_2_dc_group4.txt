@@ -1,0 +1,52 @@
+{"user": "Human", "index": 1, "text": "Hello", "intent": "Extend_greetings"}
+{"user": "Alien", "index": 1, "text": "Hello!", "intent": "Extend_greetings"}
+{"user": "Human", "index": 1, "text": "Do you want to have a drink together?", "intent": "Casual_question"}
+{"user": "Alien", "index": 1, "text": "Sure!", "intent": "Casual_response"}
+{"user": "Alien", "index": 2, "text": "Where are the glasses?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 2, "text": "They are on the table.", "intent": "Inform_location"}
+{"user": "Alien", "index": 2, "text": "Ok. I'll go get them.", "intent": "Casual_response"}
+{"user": "Alien", "index": 3, "text": "I got the glasses.", "intent": "Inform_condition"}
+{"user": "Human", "index": 3, "text": "Okay, thank you!", "intent": "Casual_response"}
+{"user": "Human", "index": 4, "text": "You picked up the wrong thing, you picked up a plate and not a glass.", "intent": "Inform_action"}
+{"user": "Alien", "index": 4, "text": "Which one is the glass then?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 4, "text": "The glass is taller and cylindrical.", "intent": "iInform_object"}
+{"user": "Alien", "index": 5, "text": "Ok. I think I got it right this time!", "intent": "Inform_understanding"}
+{"user": "Human", "index": 5, "text": "Yes, you got it! Thank you!", "intent": "Casual_response"}
+{"user": "Alien", "index": 6, "text": "So what should I do with the glass?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 6, "text": "Can you bring them over to me? We have to wash it before we drink.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 6, "text": "Ok. Sounds good!", "intent": "Casual_response"}
+{"user": "Alien", "index": 7, "text": "How do we wash the glass?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 7, "text": "You have to first put it in the sink.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 7, "text": "Like this?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 7, "text": "Yes, that is how you do it.", "intent": "Inform_action"}
+{"user": "Alien", "index": 7, "text": "Ok.", "intent": "Casual_response"}
+{"user": "Alien", "index": 8, "text": "Is that it or do we have to do something next?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 8, "text": "We now have to turn on the water.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 8, "text": "", "intent": "Display_confusion"}
+{"user": "Alien", "index": 8, "text": "I am confused, I don't see any water.", "intent": "Explain_confused"}
+{"user": "Human", "index": 8, "text": "That's okay, you just have to turn the right nozzle so that the water can come out.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 8, "text": "Like this?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 8, "text": "Yes, that is correct.", "intent": "Inform_action"}
+{"user": "Alien", "index": 9, "text": "The glass seems pretty clean now. What should I do next?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 9, "text": "It does look pretty clean. We now have to turn the water off since we are done washing the glass.", "intent": "Inform_next_step"}
+{"user": "Human", "index": 9, "text": "Do you need help with that?", "intent": "Ask_want_help"}
+{"user": "Alien", "index": 9, "text": "No, I think I know how to do that. Thanks though!", "intent": "Inform_condition"}
+{"user": "Alien", "index": 10, "text": "Now that the glass is clean, can I take it out of the sink?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 10, "text": "Yes, you can take it out.", "intent": "Inform_action"}
+{"user": "Human", "index": 10, "text": "Have you thought about what you wanted to drink?", "intent": "Casual_question"}
+{"user": "Alien", "index": 10, "text": "No, I am sure what drinks there are. I am okay with whatever you want to drink.", "intent": "Casual_response"}
+{"user": "Human", "index": 10, "text": "That's fine, there's a lot of options in the fridge.", "intent": "Casual_question"}
+{"user": "Alien", "index": 11, "text": "What do you want me to do with the glass?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 11, "text": "You can put it back on the table.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 11, "text": "Sure thing! I can do that. ", "intent": "Casual_response"}
+{"user": "Alien", "index": 12, "text": "Is this okay?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 12, "text": "Yes, that is perfect!", "intent": "Inform_location"}
+{"user": "Human", "index": 12, "text": "Okay, I'll leave it here.", "intent": "Inform_action"}
+{"user": "Human", "index": 12, "text": "That's perfect, thanks!", "intent": "Inform_location"}
+{"user": "Alien", "index": 13, "text": "What should I do next?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 13, "text": "Can you come over here? We have to decide what we will drink.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 13, "text": "Sure thing!", "intent": "Casual_response"}
+{"user": "Human", "index": 14, "text": "We have Apple Juice, Orange Juice, and Water in the fridge. Is there a specific drink that you want?", "intent": "Casual_question"}
+{"user": "Alien", "index": 14, "text": "Nothing in particular. Which one is your favorite?", "intent": "Casual_response"}
+{"user": "Human", "index": 14, "text": "I like apple juice; I think you would like it too.", "intent": "Casual_question"}
+{"user": "Alien", "index": 14, "text": "Sounds good! Apple juice it is!", "intent": "Casual_response"}

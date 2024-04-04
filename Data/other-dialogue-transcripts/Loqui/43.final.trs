@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14-loqui.dtd">
+<Trans scribe="Susan Epstein" audio_filename="43" version="4" version_date="080627" corpus_version="2.0">
+<Speakers>
+<Speaker id="spk1" name="Librarian # 1" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="Caller # 2" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="138.140">
+<Turn startTime="0" endTime="6.765" speaker="spk1">
+<Sync time="0"/>
+&lt;P&gt; &lt;TC&gt; &lt;P&gt; \\
+<Sync time="1.703"/>
+hi thank you for holding before we begin \\
+<Sync time="3.61"/>
+would you mind if this call is recorded for research purposes \\
+</Turn>
+<Turn speaker="spk2" startTime="6.765" endTime="8.543">
+<Sync time="6.765"/>
+no problem \\
+</Turn>
+<Turn speaker="spk1" startTime="8.543" endTime="9.746">
+<Sync time="8.543"/>
+okay how can I help you today \\
+</Turn>
+<Turn speaker="spk2" startTime="9.746" endTime="16.83">
+<Sync time="9.746"/>
+okay my name is &lt;FIRSTNAME&gt; &lt;LASTNAME&gt; \\
+<Sync time="11.963"/>
+&lt;B&gt; and I like to order some book &lt;P&gt; &lt;BN&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="16.83" endTime="19.409">
+<Sync time="16.83"/>
+miss &lt;LASTNAME&gt; do you have the numbers of the books you want &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="19.409" endTime="22.451">
+<Sync time="19.409"/>
+ah no I can't read \\
+<Sync time="20.904"/>
+I just have to give you the authors \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="22.451" endTime="22.966">
+<Sync time="22.451"/>
+<Who nb="1"/>
+[os name eo] \\
+<Who nb="2"/>
+[os sure eo] \\
+</Turn>
+<Turn speaker="spk1" startTime="22.966" endTime="26.426">
+<Sync time="22.966"/>
+&lt;P&gt; &lt;BN&gt; &lt;TP&gt; what's the author's name \\
+</Turn>
+<Turn speaker="spk2" startTime="26.426" endTime="30.787">
+<Sync time="26.426"/>
+&lt;B&gt; okay ah the first one is Linda BearStein \\
+</Turn>
+<Turn speaker="spk1" startTime="30.787" endTime="34.439">
+<Sync time="30.787"/>
+&lt;P&gt; &lt;TP&gt; &lt;BN&gt; &lt;CT&gt; &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="34.439" endTime="42.264">
+<Sync time="34.439"/>
+&lt;B&gt; and um if you could send books by her \\
+<Sync time="38.115"/>
+you sent me one uh before the bone bald or something \\
+</Turn>
+<Turn speaker="spk1" startTime="42.264" endTime="42.677">
+<Sync time="42.264"/>
+right \\
+</Turn>
+<Turn speaker="spk2" startTime="42.677" endTime="47.783">
+<Sync time="42.677"/>
+&lt;B&gt; I enjoy that very much \\
+<Sync time="44.326"/>
+if you have others by her \\
+<Sync time="45.873"/>
+I'd appreciate that &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="47.783" endTime="50.901">
+<Sync time="47.783"/>
+okay we should have this books called The Kills in \\
+</Turn>
+<Turn speaker="spk2" startTime="50.901" endTime="51.88">
+<Sync time="50.901"/>
+okay \\ 
+</Turn>
+<Turn speaker="spk1" startTime="51.88" endTime="54.304">
+<Sync time="51.88"/>
+and I'll put you on reserve for two other ones \\
+</Turn>
+<Turn speaker="spk2" startTime="54.304" endTime="58.557">
+<Sync time="54.304"/>
+okay uh and if i- even uh if you have any older one \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="58.557" endTime="59.228">
+<Sync time="58.557"/>
+<Who nb="1"/>
+[os because eo] I haven't \\
+<Who nb="2"/>
+[os right eo] \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="59.228" endTime="60.571">
+<Sync time="59.228"/>
+<Who nb="1"/>
+[os right eo] \\
+<Who nb="2"/>
+[os read eo] any of hers \\
+</Turn>
+<Turn speaker="spk2" startTime="60.571" endTime="62.894">
+<Sync time="60.571"/>
+at all \\
+<Sync time="61.191"/>
+&lt;B&gt; okay I also like \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="62.894" endTime="69.452">
+<Sync time="62.894"/>
+<Who nb="1"/>
+do you have any book by Perry Oshawnatee Shawn &lt;P&gt; a Shawnski or [os something eo] \\
+<Who nb="2"/>
+[os yeah yeah eo] hold on \\
+</Turn>
+<Turn speaker="spk2" startTime="69.452" endTime="70.92">
+<Sync time="69.452"/>
+I- how do you say her name \\
+</Turn>
+<Turn speaker="spk1" startTime="70.92" endTime="72.315">
+<Sync time="70.92"/>
+I believe it's a Schawnsee \\
+</Turn>
+<Turn speaker="spk2" startTime="72.315" endTime="75.585">
+<Sync time="72.315"/>
+oh Schawnsee yeah &lt;P&gt; &lt;BN&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="75.585" endTime="84.907">
+<Sync time="75.585"/>
+&lt;P&gt; &lt;TP&gt; &lt;BN&gt; yeah how many do you want me to send \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="84.907" endTime="86.614">
+<Sync time="84.907"/>
+<Who nb="1"/>
+I [os gues- &lt;NU&gt; eo] \\
+<Who nb="2"/>
+[os as eo] many as you have \\
+</Turn>
+<Turn speaker="spk2" startTime="86.614" endTime="94.301">
+<Sync time="86.614"/>
+I'd um \\
+<Sync time="87.7"/>
+I read one or two of hers I can't recall the name \\
+<Sync time="91.223"/>
+so just send them and if I read it I'll send it right back \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="94.301" endTime="94.973">
+<Sync time="94.301"/>
+<Who nb="1"/>
+[os &lt;B&gt; eo] \\
+<Who nb="2"/>
+[os okay eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="94.973" endTime="103.642">
+<Sync time="94.973"/>
+&lt;B&gt; also I want &lt;P&gt; uh I ask this &lt;P&gt; one before I don't know if you have it in yet \\ 
+<Sync time="99.386"/>
+Portrait of a Killer by Patricia Cornwall \\
+</Turn>
+<Turn speaker="spk1" startTime="103.642" endTime="114.076">
+<Sync time="103.642"/>
+&lt;TP&gt; &lt;P&gt; &lt;B&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="114.076" endTime="117.23">
+<Sync time="114.076"/>
+all our copies are out but I'll put it on your reserved list \\
+</Turn>
+<Turn speaker="spk2" startTime="117.23" endTime="127.309">
+<Sync time="117.23"/>
+okay great and if also &lt;NU&gt; you have anything by Lisa Gardner \\
+<Sync time="121.48"/>
+&lt;B&gt; I think I read the Killing Hour &lt;B&gt; and one other by her I'm not sure which \\
+</Turn>
+<Turn speaker="spk1" startTime="127.309" endTime="127.928">
+<Sync time="127.309"/>
+okay \\
+</Turn>
+<Turn speaker="spk2" startTime="127.928" endTime="130.199">
+<Sync time="127.928"/>
+okay I think that'll be fine for now \\
+</Turn>
+<Turn speaker="spk1" startTime="130.199" endTime="130.509">
+<Sync time="130.199"/>
+okay \\
+</Turn>
+<Turn speaker="spk2" startTime="130.509" endTime="131.748">
+<Sync time="130.509"/>
+okay thank you so much \\
+</Turn>
+<Turn speaker="spk1" startTime="131.748" endTime="132.06">
+<Sync time="131.748"/>
+your welcome \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="132.06" endTime="133.196">
+<Sync time="132.06"/>
+<Who nb="1"/>
+have a great [os day eo ] \\
+<Who nb="2"/>
+[os you eo] too \\
+</Turn>
+<Turn speaker="spk2" startTime="133.196" endTime="133.557">
+<Sync time="133.196"/>
+bye \\
+</Turn>
+<Turn speaker="spk1" startTime="133.557" endTime="134.332">
+<Sync time="133.557"/>
+bye \\
+</Turn>
+<Turn speaker="spk2" startTime="134.332" endTime="135.003">
+<Sync time="134.332"/>
+&lt;TN&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="135.003" endTime="138.140">
+<Sync time="135.003"/>
+&lt;TN&gt; &lt;P&gt; \\
+</Turn>
+</Section>
+</Episode>
+</Trans>

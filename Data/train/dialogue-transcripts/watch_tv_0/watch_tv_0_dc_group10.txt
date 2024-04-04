@@ -1,0 +1,28 @@
+{"user": "Human", "index": 1, "text": "I see, well do you wanna go watch some T.V.?", "intent": "Ask_get_started"}
+{"user": "Alien", "index": 1, "text": "Let's do it!", "intent": "Inform_get_started"}
+{"user": "Alien", "index": 1, "text": "Where should we go?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 1, "text": "We can go to the living room, my T.V. is there", "intent": "Inform_other"}
+{"user": "Human", "index": 2, "text": "I see, do you know how to turn the T.V. on?", "intent": "Ask_know_action"}
+{"user": "Alien", "index": 2, "text": "I see that there's a button", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 2, "text": "Should I press it?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 2, "text": "Yes", "intent": "Inform_next_step"}
+{"user": "Human", "index": 3, "text": "Do you know where the location of the button is?", "intent": "Ask_know_location"}
+{"user": "Alien", "index": 3, "text": "Is it this one right here?", "intent": "Inform_understanding"}
+{"user": "Human", "index": 3, "text": "Yep, that's the one", "intent": "Inform_other"}
+{"user": "Human", "index": 4, "text": "If you want to watch T.V., you should try watching it from back there on my couch", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 4, "text": "Okay!", "intent": "Inform_understanding"}
+{"user": "Human", "index": 4, "text": "You can take a seat, make yourself comfortable while watching", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 5, "text": "You are right, the couch is so comfortable", "intent": "Casual_observation"}
+{"user": "Human", "index": 5, "text": "I'm glad you like it", "intent": "Casual_response"}
+{"user": "Alien", "index": 6, "text": "How many inches is your tv?", "intent": "Casual_question"}
+{"user": "Human", "index": 6, "text": "It's 65 Inches. I got it on a good deal from Costco", "intent": "Casual_response"}
+{"user": "Alien", "index": 7, "text": "What should I do?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 7, "text": "If you don't want to watch any more, you can turn the T.V. off", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 7, "text": "Okay!", "intent": "Inform_understanding"}
+{"user": "Human", "index": 8, "text": "Do you know how to turn the T.V. off?", "intent": "Ask_know_action"}
+{"user": "Alien", "index": 8, "text": "Yes! I'll press the same button", "intent": "Inform_understanding"}
+{"user": "Human", "index": 8, "text": "Yep!", "intent": "Inform_other"}
+{"user": "Alien", "index": 9, "text": "What should we do now that we are finish with waching tv?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 9, "text": "We can go eat something in the kitchen", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 10, "text": "Watching tv was so fun!", "intent": "Casual_observation"}
+{"user": "Human", "index": 10, "text": "I'm glad you liked it", "intent": "Casual_response"}

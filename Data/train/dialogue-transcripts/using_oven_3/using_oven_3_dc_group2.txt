@@ -1,0 +1,35 @@
+{"user": "Human", "index": 1, "text": "Hey.", "intent": "Extend_greetings"}
+{"user": "Alien", "index": 1, "text": "Hi!", "intent": "Extend_greetings"}
+{"user": "Human", "index": 1, "text": "Are you ready to try baking?", "intent": "Ask_get_started"}
+{"user": "Alien", "index": 1, "text": "Absolutely!", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 2, "text": "What should I put in here?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 2, "text": "We'll put some bread in.", "intent": "Inform_object"}
+{"user": "Alien", "index": 3, "text": "Is this the bread?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 3, "text": "No it's in the toaster, obviously.", "intent": "Inform_location"}
+{"user": "Alien", "index": 3, "text": "Ohh!", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 4, "text": "Is this the toaster?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 4, "text": "Yea that's it.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 5, "text": "Should I take the bread out of the toaster now?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 5, "text": "Yea it's ready.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 5, "text": "Okay.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 6, "text": "Then just put it in the oven.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 6, "text": "Got it.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 7, "text": "So now what do I do?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 7, "text": "Close the lid so it heats up, then just wait.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 8, "text": "How long should I wait before taking the bread out?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 8, "text": "I think 5 minutes.", "intent": "Inform_other"}
+{"user": "Alien", "index": 8, "text": "Okay, I'll wait.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 9, "text": "It's ready, can you take it out now?", "intent": "Ask_take_next_step"}
+{"user": "Alien", "index": 9, "text": "Yeah, sure.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 10, "text": "Oh wow, this smells good!", "intent": "Inform_observation"}
+{"user": "Human", "index": 10, "text": "Yea, sure does!", "intent": "Casual_response"}
+{"user": "Human", "index": 11, "text": "Don't forget about the door.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 11, "text": "Oh, of course! ", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 12, "text": "Where are the plates?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 12, "text": "Over there on the counter.", "intent": "Inform_location"}
+{"user": "Alien", "index": 12, "text": "Got it, thank you!", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 13, "text": "Okay, what now?", "intent": "Ask_guidence"}
+{"user": "Human", "index": 13, "text": "You're ready to eat.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 14, "text": "This bread is a little hot.", "intent": "Inform_condition"}
+{"user": "Human", "index": 14, "text": "Ok, just wait a couple minutes", "intent": "Inform_other"}
+{"user": "Alien", "index": 14, "text": "Okay, will do.", "intent": "Inform_understanding"}

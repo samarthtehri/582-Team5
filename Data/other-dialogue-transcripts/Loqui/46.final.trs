@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14-loqui.dtd">
+<Trans scribe="user" audio_filename="46" version="3" version_date="080827" corpus_version="2.0">
+<Speakers>
+<Speaker id="spk1" name="librarian#1" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="caller#2" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="non-speaking-librarian-activity#1" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="163.711">
+<Turn startTime="0" endTime="3.231" speaker="spk1">
+<Sync time="0"/>
+&lt;P&gt; call is recorded \\
+</Turn>
+<Turn speaker="spk2" startTime="3.231" endTime="5.58">
+<Sync time="3.231"/>
+&lt;P&gt; um &lt;P&gt; no \\
+</Turn>
+<Turn speaker="spk1" startTime="5.58" endTime="6.205">
+<Sync time="5.58"/>
+you don't mind \\
+</Turn>
+<Turn speaker="spk2" startTime="6.205" endTime="7.139">
+<Sync time="6.205"/>
+no &lt;CHKL&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="7.139" endTime="8.594">
+<Sync time="7.139"/>
+okay \\
+<Sync time="7.493"/>
+how can I help you today \\
+</Turn>
+<Turn speaker="spk2" startTime="8.594" endTime="13.485">
+<Sync time="8.594"/>
+thank you \\
+<Sync time="9.382"/>
+&lt;B&gt; um my name is &lt;FIRSTNAME-1&gt; &lt;LASTNAME-1&gt; \\
+<Sync time="11.612"/>
+and I'm from the Lighthouse \\
+</Turn>
+<Turn speaker="spk1" startTime="13.485" endTime="13.757">
+<Sync time="13.485"/>
+right \\
+</Turn>
+<Turn speaker="spk2" startTime="13.757" endTime="29.488">
+<Sync time="13.757"/>
+um I've been talking with a \\
+<Sync time="15.831"/>
+um &lt;P&gt; low-vision patient \\
+<Sync time="18.212"/>
+her name is &lt;FIRSTNAME-2&gt; &lt;LASTNAME-2&gt; \\
+<Sync time="20.122"/>
+&lt;LN2-INTITIAL-1&gt; &lt;LN2-INTITIAL-2&gt; &lt;LN2-INTITIAL-3&gt; &lt;LN2-INTITIAL-4&gt; &lt;LN2-INTITIAL-5&gt; &lt;LN2-INTITIAL-6&gt; &lt;LN2-INTITIAL-7&gt; \\
+<Sync time="22.368"/>
+and she said that an agency \\
+<Sync time="24.642"/>
+I- I don't know which one \\
+<Sync time="26.483"/>
+has been helping her to try to get her talking books in April \\
+</Turn>
+<Turn speaker="spk1" startTime="29.488" endTime="30.156">
+<Sync time="29.488"/>
+&lt;P&gt; &lt;B&gt; right \\
+</Turn>
+<Turn speaker="spk2" startTime="30.156" endTime="38.959">
+<Sync time="30.156"/>
+so I told her look \\
+<Sync time="31.123"/>
+let me find out what's happening \\
+<Sync time="32.799"/>
+because &lt;P&gt; if the- \\
+<Sync time="34.043"/>
+she hasn't even bee- \\
+<Sync time="35.165"/>
+if they didn't apply for her \\
+<Sync time="36.409"/>
+let me just send in the application for her \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="38.959" endTime="43.043">
+<Sync time="38.959"/>
+<Who nb="1"/>
+because she's legally blind [os and eo] \\
+<Who nb="2"/>
+[os right right eo] \\
+<Sync time="41.437"/>
+<Who nb="1"/>
+so can [os you eo] \\
+<Who nb="2"/>
+[os &lt;LN2-INTITIAL-1&gt; eo] &lt;LN2-INTITIAL-2&gt; &lt;LN2-INTITIAL-3&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="43.043" endTime="44.224">
+<Sync time="43.043"/>
+&lt;LN2-INTITIAL-4&gt; &lt;LN2-INTITIAL-5&gt; &lt;LN2-INTITIAL-6&gt; &lt;LN2-INTITIAL-7&gt; \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="44.224" endTime="45.377">
+<Sync time="44.224"/>
+<Who nb="1"/>
+&lt;P&gt; [os yea eo] \\
+<Who nb="2"/>
+[os &lt;LASTNAME-2&gt; eo] \\
+</Turn>
+<Turn speaker="spk1" startTime="45.377" endTime="49.340">
+<Sync time="45.377"/>
+I'm not seeing her in &lt;P&gt; our data base &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="49.340" endTime="50.249">
+<Sync time="49.340"/>
+you're not seeing her \\
+</Turn>
+<Turn speaker="spk1" startTime="50.249" endTime="50.805">
+<Sync time="50.249"/>
+no \\
+</Turn>
+<Turn speaker="spk2" startTime="50.805" endTime="53.355">
+<Sync time="50.805"/>
+oh okay \\
+<Sync time="51.311"/>
+&lt;P&gt; because I'll send in a application \\
+</Turn>
+<Turn speaker="spk1" startTime="53.355" endTime="53.932">
+<Sync time="53.355"/>
+yeah \\
+</Turn>
+<Turn speaker="spk2" startTime="53.932" endTime="61.543">
+<Sync time="53.932"/>
+and um \\
+<Sync time="54.871"/>
+okay I'm going to send it in \\
+<Sync time="56.164"/>
+but eh- let me &lt;P&gt; tell you \\
+<Sync time="58.196"/>
+&lt;P&gt; &lt;B&gt; um she lives in the &lt;NEIGHBORHOOD&gt; \\
+<Sync time="60.314"/>
+that's not a &lt;BN&gt; problem right \\
+</Turn>
+<Turn speaker="spk1" startTime="61.543" endTime="61.858">
+<Sync time="61.543"/>
+no \\
+</Turn>
+<Turn speaker="spk2" startTime="61.858" endTime="74.592">
+<Sync time="61.858"/>
+&lt;P&gt; and also um \\
+<Sync time="63.821"/>
+&lt;P&gt; she would like um \\
+<Sync time="66.809"/>
+&lt;ST&gt; let me just think for a minute &lt;/ST&gt; \\
+<Sync time="68.071"/>
+she &lt;P&gt; she &lt;P&gt; she ok \\
+<Sync time="70.580"/>
+&lt;P&gt; she doesn't \\
+<Sync time="71.677"/>
+&lt;P&gt; she wants um to select her own book \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="74.592" endTime="75.913">
+<Sync time="74.592"/>
+<Who nb="1"/>
+[os right eo] \\
+<Who nb="2"/>
+[os so she eo] wants catalog \\
+</Turn>
+<Turn speaker="spk1" startTime="75.913" endTime="76.37">
+<Sync time="75.913"/>
+sure \\
+</Turn>
+<Turn speaker="spk2" startTime="76.37" endTime="79.558">
+<Sync time="76.37"/>
+but however \\
+<Sync time="77.066"/>
+there's one book she is very eager to get \\
+</Turn>
+<Turn speaker="spk1" startTime="79.558" endTime="80.063">
+<Sync time="79.558"/>
+right \\
+</Turn>
+<Turn speaker="spk2" startTime="80.063" endTime="83.688">
+<Sync time="80.063"/>
+and thats called The Earth Is Flat \\
+<Sync time="82.038"/>
+by Thomas Friedman \\
+</Turn>
+<Turn speaker="spk1" startTime="83.688" endTime="84.284">
+<Sync time="83.688"/>
+right right \\
+</Turn>
+<Turn speaker="spk2" startTime="84.284" endTime="91.241">
+<Sync time="84.284"/>
+I don't know if this \\
+<Sync time="85.295"/>
+&lt;P&gt; if you have this in a recorded ah \\
+<Sync time="87.265"/>
+&lt;P&gt; I don't know if you have a recording copy \\
+<Sync time="89.577"/>
+can yo- is there any way you can tell me that \\
+</Turn>
+<Turn speaker="spk1" startTime="91.241" endTime="92.244">
+<Sync time="91.241"/>
+yea let me check \\
+</Turn>
+<Turn speaker="spk2" startTime="92.244" endTime="94.145">
+<Sync time="92.244"/>
+The Earth Is Flat \\
+</Turn>
+<Turn speaker="spk1" startTime="94.145" endTime="96.261">
+<Sync time="94.145"/>
+&lt;P&gt; &lt;BN&gt; is it The World Is Flat \\
+</Turn>
+<Turn speaker="spk2" startTime="96.261" endTime="97.377">
+<Sync time="96.261"/>
+no the Earth &lt;CHKL&gt; \\
+</Turn>
+<Turn speaker="spk3" startTime="97.377" endTime="100.095">
+<Sync time="97.377"/>
+&lt;TN&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="100.095" endTime="102.046">
+<Sync time="100.095"/>
+by Thomas Friedman \\
+</Turn>
+<Turn speaker="spk3" startTime="102.046" endTime="122.343">
+<Sync time="102.046"/>
+&lt;P&gt; &lt;TP&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="122.343" endTime="125.641">
+<Sync time="122.343"/>
+we have a book called The World Is Flat by Thomas Friedman \\
+<Sync time="124.735"/>
+but not The Earth \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="125.641" endTime="128.054">
+<Sync time="125.641"/>
+<Who nb="1"/>
+&lt;P&gt; oh The World Is Flat [os by eo] Thomas Friedman \\
+<Who nb="2"/>
+[os yeah eo] \\
+</Turn>
+<Turn speaker="spk1" startTime="128.054" endTime="128.512">
+<Sync time="128.054"/>
+right \\
+</Turn>
+<Turn speaker="spk2" startTime="128.512" endTime="133.37">
+<Sync time="128.512"/>
+I'm sorry then \\
+<Sync time="129.18"/>
+it mus- it &lt;BN&gt; must be my &lt;P&gt; error \\
+<Sync time="131.165"/>
+because &lt;BN&gt; &lt;P&gt; they couldn't have two \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="133.37" endTime="138.003">
+<Sync time="133.37"/>
+<Who nb="1"/>
+&lt;P&gt; &lt;BN&gt; by Thomas [os Friedman eo] \\
+<Who nb="2"/>
+[os right right eo] \\
+<Sync time="135.194"/>
+<Who nb="1"/>
+so I- I apologize for [os my- eo] \\
+<Who nb="2"/>
+[os so eo] just ah \\
+</Turn>
+<Turn speaker="spk1" startTime="138.003" endTime="139.506">
+<Sync time="138.003"/>
+just write that on the application \\
+</Turn>
+<Turn speaker="spk2" startTime="139.506" endTime="145.921">
+<Sync time="139.506"/>
+&lt;P&gt; The World \\
+<Sync time="140.936"/>
+&lt;P&gt; &lt;BN&gt; so I just say \\
+<Sync time="142.749"/>
+I would like you to send me \\
+<Sync time="144.029"/>
+The World Is Flat by Thomas Friedman \\
+</Turn>
+<Turn speaker="spk1" startTime="145.921" endTime="146.191">
+<Sync time="145.921"/>
+yea \\
+</Turn>
+<Turn speaker="spk2" startTime="146.191" endTime="146.998">
+<Sync time="146.191"/>
+that's okay \\
+</Turn>
+<Turn speaker="spk1" startTime="146.998" endTime="147.28">
+<Sync time="146.998"/>
+yeah \\
+</Turn>
+<Turn speaker="spk2" startTime="147.28" endTime="155.888">
+<Sync time="147.28"/>
+okay \\
+<Sync time="147.757"/>
+&lt;P&gt; so I'll just send it in and um \\
+<Sync time="149.801"/>
+&lt;P&gt; &lt;BN&gt; and then she would &lt;P&gt; probably get a machine and \\
+<Sync time="152.598"/>
+and she'll hear from you by \\
+<Sync time="154.456"/>
+sometime this month right \\ 
+</Turn>
+<Turn speaker="spk1" startTime="155.888" endTime="156.89">
+<Sync time="155.888"/>
+&lt;P&gt; yea hopefully \\
+</Turn>
+<Turn speaker="spk2" startTime="156.89" endTime="160.377">
+<Sync time="156.89"/>
+okay \\
+<Sync time="157.367"/>
+&lt;P&gt; alright no problem \\
+<Sync time="158.87"/>
+&lt;P&gt; thank you very much \\
+</Turn>
+<Turn speaker="spk1" startTime="160.377" endTime="160.777">
+<Sync time="160.377"/>
+you're welcome \\
+</Turn>
+<Turn speaker="spk2" startTime="160.777" endTime="161.445">
+<Sync time="160.777"/>
+okay \\
+</Turn>
+<Turn speaker="spk1" startTime="161.445" endTime="161.942">
+<Sync time="161.445"/>
+bye bye \\
+</Turn>
+<Turn speaker="spk3" startTime="161.942" endTime="163.711">
+<Sync time="161.942"/>
+&lt;TN&gt; &lt;TN&gt; &lt;TN&gt;\\
+</Turn>
+</Section>
+</Episode>
+</Trans>

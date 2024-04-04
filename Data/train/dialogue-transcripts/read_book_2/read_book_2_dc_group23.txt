@@ -1,0 +1,28 @@
+{"user": "Human", "index": 1, "text": "Excited about starting to read, Zara?", "intent": "Casual_observation"}
+{"user": "Human", "index": 1, "text": "The books I recommended are on the shelf", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 1, "text": "Yes, I'm eager to learn more about human stories.", "intent": "Extend_greetings"}
+{"user": "Alien", "index": 1, "text": "Noted", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 2, "text": "Is this the object for reading?", "intent": "Inform_confused"}
+{"user": "Human", "index": 2, "text": "That's a cellphone, Zara. The books are usually larger and have a cover with pages inside", "intent": "Inform_object"}
+{"user": "Human", "index": 3, "text": "Put down the phone", "intent": "Inform_action"}
+{"user": "Alien", "index": 3, "text": "Understood", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 4, "text": "Ah, I found something that fits your description.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 4, "text": "Should I take this one?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 4, "text": "Yes, that\u2019s a book. Feel free to pick another one too, for variety.", "intent": "Inform_action"}
+{"user": "Alien", "index": 5, "text": "I've chosen another book. They feel interesting to touch.", "intent": "Inform_observation"}
+{"user": "Alien", "index": 5, "text": "Humans seem to value these objects greatly.", "intent": "Casual_observation"}
+{"user": "Human", "index": 5, "text": "Books are treasures of knowledge and imagination.", "intent": "Casual_response"}
+{"user": "Human", "index": 6, "text": "You should sit on the chair", "intent": "Inform_action"}
+{"user": "Alien", "index": 6, "text": "Okay", "intent": "Inform_understanding"}
+{"user": "Human", "index": 7, "text": "Comfortable in the chair?", "intent": "Ask_okay"}
+{"user": "Alien", "index": 7, "text": "I am comfortable.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 8, "text": "The first book has a lot of pages", "intent": "Inform_observation"}
+{"user": "Human", "index": 8, "text": "Yes, books usually have a lot of pages", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 9, "text": "The second book has a lot of pages ", "intent": "Inform_observation"}
+{"user": "Human", "index": 9, "text": "Do you plan on reading them?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 10, "text": "No, I'll place these next to the TV and read later.", "intent": "Yes-no_negative"}
+{"user": "Human", "index": 10, "text": "Sounds good", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 12, "text": "Shall we go to the kitchen now?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 12, "text": "Sure, let's head to the kitchen. You can always come back to your books later", "intent": "Inform_next_step"}
+{"user": "Human", "index": 13, "text": "Feeling hungry?", "intent": "Casual_question"}
+{"user": "Alien", "index": 13, "text": "Yes, I want food", "intent": "Yes-no_positive"}

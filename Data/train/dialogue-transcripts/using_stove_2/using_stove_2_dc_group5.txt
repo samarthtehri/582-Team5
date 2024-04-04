@@ -1,0 +1,40 @@
+{"user": "Human", "index": 1, "text": "Do you want to learn how to cook?", "intent": "Ask_sure_about_action"}
+{"user": "Alien", "index": 1, "text": "Sure.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 1, "text": "Come to the stove right next to me.", "intent": "Inform_location"}
+{"user": "Alien", "index": 1, "text": "Coming.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 2, "text": "First step is to grab the cooking pot.", "intent": "Inform_action"}
+{"user": "Alien", "index": 2, "text": "Ok. What is a cooking pot?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 2, "text": "It is that thing on the table over there.", "intent": "Inform_location"}
+{"user": "Alien", "index": 2, "text": "Ok. Going to the table.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 3, "text": "Now bring it to me.", "intent": "Inform_action"}
+{"user": "Alien", "index": 3, "text": "Got it.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 4, "text": "Is this it?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 4, "text": "No. ", "intent": "Yes-no_negative"}
+{"user": "Alien", "index": 4, "text": "Then which is it?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 4, "text": "It is circular and black with a grey top.", "intent": "Inform_object"}
+{"user": "Alien", "index": 5, "text": "This one?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 5, "text": "Yes.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 6, "text": "Good job.", "intent": "Casual_observation"}
+{"user": "Alien", "index": 6, "text": "Thanks.", "intent": "Casual_response"}
+{"user": "Human", "index": 6, "text": "Now bring it to me.", "intent": "Inform_action"}
+{"user": "Alien", "index": 6, "text": "Ok.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 7, "text": "Put it on top of the stove.", "intent": "Inform_action"}
+{"user": "Alien", "index": 7, "text": "Ok.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 8, "text": "Now turn it on.", "intent": "Inform_action"}
+{"user": "Alien", "index": 8, "text": "How do I do that?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 8, "text": "Turn that white circular knob on the stove.", "intent": "Inform_action"}
+{"user": "Alien", "index": 8, "text": "Ok.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 9, "text": "I think that is good. Turn it off.", "intent": "Inform_action"}
+{"user": "Alien", "index": 9, "text": "How do I do that?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 9, "text": "Turn the same knob in the opposite direction.", "intent": "Inform_action"}
+{"user": "Alien", "index": 9, "text": "Ok.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 10, "text": "Now take the pot off the stove.", "intent": "Inform_action"}
+{"user": "Alien", "index": 10, "text": "Ok.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 11, "text": "Go to the table.", "intent": "Inform_action"}
+{"user": "Alien", "index": 11, "text": "Ok.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 12, "text": "Leave it on the table.", "intent": "Inform_action"}
+{"user": "Alien", "index": 12, "text": "Ok.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 13, "text": "Now come back here.", "intent": "Inform_action"}
+{"user": "Alien", "index": 13, "text": "Coming.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 13, "text": "Great work!", "intent": "Casual_observation"}
+{"user": "Alien", "index": 13, "text": "Thanks!", "intent": "Casual_response"}

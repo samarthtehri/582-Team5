@@ -1,0 +1,30 @@
+{"user": "Alien", "index": 1, "text": "I am hungry", "intent": "Inform_condition"}
+{"user": "Human", "index": 1, "text": "Let's cook something!", "intent": "Inform_action"}
+{"user": "Human", "index": 2, "text": "There's a pot on the table, we can use that", "intent": "Inform_location"}
+{"user": "Alien", "index": 2, "text": "Ok I will go get that", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 3, "text": "I have the pot now", "intent": "Inform_observation"}
+{"user": "Human", "index": 3, "text": "Great, now bring it over to the stove", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 4, "text": "Ok I am at the stove", "intent": "Inform_observation"}
+{"user": "Human", "index": 4, "text": "Are you sure that's the stove?", "intent": "Ask_sure_about_location"}
+{"user": "Alien", "index": 4, "text": "Yes I think so", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 4, "text": "Nope, the stove is over here on my left", "intent": "Yes-no_negative"}
+{"user": "Alien", "index": 5, "text": "Ok I am going to the stove now then", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 5, "text": "Am I in the right location now?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 5, "text": "Yes, that's perfect!", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 6, "text": "Now go ahead and place the pot on the stove", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 6, "text": "Ok i will do that", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 7, "text": "Should I turn on the stove now?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 7, "text": "Yep!", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 7, "text": "Use the circular dials to turn it on", "intent": "Inform_action"}
+{"user": "Human", "index": 8, "text": "Okay that smells like it's done", "intent": "Casual_observation"}
+{"user": "Human", "index": 8, "text": "Now turn off the stove", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 8, "text": "Ok I am turning off the stove", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 9, "text": "Ok what am I doing with this pot?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 9, "text": "Take the pot off the stove and then place it on the table", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 10, "text": "Ok i will do that", "intent": "Inform_understanding"}
+{"user": "Human", "index": 10, "text": "Be careful it will be very hot", "intent": "Inform_other"}
+{"user": "Human", "index": 11, "text": "Okay now put it down on the table carefully", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 11, "text": "Ok i will do that", "intent": "Inform_understanding"}
+{"user": "Human", "index": 12, "text": "Yeah that looks good", "intent": "Inform_other"}
+{"user": "Human", "index": 12, "text": "Great, I'll see you later then!", "intent": "Extend_goodbyes"}
+{"user": "Alien", "index": 12, "text": "Ok bye!", "intent": "Extend_goodbyes"}

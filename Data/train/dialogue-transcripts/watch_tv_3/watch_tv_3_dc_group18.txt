@@ -1,0 +1,30 @@
+{"user": "Human", "index": 1, "text": "\"Hello, Zara.\"", "intent": "Extend_greetings"}
+{"user": "Alien", "index": 1, "text": "Hello, Michael.", "intent": "Extend_greetings"}
+{"user": "Human", "index": 1, "text": "\"Would you like to watch some TV?\"", "intent": "Casual_question"}
+{"user": "Alien", "index": 1, "text": "Yes.", "intent": "Casual_response"}
+{"user": "Alien", "index": 2, "text": "Is this where the TV is?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 2, "text": "\"No, the TV is not in the kitchen.\"", "intent": "Inform_incorrect_location"}
+{"user": "Human", "index": 2, "text": "\"The TV is in the living room.\"", "intent": "Inform_location"}
+{"user": "Alien", "index": 2, "text": "Okay.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 3, "text": "Is this the TV?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 3, "text": "\"Yes, this is the TV.\"", "intent": "iInform_object"}
+{"user": "Human", "index": 4, "text": "\"Please turn the TV on.\"", "intent": "Ask_take_next_step"}
+{"user": "Alien", "index": 4, "text": "Okay.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 5, "text": "Should I watch the TV from the couch?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 5, "text": "\"Yes, you should watch TV from the couch.\"", "intent": "Inform_action"}
+{"user": "Human", "index": 6, "text": "\"Please sit down.\"", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 6, "text": "Okay, I will sit.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 7, "text": "I am sitting on the couch watching TV.", "intent": "Inform_condition"}
+{"user": "Human", "index": 7, "text": "\"Do you know what TV show is on currently?\"", "intent": "Casual_question"}
+{"user": "Human", "index": 7, "text": "No, I am not sure.", "intent": "Casual_response"}
+{"user": "Alien", "index": 8, "text": "What should I do next?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 8, "text": "\"Please stand up and turn the TV off.\"", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 8, "text": "Okay, I will stand up and turn the TV off.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 9, "text": "I am turning the TV off.", "intent": "Inform_condition"}
+{"user": "Human", "index": 9, "text": "\"Great! The TV is now off.\"", "intent": "Casual_observation"}
+{"user": "Alien", "index": 10, "text": "Where do I go now?", "intent": "Inform_confused"}
+{"user": "Human", "index": 10, "text": "\"Please go into the kitchen.\"", "intent": "Inform_next_step"}
+{"user": "Human", "index": 10, "text": "\"I will follow you.\"", "intent": "Inform_other"}
+{"user": "Alien", "index": 10, "text": "Okay.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 11, "text": "\"Goodbye, Zara.\"", "intent": "Extend_goodbyes"}
+{"user": "Alien", "index": 11, "text": "Goodbye, Michael.", "intent": "Extend_goodbyes"}

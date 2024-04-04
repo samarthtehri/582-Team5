@@ -1,0 +1,33 @@
+{"user": "Human", "index": 1, "text": "Let's go over to the couch in my office. I have something I want to show you", "intent": "Inform_location"}
+{"user": "Alien", "index": 1, "text": "Alright. I wonder what it is?", "intent": "Inform_understanding"}
+{"user": "Human", "index": 2, "text": "Can you grab that book of the shelf for me?", "intent": "Inform_object"}
+{"user": "Alien", "index": 2, "text": "This one?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 2, "text": "Yep! That's the one", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 3, "text": "Can you grab the other book up there?", "intent": "Inform_action"}
+{"user": "Alien", "index": 3, "text": "Is it this book?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 3, "text": "That's the one! Those are two of my favorite books", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 3, "text": "Cool! I have never read a book before", "intent": "Inform_understanding"}
+{"user": "Human", "index": 3, "text": "I think you will love these ones. How about you take a look at them and tell me what you think?", "intent": "Ask_take_next_step"}
+{"user": "Human", "index": 4, "text": "Bring them over to the desk. It's a great place to sit down and read", "intent": "Inform_location"}
+{"user": "Alien", "index": 4, "text": "Ok. I will walk over there now", "intent": "Inform_understanding"}
+{"user": "Human", "index": 5, "text": "Now take a seat and relax! Reading is supposed to be a relaxing thing, and sitting down in a comfy chair helps with that a lot", "intent": "Inform_action"}
+{"user": "Alien", "index": 5, "text": "Alright. This chair is so comfy!", "intent": "Inform_observation"}
+{"user": "Human", "index": 5, "text": "I'm glad to hear! I hope you find these books just as relaxing to read as I did", "intent": "Casual_response"}
+{"user": "Human", "index": 6, "text": "Now you can open the book and start reading", "intent": "Inform_action"}
+{"user": "Alien", "index": 6, "text": "Ok I will let you know what I think", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 6, "text": "I like this one! It is so interesting!", "intent": "Inform_observation"}
+{"user": "Human", "index": 7, "text": "I'm so glad you liked it! Now you can read the other one", "intent": "Inform_action"}
+{"user": "Human", "index": 7, "text": "Is everything ok? You haven't opened the other book yet", "intent": "Ask_okay"}
+{"user": "Alien", "index": 7, "text": "Sorry, I do not know what to do with this book now that you told me to read the other book", "intent": "Inform_confused"}
+{"user": "Alien", "index": 7, "text": "What should I do with this one?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 7, "text": "You can just put that one down anywhere. I understand your confusion and I'm sorry I didn't specify what you should do with the first book", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 8, "text": "Ok I will read this one now. Thanks for being so understanding!", "intent": "Inform_get_started"}
+{"user": "Human", "index": 8, "text": "Of course! I hope you like it. That is another one of my favorites", "intent": "Casual_response"}
+{"user": "Alien", "index": 9, "text": "That was great!", "intent": "Inform_observation"}
+{"user": "Human", "index": 9, "text": "I'm glad! Can you put the first book over on my TV stand?", "intent": "Inform_location"}
+{"user": "Alien", "index": 9, "text": "Surely! I'll go do that now.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 11, "text": "Is this ok?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 11, "text": "That's perfect! Thanks", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 12, "text": "Let's go back to the counter and we can talk about your next lesson", "intent": "Inform_location"}
+{"user": "Alien", "index": 12, "text": "Sounds good! Thanks again for showing me those books", "intent": "Inform_understanding"}
+{"user": "Human", "index": 12, "text": "Any time! I'm glad you liked them", "intent": "Casual_response"}

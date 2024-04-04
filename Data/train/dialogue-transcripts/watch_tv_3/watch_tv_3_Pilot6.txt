@@ -1,0 +1,31 @@
+{"user": "Human", "index": 1, "text": "Would you like to watch some TV?", "intent": "Casual_question"}
+{"user": "Alien", "index": 1, "text": "Absolutely!", "intent": "Casual_response"}
+{"user": "Human", "index": 1, "text": "Great, let's go to it then", "intent": "Casual_response"}
+{"user": "Alien", "index": 2, "text": "I'm confused about where the TV is", "intent": "Inform_confused"}
+{"user": "Human", "index": 2, "text": "The TV is in the living room", "intent": "Inform_location"}
+{"user": "Human", "index": 2, "text": "Got it thanks!", "intent": "Casual_response"}
+{"user": "Human", "index": 3, "text": "Now turn on the TV", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 3, "text": "Going to go do that now!", "intent": "Inform_condition"}
+{"user": "Human", "index": 3, "text": "Great!", "intent": "Casual_response"}
+{"user": "Alien", "index": 4, "text": "Turning on the TV", "intent": "Inform_observation"}
+{"user": "Alien", "index": 4, "text": "What should I watch?", "intent": "Casual_question"}
+{"user": "Human", "index": 4, "text": "I hear that there is an exciting soccer match going on right now", "intent": "Casual_response"}
+{"user": "Alien", "index": 4, "text": "That sounds interesting!", "intent": "Casual_response"}
+{"user": "Human", "index": 4, "text": "Let's watch it then!", "intent": "Casual_response"}
+{"user": "Alien", "index": 5, "text": "I'm going to take a seat on the couch.", "intent": "Inform_condition"}
+{"user": "Human", "index": 5, "text": "Excellent, that's the best place to watch TV", "intent": "Casual_response"}
+{"user": "Alien", "index": 6, "text": "This couch is very comfortable!", "intent": "Casual_observation"}
+{"user": "Human", "index": 7, "text": "How is the game?", "intent": "Casual_question"}
+{"user": "Alien", "index": 7, "text": "The game is exciting", "intent": "Casual_response"}
+{"user": "Human", "index": 7, "text": "That's great!", "intent": "Casual_response"}
+{"user": "Alien", "index": 8, "text": "Alright, I think I'm done watching.", "intent": "Inform_condition"}
+{"user": "Human", "index": 8, "text": "Ok, do you want to grab something to eat in the kitchen?", "intent": "Casual_question"}
+{"user": "Alien", "index": 8, "text": "Definitely!", "intent": "Casual_response"}
+{"user": "Human", "index": 8, "text": "Ok let's go then", "intent": "Casual_response"}
+{"user": "Human", "index": 9, "text": "Make sure to turn of the TV before we go", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 9, "text": "Got it! Turning off the TV", "intent": "Inform_condition"}
+{"user": "Human", "index": 10, "text": "So what were you thinking of eating?", "intent": "Casual_question"}
+{"user": "Alien", "index": 10, "text": "I'm thinking Salmon. What do you think?", "intent": "Casual_response"}
+{"user": "Human", "index": 10, "text": "I think that is a great idea", "intent": "Casual_response"}
+{"user": "Human", "index": 11, "text": "Let's cook up the salmon!", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 11, "text": "Sounds like a plan!", "intent": "Casual_response"}

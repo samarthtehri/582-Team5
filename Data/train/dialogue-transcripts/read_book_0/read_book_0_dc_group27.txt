@@ -1,0 +1,23 @@
+{"user": "Human", "index": 1, "text": "Let's go to the living room to read some books!", "intent": "Inform_action"}
+{"user": "Alien", "index": 1, "text": "Sure! ", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 2, "text": "There is a book on the shelf over there.", "intent": "Inform_location"}
+{"user": "Alien", "index": 2, "text": "OK, I will get the book from the shelf.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 3, "text": "So this is the book right?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 3, "text": "Correct!", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 4, "text": "Oh, here is another book, let's read books together!", "intent": "Inform_observation"}
+{"user": "Human", "index": 4, "text": "Yeah, absolutely!", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 5, "text": "Here is a desk, you can sit here and start reading!", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 5, "text": "Alright! ", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 6, "text": "I will read this book first.", "intent": "Inform_get_started"}
+{"user": "Human", "index": 6, "text": "Nice choice!", "intent": "Casual_response"}
+{"user": "Alien", "index": 7, "text": "How is this one?", "intent": "Casual_question"}
+{"user": "Human", "index": 7, "text": "It's an interesting book as well!", "intent": "Casual_response"}
+{"user": "Alien", "index": 8, "text": "OK, I finished the books. ", "intent": "Inform_condition"}
+{"user": "Human", "index": 8, "text": "Great! You want to put them back?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 8, "text": "Yeah exactly!", "intent": "Inform_get_started"}
+{"user": "Alien", "index": 9, "text": "I remember that the book was here right?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 9, "text": "Bingo!", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 10, "text": "You can put another one here as well!", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 10, "text": "I like the idea!", "intent": "Casual_response"}
+{"user": "Alien", "index": 11, "text": "Thank you for telling me about reading books!", "intent": "Other"}
+{"user": "Human", "index": 11, "text": "Glad I can help!", "intent": "Casual_response"}

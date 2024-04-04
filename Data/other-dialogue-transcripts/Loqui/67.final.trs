@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14-loqui.dtd">
+<Trans scribe="Kenneth" audio_filename="67" version="3" version_date="080623" corpus_version="2.0">
+<Speakers>
+<Speaker id="spk1" name="speaker" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="librarian#1" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="caller#2" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="82.688">
+<Turn startTime="0" endTime="2.937" speaker="spk1">
+<Sync time="0"/>
+note \\
+<Sync time="0.35"/>
+verbal consent given \\
+<Sync time="1.395"/>
+but not part of extracted file \\
+</Turn>
+<Turn speaker="spk2" startTime="2.937" endTime="6.154">
+<Sync time="2.937"/>
+okay how can I help you today \\
+</Turn>
+<Turn speaker="spk3" startTime="6.154" endTime="8.563">
+<Sync time="6.154"/>
+uh may I have th- your library \\ 
+</Turn> <!--Michal Novemsky 31-March-2010 Changed "I may have hassled" to "uh may I have th-"-->
+<Turn speaker="spk2" startTime="8.563" endTime="11.083">
+<Sync time="8.563"/>
+&lt;P&gt; yeah this is the library \\
+</Turn>
+<Turn speaker="spk3" startTime="11.083" endTime="11.781">
+<Sync time="11.083"/>
+this is \\
+</Turn>
+<Turn speaker="spk2" startTime="11.781" endTime="12.172">
+<Sync time="11.781"/>
+yep \\
+</Turn>
+<Turn speaker="spk3" startTime="12.172" endTime="23.93">
+<Sync time="12.172"/>
+do you have anything \\
+<Sync time="13.464"/>
+my name is &lt;FIRSTNAME&gt; &lt;LASTNAME&gt; \\
+<Sync time="15.461"/>
+&lt;LN-INITIAL-1&gt; &lt;LN-INITIAL-2&gt; &lt;LN-INITIAL-3&gt; &lt;LN-INITIAL-4&gt; &lt;LN-INITIAL-5&gt; &lt;LN-INITIAL-6&gt; \\
+<Sync time="16.98"/>
+do you have anything by Carl Hiaasen \\
+<Sync time="20.345"/>
+H I A \\
+<Sync time="22.661"/>
+&lt;P&gt; S E N \\
+</Turn>
+<Turn speaker="spk2" startTime="23.93" endTime="34.889">
+<Sync time="23.93"/>
+&lt;TP&gt; \\
+<Sync time="30.335"/>
+umm \\
+<Sync time="30.881"/>
+we have Carl Hiaasen \\
+<Sync time="31.864"/>
+but his name is spelled H I A A S E N \\
+</Turn>
+<Turn speaker="spk2 spk3" startTime="34.889" endTime="36.912">
+<Sync time="34.889"/>
+<Who nb="1"/>
+[os except /* I can't be sure */ that eo] they're the same guy \\
+<Who nb="2"/>
+[os oh it's double A eo] \\
+</Turn>
+<Turn speaker="spk3" startTime="36.912" endTime="38.853">
+<Sync time="36.912"/>
+okay do you have anything \\
+</Turn>
+<Turn speaker="spk2" startTime="38.853" endTime="46.175">
+<Sync time="38.853"/>
+we have two books in \\
+<Sync time="40.45"/>
+one is called Basket Case \\
+<Sync time="42.35"/>
+one is Skinny Dip \\
+<Sync time="43.724"/>
+and there's a lot of older ones I can order \\
+</Turn>
+<Turn speaker="spk3" startTime="46.175" endTime="48.928">
+<Sync time="46.175"/>
+oh we'll &lt;P&gt; first try these two \\
+</Turn>
+<Turn speaker="spk2" startTime="48.928" endTime="49.432">
+<Sync time="48.928"/>
+okay \\
+</Turn>
+<Turn speaker="spk3" startTime="49.432" endTime="54.921">
+<Sync time="49.432"/>
+thank you s- \\
+<Sync time="50.507"/>
+oh do you have my name \\
+<Sync time="51.673"/>
+&lt;FIRSTNAME&gt; &lt;LASTNAME&gt; &lt;ADDRESS&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="54.921" endTime="56.186">
+<Sync time="54.921"/>
+yup that's what we have \\
+</Turn>
+<Turn speaker="spk3" startTime="56.186" endTime="57.656">
+<Sync time="56.186"/>
+thank you so much \\
+</Turn>
+<Turn speaker="spk2" startTime="57.656" endTime="58.223">
+<Sync time="57.656"/>
+you're welcome \\
+</Turn>
+<Turn startTime="58.223" endTime="82.688">
+<Sync time="58.223"/>
+&lt;TN&gt; \\
+</Turn>
+</Section>
+</Episode>
+</Trans>

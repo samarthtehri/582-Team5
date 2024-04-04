@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14-loqui.dtd">
+<Trans scribe="John Doe" audio_filename="55" version="4" version_date="080618" corpus_version="2.0">
+<Speakers>
+<Speaker id="spk1" name="non-speaking-librarian-activity#1" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="librarian#1" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="caller#1" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="180.904">
+<Turn startTime="0" endTime="1.328" speaker="spk1">
+<Sync time="0"/>
+&lt;TN&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="1.328" endTime="12.239">
+<Sync time="1.328"/>
+&lt;NU&gt; before we continue \\
+<Sync time="3.172"/>
+may I ask if you would object to um &lt;B&gt; \\
+<Sync time="5.44"/>
+a- our recording your call \\
+<Sync time="6.951"/>
+we're trying to \\
+<Sync time="7.804"/>
+um develop a new customer database so &lt;B&gt; \\
+<Sync time="10.375"/>
+will help us get better phone service \\
+</Turn>
+<Turn speaker="spk3" startTime="12.239" endTime="12.724">
+<Sync time="12.239"/>
+mmhm \\
+</Turn>
+<Turn speaker="spk2 spk3" startTime="12.724" endTime="15.259">
+<Sync time="12.724"/>
+<Who nb="1"/>
+&lt;B&gt; okay would you mind if we [os record your eo] message \\
+<Who nb="2"/>
+[os not at all eo] \\
+</Turn>
+<Turn speaker="spk3" startTime="15.259" endTime="15.789">
+<Sync time="15.259"/>
+not at all \\
+</Turn>
+<Turn speaker="spk2" startTime="15.789" endTime="19.033">
+<Sync time="15.789"/>
+terrific \\ 
+<Sync time="16.375"/>
+thank you you're lovely &lt;B&gt; \\
+<Sync time="17.732"/>
+now what can I do for you \\
+</Turn>
+<Turn speaker="spk3" startTime="19.033" endTime="26.817">
+<Sync time="19.033"/>
+&lt;B&gt; &lt;BN&gt; do you u- i- does the library have uh \\
+<Sync time="22.348"/>
+uh the cassette of James Patterson's Beach House \\
+</Turn>
+<Turn speaker="spk2" startTime="26.817" endTime="32.344">
+<Sync time="26.817"/>
+&lt;BN&gt; &lt;P&gt; uh I believe so \\
+<Sync time="29.244"/>
+I'm not sure if I have a copy in at the moment \\
+<Sync time="31.203"/>
+but let me check for you \\
+</Turn>
+<Turn speaker="spk3 spk2" startTime="32.344" endTime="32.966">
+<Sync time="32.344"/>
+<Who nb="1"/>
+[os thank you eo] \\
+<Who nb="2"/>
+[os &lt;NU&gt; eo] \\
+</Turn>
+<Turn speaker="spk1" startTime="32.966" endTime="106.761">
+<Sync time="32.966"/>
+&lt;TN&gt; &lt;BN&gt; &lt;VB&gt; &lt;TN&gt; &lt;B&gt; &lt;BN&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="106.761" endTime="113.649">
+<Sync time="106.761"/>
+no miss &lt;LASTNAME&gt; \\
+<Sync time="107.812"/>
+as I exec- expected &lt;B&gt; \\
+<Sync time="109.806"/>
+uh i- I don't have a copy in at the moment \\
+<Sync time="111.85"/>
+but I put it on your reserve list \\
+</Turn>
+<Turn speaker="spk3" startTime="113.649" endTime="117.32">
+<Sync time="113.649"/>
+uh k- \\
+<Sync time="114.445"/>
+do you have any James Patterson \\
+</Turn>
+<Turn speaker="spk3 spk2" startTime="117.32" endTime="119.502">
+<Sync time="117.32"/>
+<Who nb="1"/>
+[os books available eo] \\
+<Who nb="2"/>
+[os &lt;NU&gt; hold on eo] hold on a sec \\
+</Turn>
+<Turn speaker="spk3" startTime="119.502" endTime="119.980">
+<Sync time="119.502"/>
+thank you \\
+</Turn>
+<Turn speaker="spk1" startTime="119.980" endTime="131.077">
+<Sync time="119.980"/>
+&lt;TN&gt; &lt;BN&gt; \\
+</Turn>
+<Turn speaker="spk3" startTime="131.077" endTime="131.699">
+<Sync time="131.077"/>
+thank you \\
+</Turn>
+<Turn speaker="spk1" startTime="131.699" endTime="141.73">
+<Sync time="131.699"/>
+&lt;BN&gt; &lt;TN&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="141.73" endTime="144.547">
+<Sync time="141.73"/>
+okay \\
+<Sync time="142.359"/>
+we have uh Second Chance \\
+</Turn>
+<Turn speaker="spk3" startTime="144.547" endTime="145.078">
+<Sync time="144.547"/>
+mmhm \\
+</Turn>
+<Turn speaker="spk2" startTime="145.078" endTime="146.018">
+<Sync time="145.078"/>
+Third Degree \\
+</Turn>
+<Turn speaker="spk3" startTime="146.018" endTime="146.46">
+<Sync time="146.018"/>
+mmhm \\
+</Turn>
+<Turn speaker="spk2" startTime="146.46" endTime="147.559">
+<Sync time="146.46"/>
+Fourth of July \\
+</Turn>
+<Turn speaker="spk3" startTime="147.559" endTime="147.934">
+<Sync time="147.559"/>
+mmhm \\
+</Turn>
+<Turn speaker="spk2" startTime="147.934" endTime="150.841">
+<Sync time="147.934"/>
+&lt;B&gt; uh Sam's Letters to Jennifer \\ <!--Michal Novemsky 5-April-2010 Added in missing apostrophe--> 
+</Turn>
+<Turn speaker="spk3" startTime="150.841" endTime="151.961">
+<Sync time="150.841"/>
+&lt;P&gt; mmhm \\
+</Turn>
+<Turn speaker="spk2" startTime="151.961" endTime="153.149">
+<Sync time="151.961"/>
+and The Big Bad Wolf \\
+</Turn>
+<Turn speaker="spk3" startTime="153.149" endTime="153.735">
+<Sync time="153.149"/>
+mmhm \\
+</Turn>
+<Turn speaker="spk2 spk3" startTime="153.735" endTime="154.993">
+<Sync time="153.735"/>
+<Who nb="1"/>
+[os &lt;NU&gt; currently eo] \\
+<Who nb="2"/>
+[os so that's five eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="154.993" endTime="156.462">
+<Sync time="154.993"/>
+cur- yeah currently available \\
+</Turn>
+<Turn speaker="spk3 spk2" startTime="156.462" endTime="157.746">
+<Sync time="156.462"/>
+<Who nb="1"/>
+[os okay eo] \\
+<Who nb="2"/>
+[os you eo] want them all \\
+</Turn>
+<Turn speaker="spk3" startTime="157.746" endTime="158.96">
+<Sync time="157.746"/>
+yes please \\
+</Turn>
+<Turn speaker="spk2" startTime="158.96" endTime="159.855">
+<Sync time="158.96"/>
+okay &lt;BN&gt; \\
+</Turn>
+<Turn speaker="spk3" startTime="159.855" endTime="164.370">
+<Sync time="159.855"/>
+also &lt;P&gt; uh \\
+<Sync time="161.553"/>
+&lt;P&gt; of the favorite author list \\
+</Turn>
+<Turn speaker="spk2" startTime="164.370" endTime="164.995">
+<Sync time="164.370"/>
+mmhm \\
+</Turn>
+<Turn speaker="spk3" startTime="164.995" endTime="168.174">
+<Sync time="164.995"/>
+would you remove T. Jefferson Parker \\ <!--Michal Novemsky 31-March-2010 Changed Trey to T.-->
+</Turn>
+<Turn speaker="spk3 spk2" startTime="168.174" endTime="169.446">
+<Sync time="168.174"/>
+<Who nb="1"/>
+&lt;B&gt; [os um eo] \\
+<Who nb="2"/>
+[os okay eo] \\
+</Turn>
+<Turn speaker="spk3" startTime="169.446" endTime="172.111">
+<Sync time="169.446"/>
+P D James please &lt;B&gt; \\ <!--Michal Novemsky 31-March-2010 Changed T to P-->
+</Turn>
+<Turn speaker="spk1" startTime="172.111" endTime="174.544">
+<Sync time="172.111"/>
+&lt;TN&gt; &lt;BN&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="174.544" endTime="175.106">
+<Sync time="174.544"/>
+okay \\
+</Turn>
+<Turn speaker="spk3" startTime="175.106" endTime="176.291">
+<Sync time="175.106"/>
+&lt;TN&gt; &lt;P&gt; okay \\
+</Turn>
+<Turn speaker="spk2" startTime="176.291" endTime="176.667">
+<Sync time="176.291"/>
+mmhm \\
+</Turn>
+<Turn speaker="spk3" startTime="176.667" endTime="177.901">
+<Sync time="176.667"/>
+&lt;B&gt; thank you so much \\
+</Turn>
+<Turn speaker="spk2" startTime="177.901" endTime="179.331">
+<Sync time="177.901"/>
+you're welcome \\
+<Sync time="178.414"/>
+take care have a nice day \\
+</Turn>
+<Turn speaker="spk3 spk2" startTime="179.331" endTime="179.922">
+<Sync time="179.331"/>
+<Who nb="1"/>
+[os bye eo] \\
+<Who nb="2"/>
+[os bye eo] \\
+</Turn>
+<Turn speaker="spk1" startTime="179.922" endTime="180.904">
+<Sync time="179.922"/>
+&lt;TN&gt; \\
+</Turn>
+</Section>
+</Episode>
+</Trans>

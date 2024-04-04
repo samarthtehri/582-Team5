@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14-loqui.dtd">
+<Trans scribe="AZ" audio_filename="26" version="4" version_date="080619" corpus_version="2.0">
+<Speakers>
+<Speaker id="spk1" name="non-speaking-librarian-activity#1" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="librarian#1" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="caller#1" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode program="" air_date="">
+<Section type="report" startTime="0" endTime="158.316">
+<Turn startTime="0" endTime="3.272" speaker="spk1">
+<Sync time="0"/>
+&lt;TN&gt; &lt;VB&gt; &lt;TN&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="3.272" endTime="8.949">
+<Sync time="3.272"/>
+hi right now the library is working with a research team \\
+<Sync time="5.903"/>
+to better improve our service \\
+<Sync time="7.246"/>
+would you mind if this call is recorded \\
+</Turn>
+<Turn speaker="spk3" startTime="8.949" endTime="10.944">
+<Sync time="8.949"/>
+&lt;B&gt; uh sure \\
+</Turn>
+<Turn speaker="spk2" startTime="10.944" endTime="12.661">
+<Sync time="10.944"/>
+okay \\
+<Sync time="11.45"/>
+thanks for- thanks for holding too \\
+</Turn>
+<Turn speaker="spk3" startTime="12.661" endTime="21.905">
+<Sync time="12.661"/>
+&lt;B&gt; okay \\
+<Sync time="13.567"/>
+my name is &lt;FIRSTNAME&gt; &lt;LASTNAME&gt; \\
+<Sync time="15.765"/>
+and I live in &lt;STREETNAME&gt; way \\
+<Sync time="17.308"/>
+&lt;B&gt; &lt;BN&gt; I want to order &lt;P&gt; a few books \\
+<Sync time="20.287"/>
+and then I want to ask you a question \\
+</Turn>
+<Turn speaker="spk2" startTime="21.905" endTime="22.28">
+<Sync time="21.905"/>
+sure \\
+</Turn>
+<Turn speaker="spk3" startTime="22.28" endTime="26.514">
+<Sync time="22.28"/>
+&lt;B&gt; um \\
+<Sync time="22.974"/>
+&lt;P&gt; the book numbers are five one six four &lt;BN&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="26.514" endTime="28.719">
+<Sync time="26.514"/>
+it's just five one six four \\
+</Turn>
+<Turn speaker="spk3" startTime="28.719" endTime="31.312">
+<Sync time="28.719"/>
+&lt;B&gt; it's your own rec- \\
+<Sync time="29.922"/>
+they're all your own recording \\
+</Turn>
+<Turn speaker="spk2" startTime="31.312" endTime="32.301">
+<Sync time="31.312"/>
+oh okay \\
+<Sync time="32.0"/>
+alright \\
+</Turn>
+<Turn speaker="spk3 spk2" startTime="32.301" endTime="35.333">
+<Sync time="32.301"/>
+<Who nb="1"/>
+&lt;P&gt; [os five eo] three &lt;P&gt; six zero \\
+<Who nb="2"/>
+[os &lt;IR&gt; uh eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="35.333" endTime="38.590">
+<Sync time="35.333"/>
+&lt;P&gt; uh miss &lt;LASTNAME&gt; I'm gonna put someone off on hold \\
+<Sync time="37.994"/>
+I'll be right back \\
+</Turn>
+<Turn speaker="spk2 spk3" startTime="38.590" endTime="39.266">
+<Sync time="38.590"/>
+<Who nb="1"/>
+[os okay eo] \\
+<Who nb="2"/>
+[os okay eo] \\
+</Turn>
+<Turn speaker="spk1" startTime="39.266" endTime="41.316">
+<Sync time="39.266"/>
+&lt;TN&gt; &lt;TC&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="41.316" endTime="44.076">
+<Sync time="41.316"/>
+good afternoon \\
+<Sync time="41.962"/>
+Andrew Heiskell Library \\
+<Sync time="43.295"/>
+please hold &lt;BN&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="44.076" endTime="45.44">
+<Sync time="44.076"/>
+&lt;P&gt; \\
+</Turn>
+<Turn speaker="spk2 spk3" startTime="45.44" endTime="47.141">
+<Sync time="45.44"/>
+<Who nb="1"/>
+five three six zero [os okay eo] \\
+<Who nb="2"/>
+[os right eo] \\
+</Turn>
+<Turn speaker="spk3" startTime="47.141" endTime="49.802">
+<Sync time="47.141"/>
+&lt;B&gt; &lt;BN&gt; five one seven four \\
+</Turn>
+<Turn speaker="spk2" startTime="49.802" endTime="50.103">
+<Sync time="49.802"/>
+right \\
+</Turn>
+<Turn speaker="spk3" startTime="50.103" endTime="54.011">
+<Sync time="50.103"/>
+&lt;P&gt; &lt;B&gt; okay \\
+<Sync time="51.609"/>
+five three one four &lt;B&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="54.011" endTime="55.042">
+<Sync time="54.011"/>
+&lt;P&gt; &lt;TP&gt; okay \\
+</Turn>
+<Turn speaker="spk3" startTime="55.042" endTime="78.004">
+<Sync time="55.042"/>
+&lt;B&gt; okay \\
+<Sync time="55.71"/>
+now let me ask you something &lt;TP&gt; \\
+<Sync time="57.616"/>
+&lt;P&gt; one of those books is by George Gissing \\
+<Sync time="60.709"/>
+&lt;P&gt; if I call you \\
+<Sync time="62.678"/>
+&lt;P&gt; and say do you have anything by George Gissing \\
+<Sync time="66.615"/>
+&lt;P&gt; what happens \\
+<Sync time="68.365"/>
+&lt;P&gt; &lt;B&gt; if nothing has been recorded by the National Library Service itself \\
+<Sync time="73.371"/>
+&lt;P&gt; what do you tell me \\
+<Sync time="74.941"/>
+do you tell me that &lt;P&gt; we ourselves have one \\
+</Turn>
+<Turn speaker="spk2" startTime="78.004" endTime="80.165">
+<Sync time="78.004"/>
+&lt;P&gt; yeah \\
+</Turn>
+<Turn speaker="spk3" startTime="80.165" endTime="84.0">
+<Sync time="80.165"/>
+&lt;P&gt; oh \\
+<Sync time="81.28"/>
+&lt;B&gt; so I don't have to worry about missing it \\
+</Turn>
+<Turn speaker="spk2" startTime="84.0" endTime="84.468">
+<Sync time="84.0"/>
+right \\
+</Turn>
+<Turn speaker="spk3" startTime="84.468" endTime="94.835">
+<Sync time="84.468"/>
+&lt;B&gt; um \\
+<Sync time="85.562"/>
+&lt;P&gt; and if I live in California and I call &lt;P&gt; my California librarian \\
+<Sync time="90.269"/>
+I say is there anything available by George Gissing \\
+<Sync time="93.179"/>
+does yours come up \\
+</Turn>
+<Turn speaker="spk2" startTime="94.835" endTime="104.414">
+<Sync time="94.835"/>
+um it depends \\
+<Sync time="96.441"/>
+if they \\
+<Sync time="97.561"/>
+&lt;P&gt; if I j- just do a search \\
+<Sync time="99.475"/>
+totally within the \\
+<Sync time="101.507"/>
+the computer program that we use to run everything \\
+</Turn>
+<Turn speaker="spk3" startTime="104.414" endTime="104.92">
+<Sync time="104.414"/>
+uh huh \\
+</Turn>
+<Turn speaker="spk2" startTime="104.92" endTime="109.678">
+<Sync time="104.92"/>
+ours won't come up \\
+<Sync time="105.889"/>
+but we can go online and check like the whole catalog \\
+</Turn>
+<Turn speaker="spk2 spk3" startTime="109.678" endTime="111.474">
+<Sync time="109.678"/>
+<Who nb="1"/>
+&lt;P&gt; [os in eo] that case it would come up \\
+<Who nb="2"/>
+[os &lt;B&gt; eo] \\
+</Turn>
+<Turn speaker="spk3" startTime="111.474" endTime="114.501">
+<Sync time="111.474"/>
+okay \\
+<Sync time="112.032"/>
+can you check something &lt;TP&gt; for me \\
+</Turn>
+<Turn speaker="spk2" startTime="114.501" endTime="114.802">
+<Sync time="114.501"/>
+sure \\
+</Turn>
+<Turn speaker="spk3" startTime="114.802" endTime="120.163">
+<Sync time="114.802"/>
+um \\
+<Sync time="115.665"/>
+&lt;BN&gt; there's an author called Claire &lt;LASTNAME&gt; \\
+<Sync time="119.017"/>
+her last name \\
+</Turn>
+<Turn speaker="spk3 spk2" startTime="120.163" endTime="123.694">
+<Sync time="120.163"/>
+<Who nb="1"/>
+seems to be spelled the way my last name is [os spelled eo] \\
+<Who nb="2"/>
+[os okay eo] \\
+</Turn>
+<Turn speaker="spk3" startTime="123.694" endTime="130.333">
+<Sync time="123.694"/>
+and her- I don't know how Claire is spelled \\
+<Sync time="126.370"/>
+&lt;P&gt; is there anything &lt;P&gt; any place by her \\
+</Turn>
+<Turn speaker="spk2" startTime="130.333" endTime="135.634">
+<Sync time="130.333"/>
+there's one in Minnesota \\
+<Sync time="133.992"/>
+called Emma Brown \\
+</Turn>
+<Turn speaker="spk3" startTime="135.634" endTime="138.409">
+<Sync time="135.634"/>
+oh dear \\
+<Sync time="136.806"/>
+that's the only one I've read \\
+</Turn>
+<Turn speaker="spk3 spk2" startTime="138.409" endTime="139.799">
+<Sync time="138.409"/>
+<Who nb="1"/>
+there's [os nothing eo] else \\
+<Who nb="2"/>
+[os uh eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="139.799" endTime="141.186">
+<Sync time="139.799"/>
+no there's nothing else \\
+</Turn>
+<Turn speaker="spk3" startTime="141.186" endTime="145.636">
+<Sync time="141.186"/>
+&lt;B&gt; okay &lt;G&gt; \\
+<Sync time="142.378"/>
+would that &lt;BN&gt; show the Jewish Braile Institute \\
+</Turn>
+<Turn speaker="spk2" startTime="145.636" endTime="150.928">
+<Sync time="145.636"/>
+&lt;P&gt; if it's updated it would \\
+<Sync time="148.241"/>
+but I guess it can't hurt to give them a try \\
+</Turn>
+<Turn speaker="spk3" startTime="150.928" endTime="152.046">
+<Sync time="150.928"/>
+&lt;B&gt; okay \\
+</Turn>
+<Turn speaker="spk3 spk2" startTime="152.046" endTime="153.821">
+<Sync time="152.046"/>
+<Who nb="1"/>
+so I should try them [os myself eo] \\
+<Who nb="2"/>
+[os yeah eo] \\
+</Turn>
+<Turn speaker="spk3" startTime="153.821" endTime="155.753">
+<Sync time="153.821"/>
+and thank you very much \\
+</Turn>
+<Turn speaker="spk2" startTime="155.753" endTime="156.236">
+<Sync time="155.753"/>
+you're welcome \\
+</Turn>
+<Turn speaker="spk1" startTime="156.236" endTime="158.316">
+<Sync time="156.236"/>
+&lt;TC&gt; &lt;TC&gt; \\
+</Turn>
+</Section>
+</Episode>
+</Trans>

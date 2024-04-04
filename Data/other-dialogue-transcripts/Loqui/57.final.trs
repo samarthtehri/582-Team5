@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14-loqui.dtd">
+<Trans scribe="Kenneth" audio_filename="57" version="5" version_date="080827" corpus_version="2.0">
+<Speakers>
+<Speaker id="spk1" name="librarian#1" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="caller#2" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="167.469">
+<Turn startTime="0" endTime="8.0" speaker="spk1">
+<Sync time="0"/>
+good afternoon \\
+<Sync time="1.207"/>
+right now the library is teaming with a research &lt;P&gt; team \\
+<Sync time="3.992"/>
+to uh &lt;P&gt; better improve our service \\
+<Sync time="6.307"/>
+would you mind if this call is recorded \\
+</Turn>
+<Turn speaker="spk2" startTime="8.0" endTime="9.42">
+<Sync time="8.0"/>
+well that's okay \\
+</Turn>
+<Turn speaker="spk1" startTime="9.42" endTime="11.42">
+<Sync time="9.42"/>
+&lt;P&gt; okay how can I help you today \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="11.42" endTime="14.877">
+<Sync time="11.42"/>
+<Who nb="1"/>
+uh my daughter is a member of the library [os and eo] \\
+<Who nb="2"/>
+[os aha eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="14.877" endTime="17.933">
+<Sync time="14.877"/>
+she's trying to uh see \\
+<Sync time="16.47"/>
+locate a certain book \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="17.933" endTime="19.238">
+<Sync time="17.933"/>
+<Who nb="1"/>
+what is [os your daughters eo] name \\
+<Who nb="2"/>
+[os uh eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="19.238" endTime="22.308">
+<Sync time="19.238"/>
+uh &lt;FIRSTNAME&gt; &lt;LASTNAME&gt; \\
+<Sync time="20.593"/>
+&lt;LN-INITIAL-1&gt; &lt;LN-INITIAL-2&gt; &lt;LN-INITIAL-3&gt; &lt;LN-INITIAL-4&gt; &lt;LN-INITIAL-5&gt; &lt;LN-INITIAL-6&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="22.308" endTime="25.234">
+<Sync time="22.308"/>
+okay \\
+<Sync time="22.954"/>
+&lt;P&gt; and which book is she looking for \\
+</Turn>
+<Turn speaker="spk2" startTime="25.234" endTime="29.62">
+<Sync time="25.234"/>
+okay ah the author is Nancy Foner\\ <!--Michal Novemsky 31-March-2010 Changed Soner to Foner-->
+<Sync time="27.992"/>
+F O N E R \\ <!--Michal Novemsky 31-March-2010 Changed S to F-->
+</Turn>
+<Turn startTime="29.62" endTime="31.664">
+<Sync time="29.62"/>
+&lt;P&gt; &lt;B&gt; \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="31.664" endTime="33.34">
+<Sync time="31.664"/>
+<Who nb="1"/>
+[os right eo] \\
+<Who nb="2"/>
+[os and eo] the title is \\
+</Turn>
+<Turn speaker="spk2" startTime="33.34" endTime="36.209">
+<Sync time="33.34"/>
+From Ellis Island To J F K \\
+</Turn>
+<Turn startTime="36.209" endTime="56.475">
+<Sync time="36.209"/>
+&lt;P&gt; &lt;BN&gt; &lt;TN&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="56.475" endTime="60.667">
+<Sync time="56.475"/>
+I might as well try the other book \\
+<Sync time="58.225"/>
+&lt;P&gt; &lt;BN&gt; cause it'll be read better \\
+</Turn>
+<Turn startTime="60.667" endTime="66.387">
+<Sync time="60.667"/>
+&lt;TP&gt; &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="66.387" endTime="67.394">
+<Sync time="66.387"/>
+&lt;ST&gt; &lt;G&gt; &lt;/ST&gt;\\
+</Turn>
+<Turn startTime="67.394" endTime="72.466">
+<Sync time="67.394"/>
+&lt;TP&gt; &lt;BN&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="72.466" endTime="75.127">
+<Sync time="72.466"/>
+mhm \\ 
+<Sync time="73.269"/>
+&lt;P&gt; &lt;BN&gt; yes \\
+</Turn>
+<Turn speaker="spk1" startTime="75.127" endTime="77.106">
+<Sync time="75.127"/>
+it doesn't look like we have that one \\
+</Turn>
+<Turn speaker="spk2" startTime="77.106" endTime="84.431">
+<Sync time="77.106"/>
+oh \\
+<Sync time="78.014"/>
+&lt;B&gt; okay there's one more \\
+<Sync time="79.859"/>
+umm \\
+<Sync time="80.512"/>
+&lt;P&gt; the author &lt;BN&gt; is Jonathan Kozol \\
+<Sync time="82.768"/>
+K O Z O L \\
+</Turn>
+<Turn startTime="84.431" endTime="89.596">
+<Sync time="84.431"/>
+&lt;TP&gt; &lt;BN&gt; \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="89.596" endTime="93.094">
+<Sync time="89.596"/>
+<Who nb="1"/>
+and what's the [os title of the book eo] \\
+<Who nb="2"/>
+[os the title eo] is Amazing Grace \\
+</Turn>
+<Turn startTime="93.094" endTime="95.966">
+<Sync time="93.094"/>
+&lt;P&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="95.966" endTime="98.368">
+<Sync time="95.966"/>
+okay \\
+<Sync time="96.341"/>
+I can order that one \\
+<Sync time="97.216"/>
+does she need it for school \\
+</Turn>
+<Turn speaker="spk2" startTime="98.368" endTime="99.277">
+<Sync time="98.368"/>
+yes \\
+</Turn>
+<Turn speaker="spk1" startTime="99.277" endTime="101.61">
+<Sync time="99.277"/>
+okay \\
+<Sync time="99.953"/>
+I'm tell them to put a rush on it then &lt;BN&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="101.61" endTime="103.971">
+<Sync time="101.61"/>
+okay \\
+<Sync time="102.27"/>
+good and \\
+<Sync time="102.609"/>
+wait my daughter has a question \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="103.971" endTime="106.937">
+<Sync time="103.971"/>
+<Who nb="1"/>
+[os sure eo] \\
+<Who nb="2"/>
+[os about a eo] book &lt;VB&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="106.937" endTime="130.012">
+<Sync time="106.937"/>
+oh \\
+<Sync time="107.473"/>
+is there anything by the author Robert White \\
+<Sync time="110.189"/>
+&lt;P&gt; W H I T E \\
+<Sync time="113.281"/>
+&lt;P&gt; &lt;TP&gt; &lt;ST&gt; is that the one &lt;/ST&gt; \\
+<Sync time="115.901"/>
+&lt;P&gt; &lt;ST&gt; &lt;G&gt; &lt;/ST&gt; \\
+<Sync time="121.351"/>
+&lt;VB&gt; &lt;TP&gt; \\
+</Turn>
+<Turn startTime="130.012" endTime="138.732">
+<Sync time="130.012"/>
+&lt;TP&gt; &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="138.732" endTime="140.493">
+<Sync time="138.732"/>
+we have a Rob White \\
+</Turn>
+<Turn speaker="spk2" startTime="140.493" endTime="143.754">
+<Sync time="140.493"/>
+&lt;P&gt; Rob White what did he write &lt;B&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="143.754" endTime="148.069">
+<Sync time="143.754"/>
+he wrote &lt;P&gt; um &lt;P&gt; Death Watch \\
+<Sync time="146.611"/>
+&lt;P&gt; Fire Storm \\
+</Turn>
+<Turn speaker="spk2" startTime="148.069" endTime="150.164">
+<Sync time="148.069"/>
+&lt;P&gt; no \\
+</Turn>
+<Turn speaker="spk1" startTime="150.164" endTime="151.826">
+<Sync time="150.164"/>
+no &lt;TP&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="151.826" endTime="159.932">
+<Sync time="151.826"/>
+uh let me tell her \\
+<Sync time="153.01"/>
+&lt;ST&gt; he wrote Deathwatch and Firestorm &lt;/ST&gt; \\
+<Sync time="155.202"/>
+&lt;P&gt; no that would be a different White \\
+<Sync time="157.775"/>
+&lt;B&gt; okay &lt;B&gt; thanks a lot \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="159.932" endTime="160.689">
+<Sync time="159.932"/>
+<Who nb="1"/>
+you're [os welcome eo] \\
+<Who nb="2"/>
+[os but eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="160.689" endTime="162.267">
+<Sync time="160.689"/>
+okay thanks \\
+<Sync time="161.732"/>
+bye bye \\
+</Turn>
+<Turn speaker="spk1" startTime="162.267" endTime="162.599">
+<Sync time="162.267"/>
+bye \\
+</Turn>
+<Turn startTime="162.599" endTime="167.469">
+<Sync time="162.599"/>
+&lt;TC&gt; \\
+<Sync time="163.331"/>
+&lt;TC&gt; \\
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14-loqui.dtd">
+<Trans scribe="Boris" audio_filename="70" version="4" version_date="090217" corpus_version="2.0">
+<Speakers>
+<Speaker id="spk1" name="librarian#1" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="caller#2" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="caller#3" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="103.166">
+<Turn startTime="0" endTime="2.370" speaker="spk1">
+<Sync time="0"/>
+ &lt;BN&gt; yes how can I help you \\
+</Turn>
+<Turn speaker="spk2" startTime="2.370" endTime="14.244">
+<Sync time="2.370"/>
+yes please \\
+<Sync time="3.214"/>
+would you just quickly look at your machine and tell me if you &lt;BN&gt; have \\
+<Sync time="7.057"/>
+&lt;B&gt; fifty eight nine three zero \\
+<Sync time="10.495"/>
+The Broker b- by John Grisham on your shelf \\
+</Turn>
+<Turn speaker="spk1" startTime="14.244" endTime="16.932">
+<Sync time="14.244"/>
+okay befo- um d- do you need a book \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="16.932" endTime="20.247">
+<Sync time="16.932"/>
+<Who nb="1"/>
+&lt;P&gt; well I [os haven't eo] \\
+<Who nb="2"/>
+[os /* is that a */ eo] book or is this R C \\
+</Turn>
+<Turn speaker="spk1" startTime="20.247" endTime="21.698">
+<Sync time="20.247"/>
+this &lt;BN&gt; is books on cassette \\
+</Turn>
+<Turn speaker="spk2" startTime="21.698" endTime="23.963">
+<Sync time="21.698"/>
+i- it's the books on in c- on cassette \\
+</Turn>
+<Turn speaker="spk1" startTime="23.963" endTime="30.302">
+<Sync time="23.963"/>
+&lt;P&gt; okay \\
+<Sync time="25.365"/>
+&lt;P&gt; for the purpose of improving our service we would like to record this conversation \\ <!--Michal Novemsky 31-March-2010 Changed "prupose" to "purpose"-->
+<Sync time="29.458"/>
+is okay with you \\
+</Turn>
+<Turn speaker="spk2" startTime="30.302" endTime="31.047">
+<Sync time="30.302"/>
+sure \\
+</Turn>
+<Turn speaker="spk1" startTime="31.047" endTime="33.109">
+<Sync time="31.047"/>
+okay may I have your last name please \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="33.109" endTime="36.14">
+<Sync time="33.109"/>
+<Who nb="1"/>
+&lt;LASTNAME&gt; &lt;LN-INITIAL-1&gt; &lt;LN-INITIAL-2&gt; [os &lt;LN-INITIAL-3&gt; eo] \\
+<Who nb="2"/>
+[os one eo] second one second don't go that fast \\
+</Turn>
+<Turn speaker="spk1" startTime="36.14" endTime="39.509">
+<Sync time="36.14"/>
+&lt;P&gt; okay it's &lt;INITIAL-1&gt; like &lt;EXAMPLE-1&gt; &lt;INITIAL-1&gt; \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="39.509" endTime="42.179">
+<Sync time="39.509"/>
+<Who nb="1"/>
+&lt;LN-INITIAL-1&gt; &lt;LN-INITIAL-2&gt; &lt;LN-INITIAL-3&gt; as in [os &lt;LN-EXAMPLE-3&gt; eo] \\
+<Who nb="2"/>
+[os mmhm eo]
+</Turn>
+<Turn speaker="spk2" startTime="42.179" endTime="44.824">
+<Sync time="42.179"/>
+&lt;LN-INITIAL-4&gt; &lt;LN-INITIAL-5&gt; &lt;FIRSTNAME&gt; is the firstname \\
+</Turn>
+<Turn speaker="spk1" startTime="44.824" endTime="53.158">
+<Sync time="44.824"/>
+&lt;P&gt; okay &lt;FIRSTNAME&gt; \\
+<Sync time="46.576"/>
+&lt;P&gt; let me check right now \\
+<Sync time="48.044"/>
+&lt;P&gt; we don't have it \\
+<Sync time="49.481"/>
+&lt;P&gt; &lt;G&gt; zero five eight \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="53.158" endTime="56.111">
+<Sync time="53.158"/>
+<Who nb="1"/>
+fifty eight [os nine three zero eo] yeah \\
+<Who nb="2"/>
+[os nine three zero eo] \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="56.111" endTime="62.198">
+<Sync time="56.111"/>
+<Who nb="1"/>
+&lt;P&gt; The Broker by John [os Gr- eo] \\
+<Who nb="2"/>
+[os I do eo] not have it on the shelf\\
+<Sync time="59.531"/>
+<Who nb="1"/>
+[os oh you don't eo] \\
+<Who nb="2"/>
+[os I can order eo] it for you and reserve it for you /* should */ you want &lt;NU&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="62.198" endTime="65.079">
+<Sync time="62.198"/>
+all right now uh u- I have the book \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="65.079" endTime="68.72">
+<Sync time="65.079"/>
+<Who nb="1"/>
+[os uhhuh eo] \\
+<Who nb="2"/>
+[os and eo] the second tape is does not work \\
+</Turn>
+<Turn speaker="spk1" startTime="68.72" endTime="69.266">
+<Sync time="68.72"/>
+&lt;B&gt; okay \\
+</Turn>
+<Turn speaker="spk2" startTime="69.266" endTime="70.766">
+<Sync time="69.266"/>
+and it's a very good book \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="70.766" endTime="73.078">
+<Sync time="70.766"/>
+<Who nb="1"/>
+[os so eo] I would like to know how it ends \\
+<Who nb="2"/>
+[os okay eo] \\
+</Turn>
+<Turn speaker="spk1" startTime="73.078" endTime="74.035">
+<Sync time="73.078"/>
+okay perfect \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="74.035" endTime="76.463">
+<Sync time="74.035"/>
+<Who nb="1"/>
+so [os then eo] \\
+<Who nb="2"/>
+[os keep eo] that copy \\
+</Turn>
+<Turn speaker="spk1" startTime="76.463" endTime="78.932">
+<Sync time="76.463"/>
+you can put a rubber band on the damaged one \\
+</Turn>
+<Turn speaker="spk2" startTime="78.932" endTime="79.502">
+<Sync time="78.932"/>
+&lt;P&gt; yes \\
+</Turn>
+<Turn speaker="spk1" startTime="79.502" endTime="85.706">
+<Sync time="79.502"/>
+keep the copy and we'll issue another one \\
+<Sync time="81.894"/>
+&lt;P&gt; whenever you receive the new one \\
+<Sync time="84.113"/>
+you can return the old one okay \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="85.706" endTime="91.425">
+<Sync time="85.706"/>
+<Who nb="1"/>
+oh you don't want me to return it [os right away eo] \\
+
+<Who nb="2"/>
+[os no I eo] don't know which one is the reason or for what reason we always \\
+</Turn>
+<Turn speaker="spk1" startTime="91.425" endTime="93.316">
+<Sync time="91.425"/>
+you will /* over */ receive the damaged one back \\ <!--Michal Novemsky 31-March-2010 Changed "dammaged" to "damaged"-->
+</Turn>
+<Turn speaker="spk2 spk1" startTime="93.316" endTime="102.587">
+<Sync time="93.316"/>
+<Who nb="1"/>
+oh my goodness [os &lt;CHKL&gt; oh eo] \\
+<Who nb="2"/>
+[os &lt;CHKL&gt; eo] a can keep it until we discover why \\
+<Sync time="98.277"/>
+<Who nb="1"/>
+okay thank you very [os much now eo] \\
+<Who nb="2"/>
+[os you welcome eo] and have a nice \\
+<Sync time="101.442"/>
+<Who nb="1"/>
+[os you eo] too buh bye\\
+<Who nb="2"/>
+[os day eo] \\
+</Turn>
+<Turn speaker="spk1" startTime="102.587" endTime="103.166">
+<Sync time="102.587"/>
+buh bye \\
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,52 @@
+{"user": "Human", "index": 1, "text": "Hey Zara!", "intent": "Extend_greetings"}
+{"user": "Alien", "index": 1, "text": "Hey Michael!", "intent": "Extend_greetings"}
+{"user": "Human", "index": 1, "text": "Ready for your cooking lesson today?", "intent": "Casual_question"}
+{"user": "Human", "index": 1, "text": "Absolutely Michael! I am looking forward to learning how humans make food.", "intent": "Inform_get_started"}
+{"user": "Human", "index": 1, "text": "Awesome, come over to the stove we can get started.", "intent": "Inform_action"}
+{"user": "Alien", "index": 1, "text": "Based on some previous tasks, the stove is in the kitchen right?", "intent": "Inform_understanding"}
+{"user": "Human", "index": 1, "text": "Wow! Looks like you are picking up on stuff very quickly, congratulations,", "intent": "Other"}
+{"user": "Human", "index": 2, "text": "Ok so now we are going to start by baking some bread by using an oven.", "intent": "Inform_action"}
+{"user": "Human", "index": 2, "text": "So now open the door below the stove, that is the oven.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 2, "text": "I am opening the door, but I am confused as to what an oven is.", "intent": "Inform_confused"}
+{"user": "Human", "index": 3, "text": "Ha Ha! The oven is an enclosed compartment, for cooking and heating food, so we are going to use it to cook the bread.", "intent": "Inform_object"}
+{"user": "Alien", "index": 3, "text": "Oh ok I understand now Michael! Sounds fascinating.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 3, "text": "So now go and get the bread from the toaster please.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 4, "text": "So based on your previous instructions and all the previous experience I had, I need to pick the bread up right?", "intent": "Inform_understanding"}
+{"user": "Human", "index": 4, "text": "Yes you are absolutely right!", "intent": "Casual_response"}
+{"user": "Human", "index": 5, "text": "Ok now you need to place the bread inside the oven to bake it.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 5, "text": "Oh yes! I am able to understand how this is going to pan out.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 6, "text": "Place the bread inside the oven so that it can be baked.", "intent": "Inform_action"}
+{"user": "Alien", "index": 6, "text": "Ok placing the bread inside the oven.", "intent": "Inform_get_started"}
+{"user": "Alien", "index": 7, "text": "Ok I have placed the bread inside the oven, but nothing seems to be happening, has the bread finished baking?", "intent": "Explain_confused"}
+{"user": "Human", "index": 7, "text": "Excellent question! I can see why you are getting confused, you need to close the oven for the baking to start.", "intent": "Inform_action"}
+{"user": "Alien", "index": 7, "text": "Oh yes you are right", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 7, "text": "So let me close the oven to commence the baking process.", "intent": "Inform_get_started"}
+{"user": "Human", "index": 8, "text": "So since the baking is done now, what do you think we do next.", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 8, "text": "", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 8, "text": "We open the lid of the oven as the baking is finished.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 8, "text": "Excellent!", "intent": "Casual_response"}
+{"user": "Human", "index": 9, "text": "Ok now take the bread out of the oven.", "intent": "Ask_get_started"}
+{"user": "Alien", "index": 9, "text": "Done!", "intent": "Inform_understanding"}
+{"user": "Human", "index": 10, "text": "Ok so what is the next step we do", "intent": "Ask_get_started"}
+{"user": "Alien", "index": 10, "text": "I do not understand, the bread has been baked and has been taken out of the oven, isn't everything done.", "intent": "Display_confusion"}
+{"user": "Human", "index": 10, "text": "No no, we have to close the oven so that the extreme heat from the oven is safely contained.", "intent": "Inform_action"}
+{"user": "Alien", "index": 10, "text": "Oh ok I understand now, closing the oven now.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 11, "text": "Now keep the bread onto a plate.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 11, "text": "Ok placed it on the plate, what next?", "intent": "Ask_guidence"}
+{"user": "Human", "index": 11, "text": "Are you sure that's a plate the bread is on?", "intent": "Ask_know_object"}
+{"user": "Alien", "index": 11, "text": "Oh is it not?", "intent": "Display_confusion"}
+{"user": "Human", "index": 11, "text": "The object you kept it on is called a pan which is used for cooking on the stove. A plate is something that is used to eat food from.", "intent": "Inform_object"}
+{"user": "Alien", "index": 11, "text": "Oh ok I understand now.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 11, "text": "Now take the bread from the pan.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 12, "text": "Ok so let me take the bread from the pan and place it on a plate.", "intent": "Inform_get_started"}
+{"user": "Human", "index": 12, "text": "Superb!", "intent": "Casual_question"}
+{"user": "Human", "index": 13, "text": "Ok so go and place the bread onto a plate please.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 13, "text": "Ok let me do that.", "intent": "Inform_get_started"}
+{"user": "Human", "index": 14, "text": "Hey Zara!", "intent": "Extend_greetings"}
+{"user": "Alien", "index": 14, "text": "Hey Michael!", "intent": "Extend_greetings"}
+{"user": "Human", "index": 14, "text": "Today we are going to learn about the usage of an oven.", "intent": "Inform_get_started"}
+{"user": "Alien", "index": 14, "text": "So right now I am going to place the bread on the plate, based on my understanding.", "intent": "Inform_get_started"}
+{"user": "Human", "index": 14, "text": "Exactly, you are doing a great job! You are becoming a pro at this!", "intent": "Casual_response"}
+{"user": "Alien", "index": 15, "text": "Thanks, Michael! This cooking is very intriguing.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 15, "text": "Thanks for your help Michael! Glad I can learn a lot from you.", "intent": "Extend_goodbyes"}
+{"user": "Human", "index": 15, "text": "Glad I can help!", "intent": "Extend_goodbyes"}

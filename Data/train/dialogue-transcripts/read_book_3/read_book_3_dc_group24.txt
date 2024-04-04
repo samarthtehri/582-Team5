@@ -1,0 +1,34 @@
+{"user": "Alien", "index": 1, "text": "Can I start reading the books you recommended? ", "intent": "Ask_get_started"}
+{"user": "Human", "index": 1, "text": "Yes you can.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 1, "text": "I think I left them in the bookshelf in my room", "intent": "Inform_location"}
+{"user": "Alien", "index": 1, "text": "Heading there now! ", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 2, "text": "Why cant I find the books?", "intent": "Explain_confused"}
+{"user": "Human", "index": 2, "text": "That is not the bookshelf; do you know where it is?", "intent": "Ask_know_location"}
+{"user": "Alien", "index": 2, "text": "Oh I remember now, the bookshelf is on the other side of the room.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 3, "text": "Where exactly are the books you recommended? ", "intent": "Ask_about_location"}
+{"user": "Human", "index": 3, "text": "The books are on the very top of the bookshelf.", "intent": "Inform_location"}
+{"user": "Alien", "index": 3, "text": "Oh, I see one of them, I will take it down from the shelf. ", "intent": "Inform_understanding"}
+{"user": "Human", "index": 4, "text": "Nice now you just need to grab the last book up there.", "intent": "Inform_action"}
+{"user": "Alien", "index": 4, "text": "I see the other one, will bring it down now.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 5, "text": "Where is a good place to read the books? ", "intent": "Ask_about_location"}
+{"user": "Human", "index": 5, "text": "You can read them at my desk if you would like.", "intent": "Inform_location"}
+{"user": "Alien", "index": 5, "text": "That sounds like a great spot, will take the books over there. ", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 6, "text": "Should I sit down while I read? ", "intent": "Ask_next_step"}
+{"user": "Human", "index": 6, "text": "If that would make you more comfortable then yes.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 7, "text": "Which book should I start with? ", "intent": "Ask_next_step"}
+{"user": "Human", "index": 7, "text": "I recommend the first book you got from the bookshelf it is a very good action novel.", "intent": "Inform_object"}
+{"user": "Alien", "index": 7, "text": "Looks like an awesome read, I will start now.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 8, "text": "How was the first book?", "intent": "Casual_question"}
+{"user": "Alien", "index": 8, "text": "It was alright a bit slow for me.", "intent": "Casual_response"}
+{"user": "Alien", "index": 8, "text": "Should I try the other one now? ", "intent": "Ask_next_step"}
+{"user": "Human", "index": 8, "text": "If you have the energy go for it!", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 9, "text": "I'm done reading the books, where should I place them?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 9, "text": "You can put them on that table over there.", "intent": "Inform_action"}
+{"user": "Human", "index": 9, "text": "What were your thoughts on that book?", "intent": "Casual_question"}
+{"user": "Alien", "index": 9, "text": "It was better than the first one, I prefer romance over action. ", "intent": "Casual_response"}
+{"user": "Alien", "index": 10, "text": "Is it alright if I place the first book in front of the television?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 10, "text": "Yes that's perfect thanks.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 11, "text": "Is it fine to also place the second book in front of the television? ", "intent": "Ask_about_location"}
+{"user": "Human", "index": 11, "text": "Yup that's good too.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 12, "text": "Ok now that your done with the books do you want to go get something to eat?", "intent": "Ask_take_next_step"}
+{"user": "Alien", "index": 12, "text": "Yup that sounds good lets go into the kitchen and see if we can make something.", "intent": "Yes-no_positive"}

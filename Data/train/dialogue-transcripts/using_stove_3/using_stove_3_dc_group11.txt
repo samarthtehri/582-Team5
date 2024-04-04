@@ -1,0 +1,44 @@
+{"user": "Human", "index": 1, "text": "Are you ready to get started?", "intent": "Ask_get_started"}
+{"user": "Alien", "index": 1, "text": "Yes, let's do it.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 1, "text": "Let's learn how to cook with stove.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 1, "text": "Cool, let's do it!", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 2, "text": "Okay, what is the first step?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 2, "text": "We need a cooking utensil to cook with stove.", "intent": "Inform_next_step"}
+{"user": "Human", "index": 2, "text": "Let's grab the pot on the table. ", "intent": "Inform_action"}
+{"user": "Alien", "index": 2, "text": "Okay, makes sense! ", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 3, "text": "Is this the right pot? ", "intent": "Ask_about_object"}
+{"user": "Human", "index": 3, "text": "Yes, that's the right one. Feel free to grab it.", "intent": "Inform_object"}
+{"user": "Alien", "index": 3, "text": "I got it. ", "intent": "Inform_understanding"}
+{"user": "Human", "index": 4, "text": "Do you know what to do next? ", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 4, "text": "I believe I need to go to the stove. ", "intent": "Ask_about_action"}
+{"user": "Human", "index": 4, "text": "Are you sure you are next to the stove? This is the sink. ", "intent": "Ask_sure_about_location"}
+{"user": "Alien", "index": 4, "text": "Oh. I am not sure where the stove. ", "intent": "Inform_confused"}
+{"user": "Human", "index": 5, "text": "It's all the way towards the left end of the kitchen. ", "intent": "Inform_location"}
+{"user": "Alien", "index": 5, "text": "Sorry about that, I got it now.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 5, "text": "No worries, you are doing great.", "intent": "Casual_observation"}
+{"user": "Human", "index": 6, "text": "Now we can go ahead an place the pot on the stove with the markings. ", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 6, "text": "Would any of the 4 stove tops work? I am not sure which one.", "intent": "Inform_confused"}
+{"user": "Human", "index": 6, "text": "Yes, feel free to use any.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 6, "text": "Okay got it, I placed it on top.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 7, "text": "What is the next step?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 7, "text": "Now, we need to turn on the stove by turning the knob towards the right. ", "intent": "Inform_action"}
+{"user": "Alien", "index": 7, "text": "Which knob? ", "intent": "Inform_confused"}
+{"user": "Human", "index": 7, "text": "It's the one associated with the stove top we are using.", "intent": "Inform_object"}
+{"user": "Alien", "index": 7, "text": "Okay, got it! ", "intent": "Inform_understanding"}
+{"user": "Human", "index": 8, "text": "Now that our food is cooked, do you know the next step?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 8, "text": "Do I take the pot off the stove?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 8, "text": "Not quite.", "intent": "Yes-no_negative"}
+{"user": "Human", "index": 8, "text": "We need to first turn the stove off by turning the same knob to the left. ", "intent": "Inform_action"}
+{"user": "Alien", "index": 8, "text": "Okay, I understand. ", "intent": "Inform_understanding"}
+{"user": "Human", "index": 8, "text": "You are doing a great job!", "intent": "Casual_observation"}
+{"user": "Human", "index": 9, "text": "Do you know what to do next? ", "intent": "Ask_know_action"}
+{"user": "Alien", "index": 9, "text": "Yes, I need to the pot off the stove. ", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 9, "text": "I have the pot now. ", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 10, "text": "What is the next step?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 10, "text": "We can take the cooked pot to the dining table. ", "intent": "Inform_action"}
+{"user": "Alien", "index": 10, "text": "Okay that makes sense. Is it the same dining table that we took the pot from?", "intent": "Inform_confused"}
+{"user": "Human", "index": 10, "text": "Yes, you are right.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 11, "text": "Can I put the stove down on the dining table?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 11, "text": "Yes, feel free. ", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 12, "text": "How did I do at learning how to cook with stove?", "intent": "Casual_question"}
+{"user": "Human", "index": 12, "text": "Overall, you did great. You missed where the stove was but learned it pretty quick! Good work!", "intent": "Casual_response"}

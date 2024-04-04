@@ -1,0 +1,38 @@
+{"user": "Human", "index": 1, "text": "Hey Zara!", "intent": "Extend_greetings"}
+{"user": "Alien", "index": 1, "text": "Hey Michael!", "intent": "Extend_greetings"}
+{"user": "Alien", "index": 1, "text": "Are you ready to get started?", "intent": "Ask_get_started"}
+{"user": "Human", "index": 1, "text": "Yes! Let's do it", "intent": "Inform_get_started"}
+{"user": "Human", "index": 2, "text": "Zara, you would want to grab that toy over there", "intent": "Inform_action"}
+{"user": "Alien", "index": 2, "text": "Okay!", "intent": "Inform_understanding"}
+{"user": "Human", "index": 2, "text": "Yep, that one that looks like an airplane", "intent": "Inform_other"}
+{"user": "Human", "index": 3, "text": "Do you know what you want to do with that toy?", "intent": "Ask_know_action"}
+{"user": "Alien", "index": 3, "text": "I want to put it into a cupboard", "intent": "Inform_observation"}
+{"user": "Human", "index": 3, "text": "Okay, do you know where the cupboard is located?", "intent": "Ask_know_location"}
+{"user": "Alien", "index": 3, "text": "Not really, can you take me there?", "intent": "Display_confusion"}
+{"user": "Human", "index": 3, "text": "Yes, it is in the living room", "intent": "Inform_location"}
+{"user": "Human", "index": 4, "text": "Do you know what to do next?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 4, "text": "Yes, I'll open the door to put the toy inside.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 4, "text": "Good job, that's correct", "intent": "Casual_response"}
+{"user": "Alien", "index": 4, "text": "Thank you!", "intent": "Casual_response"}
+{"user": "Alien", "index": 5, "text": "And here we go.", "intent": "Casual_observation"}
+{"user": "Human", "index": 5, "text": "Awesome!", "intent": "Casual_response"}
+{"user": "Human", "index": 5, "text": "Do you know what you want to do next?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 5, "text": "Let's grab the other toy and put it here", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 6, "text": "Let's go back to the bedroom and grab the other toy", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 6, "text": "Okay, lets get it", "intent": "Inform_understanding"}
+{"user": "Human", "index": 7, "text": "Now that we're here, you know what you want to do. Do you need any help?", "intent": "Ask_want_help"}
+{"user": "Alien", "index": 7, "text": "No worries, I got this!", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 8, "text": "Should we go back to the living room and put this one back too?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 8, "text": "Yes, let's go do that", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 9, "text": "Do you know where you want to put it in the cupboard?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 9, "text": "Anywhere works, I'll put it next to the other toy", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 10, "text": "Now they are together", "intent": "Casual_observation"}
+{"user": "Human", "index": 10, "text": "Yep! they sure are! Hahaha", "intent": "Casual_response"}
+{"user": "Human", "index": 10, "text": "Do you know what to do next now that we put both toys into the cupboard?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 10, "text": "No", "intent": "Yes-no_negative"}
+{"user": "Alien", "index": 10, "text": "What would you say I should do now?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 10, "text": "Well, since the toys are now in the cupboard, we should close the doors", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 10, "text": "OH, it makes sense!", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 11, "text": "Okay, I will close the doors now", "intent": "Inform_condition"}
+{"user": "Human", "index": 11, "text": "Good job Zara, I'll see you next time", "intent": "Extend_goodbyes"}
+{"user": "Alien", "index": 11, "text": "Bye Michael!", "intent": "Extend_goodbyes"}

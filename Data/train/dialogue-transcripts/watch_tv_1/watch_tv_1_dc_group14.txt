@@ -1,0 +1,27 @@
+{"user": "Human", "index": 1, "text": "Hello", "intent": "Extend_greetings"}
+{"user": "Alien", "index": 1, "text": "Hi", "intent": "Extend_greetings"}
+{"user": "Human", "index": 1, "text": "Want to watch Some TV?", "intent": "Ask_get_started"}
+{"user": "Alien", "index": 1, "text": "Yes, Lets watch TV.", "intent": "Inform_get_started"}
+{"user": "Human", "index": 1, "text": "You know where the TV is?", "intent": "Ask_know_location"}
+{"user": "Alien", "index": 1, "text": "Yes", "intent": "Inform_understanding"}
+{"user": "Human", "index": 2, "text": "Can you open the TV for Me?", "intent": "Ask_know_action"}
+{"user": "Alien", "index": 2, "text": "Uhh, I don't know how.", "intent": "Inform_confused"}
+{"user": "Human", "index": 3, "text": "You can do it by press the power button.", "intent": "Inform_action"}
+{"user": "Alien", "index": 3, "text": "Where is the power buttom?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 3, "text": "On the Bottom Right of the TV.", "intent": "Inform_location"}
+{"user": "Alien", "index": 4, "text": "Ah I find it.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 4, "text": "Good", "intent": "Casual_response"}
+{"user": "Alien", "index": 5, "text": " Whats next?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 5, "text": "Sit on the Sofa.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 6, "text": "I am sitting down on sofa.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 6, "text": "Good.", "intent": "Casual_response"}
+{"user": "Human", "index": 7, "text": "You like sitting on the sofa?", "intent": "Ask_know_action"}
+{"user": "Alien", "index": 7, "text": "yes, sofa is for sitting when watching TV.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 8, "text": "can you turn the TV off?", "intent": "Ask_get_started"}
+{"user": "Alien", "index": 8, "text": "yes I'll try.", "intent": "Inform_get_started"}
+{"user": "Human", "index": 9, "text": "You want any help with that?", "intent": "Ask_want_help"}
+{"user": "Alien", "index": 9, "text": "NO, I just press the power button again.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 10, "text": "You know what to do next?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 10, "text": "TV is done watching, so we leave the room.", "intent": "Inform_condition"}
+{"user": "Human", "index": 11, "text": "It seems like you have lean how to watch TV!", "intent": "Inform_other"}
+{"user": "Alien", "index": 11, "text": "Yes I know how to watch TV now.", "intent": "Inform_understanding"}

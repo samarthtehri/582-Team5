@@ -1,0 +1,25 @@
+{"user": "Human", "index": 1, "text": "I have a couple books you could read in the other room.", "intent": "Inform_location"}
+{"user": "Alien", "index": 1, "text": "Ok, lets head over and check them out. ", "intent": "Ask_get_started"}
+{"user": "Alien", "index": 2, "text": "Where are the books?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 2, "text": "The books are on the shelf above you.", "intent": "Inform_location"}
+{"user": "Alien", "index": 2, "text": "Alright.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 3, "text": "The other book is up there too. Do you want to take that one as well?", "intent": "Ask_know_object"}
+{"user": "Alien", "index": 3, "text": "Yes, I will get the other book as well.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 4, "text": "There's a chair over by me if you want to take a seat to read them.", "intent": "Inform_location"}
+{"user": "Alien", "index": 4, "text": "Ok, thank you.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 5, "text": "How about you take a seat?", "intent": "Casual_question"}
+{"user": "Alien", "index": 5, "text": "WOW! This chair is SO comfortable. Cant wait to read the books you recommended. ", "intent": "Casual_observation"}
+{"user": "Alien", "index": 6, "text": "This book is interesting. Did the same author also write the other book?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 6, "text": "I believe so. Glad your enjoying them.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 7, "text": "What'd you think of the books?", "intent": "Casual_question"}
+{"user": "Alien", "index": 7, "text": "They are great books. Thank you for recommending them.", "intent": "Casual_response"}
+{"user": "Alien", "index": 8, "text": "Now that I am finished with these books what should I do with them?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 8, "text": "When you are done with the books. You can take them to the table over there.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 8, "text": "Ok, Michael.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 9, "text": "Where on the table should I put these books down.", "intent": "Ask_about_location"}
+{"user": "Human", "index": 9, "text": "Anywhere on the table is fine.", "intent": "Inform_location"}
+{"user": "Alien", "index": 9, "text": "Ok", "intent": "Inform_understanding"}
+{"user": "Human", "index": 10, "text": "You still have the other book. You know you can put that one down too right?", "intent": "Ask_sure_about_object"}
+{"user": "Alien", "index": 10, "text": "Ok, I'll put the other book down.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 11, "text": "Let's head back to the kitchen to get some sutff done.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 11, "text": "Ok, Michael.", "intent": "Inform_understanding"}

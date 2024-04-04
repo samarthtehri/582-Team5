@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14-loqui.dtd">
+<Trans scribe="Administrator" audio_filename="33" version="5" version_date="080626" corpus_version="2.0">
+<Speakers>
+<Speaker id="spk1" name="Librarian#1" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="Caller#1" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="72.839">
+<Turn startTime="0" endTime="5.004" speaker="spk1">
+<Sync time="0"/>
+&lt;P&gt; good morning Andrew Heiskell Library \\
+<Sync time="2.016"/>
+before we begin \\
+<Sync time="2.938"/>
+would you mind if this call is recorded for research \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="5.004" endTime="6.176">
+<Sync time="5.004"/>
+<Who nb="1"/>
+[os purposes eo] \\
+<Who nb="2"/>
+[os no problem eo] \\
+</Turn>
+<Turn speaker="spk1" startTime="6.176" endTime="8.051">
+<Sync time="6.176"/>
+&lt;P&gt; &lt;TP&gt; okay \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="8.051" endTime="10.644">
+<Sync time="8.051"/>
+<Who nb="1"/>
+how can I help you [os today eo] \\
+<Who nb="2"/>
+[os &lt;B&gt; I'm eo] calling for &lt;FIRSTNAME&gt; &lt;LASTNAME&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="10.644" endTime="20.159">
+<Sync time="10.644"/>
+a- s- &lt;LN-INITIAL-1&gt; &lt;LN-INITIAL-2&gt; &lt;LN-INITIAL-3&gt; &lt;LN-INITIAL-4&gt; &lt;LN-INITIAL-5&gt; \\
+<Sync time="12.582"/>
+&lt;P&gt; &lt;B&gt; and she's wondering \\
+<Sync time="14.05"/>
+I don't think she had this &lt;P&gt; particular book uh \\
+<Sync time="17.112"/>
+Jasons Yukon Gold \\
+</Turn>
+<Turn startTime="20.159" endTime="21.284">
+<Sync time="20.159"/>
+&lt;IR&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="21.284" endTime="25.019">
+<Sync time="21.284"/>
+&lt;IR&gt; she was wondering if you have that \\
+<Sync time="23.003"/>
+she read the sequel just now \\
+</Turn>
+<Turn speaker="spk1" startTime="25.019" endTime="25.831">
+<Sync time="25.019"/>
+okay \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="25.831" endTime="27.847">
+<Sync time="25.831"/>
+<Who nb="1"/>
+&lt;P&gt; &lt;B&gt; can you hold on for one [os second I'm eo] going \\
+<Who nb="2"/>
+[os sure eo] \\
+</Turn>
+<Turn speaker="spk1" startTime="27.847" endTime="28.659">
+<Sync time="27.847"/>
+to put someone else on hold \\
+</Turn>
+<Turn speaker="spk2" startTime="28.659" endTime="29.362">
+<Sync time="28.659"/>
+sure \\
+</Turn>
+<Turn speaker="spk1" startTime="29.362" endTime="35.721">
+<Sync time="29.362"/>
+&lt;P&gt; &lt;TC&gt; \\
+<Sync time="30.346"/>
+good morning Andrew Heiskell Library please hold \\
+<Sync time="33.096"/>
+&lt;BN&gt; &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="35.721" endTime="38.252">
+<Sync time="35.721"/>
+<Who nb="1"/>
+the title is Jasons Yukon [os Gold eo] \\
+<Who nb="2"/>
+[os I eo] think \\
+</Turn>
+<Turn speaker="spk2" startTime="38.252" endTime="44.377">
+<Sync time="38.252"/>
+so I have a number here \\
+<Sync time="39.549"/>
+I think it's RC &lt;P&gt; one two seven eight six \\
+<Sync time="43.627"/>
+is that right \\
+</Turn>
+<Turn startTime="44.377" endTime="50.143">
+<Sync time="44.377"/>
+&lt;TP&gt; &lt;P&gt; \\ 
+</Turn>
+<Turn speaker="spk1" startTime="50.143" endTime="52.143">
+<Sync time="50.143"/>
+mmm that's Tender Mercies \\
+</Turn>
+<Turn speaker="spk2" startTime="52.143" endTime="56.94">
+<Sync time="52.143"/>
+okay how about this \\
+<Sync time="53.346"/>
+five zero two o one \\
+<Sync time="55.283"/>
+and I have a bunch of numbers here \\
+</Turn>
+<Turn startTime="56.94" endTime="60.725">
+<Sync time="56.94"/>
+&lt;P&gt; &lt;TN&gt; &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="60.725" endTime="62.006">
+<Sync time="60.725"/>
+Jasons Gold right \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="62.006" endTime="63.887">
+<Sync time="62.006"/>
+<Who nb="1"/>
+oh Ji- Ja- Jasons Gold [os then eo] \\
+<Who nb="2"/>
+[os yeah eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="63.887" endTime="67.34">
+<Sync time="63.887"/>
+yeah could you uh send that when y- if you have it &lt;P&gt; t- to her house \\
+</Turn>
+<Turn speaker="spk1" startTime="67.34" endTime="67.809">
+<Sync time="67.34"/>
+sure \\
+</Turn>
+<Turn speaker="spk2" startTime="67.809" endTime="68.949">
+<Sync time="67.809"/>
+thank you very much \\
+</Turn>
+<Turn speaker="spk1" startTime="68.949" endTime="69.48">
+<Sync time="68.949"/>
+you're welcome \\
+</Turn>
+<Turn speaker="spk2" startTime="69.48" endTime="70.01">
+<Sync time="69.48"/>
+bye bye \\
+</Turn>
+<Turn speaker="spk1" startTime="70.01" endTime="72.839">
+<Sync time="70.01"/>
+bye bye &lt;TN&gt; &lt;TN&gt; \\
+</Turn>
+</Section>
+</Episode>
+</Trans>

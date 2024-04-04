@@ -1,0 +1,19 @@
+{"user": "Human", "index": 1, "text": "Hello!", "intent": "Extend_greetings"}
+{"user": "Alien", "index": 1, "text": "Hello!", "intent": "Extend_greetings"}
+{"user": "Human", "index": 2, "text": "Let's go to the TV", "intent": "Inform_location"}
+{"user": "Alien", "index": 2, "text": "Sure, I will walk to tv", "intent": "Casual_response"}
+{"user": "Human", "index": 3, "text": "Hey, turn on the TV", "intent": "Inform_action"}
+{"user": "Alien", "index": 3, "text": "ok", "intent": "Casual_response"}
+{"user": "Human", "index": 4, "text": "Hey, turn the channel on to soccer please", "intent": "Inform_action"}
+{"user": "Alien", "index": 4, "text": "Sure, I turned the channel on to the sports channel", "intent": "Inform_condition"}
+{"user": "Alien", "index": 5, "text": "I'm going to the couch", "intent": "Inform_condition"}
+{"user": "Human", "index": 5, "text": "Great!", "intent": "Casual_response"}
+{"user": "Alien", "index": 6, "text": "The couch is comfortable.", "intent": "Casual_observation"}
+{"user": "Alien", "index": 7, "text": "Wow, this soccer game is boring.", "intent": "Casual_observation"}
+{"user": "Human", "index": 8, "text": "If the game bores you, turn off the TV.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 8, "text": "Ok, I'm going to the receiver to turn it off.", "intent": "Inform_condition"}
+{"user": "Alien", "index": 9, "text": "Alright, I turned it off.", "intent": "Inform_condition"}
+{"user": "Human", "index": 9, "text": "Cool, let's go back to the kitchen.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 10, "text": "Alright, im coming. Should we make some dinner?", "intent": "Inform_condition"}
+{"user": "Human", "index": 10, "text": "Yeah, I'm very hungry!", "intent": "Casual_response"}
+{"user": "Human", "index": 11, "text": "Let's make dinner!", "intent": "Casual_observation"}

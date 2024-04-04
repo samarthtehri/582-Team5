@@ -1,0 +1,53 @@
+{"user": "Human", "index": 1, "text": "Hey Zara!", "intent": "Extend_greetings"}
+{"user": "Alien", "index": 1, "text": "Hi Mike!", "intent": "Extend_greetings"}
+{"user": "Alien", "index": 1, "text": "Are you ready to clean our dishes?", "intent": "Ask_get_started"}
+{"user": "Human", "index": 1, "text": "Yes, let's do it!", "intent": "Ask_get_started"}
+{"user": "Alien", "index": 2, "text": "What's the first thing we should do?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 2, "text": "We should grab the plate we used to eat that cupcake for lunch and bring it here to wash it", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 2, "text": "Where is the plate?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 2, "text": "It's in the office next door, follow me", "intent": "Inform_location"}
+{"user": "Alien", "index": 2, "text": "Okay!", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 3, "text": "The plate still has a cupcake left? We can't clean a plate that has something", "intent": "Display_confusion"}
+{"user": "Alien", "index": 3, "text": "What should we do now that the plate has a cupcake?", "intent": "Ask_guidence"}
+{"user": "Human", "index": 3, "text": "we can leave the cupcake on the table and we can bring the plate back to the kitchen for cleaning ", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 3, "text": "Ok", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 4, "text": "Okay, this makes more sense, I'll leave the cupcake here", "intent": "Inform_condition"}
+{"user": "Human", "index": 4, "text": "Awesome. do you know what to do next per our plan?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 4, "text": "Yes", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 5, "text": "Do you know where to go?", "intent": "Ask_know_action"}
+{"user": "Alien", "index": 5, "text": "Yes, let's go to the kitchen, where the dishwasher is", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 6, "text": "How should I start using the dishwasher?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 6, "text": "You want to pull on the little tab here in the middle to open the dishwasher", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 6, "text": "Okay!", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 7, "text": "Where should I put the plate?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 7, "text": "You want to put the plate here on the bottom rack where there is enough space for the plate to fit", "intent": "Inform_action"}
+{"user": "Alien", "index": 7, "text": "Okay!", "intent": "Inform_understanding"}
+{"user": "Human", "index": 8, "text": "Do you know how to close the dishwasher?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 8, "text": "Yes, I believe I should push the door the opposite way of how I opened it", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 8, "text": "Yep!", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 8, "text": "Make sure to push it all the way so it is fully closed", "intent": "Inform_other"}
+{"user": "Alien", "index": 9, "text": "Is it on?", "intent": "Ask_guidence"}
+{"user": "Human", "index": 9, "text": "No, you need to press this button here to start the dishwasher", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 9, "text": "Okay!", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 10, "text": "Is it done?", "intent": "Ask_guidence"}
+{"user": "Human", "index": 10, "text": "Yes", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 10, "text": "Do you know how to get the plate out of there?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 10, "text": "Yes", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 10, "text": "I'll open the dishwasher ", "intent": "Inform_condition"}
+{"user": "Alien", "index": 11, "text": "Should I get the plate now?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 11, "text": "Yeah, you want to grab the plate now", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 12, "text": "What should I do know that the plate is clean?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 12, "text": "You should go and put it on the dining table", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 12, "text": "Okay I'll do that", "intent": "Inform_understanding"}
+{"user": "Human", "index": 12, "text": "Are you sure you don't want to close the dishwasher door first?", "intent": "Ask_sure_about_action"}
+{"user": "Alien", "index": 12, "text": "You are right!", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 13, "text": "Can I go to the table now?", "intent": "Ask_guidence"}
+{"user": "Human", "index": 13, "text": "Yeah", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 13, "text": "Zara, you've been doing an awesome job with learning how to use a dishwasher", "intent": "Casual_observation"}
+{"user": "Alien", "index": 13, "text": "Thank you Mike", "intent": "Casual_response"}
+{"user": "Human", "index": 14, "text": "Zara, do you where you want to put the plate?", "intent": "Ask_know_action"}
+{"user": "Alien", "index": 14, "text": "I'll put it in front the chair so we could eat while we sit", "intent": "Inform_observation"}
+{"user": "Human", "index": 15, "text": "Nice Work Zara!", "intent": "Casual_observation"}
+{"user": "Alien", "index": 15, "text": "I loved doing the dishes!", "intent": "Casual_response"}
+{"user": "Human", "index": 15, "text": "Until next time, bye!", "intent": "Extend_goodbyes"}
+{"user": "Alien", "index": 15, "text": "Until the next time!", "intent": "Extend_goodbyes"}

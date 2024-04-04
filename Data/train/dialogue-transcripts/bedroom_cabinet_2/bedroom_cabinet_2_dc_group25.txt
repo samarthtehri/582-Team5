@@ -1,0 +1,50 @@
+{"user": "Human", "index": 1, "text": "Hello Zara! How are you doing today?", "intent": "Extend_greetings"}
+{"user": "Alien", "index": 1, "text": "Hello, I am good thank you for asking!", "intent": "Extend_greetings"}
+{"user": "Human", "index": 1, "text": "Let's get started now!", "intent": "Inform_get_started"}
+{"user": "Human", "index": 1, "text": "Do you know where we are supposed to go?", "intent": "Ask_know_location"}
+{"user": "Alien", "index": 1, "text": "Yes, the bedroom.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 1, "text": "Let's go to the bedroom now!", "intent": "Ask_take_next_step"}
+{"user": "Alien", "index": 1, "text": "Okay!", "intent": "Inform_understanding"}
+{"user": "Human", "index": 2, "text": "Are you sure you picked up the correct object?", "intent": "Ask_sure_about_object"}
+{"user": "Alien", "index": 2, "text": "No, I am not sure", "intent": "Yes-no_negative"}
+{"user": "Human", "index": 3, "text": "That is not the correct object. That is a book, not a toy. ", "intent": "Inform_object"}
+{"user": "Human", "index": 3, "text": "You should put the book back. ", "intent": "Inform_action"}
+{"user": "Alien", "index": 3, "text": "Okay, I will put the book back.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 4, "text": "Do you need help?", "intent": "Ask_want_help"}
+{"user": "Alien", "index": 4, "text": "No I know what I should do. ", "intent": "Yes-no_negative"}
+{"user": "Alien", "index": 4, "text": "I should pick up the correct object which is a toy. ", "intent": "Inform_understanding"}
+{"user": "Human", "index": 5, "text": "Do you know what to do next?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 5, "text": "No", "intent": "Yes-no_negative"}
+{"user": "Alien", "index": 5, "text": "What should I do now?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 5, "text": "Take the toy to the cupboard in the other room. ", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 5, "text": "Okay", "intent": "Inform_understanding"}
+{"user": "Human", "index": 5, "text": "Do you know where the cupboard is?", "intent": "Ask_know_location"}
+{"user": "Alien", "index": 5, "text": "Yes, I do. ", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 6, "text": "What should I do now?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 6, "text": "You should open the cupboard.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 6, "text": "Okay, I can do that.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 7, "text": "Now, you should place the toy inside.", "intent": "Inform_action"}
+{"user": "Alien", "index": 7, "text": "Okay, I will do that. ", "intent": "Inform_understanding"}
+{"user": "Human", "index": 8, "text": "Do you know what we need to do now?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 8, "text": "Yes", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 8, "text": "I need to go back to the bedroom to grab the next object", "intent": "Inform_understanding"}
+{"user": "Human", "index": 8, "text": "Yes, let's go do that now.", "intent": "Ask_take_next_step"}
+{"user": "Alien", "index": 8, "text": "Okay, let's go", "intent": "Inform_understanding"}
+{"user": "Human", "index": 9, "text": "Do you need help?", "intent": "Ask_want_help"}
+{"user": "Alien", "index": 9, "text": "No, I know what to do", "intent": "Yes-no_negative"}
+{"user": "Alien", "index": 9, "text": "I will grab the second toy ", "intent": "Inform_understanding"}
+{"user": "Human", "index": 9, "text": "Yes, exactly. ", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 10, "text": "Let's head back to the cupboard now.", "intent": "Ask_take_next_step"}
+{"user": "Human", "index": 10, "text": "Do you remember where that is?", "intent": "Ask_know_action"}
+{"user": "Alien", "index": 10, "text": "Yes I do.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 10, "text": "Great! Let's head to the cupboard in that case.", "intent": "Ask_take_next_step"}
+{"user": "Alien", "index": 10, "text": "Okay", "intent": "Inform_understanding"}
+{"user": "Human", "index": 11, "text": "Do you remember what to do with the toy?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 11, "text": "Yes I do", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 11, "text": "I will put the toy into the cupboard.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 11, "text": "Yes, you should do that.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 12, "text": "What should I do now?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 12, "text": "Close the cupboard and then you are done!", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 12, "text": "Great!", "intent": "Inform_understanding"}
+{"user": "Human", "index": 12, "text": "Good job Zara you did great! I will see you later!", "intent": "Extend_goodbyes"}
+{"user": "Alien", "index": 12, "text": "Thank you for all your help! Goodbye!", "intent": "Extend_goodbyes"}

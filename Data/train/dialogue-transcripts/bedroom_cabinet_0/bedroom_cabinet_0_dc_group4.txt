@@ -1,0 +1,49 @@
+{"user": "Human", "index": 1, "text": "Hey Zara, can you come over here for a second please?", "intent": "Extend_greetings"}
+{"user": "Alien", "index": 1, "text": "Sure thing Michael! I'm on my way!", "intent": "Casual_response"}
+{"user": "Alien", "index": 1, "text": "What did you need me for Michael?", "intent": "Casual_question"}
+{"user": "Human", "index": 1, "text": "I was looking around the room and thought that it was a little dirty. Do you want to help me tidy up the room a bit?", "intent": "Casual_response"}
+{"user": "Alien", "index": 1, "text": "Sure thing! I can help with that.", "intent": "Casual_response"}
+{"user": "Alien", "index": 2, "text": "Where do you want to start?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 2, "text": "I think we should start with the toy bug on the bookshelf.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 2, "text": "The one directly in front of me?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 2, "text": "Yes, the toy bug with the red body and yellow wings directly in front of you.", "intent": "Inform_object"}
+{"user": "Alien", "index": 2, "text": "Ok, sounds good.", "intent": "Casual_response"}
+{"user": "Alien", "index": 3, "text": "Where do you want me to put this toy?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 3, "text": "I think we should put it inside the cupboard in the living room.", "intent": "Inform_action"}
+{"user": "Alien", "index": 3, "text": "", "intent": "Display_confusion"}
+{"user": "Alien", "index": 3, "text": "What is a cupboard?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 3, "text": "I'll show you. Follow me!", "intent": "Inform_object"}
+{"user": "Human", "index": 4, "text": "This right here is the cupboard.", "intent": "Inform_object"}
+{"user": "Human", "index": 4, "text": "Do you know what we should do next?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 4, "text": "Yes, you said you wanted me to put this toy in the cupboard right?", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 4, "text": "That's right!", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 4, "text": "Do you need help with that?", "intent": "Ask_want_help"}
+{"user": "Alien", "index": 4, "text": "Yes, how do I get to the inside of the cupboard?", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 4, "text": "You have to first open the cupboard doors.", "intent": "Inform_action"}
+{"user": "Alien", "index": 4, "text": "Ok, got it.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 5, "text": "Do you need help putting the toy away?", "intent": "Ask_want_help"}
+{"user": "Alien", "index": 5, "text": "No, I got it. Thanks for asking though!", "intent": "Yes-no_negative"}
+{"user": "Human", "index": 5, "text": "No problem!", "intent": "Casual_response"}
+{"user": "Alien", "index": 6, "text": "Is there anything else we have to put away next?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 6, "text": "Yes, there is one more toy on the shelf that needs to be put away in the cupboard too.", "intent": "Inform_next_step"}
+{"user": "Human", "index": 6, "text": "Follow me.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 6, "text": "Ok.", "intent": "Casual_response"}
+{"user": "Human", "index": 7, "text": "The second toy we have to put in the cupboard is that red, green, and yellow model train in front of you.", "intent": "Inform_object"}
+{"user": "Alien", "index": 7, "text": "Got it!", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 7, "text": "This one correct?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 7, "text": "Yup, that's the one!", "intent": "Inform_object"}
+{"user": "Human", "index": 8, "text": "Do you know what we should do with the toy next?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 8, "text": "Yes, we need to put it away in the cupboard right?", "intent": "Inform_understanding"}
+{"user": "Human", "index": 8, "text": "That's right!", "intent": "Casual_response"}
+{"user": "Alien", "index": 8, "text": "", "intent": "Display_confusion"}
+{"user": "Alien", "index": 8, "text": "I forgot where the cupboard is. Could you show me again?", "intent": "Explain_confused"}
+{"user": "Human", "index": 8, "text": "Sure thing! It's in the living room. Follow me!", "intent": "Inform_location"}
+{"user": "Alien", "index": 9, "text": "Do you want me to put it next to the other toy?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 9, "text": "Yes, that is perfect!", "intent": "Inform_action"}
+{"user": "Alien", "index": 9, "text": "Ok, I can do that.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 9, "text": "Thank you so much!", "intent": "Casual_response"}
+{"user": "Alien", "index": 10, "text": "Is there anything else we have to do next?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 10, "text": "Nope, we are all done tidying up the room. Can you just close the cupboard doors for me?", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 10, "text": "Sure, I can do that for you!", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 10, "text": "Thank you so much for your help! I really appreciate it!", "intent": "Casual_response"}
+{"user": "Alien", "index": 10, "text": "No problem Michael! I'd love to help whenever I can!", "intent": "Casual_response"}

@@ -1,0 +1,25 @@
+{"user": "Human", "index": 1, "text": "Hey Zara, how are you?", "intent": "Extend_greetings"}
+{"user": "Alien", "index": 1, "text": "Greetings Michael. I am feeling neutral at this present moment.", "intent": "Extend_greetings"}
+{"user": "Human", "index": 2, "text": "I want to teach you how to use a computer, it's really useful! Come with me.", "intent": "Inform_action"}
+{"user": "Alien", "index": 2, "text": "Okay, Michael. Let us proceed.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 3, "text": "So here's what you need to do, turn on the computer by pressing the power button.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 3, "text": "Yes Michael, I will activate the computational device.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 4, "text": "Alright, go ahead.", "intent": "Ask_take_next_step"}
+{"user": "Alien", "index": 4, "text": "I am amazed at the simplicity of activating this computational device.", "intent": "Casual_observation"}
+{"user": "Human", "index": 5, "text": "Great job! Now get in that chair.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 5, "text": "Okay Michael, I will situate my corporeal self such that it is upon the chair.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 6, "text": "I am sitting down and ready to proceed, Michael.", "intent": "Inform_condition"}
+{"user": "Human", "index": 7, "text": "Okay, now grab the mouse.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 7, "text": "Okay Michael, I will acquire the mouse pointer device.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 7, "text": "Hmm.", "intent": "Display_confusion"}
+{"user": "Human", "index": 8, "text": "Zara, perhaps you might want to reconsider. ", "intent": "Ask_sure_about_action"}
+{"user": "Alien", "index": 8, "text": "Yes Michael, you are right. I have acquired the mouse but do not know how to proceed. Should I place it on the table as a mousing surface?", "intent": "Ask_guidence"}
+{"user": "Human", "index": 8, "text": "That's exactly right!", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 9, "text": "Do you know how to proceed?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 9, "text": "Yes, I do.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 9, "text": "", "intent": "Inform_action"}
+{"user": "Human", "index": 10, "text": "That's perfect! Now you can get up and turn off the computer. We can continue tomorrow.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 10, "text": "Yes Michael.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 11, "text": "Okay, now do you know what's next?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 11, "text": "Yes, I will turn off the computer.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 11, "text": "Perfect!", "intent": "Inform_other"}

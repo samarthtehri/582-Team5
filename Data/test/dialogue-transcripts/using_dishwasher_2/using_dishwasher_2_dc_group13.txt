@@ -1,0 +1,42 @@
+{"user": "Alien", "index": 1, "text": "Hey Michael!", "intent": "Extend_greetings"}
+{"user": "Human", "index": 1, "text": "Hello Zara. Nice to see you again.", "intent": "Extend_greetings"}
+{"user": "Human", "index": 1, "text": "Today, we are going to make dinner, but before that we must wash a plate so that we have something to put the dinner on.", "intent": "Inform_other"}
+{"user": "Human", "index": 2, "text": "There is a dirty plate next to the computer. Lets go get that.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 2, "text": "Lead the way!", "intent": "Inform_understanding"}
+{"user": "Human", "index": 3, "text": "Ok. Now that we're here, please grab the plate.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 3, "text": "On it!", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 3, "text": "Hmmm.... Is this what you meant?", "intent": "Display_confusion"}
+{"user": "Human", "index": 3, "text": "Are you sure that is the plate?", "intent": "Ask_sure_about_object"}
+{"user": "Alien", "index": 3, "text": "No, I'm unsure.", "intent": "Yes-no_negative"}
+{"user": "Human", "index": 3, "text": "You were very close, but that was not the plate.", "intent": "Inform_object"}
+{"user": "Human", "index": 4, "text": "Do need more info on the plate?", "intent": "Ask_need_info"}
+{"user": "Alien", "index": 4, "text": "Yes, please.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 4, "text": "Plates are flat, so that they can hold food on them.", "intent": "Inform_object"}
+{"user": "Human", "index": 4, "text": "What you grabbed was the food that was on the plate.", "intent": "Inform_object"}
+{"user": "Alien", "index": 4, "text": "Thanks for clarifying.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 5, "text": "Do you need any more details about the plate?", "intent": "Ask_need_info"}
+{"user": "Alien", "index": 5, "text": "No, I think I've got it. I'll grab the plate now.", "intent": "Yes-no_negative"}
+{"user": "Human", "index": 6, "text": "Lets go back to the kitchen.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 6, "text": "Sounds like a plan.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 7, "text": "This is a dishwasher. It washes dishes.", "intent": "Inform_object"}
+{"user": "Human", "index": 7, "text": "Please open the dishwasher.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 7, "text": "OK.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 8, "text": "Next, put the dirty plate into the dishwasher.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 8, "text": "Copy that.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 9, "text": "Please close the dishwasher so that it can run.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 9, "text": "All clear, I understand what needs to be done.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 10, "text": "You can press that button to start the machine.", "intent": "Inform_action"}
+{"user": "Alien", "index": 10, "text": "Sure thing.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 11, "text": "The dishwasher is now done, and the plate is clean. Please open the dishwasher to retrieve the plate.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 11, "text": "That makes sense. I'll get to it now.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 12, "text": "Do you need any help with this step?", "intent": "Ask_want_help"}
+{"user": "Alien", "index": 12, "text": "No, I don't need help.", "intent": "Yes-no_negative"}
+{"user": "Human", "index": 13, "text": "As we do with most things, we close them after we're done with them. Please do so now.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 13, "text": "Of course!", "intent": "Inform_understanding"}
+{"user": "Human", "index": 14, "text": "Next, please put the plate on the table.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 14, "text": "Is this the dinning table?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 14, "text": "Yes, that is the table.", "intent": "Inform_object"}
+{"user": "Human", "index": 15, "text": "Do you remember what to do next?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 15, "text": "Yes, I will now place the plate down on this table.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 16, "text": "Thank you for your patience in this Michael! See you around.", "intent": "Extend_goodbyes"}
+{"user": "Human", "index": 16, "text": "No worries, you were great. See you too.", "intent": "Extend_goodbyes"}

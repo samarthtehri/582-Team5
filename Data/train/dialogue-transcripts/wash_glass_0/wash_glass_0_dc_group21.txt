@@ -1,0 +1,33 @@
+{"user": "Human", "index": 1, "text": "Come to the sink", "intent": "Inform_location"}
+{"user": "Alien", "index": 1, "text": "Ok sounds good to me", "intent": "Inform_understanding"}
+{"user": "Human", "index": 2, "text": "Go to the table", "intent": "Inform_location"}
+{"user": "Alien", "index": 2, "text": "Ok I am at the table, now what should I do?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 3, "text": "Pick up the glass", "intent": "Inform_action"}
+{"user": "Human", "index": 3, "text": "It's the transparent cup", "intent": "iInform_object"}
+{"user": "Alien", "index": 3, "text": "Alright I will grab the cup", "intent": "Inform_understanding"}
+{"user": "Human", "index": 4, "text": "Come back to the sink", "intent": "Inform_action"}
+{"user": "Alien", "index": 4, "text": "Ok I am on my way", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 4, "text": "What should we do now?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 5, "text": "Put the cup in the sink", "intent": "Inform_action"}
+{"user": "Alien", "index": 5, "text": "Ok I will put the cup in the sink now", "intent": "Inform_understanding"}
+{"user": "Human", "index": 6, "text": "Turn on the faucet", "intent": "Inform_action"}
+{"user": "Human", "index": 6, "text": "You twist the right knob to turn it on", "intent": "iInform_object"}
+{"user": "Alien", "index": 6, "text": "Got it. I will do that now", "intent": "Inform_understanding"}
+{"user": "Human", "index": 7, "text": "Scrub the glass and then turn off the faucet", "intent": "Inform_action"}
+{"user": "Alien", "index": 7, "text": "Like this?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 7, "text": "No you must scrub the glass to wash it", "intent": "Inform_incorrect_action"}
+{"user": "Alien", "index": 7, "text": "My bad. Let me do that now", "intent": "Inform_understanding"}
+{"user": "Human", "index": 8, "text": "Now dry the glass", "intent": "Inform_action"}
+{"user": "Alien", "index": 8, "text": "What should I dry it with?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 8, "text": "Use a towel", "intent": "iInform_object"}
+{"user": "Alien", "index": 8, "text": "Ok I will grab the towel and dry off the glass", "intent": "Inform_understanding"}
+{"user": "Human", "index": 9, "text": "Go back to the table", "intent": "Inform_action"}
+{"user": "Alien", "index": 9, "text": "Ok. Now that I am at the table what should I do?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 9, "text": "Put the glass onto the table", "intent": "Inform_action"}
+{"user": "Alien", "index": 9, "text": "Ok, I will put the glass on the table", "intent": "Inform_understanding"}
+{"user": "Human", "index": 10, "text": "Place the glass gently", "intent": "Inform_other"}
+{"user": "Alien", "index": 10, "text": "Like this?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 10, "text": "Yes, good job", "intent": "Casual_response"}
+{"user": "Alien", "index": 10, "text": "Thank you!", "intent": "Casual_response"}
+{"user": "Human", "index": 11, "text": "Come back to the sink", "intent": "Inform_action"}
+{"user": "Alien", "index": 11, "text": "Ok I'm on my way back now", "intent": "Inform_understanding"}

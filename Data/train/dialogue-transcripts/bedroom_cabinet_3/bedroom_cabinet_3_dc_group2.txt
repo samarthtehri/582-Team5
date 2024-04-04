@@ -1,0 +1,28 @@
+{"user": "Human", "index": 1, "text": "Hey", "intent": "Extend_greetings"}
+{"user": "Human", "index": 1, "text": "Can we put away the toys we used earlier?", "intent": "Casual_question"}
+{"user": "Alien", "index": 1, "text": "Hi!", "intent": "Extend_greetings"}
+{"user": "Alien", "index": 1, "text": "Sure.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 2, "text": "Is this where I left the toys?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 2, "text": "No, they are behind you.", "intent": "Inform_location"}
+{"user": "Alien", "index": 3, "text": "Okay, I have a toy.", "intent": "Inform_condition"}
+{"user": "Alien", "index": 3, "text": "Where should I put it?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 3, "text": "In the other room.", "intent": "Inform_location"}
+{"user": "Human", "index": 4, "text": "Follow me, I'll show you.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 4, "text": "Okay, I'm right with you.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 5, "text": "Do you want me to keep it in here?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 5, "text": "Yea, that's perfect", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 6, "text": "Okay, I put it on the top shelf.", "intent": "Inform_condition"}
+{"user": "Human", "index": 6, "text": "Okay, lets get another.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 7, "text": "Is it in the same place?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 7, "text": "Yep.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 7, "text": "Okay, let's go.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 8, "text": "Oh, it's the last one, we're almost done with this painful task.", "intent": "Inform_observation"}
+{"user": "Human", "index": 8, "text": "haha, yea one more time", "intent": "Casual_response"}
+{"user": "Alien", "index": 9, "text": "Do you want me to keep it back in the same place?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 9, "text": "Yep, this is where the toys are kept.", "intent": "Inform_location"}
+{"user": "Alien", "index": 9, "text": "Okay, let's go.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 10, "text": "Okay, I've put all the toys back where they belong!", "intent": "Inform_observation"}
+{"user": "Human", "index": 10, "text": "Do you know what else you have to do?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 10, "text": "No.", "intent": "Yes-no_negative"}
+{"user": "Human", "index": 11, "text": "Just close the doors so nobody walks into it.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 11, "text": "Gotcha, thank you for helping keep me safe!", "intent": "Inform_understanding"}

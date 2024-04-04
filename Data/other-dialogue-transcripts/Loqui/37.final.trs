@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14-loqui.dtd">
+<Trans scribe="Kenneth" audio_filename="37" version="7" version_date="081123" corpus_version="2.0">
+<Speakers>
+<Speaker id="spk1" name="librarian#1" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="caller#2" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="193.502">
+<Turn startTime="0" endTime="4.536" speaker="spk1">
+<Sync time="0"/>
+library is working with a research team \\
+<Sync time="1.658"/>
+to better improve our service \\
+<Sync time="2.942"/>
+would you mind if this call is recorded \\
+</Turn>
+<Turn speaker="spk2" startTime="4.536" endTime="9.658">
+<Sync time="4.536"/>
+&lt;BN&gt; /* I mean */ &lt;BN&gt; /* uh-sh don't matter */ \\
+<Sync time="8.846"/>
+it doesn't matter \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="9.658" endTime="11.077">
+<Sync time="9.658"/>
+<Who nb="1"/>
+[os okay eo] \\
+<Who nb="2"/>
+[os uh um eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="11.077" endTime="14.454">
+<Sync time="11.077"/>
+let me ask you uh \\
+<Sync time="12.297"/>
+uh is Lawrence still work there \\
+</Turn>
+<Turn speaker="spk1" startTime="14.454" endTime="20.738">
+<Sync time="14.454"/>
+&lt;P&gt; mm she does \\
+<Sync time="16.774"/>
+but she's not here right now \\
+<Sync time="18.336"/>
+do you want to leave a message \\
+<Sync time="19.341"/>
+or is there something I can help you with \\
+</Turn>
+<Turn speaker="spk2" startTime="20.738" endTime="30.952">
+<Sync time="20.738"/>
+&lt;BN&gt; umm &lt;BN&gt; \\
+<Sync time="22.875"/>
+yeah that I wanted to know if you have uh the um &lt;BN&gt; \\
+<Sync time="26.842"/>
+what is it uh \\
+<Sync time="27.683"/>
+Black Reconstruction by uh W E B DuBois \\
+</Turn>
+<Turn speaker="spk1" startTime="30.952" endTime="32.329">
+<Sync time="30.952"/>
+&lt;BN&gt; on tape \\
+</Turn>
+<Turn speaker="spk2" startTime="32.329" endTime="38.322">
+<Sync time="32.329"/>
+yes \\
+<Sync time="32.986"/>
+&lt;BN&gt; \\
+<Sync time="33.743"/>
+&lt;VB&gt; DuBois maintains that the American assumption had been temporarily counterbalanced &lt;VB/&gt; \\
+</Turn>
+<Turn startTime="38.322" endTime="47.713">
+<Sync time="38.322"/>
+&lt;BN&gt; \\
+<Sync time="38.969"/>
+&lt;P&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="47.713" endTime="49.134">
+<Sync time="47.713"/>
+what is your name sir \\
+</Turn>
+<Turn speaker="spk2" startTime="49.134" endTime="50.886">
+<Sync time="49.134"/>
+uh &lt;FIRSTNAME&gt; &lt;LASTNAME&gt; \\
+</Turn>
+<Turn startTime="50.886" endTime="89.15">
+<Sync time="50.886"/>
+&lt;TP&gt; &lt;P&gt; &lt;TP&gt; &lt;B&gt; &lt;TP&gt; &lt;P&gt;\\
+</Turn>
+<Turn speaker="spk1" startTime="89.15" endTime="94.548">
+<Sync time="89.15"/>
+okay they have this book at Recording for the Blind and Dyslexic \\
+<Sync time="93.009"/>
+have you heard of them before \\
+</Turn>
+<Turn speaker="spk2" startTime="94.548" endTime="95.773">
+<Sync time="94.548"/>
+yes I heard of them \\
+</Turn>
+<Turn speaker="spk1" startTime="95.773" endTime="96.92">
+<Sync time="95.773"/>
+are you a member there \\
+</Turn>
+<Turn speaker="spk2" startTime="96.92" endTime="98.482">
+<Sync time="96.92"/>
+uh no \\
+<Sync time="97.917"/>
+not yet \\
+</Turn>
+<Turn speaker="spk1" startTime="98.482" endTime="99.2">
+<Sync time="98.482"/>
+okay \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="99.2" endTime="101.286">
+<Sync time="99.2"/>
+<Who nb="1"/>
+[os oh let me eo] \\
+<Who nb="2"/>
+[os uh we used to eo] be able to do \\
+</Turn>
+<Turn speaker="spk1" startTime="101.286" endTime="107.452">
+<Sync time="101.286"/>
+interlibrary loans from them but \\
+<Sync time="103.168"/>
+they put a temporary hold on it \\
+<Sync time="104.753"/>
+because of staffing and return issues \\
+</Turn>
+<Turn speaker="spk2" startTime="107.452" endTime="109.374">
+<Sync time="107.452"/>
+&lt;P&gt; wha- what did you say \\
+</Turn>
+<Turn speaker="spk1" startTime="109.374" endTime="113.549">
+<Sync time="109.374"/>
+uh I'm saying we used to be able to do interlibrary loans from them \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="113.549" endTime="115.909">
+<Sync time="113.549"/>
+<Who nb="1"/>
+[os oh eo] \\
+<Who nb="2"/>
+[os but eo] we're not doing it for a while \\
+</Turn>
+<Turn speaker="spk1" startTime="115.909" endTime="122.986">
+<Sync time="115.909"/>
+because of understaffing over here \\
+<Sync time="119.164"/>
+and they haven't been getting their books back \\
+<Sync time="121.37"/>
+that they were giving to us \\
+</Turn>
+<Turn speaker="spk2" startTime="122.986" endTime="125.648">
+<Sync time="122.986"/>
+okay \\
+<Sync time="123.804"/>
+um th- there's another one um \\
+</Turn>
+<Turn speaker="spk1" startTime="125.648" endTime="126.096">
+<Sync time="125.648"/>
+sure \\
+</Turn>
+<Turn speaker="spk2" startTime="126.096" endTime="130.772">
+<Sync time="126.096"/>
+uh Cinnamon Kisses \\
+<Sync time="127.874"/>
+by uh &lt;P&gt; \\
+<Sync time="129.649"/>
+uh what is \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="130.772" endTime="131.812">
+<Sync time="130.772"/>
+<Who nb="1"/>
+[os is it Walter Mosly eo] \\
+<Who nb="2"/>
+[os /* I forget his name */ eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="131.812" endTime="132.849">
+<Sync time="131.812"/>
+Walter Mosly yeah \\
+</Turn>
+<Turn startTime="132.849" endTime="151.078">
+<Sync time="132.849"/>
+&lt;TP&gt; &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="151.078" endTime="162.226">
+<Sync time="151.078"/>
+looks like this book \\
+<Sync time="152.43"/>
+should've \\
+<Sync time="154.323"/>
+left our building yesterday \\
+<Sync time="156.127"/>
+&lt;BN&gt; sh-should be on its way \\
+<Sync time="158.659"/>
+&lt;P&gt; maybe he's on your author list \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="162.226" endTime="164.401">
+<Sync time="162.226"/>
+<Who nb="1"/>
+[os oh eo] \\
+<Who nb="2"/>
+[os no eo] he's not \\
+</Turn>
+<Turn speaker="spk1" startTime="164.401" endTime="166.411">
+<Sync time="164.401"/>
+did you request it before \\
+</Turn>
+<Turn speaker="spk2" startTime="166.411" endTime="170.665">
+<Sync time="166.411"/>
+uhh \\
+<Sync time="167.242"/>
+think so yeah but I don't \\
+<Sync time="168.615"/>
+uh I don't think it was recorded at the time \\
+</Turn>
+<Turn speaker="spk1" startTime="170.665" endTime="171.458">
+<Sync time="170.665"/>
+oh okay \\
+</Turn>
+<Turn speaker="spk2" startTime="171.458" endTime="174.458">
+<Sync time="171.458"/>
+like we literally waited for a year \\
+</Turn>
+<Turn speaker="spk1" startTime="174.458" endTime="175.945">
+<Sync time="174.458"/>
+right right &lt;CHKL&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="175.945" endTime="181.88">
+<Sync time="175.945"/>
+we'll see what happens \\
+<Sync time="177.525"/>
+so is it \\
+<Sync time="179.835"/>
+on- on its way to my house or \\
+</Turn>
+<Turn speaker="spk1" startTime="181.88" endTime="182.307">
+<Sync time="181.88"/>
+yeah \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="182.307" endTime="183.265">
+<Sync time="182.307"/>
+<Who nb="1"/>
+to [os your house eo] \\
+<Who nb="2"/>
+[os oh eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="183.265" endTime="186.076">
+<Sync time="183.265"/>
+okay good \\
+<Sync time="184.095"/>
+alright \\
+<Sync time="184.948"/>
+thank you \\
+</Turn>
+<Turn speaker="spk1" startTime="186.076" endTime="186.662">
+<Sync time="186.076"/>
+you're welcome \\
+</Turn>
+<Turn speaker="spk2" startTime="186.662" endTime="187.551">
+<Sync time="186.662"/>
+alright take care \\
+</Turn>
+<Turn speaker="spk1" startTime="187.551" endTime="187.982">
+<Sync time="187.551"/>
+you too \\
+</Turn>
+<Turn startTime="187.982" endTime="193.502">
+<Sync time="187.982"/>
+&lt;TC&gt; \\
+<Sync time="189.858"/>
+&lt;TC&gt; \\
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,29 @@
+{"user": "Alien", "index": 1, "text": "Greetings, Michael.", "intent": "Extend_greetings"}
+{"user": "Human", "index": 1, "text": "Hey Zara! We will learn how to use a computer today!", "intent": "Extend_greetings"}
+{"user": "Human", "index": 2, "text": "Let's head over to the computer in the next room where I'll walk you through the process.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 2, "text": "Ok, lets go.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 2, "text": "Let me briefly describe what a computer is before we start. It's like a magical box that can do a lot of thinking really quickly. Humans use computers to solve problems, talk to each other, play games, and learn new things. ", "intent": "Inform_object"}
+{"user": "Human", "index": 3, "text": "The first step in using a computer would be to turn it on. There is a mini machine under the desk that has a power button. Please push it so it turns on.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 3, "text": "Ok, I think I see the button.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 4, "text": "What is this thing in front of the computer?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 4, "text": "Yes, that is a chair. When using a computer people sit in it while working on the computer.", "intent": "Inform_object"}
+{"user": "Alien", "index": 4, "text": "I see.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 5, "text": "May I sit in the chair?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 5, "text": "Please feel free to take a seat before we start the next step in using this computer.", "intent": "Inform_next_step"}
+{"user": "Human", "index": 5, "text": "Yes, you can take a seat when you are ready to move on with the next step.", "intent": "Inform_action"}
+{"user": "Human", "index": 6, "text": "When interacting with the computer monitor, we use the mouse. It's right next to the screen. Please grab it when you are ready.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 6, "text": "Will do.", "intent": "Display_confusion"}
+{"user": "Human", "index": 7, "text": "You seem confused. You grabbed the cupcake instead of the mouse. The mouse is black. ", "intent": "Inform_object"}
+{"user": "Alien", "index": 7, "text": "Oh! My mistake.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 8, "text": "Do you need additional information to carry out this step?", "intent": "Ask_need_info"}
+{"user": "Alien", "index": 8, "text": "No, thank you. I think I got it this time.", "intent": "Yes-no_negative"}
+{"user": "Human", "index": 9, "text": "Looks like you've gotten the basic steps of how toward with a computer. ", "intent": "Inform_other"}
+{"user": "Alien", "index": 9, "text": "So what happens now?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 9, "text": "We'll need to shut down this computer now. I'll show you how in a moment.", "intent": "Inform_other"}
+{"user": "Human", "index": 10, "text": "Please place the mouse in your hand back on the computer desk.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 10, "text": "Ok.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 11, "text": "Please come near me so that you can reach the machine used to turn the computer on and off. ", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 11, "text": "Do I press the same button I used to turn it on?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 11, "text": "Yes, it is the same button you pushed initially.", "intent": "Inform_object"}
+{"user": "Human", "index": 12, "text": "Awesome! You've done a good job interacting with the computer. I'll be here if you'd like to learn more about it but until then, good-bye.", "intent": "Extend_goodbyes"}
+{"user": "Alien", "index": 12, "text": "Thank you for all the help.", "intent": "Extend_goodbyes"}

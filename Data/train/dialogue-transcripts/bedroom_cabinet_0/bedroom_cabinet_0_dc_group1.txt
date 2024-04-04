@@ -1,0 +1,21 @@
+{"user": "Human", "index": 1, "text": "Let's tidy up the room", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 1, "text": "Alright!", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 2, "text": "What's this here?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 2, "text": "It's a toy we're going to move from the bookshelf to the cupboard.", "intent": "Inform_action"}
+{"user": "Alien", "index": 3, "text": "Where's the cupboard?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 3, "text": "It's over here, I'll show you.", "intent": "Inform_location"}
+{"user": "Human", "index": 4, "text": "Go ahead and open it up.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 4, "text": "Alright!", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 5, "text": "I'm putting the toy away.", "intent": "Inform_get_started"}
+{"user": "Human", "index": 5, "text": "Nice, there's still one more. Let's go get it.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 6, "text": "You mean this one over here?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 6, "text": "Yup, that's it. Go ahead and grab it.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 7, "text": "Alright, grabbing it now.", "intent": "Inform_get_started"}
+{"user": "Human", "index": 7, "text": "Nice, now we just need to take it to the cabinet like the last one.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 8, "text": "Okay, let's go!", "intent": "Inform_get_started"}
+{"user": "Human", "index": 8, "text": "Go ahead and set it down next to that previous one.", "intent": "Inform_next_step"}
+{"user": "Human", "index": 9, "text": "Good job, now we just need to close it.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 9, "text": "Sounds good!", "intent": "Inform_understanding"}
+{"user": "Human", "index": 10, "text": "Alright nice! Let me see if there's anywhere else around here I could show you...", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 10, "text": "How about the kitchen?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 10, "text": "Sure, we could do that.", "intent": "Yes-no_positive"}

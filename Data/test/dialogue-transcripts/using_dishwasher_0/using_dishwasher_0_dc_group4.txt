@@ -1,0 +1,62 @@
+{"user": "Human", "index": 1, "text": "So Zara, what should we make for dinner tonight? ", "intent": "Casual_question"}
+{"user": "Alien", "index": 1, "text": "I am not really sure what's even available. Do you have anything in mind?", "intent": "Casual_response"}
+{"user": "Human", "index": 1, "text": "Not particularly. We could order food or we could make something ourselves.", "intent": "Casual_response"}
+{"user": "Alien", "index": 1, "text": "I am down to make dinner ourselves. I am starting to really love cooking.", "intent": "Casual_response"}
+{"user": "Human", "index": 1, "text": "Ok! Sounds like a plan!", "intent": "Casual_response"}
+{"user": "Human", "index": 2, "text": "First thing we have to do is make sure all the plates and utensils are clean.", "intent": "Casual_observation"}
+{"user": "Alien", "index": 2, "text": "I think there is still a dirty plate on your desk that you used to eat that cupcake for lunch.", "intent": "Casual_response"}
+{"user": "Human", "index": 2, "text": "Let's go check. If there is, we should wash it before we start cooking dinner.", "intent": "Casual_response"}
+{"user": "Alien", "index": 2, "text": "Ok, sounds good.", "intent": "Casual_response"}
+{"user": "Human", "index": 3, "text": "I guess you were right Zara! I have to start putting away my dishes right after I finish using them.", "intent": "Casual_observation"}
+{"user": "Alien", "index": 3, "text": "Do you want me to take this plate to the kitchen for you so that we can clean it?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 3, "text": "That would be great Zara! Thank you so much!", "intent": "Inform_action"}
+{"user": "Alien", "index": 3, "text": "No problem Michael!", "intent": "Casual_response"}
+{"user": "Human", "index": 4, "text": "We can either handwash this plate or throw it in the dishwasher. Which do you prefer?", "intent": "Casual_question"}
+{"user": "Alien", "index": 4, "text": "", "intent": "Display_confusion"}
+{"user": "Alien", "index": 4, "text": "What is a dishwasher?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 4, "text": "It is the black thing under the toaster oven that cleans your dishes for you!", "intent": "Inform_object"}
+{"user": "Human", "index": 4, "text": "Have you never used one before?", "intent": "Casual_question"}
+{"user": "Alien", "index": 4, "text": "No I haven't. Let's use the dishwasher to clean this plate! I want to learn how to use it.", "intent": "Casual_response"}
+{"user": "Human", "index": 4, "text": "Ok, that's fine with me.", "intent": "Casual_response"}
+{"user": "Alien", "index": 5, "text": "What is the first thing we have to do in order to use this dishwasher properly?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 5, "text": "First, we need to open the door of the dishwasher so that we can put the plate inside of it.", "intent": "Inform_action"}
+{"user": "Alien", "index": 5, "text": "Ok, I can do that.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 6, "text": "What do we have to do next?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 6, "text": "Next, we have to put the plate inside of the dishwasher.", "intent": "Inform_next_step"}
+{"user": "Human", "index": 6, "text": "Do you need any help with that?", "intent": "Ask_want_help"}
+{"user": "Alien", "index": 6, "text": "No, I know how to do that. Thanks for asking though!", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 7, "text": "Is that all, or is there something else I have to do next?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 7, "text": "Now that the plate is inside the dishwasher, you can close the dishwasher door so that the dishwasher can run a cycle.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 7, "text": "Got it. That sounds easy enough!", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 8, "text": "What's next? Are the dishes clean now?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 8, "text": "Not yet. Now we have to start the dishwasher so that it will wash the plate.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 8, "text": "", "intent": "Display_confusion"}
+{"user": "Alien", "index": 8, "text": "I am confused. How do we do start the dishwasher?", "intent": "Explain_confused"}
+{"user": "Human", "index": 8, "text": "Great question Zara! All we have to do is press the start button on the dishwasher, and it should start cleaning the plate automatically.", "intent": "Inform_action"}
+{"user": "Alien", "index": 8, "text": "Did I do it correctly?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 8, "text": "Yup! Great job! Now we just have to wait until the dishwasher finishes washing the plate.", "intent": "Inform_action"}
+{"user": "Human", "index": 9, "text": "Now that the dishwasher is done cleaning the plate, you can take it out of the dishwasher.", "intent": "Inform_next_step"}
+{"user": "Human", "index": 9, "text": "Do you need any help with that?", "intent": "Ask_want_help"}
+{"user": "Alien", "index": 9, "text": "I just have to open the door and take the plate out right?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 9, "text": "Yup, that's it!", "intent": "Inform_action"}
+{"user": "Alien", "index": 9, "text": "No, I think I know how to do it then.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 10, "text": "Now that the plate is clean, what should I do next?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 10, "text": "Now we can put the plate aside and start getting ready to cook our dinner!", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 10, "text": "Awesome! I'm starting to get really hungry.", "intent": "Casual_response"}
+{"user": "Human", "index": 10, "text": "Me too. I'm starving!", "intent": "Casual_response"}
+{"user": "Human", "index": 11, "text": "Aren't you forgetting to do something?", "intent": "Ask_sure_about_action"}
+{"user": "Alien", "index": 11, "text": "", "intent": "Display_confusion"}
+{"user": "Alien", "index": 11, "text": "Not sure Michael. Am I forgetting to do something?", "intent": "Yes-no_negative"}
+{"user": "Human", "index": 11, "text": "Yes, whenever you are done using the dishwasher, you should always close the dishwasher door.", "intent": "Inform_action"}
+{"user": "Alien", "index": 11, "text": "Ah of course! I definitely won't forget to do that next time.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 12, "text": "Where do you want me to put this clean plate?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 12, "text": "You can put it over by the table. Thanks Zara!", "intent": "Inform_location"}
+{"user": "Alien", "index": 12, "text": "No Problem Michael! I can do that.", "intent": "Casual_response"}
+{"user": "Alien", "index": 13, "text": "I put the plate on the table.", "intent": "Casual_observation"}
+{"user": "Alien", "index": 13, "text": "Should be get started on making dinner now?", "intent": "Ask_get_started"}
+{"user": "Human", "index": 13, "text": "Yes, we definitely should! Have anything in mind or are you still not sure?", "intent": "Inform_get_started"}
+{"user": "Alien", "index": 13, "text": "I am down with whatever you want to make for dinner Michael.", "intent": "Casual_response"}
+{"user": "Human", "index": 14, "text": "How about some pasta for dinner tonight then?", "intent": "Casual_question"}
+{"user": "Alien", "index": 14, "text": "Pasta sounds delicious! Let's do it!", "intent": "Casual_response"}
+{"user": "Human", "index": 14, "text": "Awesome! Also, thanks so much for helping me clean the plate. I really appreciate it!", "intent": "Casual_response"}
+{"user": "Alien", "index": 14, "text": "My pleasure Michael! I didn't mind at all since I now know how to finally use the dishwasher.", "intent": "Casual_response"}

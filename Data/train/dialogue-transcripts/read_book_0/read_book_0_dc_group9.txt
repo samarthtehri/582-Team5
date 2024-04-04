@@ -1,0 +1,33 @@
+{"user": "Human", "index": 1, "text": "Hey Zara do you want to try reading a book?", "intent": "Ask_get_started"}
+{"user": "Alien", "index": 1, "text": "Yes Michael that sounds very fun!", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 1, "text": "How do I read a book?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 1, "text": "The books are in the TV room let's go there first", "intent": "Inform_action"}
+{"user": "Human", "index": 2, "text": "These up here are the books you should grab them", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 2, "text": "Okay I see I will pick them up", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 3, "text": "Zara you only picked up one book but I also like the other one you should also get the other one", "intent": "Inform_confused"}
+{"user": "Alien", "index": 3, "text": "Oh okay I didn't know you wanted me to get both", "intent": "Inform_confused"}
+{"user": "Alien", "index": 3, "text": "I see I will pickup the other one aswell", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 4, "text": "What Should I do now Michael?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 4, "text": "You should find a place to read you can sit on the couch or the chair", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 4, "text": "I think I will sit in the chair it looks very comfortable", "intent": "Inform_observation"}
+{"user": "Alien", "index": 5, "text": "What Should I do now Michael?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 5, "text": "First sit down in the chair and then you can get to reading", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 5, "text": "Okay I will sit down in the chair", "intent": "Inform_understanding"}
+{"user": "Human", "index": 6, "text": "Now Zara you can read the books just look at them and read the word?", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 6, "text": "I'm sorry Michael im confused do I read them at the same time?", "intent": "Inform_confused"}
+{"user": "Human", "index": 6, "text": "It's Okay Zara no you read them separately, I recommend reading that one first", "intent": "Inform_object"}
+{"user": "Alien", "index": 6, "text": "Okay I understand, I will read this one", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 7, "text": "Wow I really liked that book", "intent": "Inform_observation"}
+{"user": "Human", "index": 7, "text": "Yay! im glad, now you should read the other one", "intent": "Inform_action"}
+{"user": "Alien", "index": 7, "text": "Okay I will do that now Michael", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 7, "text": "Wow that book was also very fun to read!", "intent": "Inform_observation"}
+{"user": "Alien", "index": 8, "text": "What Should I do now that I read the books?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 8, "text": "After you read a book you always have to put it away", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 8, "text": "Oh I understand I will walk towards the table to put them their", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 9, "text": "Is it okay if I put the books on this table Michael?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 9, "text": "Sure Zara that seems like a good spot", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 9, "text": "Okay I will put this book here", "intent": "Inform_understanding"}
+{"user": "Human", "index": 10, "text": "Make sure you put the other book on the table aswell Zara", "intent": "Inform_action"}
+{"user": "Alien", "index": 10, "text": "You are right Michael I will do that too", "intent": "Inform_understanding"}
+{"user": "Human", "index": 11, "text": "Now that you know how to read books we can return to the kitchen", "intent": "Inform_action"}
+{"user": "Alien", "index": 11, "text": "That sounds like a good idea Michael let's go now", "intent": "Inform_understanding"}

@@ -1,0 +1,31 @@
+{"user": "Human", "index": 1, "text": "Zara, before we can drink anything, the glass need to be washed.", "intent": "Inform_action"}
+{"user": "Alien", "index": 1, "text": "yes.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 1, "text": "ask no more.", "intent": "Ask_get_started"}
+{"user": "Alien", "index": 1, "text": "reoger that.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 2, "text": "which glass should i take", "intent": "Ask_about_action"}
+{"user": "Human", "index": 2, "text": "anyone on the table", "intent": "Inform_object"}
+{"user": "Alien", "index": 3, "text": "ok, I got the glass, whats next?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 3, "text": "come wash it in the sink", "intent": "Inform_next_step"}
+{"user": "Human", "index": 4, "text": "you sure that the sink?", "intent": "Ask_sure_about_object"}
+{"user": "Alien", "index": 4, "text": "Oh, this is the refrigerator.", "intent": "Inform_observation"}
+{"user": "Human", "index": 5, "text": "you know where the sink is?", "intent": "Ask_know_location"}
+{"user": "Alien", "index": 5, "text": "I remeber now.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 6, "text": "I put the glass in the sink first?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 6, "text": "thats correct.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 7, "text": "you need any help with washing the dish? ", "intent": "Ask_want_help"}
+{"user": "Alien", "index": 7, "text": "I know what to do.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 8, "text": "the glass is now washed.", "intent": "Inform_observation"}
+{"user": "Human", "index": 8, "text": "good job.", "intent": "Casual_response"}
+{"user": "Human", "index": 9, "text": "okay, do you know what to do next?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 9, "text": "I should take the washed glass back?", "intent": "Inform_confused"}
+{"user": "Human", "index": 10, "text": "You sure?", "intent": "Ask_sure_about_action"}
+{"user": "Alien", "index": 10, "text": "yea, I just put it back to the table.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 11, "text": "and I have done it!", "intent": "Casual_observation"}
+{"user": "Human", "index": 11, "text": "You really think that the right action?", "intent": "Ask_sure_about_action"}
+{"user": "Alien", "index": 11, "text": "what?", "intent": "Inform_confused"}
+{"user": "Alien", "index": 12, "text": "is there something I forgot to do?", "intent": "Inform_confused"}
+{"user": "Human", "index": 12, "text": "yes.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 13, "text": "what is it?", "intent": "Inform_confused"}
+{"user": "Human", "index": 13, "text": "you put the glass back.", "intent": "Inform_action"}
+{"user": "Human", "index": 13, "text": "what are we gonna drink?", "intent": "Ask_know_action"}
+{"user": "Alien", "index": 13, "text": "ohh, I forgot!", "intent": "Inform_confused"}

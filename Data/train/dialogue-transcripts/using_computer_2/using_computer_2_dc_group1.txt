@@ -1,0 +1,33 @@
+{"user": "Alien", "index": 1, "text": "So this is the toaster oven, right?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 1, "text": "Well, yeah... I was just joking earlier. Let's head to the office.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 1, "text": "Oh, okay.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 2, "text": "Alright, here's my computer. It's like a TV but you can interact with it.", "intent": "Inform_object"}
+{"user": "Alien", "index": 2, "text": "I see, nice! How do you use it?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 3, "text": "Well, first you need to turn it on.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 3, "text": "Like this?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 3, "text": "Yup, good job.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 4, "text": "Next, you can take a seat in my desk chair.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 4, "text": "Where would that be?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 4, "text": "Right behind you.", "intent": "Inform_location"}
+{"user": "Alien", "index": 4, "text": "Oh, I see! Thanks.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 5, "text": "Now what do I do?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 5, "text": "Go ahead and grab the mouse, then you can interact with the stuff onscreen by clicking them.", "intent": "Inform_next_step"}
+{"user": "Human", "index": 6, "text": "Wait, what? What are you grabbing that cupcake for?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 6, "text": "Is this not the mouse?", "intent": "Display_confusion"}
+{"user": "Human", "index": 6, "text": "No, the mouse is that black thing to your right.", "intent": "Inform_object"}
+{"user": "Alien", "index": 7, "text": "Do you mean this?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 7, "text": "No, that would be the keyboard. Although, you can use that as well. The mouse is the circle-shaped one.", "intent": "Yes-no_negative"}
+{"user": "Alien", "index": 7, "text": "I see...", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 8, "text": "This one?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 8, "text": "Yup! Took you long enough. Now try clicking some things.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 8, "text": "Wow, this is fun!", "intent": "Inform_observation"}
+{"user": "Human", "index": 9, "text": "Alright, well I'm glad you having fun, but we should probably pack it up soon.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 9, "text": "Oh, okay. So next I need to turn it back off?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 10, "text": "Correct. Make sure to put the mouse back first.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 10, "text": "Okay!", "intent": "Inform_understanding"}
+{"user": "Human", "index": 10, "text": "That's not exactly the spot I had in mind, but it works I guess.", "intent": "Inform_location"}
+{"user": "Alien", "index": 11, "text": "Alright. So this is the power button, right?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 11, "text": "Correct.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 12, "text": "And off it goes!", "intent": "Inform_get_started"}
+{"user": "Human", "index": 12, "text": "Great! Next, I think we could check out the bathroom. I need some help putting towels away in there.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 12, "text": "Sounds good!", "intent": "Inform_understanding"}

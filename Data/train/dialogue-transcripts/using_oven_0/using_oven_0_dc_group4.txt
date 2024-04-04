@@ -1,0 +1,38 @@
+{"user": "Human", "index": 1, "text": "Zara, are you read to learn how to bake bread?", "intent": "Casual_question"}
+{"user": "Alien", "index": 1, "text": "Hey Michael. Yes, I am ready.", "intent": "Casual_response"}
+{"user": "Human", "index": 2, "text": "First, you have to open the oven.", "intent": "Inform_action"}
+{"user": "Alien", "index": 2, "text": "Okay, I just opened the oven. But I'm not sure why we need the oven.", "intent": "Explain_confused"}
+{"user": "Human", "index": 2, "text": "You have to put the bread in the oven, which will warm up the bread.", "intent": "Inform_next_step"}
+{"user": "Human", "index": 3, "text": "The bread is in the toaster.", "intent": "Inform_location"}
+{"user": "Alien", "index": 3, "text": "I see the bread. It's next to the coffee maker.", "intent": "Inform_observation"}
+{"user": "Human", "index": 3, "text": "That's correct. Put one of the breads inside the oven.", "intent": "Inform_action"}
+{"user": "Alien", "index": 4, "text": "I have taken the bread out of the toaster. But I am sort of confused.", "intent": "Inform_confused"}
+{"user": "Human", "index": 4, "text": "You opened the oven so that you can put the bread inside.", "intent": "Inform_next_step"}
+{"user": "Human", "index": 4, "text": "Do you remember this?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 4, "text": "Oh yes! Okay, I remember. I need to put this bread in the oven.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 5, "text": "When you are ready, you can put the bread inside the oven.", "intent": "Inform_action"}
+{"user": "Human", "index": 5, "text": "Do you need assistance?", "intent": "Ask_want_help"}
+{"user": "Alien", "index": 5, "text": "I think I got it. It's only this one slice of bread that I need to put into the oven.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 6, "text": "Do you know what to do next?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 6, "text": "I know I need to put the bread in the oven. But I am not sure what to do next", "intent": "Explain_confused"}
+{"user": "Human", "index": 6, "text": "We need to close the oven so that we can turn on the oven.", "intent": "Inform_action"}
+{"user": "Human", "index": 7, "text": "That's great. Now, we need to wait for it to bake.", "intent": "Inform_action"}
+{"user": "Alien", "index": 7, "text": "What do we do after?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 7, "text": "What do you think we should do next after the oven has baked the bread?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 7, "text": "I am not sure what to do next.", "intent": "Inform_confused"}
+{"user": "Human", "index": 8, "text": "We need to remove the bread from the oven.", "intent": "Inform_action"}
+{"user": "Human", "index": 8, "text": "Do you want some assistance?", "intent": "Ask_want_help"}
+{"user": "Alien", "index": 8, "text": "Thank you! I think I got it. I just need to open the oven so that I can get the bread out.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 9, "text": "The bread is warm, so we need to put the bread on a plate.", "intent": "Inform_action"}
+{"user": "Alien", "index": 9, "text": "It's hot. Where are the plates?", "intent": "Inform_confused"}
+{"user": "Human", "index": 9, "text": "They are on  the countertop next to the sink.", "intent": "Inform_location"}
+{"user": "Human", "index": 10, "text": "Do not forget to close the oven first.", "intent": "Inform_action"}
+{"user": "Human", "index": 10, "text": "Do you remember where the plates are?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 10, "text": "I recall that the plates are near the sink", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 11, "text": "I'm lost. I see so many plates and bowls.", "intent": "Explain_confused"}
+{"user": "Human", "index": 11, "text": "The plates are flat while the bowls are circular and have more depth.", "intent": "Inform_object"}
+{"user": "Alien", "index": 12, "text": "Should I place it in the bowl or the plate? I'm not sure what is appropriate for the bread?", "intent": "Explain_confused"}
+{"user": "Human", "index": 12, "text": "It makes more sense to put the bread on the plate because the plate if flat and can hold the bread more easily.", "intent": "Inform_object"}
+{"user": "Alien", "index": 12, "text": "You're right, I see that the plate would fit the bread better. Thank you!", "intent": "Inform_observation"}
+{"user": "Human", "index": 13, "text": "Great job, Zara. You have learned how to make baked bread. How did you find the learning experience?", "intent": "Casual_question"}
+{"user": "Alien", "index": 13, "text": "Thank you. This was not only a learning experience, but  also fun and the bread looks delicious.", "intent": "Casual_response"}

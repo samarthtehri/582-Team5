@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14-loqui.dtd">
+<Trans scribe="Administrator" audio_filename="63" version="4" version_date="080827" corpus_version="2.0">
+<Speakers>
+<Speaker id="spk1" name="Librarian #1" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="Caller #2" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk4" name="research-header-info" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="220.500">
+<Turn startTime="0" endTime="3.205" speaker="spk4">
+<Sync time="0"/>
+note verbal consent given but not part of extracted file \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3.205" endTime="5.787">
+<Sync time="3.205"/>
+<Who nb="1"/>
+&lt;P&gt; how can I help you [os today eo] \\
+<Who nb="2"/>
+[os good morning eo] how you doing &lt;TN&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="5.787" endTime="7.724">
+<Sync time="5.787"/>
+&lt;BN&gt; &lt;TN&gt; I like to put a order over the phone \\
+</Turn>
+<Turn speaker="spk1" startTime="7.724" endTime="8.458">
+<Sync time="7.724"/>
+&lt;TN&gt; sure \\
+</Turn>
+<Turn speaker="spk2" startTime="8.458" endTime="10.115">
+<Sync time="8.458"/>
+thanks &lt;TN&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="10.115" endTime="10.99">
+<Sync time="10.115"/>
+who is it for \\
+</Turn>
+<Turn speaker="spk2" startTime="10.99" endTime="12.646">
+<Sync time="10.99"/>
+ah Riverdale Nursing Home &lt;BN&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="12.646" endTime="20.554">
+<Sync time="12.646"/>
+&lt;BN&gt; &lt;TP&gt; what's the address there \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="20.554" endTime="24.138">
+<Sync time="20.554"/>
+<Who nb="1"/>
+ah [os &lt;STREETADDRESS&gt; eo] \\
+<Who nb="2"/>
+[os okay eo] right \\ 
+</Turn>
+<Turn speaker="spk1" startTime="24.138" endTime="26.170">
+<Sync time="24.138"/>
+okay do you have the numbers of the books there \\
+</Turn>
+<Turn speaker="spk2" startTime="26.170" endTime="28.378">
+<Sync time="26.170"/>
+umm I just have a question \\
+</Turn>
+<Turn speaker="spk1" startTime="28.378" endTime="28.643">
+<Sync time="28.378"/>
+sure \\
+</Turn>
+<Turn speaker="spk2" startTime="28.643" endTime="37.424">
+<Sync time="28.643"/>
+I didn't umm &lt;B&gt; \\
+<Sync time="30.117"/>
+we were having problems trying to order and I don't know why &lt;CHKL&gt; \\
+<Sync time="32.737"/>
+but um not with you \\
+<Sync time="33.768"/>
+our our end but umm &lt;B&gt; \\
+<Sync time="35.37"/>
+do you have the Da Vinci Code on &lt;P&gt; on tape \\
+</Turn>
+<Turn speaker="spk1" startTime="37.424" endTime="43.301">
+<Sync time="37.424"/>
+&lt;P&gt; mmm there are copies out there but I believe all our copies are out \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="43.301" endTime="45.376">
+<Sync time="43.301"/>
+<Who nb="1"/>
+okay [os can I put the eo] order in \\
+<Who nb="2"/>
+[os I can put it on eo] \\
+</Turn>
+<Turn speaker="spk1" startTime="45.376" endTime="45.704">
+<Sync time="45.376"/>
+yeah \\
+</Turn>
+<Turn speaker="spk2" startTime="45.704" endTime="58.076">
+<Sync time="45.704"/>
+okay I don't have the number \\
+<Sync time="46.8"/>
+I didn't see it &lt;TN&gt; \\
+<Sync time="52.406"/>
+how about umm Angels and Demons &lt;P&gt; \\
+<Sync time="56.956"/>
+another Dan Brown \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="58.076" endTime="59.388">
+<Sync time="58.076"/>
+<Who nb="1"/>
+[os I uh eo] think that's his name \\
+<Who nb="2"/>
+[os yeah eo] \\
+</Turn>
+<Turn speaker="spk1" startTime="59.388" endTime="73.864">
+<Sync time="59.388"/>
+&lt;TP&gt; &lt;TN&gt; \\
+<Sync time="65.763"/>
+okay we should have Angels and Demons in &lt;P&gt; \\
+<Sync time="70.012"/>
+&lt;CT&gt; on your &lt;B&gt; &lt;P&gt; on your profile \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="73.864" endTime="77.455">
+<Sync time="73.864"/>
+<Who nb="1"/>
+[os mhm eo] \\
+<Who nb="2"/>
+[os it eo] says don't send any books that are violent or \\
+</Turn>
+<Turn speaker="spk1" startTime="77.455" endTime="80.829">
+<Sync time="77.455"/>
+&lt;CT&gt; are sexually explicit \\
+<Sync time="79.173"/>
+is that &lt;P&gt; is that still \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="80.829" endTime="81.886">
+<Sync time="80.829"/>
+<Who nb="1"/>
+[os correct eo] \\
+<Who nb="2"/>
+[os umm eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="81.886" endTime="83.23">
+<Sync time="81.886"/>
+I guess you can take that off \\
+</Turn>
+<Turn speaker="spk1" startTime="83.23" endTime="83.824">
+<Sync time="83.23"/>
+take those off &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="83.824" endTime="86.246">
+<Sync time="83.824"/>
+yeah &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="86.246" endTime="88.215">
+<Sync time="86.246"/>
+just cause The Da Vinci Code I think \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="88.215" endTime="89.152">
+<Sync time="88.215"/>
+<Who nb="1"/>
+right [os yeah eo] \\
+<Who nb="2"/>
+[os they both eo] have \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="89.152" endTime="90.059">
+<Sync time="89.152"/>
+<Who nb="1"/>
+violence [os or eo] \\
+<Who nb="2"/>
+[os a little eo] \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="90.059" endTime="90.809">
+<Sync time="90.059"/>
+<Who nb="1"/>
+[os bit your right eo] \\
+<Who nb="2"/>
+[os on one of them eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="90.809" endTime="92.044">
+<Sync time="90.809"/>
+&lt;P&gt; thank you \\
+</Turn>
+<Turn speaker="spk1" startTime="92.044" endTime="92.388">
+<Sync time="92.044"/>
+okay \\
+</Turn>
+<Turn speaker="spk2" startTime="92.388" endTime="93.888">
+<Sync time="92.388"/>
+&lt;B&gt; umm and I have another question \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="93.888" endTime="94.435">
+<Sync time="93.888"/>
+<Who nb="1"/>
+[os sure eo] \\
+<Who nb="2"/>
+[os umm eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="94.435" endTime="97.982">
+<Sync time="94.435"/>
+kinda new to this program umm \\
+<Sync time="96.341"/>
+&lt;B&gt; I just got the News Lion \\
+</Turn>
+<Turn speaker="spk1" startTime="97.982" endTime="98.404">
+<Sync time="97.982"/>
+yeah \\
+</Turn>
+<Turn speaker="spk2" startTime="98.404" endTime="101.857">
+<Sync time="98.404"/>
+&lt;B&gt; and &lt;P&gt; there's a couple books in the front \\
+<Sync time="100.842"/>
+is that Braille \\
+</Turn>
+<Turn speaker="spk1" startTime="101.857" endTime="103.982">
+<Sync time="101.857"/>
+&lt;P&gt; umm if it says B R \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="103.982" endTime="104.81">
+<Sync time="103.982"/>
+<Who nb="1"/>
+[os okay eo] \\
+<Who nb="2"/>
+[os it's eo] Braille \\
+</Turn>
+<Turn speaker="spk2" startTime="104.81" endTime="105.372">
+<Sync time="104.81"/>
+okay &lt;B&gt; \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="105.372" endTime="106.419">
+<Sync time="105.372"/>
+<Who nb="1"/>
+[os R C eo] is cassette\\
+<Who nb="2"/>
+[os &lt;B&gt; eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="106.419" endTime="109.828">
+<Sync time="106.419"/>
+&lt;B&gt; and can I &lt;P&gt; order umm \\
+<Sync time="108.192"/>
+let me give you the number for that \\
+</Turn>
+<Turn speaker="spk1" startTime="109.828" endTime="110.409">
+<Sync time="109.828"/>
+sure \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="110.409" endTime="111.734">
+<Sync time="110.409"/> <!--Michal Novemsky 5-April-2010. Changed spk4 to spk1 here-->
+<Who nb="1"/>
+are they Braille [os or eo] \\
+<Who nb="2"/>
+[os yeah eo] Braille \\
+</Turn>
+<Turn speaker="spk2" startTime="111.734" endTime="120.218">
+<Sync time="111.734"/>
+B R &lt;P&gt; one three six zero eight &lt;P&gt; &lt;TP&gt; \\
+<Sync time="117.671"/>
+and how many can you order at a time \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="120.218" endTime="123.272">
+<Sync time="120.218"/>
+<Who nb="1"/>
+umm I guess as many as you [os think eo] \\
+<Who nb="2"/>
+[os okay eo] alright \\
+</Turn>
+<Turn speaker="spk1" startTime="123.272" endTime="123.678">
+<Sync time="123.272"/>
+yeah \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="123.678" endTime="125.576">
+<Sync time="123.678"/>
+<Who nb="1"/>
+[os as many as you need eo] \\
+<Who nb="2"/>
+[os and then what's the eo] what's the amount of time \\
+</Turn>
+<Turn speaker="spk2" startTime="125.576" endTime="129.852">
+<Sync time="125.576"/>
+that has to be returned \\
+<Sync time="126.404"/>
+as soon as they're finish \\ <!--Michal Novemsky 31-March-2010 Changed "until" to "as soon as"-->
+<Sync time="127.227"/>
+its ah &lt;P&gt; once they're finished they're returned \\
+</Turn>
+<Turn speaker="spk1" startTime="129.852" endTime="132.165">
+<Sync time="129.852"/>
+yeah I mean there's no enforced due date \\
+</Turn>
+<Turn speaker="spk2" startTime="132.165" endTime="132.743">
+<Sync time="132.165"/>
+okay \\
+</Turn>
+<Turn speaker="spk1" startTime="132.743" endTime="135.091">
+<Sync time="132.743"/>
+but if they're really not going to read it anymore just \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="135.091" endTime="136.040">
+<Sync time="135.091"/>
+<Who nb="1"/>
+send it [os back eo] \\
+<Who nb="2"/>
+[os send eo] them back \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="136.040" endTime="138.798">
+<Sync time="136.040"/>
+<Who nb="1"/>
+[os okay eo] &lt;B&gt; and then also I'd like to order umm &lt;B&gt; \\
+<Who nb="2"/>
+[os yeah eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="138.798" endTime="143.198">
+<Sync time="138.798"/>
+this uh B R &lt;P&gt; one five eight one four &lt;TP&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="143.198" endTime="143.933">
+<Sync time="143.198"/>
+okay \\
+</Turn>
+<Turn speaker="spk2" startTime="143.933" endTime="144.98">
+<Sync time="143.933"/>
+&lt;B&gt; so that's it \\
+</Turn>
+<Turn speaker="spk1" startTime="144.98" endTime="145.543">
+<Sync time="144.98"/>
+okay \\
+</Turn>
+<Turn speaker="spk2" startTime="145.543" endTime="148.058">
+<Sync time="145.543"/>
+&lt;B&gt; okay and you said that Angels and Demons is in \\
+</Turn>
+<Turn speaker="spk1" startTime="148.058" endTime="148.527">
+<Sync time="148.058"/>
+right \\
+</Turn>
+<Turn speaker="spk2" startTime="148.527" endTime="151.524">
+<Sync time="148.527"/>
+&lt;B&gt; &lt;TN&gt; let me order one more \\
+<Sync time="150.461"/>
+I'm sorry \\
+</Turn>
+<Turn speaker="spk1" startTime="151.524" endTime="152.243">
+<Sync time="151.524"/>
+no that's fine &lt;BN&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="152.243" endTime="158.109">
+<Sync time="152.243"/>
+umm &lt;P&gt; R C &lt;P&gt; six zero zero one five \\
+</Turn>
+<Turn speaker="spk1" startTime="158.109" endTime="158.921">
+<Sync time="158.109"/>
+okay \\
+</Turn>
+<Turn speaker="spk2" startTime="158.921" endTime="159.874">
+<Sync time="158.921"/>
+okay \\
+</Turn>
+<Turn speaker="spk1" startTime="159.874" endTime="160.311">
+<Sync time="159.874"/>
+&lt;B&gt; yup \\
+</Turn>
+<Turn speaker="spk2" startTime="160.311" endTime="162.654">
+<Sync time="160.311"/>
+and about how long does that take &lt;BN&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="162.654" endTime="169.779">
+<Sync time="162.654"/>
+mmm as long as it's actually on the shelf it shouldn't &lt;P&gt; \\
+<Sync time="166.904"/>
+shouldn't take too long \\
+<Sync time="167.947"/>
+it'll probably leave our building tomorrow \\
+</Turn>
+<Turn speaker="spk2" startTime="169.779" endTime="170.685">
+<Sync time="169.779"/>
+okay and then \\
+</Turn>
+<Turn speaker="spk1" startTime="170.685" endTime="172.123">
+<Sync time="170.685"/>
+so hopefully within a week from there \\
+</Turn>
+<Turn speaker="spk2" startTime="172.123" endTime="173.983">
+<Sync time="172.123"/>
+and then do they come with a return envelope \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="173.983" endTime="176.045">
+<Sync time="173.983"/>
+<Who nb="1"/>
+yeah [os the eo] \\
+<Who nb="2"/>
+[os okay eo] \\
+</Turn>
+<Turn speaker="spk1" startTime="176.045" endTime="178.139">
+<Sync time="176.045"/>
+for the Braille they come in these boxes \\ <!--Michal Novemsky 31-March-2010 Changed Brail to Braille-->
+</Turn>
+<Turn speaker="spk2 spk1" startTime="178.139" endTime="179.077">
+<Sync time="178.139"/>
+<Who nb="1"/>
+[os okay eo] \\
+<Who nb="2"/>
+[os but eo] \\
+</Turn>
+<Turn speaker="spk1" startTime="179.077" endTime="184.393">
+<Sync time="179.077"/>
+the &lt;P&gt; cassettes come in a green like little plastic thing \\
+<Sync time="182.727"/>
+just flip the mailing card around \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="184.393" endTime="185.816">
+<Sync time="184.393"/>
+<Who nb="1"/>
+then &lt;BN&gt; put it back in [os the eo] \\
+<Who nb="2"/>
+[os oh awesome eo] \\
+</Turn>
+<Turn speaker="spk2" startTime="185.816" endTime="186.503">
+<Sync time="185.816"/>
+okay \\
+</Turn>
+<Turn speaker="spk1" startTime="186.503" endTime="186.847">
+<Sync time="186.503"/>
+the \\
+</Turn>
+<Turn speaker="spk2" startTime="186.847" endTime="187.504">
+<Sync time="186.847"/>
+alrighty \\ <!--Michal Novemsky 31-March-2010 Changed /* Freddy */ to alrighty-->
+</Turn>
+<Turn speaker="spk1" startTime="187.504" endTime="188.02">
+<Sync time="187.504"/>
+mail boxes \\
+</Turn>
+<Turn speaker="spk2" startTime="188.02" endTime="189.442">
+<Sync time="188.02"/>
+alright thank you so much for your help \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="189.442" endTime="190.645">
+<Sync time="189.442"/>
+<Who nb="1"/>
+you're [os welcome eo] \\
+<Who nb="2"/>
+[os appreciate eo] it have a good day \\
+</Turn>
+<Turn speaker="spk1" startTime="190.645" endTime="190.926">
+<Sync time="190.645"/>
+you too \\
+</Turn>
+<Turn speaker="spk2" startTime="190.926" endTime="191.301">
+<Sync time="190.926"/>
+bye bye \\
+</Turn>
+<Turn speaker="spk1" startTime="191.301" endTime="220.500">
+<Sync time="191.301"/>
+bye &lt;TN&gt; &lt;P&gt; \\
+</Turn>
+</Section>
+</Episode>
+</Trans>

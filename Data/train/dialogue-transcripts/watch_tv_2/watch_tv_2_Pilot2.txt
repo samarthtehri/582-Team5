@@ -1,0 +1,13 @@
+{"user": "Human", "index": 1, "text": "hi, good evening", "intent": "Extend_greetings"}
+{"user": "Alien", "index": 1, "text": "Oh hi! ", "intent": "Extend_greetings"}
+{"user": "Alien", "index": 1, "text": "Oh is it evening? I did not notice.", "intent": "Inform_confused"}
+{"user": "Human", "index": 1, "text": "It doesn't matter. You are in the kitchen, just finish the task", "intent": "Inform_other"}
+{"user": "Human", "index": 1, "text": "Do you know the task?", "intent": "Ask_know_action"}
+{"user": "Alien", "index": 1, "text": "Ummm I actually don't remember what I want to do. What can I do here?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 1, "text": "No problem, happens with everyone. Its a lazy day. Its a game day, lets go and watch soccer match", "intent": "Ask_know_action"}
+{"user": "Alien", "index": 1, "text": "That sounds interesting. Can you tell me where can I watch it and how?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 1, "text": "There is a tv in the living room, we can watch the soccer match on it", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 1, "text": "That sounds very interesting. Let's go the living room then! You can show me how to use the TV.", "intent": "Inform_get_started"}
+{"user": "Human", "index": 1, "text": "Let's go! Using the TV is easy. I will show you how to use it", "intent": "Casual_response"}
+{"user": "Alien", "index": 1, "text": "Let's go! I am excited!", "intent": "Other"}
+{"user": "Alien", "index": 2, "text": "I have reached living room", "intent": "Inform_understanding"}

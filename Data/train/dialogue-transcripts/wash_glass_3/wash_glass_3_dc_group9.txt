@@ -1,0 +1,46 @@
+{"user": "Human", "index": 1, "text": "Let's go to the sink and wash the glasses Zara.", "intent": "Inform_action"}
+{"user": "Alien", "index": 1, "text": "Sure Michael. I'm on my way there.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 1, "text": "Zara. Are you sure you know how to wash a glasses?", "intent": "Ask_know_action"}
+{"user": "Alien", "index": 1, "text": "Did I do something wrong?", "intent": "Inform_confused"}
+{"user": "Human", "index": 1, "text": "It looks like you're trying to figure out where to start. We're going to wash, but it seems we're missing the glass we need to clean.", "intent": "iInform_object"}
+{"user": "Alien", "index": 1, "text": "I am supposed to wash, but I don't know what with", "intent": "Inform_confused"}
+{"user": "Human", "index": 1, "text": "That's okay, Zara. The glass is a container we drink from. We need to find one to wash. Could you look around and tell me if you see anything that might hold liquid?", "intent": "Inform_action"}
+{"user": "Alien", "index": 2, "text": "Is it the object on the table there?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 2, "text": "That's right, Zara. Those are glasses on the table.", "intent": "iInform_object"}
+{"user": "Alien", "index": 2, "text": "So what should I do next?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 3, "text": "Now, grab one of the glasses on the table ", "intent": "Inform_action"}
+{"user": "Alien", "index": 3, "text": "Now I know what a glass is", "intent": "Inform_understanding"}
+{"user": "Human", "index": 4, "text": "Come Zara. Let's wash that glass.", "intent": "Inform_action"}
+{"user": "Alien", "index": 4, "text": "Sure. I'm on my way.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 5, "text": "Are you ok Zara? Why you standing next to the refrigerator?", "intent": "Ask_okay"}
+{"user": "Alien", "index": 5, "text": "I don't know. What should I do next?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 5, "text": "You should go to the sink and wash the glass", "intent": "Inform_action"}
+{"user": "Alien", "index": 5, "text": "Ok, I'm on my way to the sink.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 6, "text": "Do you know what should do next?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 6, "text": "I don't know. Please tell me more about how to wash a glass.", "intent": "Ask_guidence"}
+{"user": "Human", "index": 6, "text": "Sure. Now put the glass into the sink", "intent": "Inform_action"}
+{"user": "Alien", "index": 6, "text": "Ok", "intent": "Inform_understanding"}
+{"user": "Human", "index": 7, "text": "Do you know what should you do next?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 7, "text": "No, I don't know what should I do next.", "intent": "Ask_next_step"}
+{"user": "Human", "index": 7, "text": "Turn the tap on, so the water can came out and clean the glasses", "intent": "Inform_action"}
+{"user": "Alien", "index": 7, "text": "Sure. I know how to turn the tap on.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 8, "text": "Now, do you know what should do next?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 8, "text": "I don't know. What should I do next?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 8, "text": "You should turn off the tap with your hand.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 8, "text": "Why we should turn off the tap since we just turn on it.", "intent": "Inform_confused"}
+{"user": "Human", "index": 8, "text": "The reason why we have to turn it off is we have to save the water.", "intent": "Inform_action"}
+{"user": "Human", "index": 9, "text": "Now, since the glass is clean. Do you know what should do next?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 9, "text": "Sure, I will grab the class out off the sink.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 10, "text": "Do you still remember where did you grab the glass?", "intent": "Ask_know_location"}
+{"user": "Alien", "index": 10, "text": "Yes", "intent": "Inform_understanding"}
+{"user": "Human", "index": 10, "text": "Good, now go to the place where you grab the glasses.", "intent": "Inform_action"}
+{"user": "Human", "index": 11, "text": "Now do you know what a glass is?", "intent": "Ask_know_object"}
+{"user": "Alien", "index": 11, "text": "Yes, a glass is the object that can hold the water.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 11, "text": "Great, now put it on the place where you get it from", "intent": "Inform_action"}
+{"user": "Human", "index": 12, "text": "Now, do you know where the place to wash the glasses?", "intent": "Ask_know_location"}
+{"user": "Alien", "index": 12, "text": "Yes, it is the place where the water cames from and on your right side.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 12, "text": "Yes it is called the sink, now come over to the sink.", "intent": "iInform_object"}
+{"user": "Human", "index": 13, "text": "Now, do you have anything confused or anything don't understand about wash the glasses?", "intent": "Ask_need_info"}
+{"user": "Alien", "index": 13, "text": "I think I understand and know how to wash the glasses now Michael. ", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 13, "text": "Thank you so much", "intent": "Casual_response"}
+{"user": "Human", "index": 13, "text": "You are Welcome.", "intent": "Inform_action"}

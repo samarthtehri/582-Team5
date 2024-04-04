@@ -1,0 +1,40 @@
+{"user": "Alien", "index": 1, "text": "Hey!", "intent": "Extend_greetings"}
+{"user": "Alien", "index": 1, "text": "I'm bored.", "intent": "Inform_condition"}
+{"user": "Human", "index": 1, "text": "Hi.", "intent": "Extend_greetings"}
+{"user": "Human", "index": 1, "text": "How about you practice reading.", "intent": "Inform_action"}
+{"user": "Alien", "index": 1, "text": "Sure.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 2, "text": "Can I read on this?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 2, "text": "No you can't.", "intent": "Yes-no_negative"}
+{"user": "Alien", "index": 3, "text": "Where can I find something to read?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 3, "text": "There are books on the shelf above you.", "intent": "Inform_location"}
+{"user": "Alien", "index": 3, "text": "Gotcha, thanks!", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 4, "text": "Is this the book you would recommend I read?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 4, "text": "Yea that is a good book.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 4, "text": "There is another one there.", "intent": "Inform_object"}
+{"user": "Alien", "index": 4, "text": "Okay.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 5, "text": "I like both.", "intent": "Casual_observation"}
+{"user": "Human", "index": 5, "text": "You should pick which one you think you'd like more.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 5, "text": "Okay, let me have a look.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 6, "text": "Can I read right here?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 6, "text": "Yea, that's a comfortable spot.", "intent": "Casual_response"}
+{"user": "Alien", "index": 7, "text": "You're right, this is such a comfortable chair!", "intent": "Inform_observation"}
+{"user": "Human", "index": 7, "text": "Do you need help choosing?", "intent": "Ask_want_help"}
+{"user": "Alien", "index": 7, "text": "Yeah.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 7, "text": "Just read the cover page and see which seems more interesting to you.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 8, "text": "This one seems pretty boring.", "intent": "Inform_observation"}
+{"user": "Human", "index": 8, "text": "Try the other one then.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 9, "text": "Ooh, this one seems interesting!", "intent": "Inform_observation"}
+{"user": "Human", "index": 9, "text": "Ok, then read that one.", "intent": "Inform_get_started"}
+{"user": "Human", "index": 10, "text": "Are you sure you want to read here?", "intent": "Ask_sure_about_location"}
+{"user": "Alien", "index": 10, "text": "No, I want to read on the couch.", "intent": "Yes-no_negative"}
+{"user": "Human", "index": 11, "text": "Make sure you put the book you didn't want back", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 11, "text": "Understood.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 12, "text": "I'm hungry.", "intent": "Inform_condition"}
+{"user": "Alien", "index": 12, "text": "Before I read, can we eat first?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 12, "text": "Sure.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 12, "text": "Leave your book here.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 12, "text": "Got it.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 13, "text": "Okay, I'm ready to cook!", "intent": "Inform_get_started"}
+{"user": "Human", "index": 13, "text": "Are you sure?", "intent": "Ask_sure_about_action"}
+{"user": "Human", "index": 13, "text": "Wash your hands first.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 13, "text": "Got it!", "intent": "Inform_understanding"}

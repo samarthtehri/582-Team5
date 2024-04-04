@@ -1,0 +1,33 @@
+{"user": "Human", "index": 1, "text": "Hey Zara!", "intent": "Extend_greetings"}
+{"user": "Alien", "index": 1, "text": "Hey Michael!", "intent": "Extend_greetings"}
+{"user": "Human", "index": 1, "text": "Ready for your next cooking lesson today?", "intent": "Casual_question"}
+{"user": "Alien", "index": 1, "text": "Didn't we already have a previous cooking lesson were I learnt to use the oven?", "intent": "Inform_confused"}
+{"user": "Human", "index": 1, "text": "Superb question Zara! Oven is only one of the ways humans cook food, a stove is an apparatus for cooking or heating that operates by burning fuel or using electricity.  The stove is one of the most important pillars of cooking and the most frequently used.", "intent": "Inform_object"}
+{"user": "Alien", "index": 1, "text": "Oh ok I understand now Michael, I am excited to learn more about this stove thing.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 1, "text": "Excellent, come on over to the kitchen and we can start.", "intent": "Inform_location"}
+{"user": "Human", "index": 2, "text": "We need to have some sort of pot to cook with on the stove. So can you kindly get the pot from the table?", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 2, "text": "Sure thing, let me go and get the pot.", "intent": "Inform_get_started"}
+{"user": "Alien", "index": 3, "text": "So, I need to place this pot onto the stove right?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 3, "text": "Yes, you are absolutely correct Zara!", "intent": "Inform_object"}
+{"user": "Human", "index": 4, "text": "So why do you think we need a pot to cook something on the stove?", "intent": "Ask_sure_about_action"}
+{"user": "Alien", "index": 4, "text": "Based on previous knowledge, Cooking vessels are manufactured using materials such as steel, cast iron, aluminum, clay and various other ceramics and these materials are perfect to conduct heat.", "intent": "Inform_observation"}
+{"user": "Human", "index": 5, "text": "Alright so seems like you have a superb understanding of things, place the pot on the stove.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 5, "text": "Alright the pot has been placed on the stove, what next?", "intent": "Ask_guidence"}
+{"user": "Human", "index": 6, "text": "Turn on the stove so we can start cooking. ", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 6, "text": "Done! What next?", "intent": "Ask_guidence"}
+{"user": "Human", "index": 7, "text": "I have already put all the required stuff into the pot to make it more easy for you. so now since the cooking has finished you can turn off the stove.", "intent": "Inform_action"}
+{"user": "Alien", "index": 7, "text": "Oh ok. Understood what you are getting at, turned it off.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 8, "text": "So now what do you think we need to do next?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 8, "text": "I am not sure, I am confused Michael.", "intent": "Display_confusion"}
+{"user": "Human", "index": 8, "text": "No Problem Zara, now we need to open the lid to reconfirm if the cooking has finished and if it is we need to turn the stove off.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 8, "text": "Oh ok so let me open the lid of the pot.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 8, "text": "Ok so the dish is done cooking, take it off the stove.", "intent": "Inform_next_step"}
+{"user": "Human", "index": 9, "text": "So the cooking is done, you have turned off the stove, so what do you think is next?", "intent": "Ask_know_action"}
+{"user": "Alien", "index": 9, "text": "We need to place the pot on the table right?", "intent": "Inform_understanding"}
+{"user": "Human", "index": 9, "text": "Yes you are correct!", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 9, "text": "Let me take the pot to the table then.", "intent": "Inform_get_started"}
+{"user": "Alien", "index": 10, "text": "Placed the pot on the table, whew the pot was heavy!", "intent": "Casual_observation"}
+{"user": "Human", "index": 10, "text": "Ha Ha! What do you think is next?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 11, "text": "Thanks for teaching me, Michael! Today's cooking lesson has helped me further strengthen my understanding of how humans cook their meals.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 11, "text": "Glad I could learn a lot from you Michael.", "intent": "Extend_goodbyes"}
+{"user": "Human", "index": 11, "text": "No problem Zara!", "intent": "Extend_goodbyes"}

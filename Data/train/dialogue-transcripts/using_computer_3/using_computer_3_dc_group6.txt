@@ -1,0 +1,35 @@
+{"user": "Human", "index": 1, "text": "Hey Zara, you learned how to read a book before, do you want to learn how to use a computer now? ", "intent": "Ask_get_started"}
+{"user": "Alien", "index": 1, "text": "Yes that sounds interesting! what is a computer?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 1, "text": "A computer is a machine that has cool applications and allows us to store and retrieve data.", "intent": "Inform_object"}
+{"user": "Human", "index": 2, "text": "Do you know where you are going, Zara?", "intent": "Ask_know_location"}
+{"user": "Alien", "index": 2, "text": "I am going to the screen", "intent": "Casual_response"}
+{"user": "Human", "index": 2, "text": "That is the TV, we were going to look at the computer which is a different type of screen.", "intent": "Inform_location"}
+{"user": "Alien", "index": 2, "text": "Oh, okay.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 3, "text": "Can you find the computer?", "intent": "Ask_know_location"}
+{"user": "Alien", "index": 3, "text": "Is it this screen?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 3, "text": "Very good", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 4, "text": "Now that we are here, can you turn the computer on?", "intent": "Inform_action"}
+{"user": "Alien", "index": 4, "text": "How do I do that?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 4, "text": "The big box underneath the desk is like the brains of the computer. There is a power button on it to turn it on. Go ahead and press it.", "intent": "Inform_action"}
+{"user": "Alien", "index": 4, "text": "I understand now. Let me turn on the computer.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 5, "text": "Nicely done! Why don't you go ahead and take a seat so we can start.", "intent": "Inform_action"}
+{"user": "Alien", "index": 5, "text": "There is no space for me to sit, what should I do?", "intent": "Ask_guidence"}
+{"user": "Human", "index": 5, "text": "Oh I see, move the chair back a little so that there is space for you to sit down", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 6, "text": "Okay thank you for helping. ", "intent": "Casual_response"}
+{"user": "Human", "index": 6, "text": "No problem. Now let's start using the computer. ", "intent": "Inform_next_step"}
+{"user": "Human", "index": 7, "text": "Do you see the black object on the white mat?", "intent": "Ask_know_object"}
+{"user": "Alien", "index": 7, "text": "I see it", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 7, "text": "But I don't know what it is", "intent": "Ask_about_object"}
+{"user": "Human", "index": 7, "text": "That is a mouse, you use it to control the computer.", "intent": "Inform_object"}
+{"user": "Human", "index": 8, "text": "Check out how you can use that mouse to control what is on the computer", "intent": "Inform_next_step"}
+{"user": "Human", "index": 8, "text": "You can use a computer to access most of human knowledge if you know how to use it", "intent": "Inform_object"}
+{"user": "Alien", "index": 8, "text": "Wow, that sounds very useful", "intent": "Inform_understanding"}
+{"user": "Human", "index": 9, "text": "Now that we are done using the computer, we can put the mouse back so that it is there for next time.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 9, "text": "Does it matter where I put the mouse?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 9, "text": "Not particularly, there is fine. However, people usually leave it on the white mousepad.", "intent": "Inform_location"}
+{"user": "Human", "index": 10, "text": "So far so good. There is one last thing we need to do, do you know what it is?", "intent": "Ask_know_action"}
+{"user": "Alien", "index": 10, "text": "Umm let me think. We have to turn the computer off, right?", "intent": "Casual_response"}
+{"user": "Human", "index": 10, "text": "Yes that's correct! We turn it off to save power. I think you understand it now so why don't you get up and turn it off just like we did at the start to turn it on.", "intent": "Inform_action"}
+{"user": "Alien", "index": 10, "text": "Sure thing!", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 11, "text": "I turned it off similar to what we did at the beginning. Does this look good to you?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 11, "text": "Yes you did that right. Now you know how to use a computer. Kudos!", "intent": "Yes-no_positive"}

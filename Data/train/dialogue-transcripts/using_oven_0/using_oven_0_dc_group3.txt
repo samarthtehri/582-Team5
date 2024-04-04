@@ -1,0 +1,49 @@
+{"user": "Human", "index": 1, "text": "Hey, you wanna learn how to bake tonight?", "intent": "Inform_get_started"}
+{"user": "Alien", "index": 1, "text": "Yeah", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 1, "text": "What are we baking?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 1, "text": "We are going to bake some bread.", "intent": "Inform_action"}
+{"user": "Alien", "index": 1, "text": "Ooh I've seen you humans eat that. I'd like to try it too", "intent": "Inform_observation"}
+{"user": "Human", "index": 1, "text": "Yeah it tastes amazing. ", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 2, "text": "So how do we bake bread?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 2, "text": "We are going to use the oven. Start by opening it. ", "intent": "Inform_action"}
+{"user": "Alien", "index": 2, "text": "Which one is the oven?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 2, "text": "Is the large white appliance in front of me. But the oven is down below. ", "intent": "Inform_object"}
+{"user": "Alien", "index": 2, "text": "Got it", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 3, "text": "Is that bread behind you?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 3, "text": "Yeah thats right!", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 3, "text": "Ok, let me grab it quickly", "intent": "Inform_get_started"}
+{"user": "Alien", "index": 4, "text": "Oh the bread feels cold and soft", "intent": "Inform_observation"}
+{"user": "Human", "index": 4, "text": "Yeah, we need to use the oven to cook it. ", "intent": "Inform_object"}
+{"user": "Alien", "index": 4, "text": "Oh so the oven heats things up?", "intent": "Inform_understanding"}
+{"user": "Human", "index": 4, "text": "Yes", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 5, "text": "So do I put the bread in the oven?", "intent": "Inform_understanding"}
+{"user": "Human", "index": 5, "text": "Yes thats right.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 6, "text": "There are many levels in the oven", "intent": "Inform_observation"}
+{"user": "Alien", "index": 6, "text": "Where do I put the bread?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 6, "text": "Just put the bread on the top rack inside the oven. ", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 6, "text": "OK", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 7, "text": "I'm lost, what happens now?", "intent": "Inform_confused"}
+{"user": "Human", "index": 7, "text": "Once you close the oven, the bread will start to bake.", "intent": "Inform_action"}
+{"user": "Alien", "index": 7, "text": "Ok, I'll close it", "intent": "Inform_get_started"}
+{"user": "Alien", "index": 8, "text": "Is the bread baked yet?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 8, "text": "Yeah, the bread is done baking. You can open the oven now. ", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 8, "text": "The oven is quite hot", "intent": "Inform_observation"}
+{"user": "Human", "index": 8, "text": "Yeah it gets very hot. Be careful!", "intent": "Casual_response"}
+{"user": "Human", "index": 9, "text": "You can pick up the bread now. It should be safe to hold.", "intent": "Inform_action"}
+{"user": "Alien", "index": 9, "text": "Alright", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 9, "text": "The bread is hot now. It even smells nice", "intent": "Inform_observation"}
+{"user": "Human", "index": 9, "text": "The bread should taste much better. ", "intent": "Casual_response"}
+{"user": "Alien", "index": 10, "text": "Let's eat the bread now!", "intent": "Inform_get_started"}
+{"user": "Human", "index": 10, "text": "Are you forgetting something?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 10, "text": "Oh yes, I should close the oven.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 10, "text": "Yeah", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 11, "text": "Shall I eat it right away?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 11, "text": "No. You should use a plate so the floor doesn't get dirty. ", "intent": "Yes-no_negative"}
+{"user": "Alien", "index": 11, "text": "Ok, I'll use a plate", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 11, "text": "I believe its the white dish on the other end of the counter", "intent": "Inform_understanding"}
+{"user": "Human", "index": 11, "text": "Yeah you are right.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 12, "text": "Can I use the top plate?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 12, "text": "Yeah just use that plate.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 12, "text": "Sure", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 13, "text": "My mouth is watering. ", "intent": "Inform_condition"}
+{"user": "Human", "index": 13, "text": "You did a really good job baking bread. I hope you enjoy it. ", "intent": "Casual_response"}

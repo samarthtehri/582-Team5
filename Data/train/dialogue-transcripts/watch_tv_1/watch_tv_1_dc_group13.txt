@@ -1,0 +1,33 @@
+{"user": "Human", "index": 1, "text": "Do you wish start learning about watching tv?", "intent": "Ask_get_started"}
+{"user": "Alien", "index": 1, "text": "Sure, watching TV sounds interesting. Lead the way.", "intent": "Inform_get_started"}
+{"user": "Human", "index": 1, "text": "We need to go to the tv in the living room", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 1, "text": "Ok, sounds good.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 2, "text": "You can turn on the tv by pressing that button", "intent": "Inform_action"}
+{"user": "Alien", "index": 2, "text": "Power button, got it. Uh, where is it?", "intent": "Ask_about_location"}
+{"user": "Human", "index": 2, "text": "The button is usually marked by a symbol of a circle with a line through the top.", "intent": "iInform_object"}
+{"user": "Alien", "index": 3, "text": "Uh, I am confused. Can you please explain that again?", "intent": "Inform_confused"}
+{"user": "Human", "index": 3, "text": "The power button is usually indicated by an incomplete circle with a line in the top. It might be bigger than the others or have a light.", "intent": "iInform_object"}
+{"user": "Human", "index": 3, "text": "You push it in to activate it.", "intent": "Inform_action"}
+{"user": "Alien", "index": 3, "text": "Big button with an incomplete circle... Ah, I think I see it.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 4, "text": "Clicked it! But, wait, what's next?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 4, "text": "After turning on the tv, we usually go to a seat to watch the tv.", "intent": "Inform_action"}
+{"user": "Alien", "index": 4, "text": "Okay! Got it!", "intent": "Inform_understanding"}
+{"user": "Human", "index": 5, "text": "Umm... Is something wrong?", "intent": "Ask_okay"}
+{"user": "Alien", "index": 5, "text": "No, I'm fine. I did what you asked and found a seat.", "intent": "Explain_confused"}
+{"user": "Human", "index": 5, "text": "You can sit on the seats. It makes watching tv far less exausting.", "intent": "Inform_action"}
+{"user": "Alien", "index": 6, "text": "Yeah, you're right! That makes sense I should've have known.", "intent": "Casual_response"}
+{"user": "Human", "index": 6, "text": "I'm into football. Would you like to watch a game?", "intent": "Casual_question"}
+{"user": "Alien", "index": 6, "text": "Football? Sounds fascinating. Let me try to watch a game.", "intent": "Ask_next_step"}
+{"user": "Human", "index": 7, "text": "Congratulations! You now know how to watch tv.", "intent": "Inform_other"}
+{"user": "Alien", "index": 7, "text": "Thanks Michael!", "intent": "Casual_response"}
+{"user": "Alien", "index": 8, "text": "Now that I have successfully watched tv, let's do something else in the kitchen.", "intent": "Ask_guidence"}
+{"user": "Human", "index": 8, "text": "Now that you are done watching the tv, it must be turned off to save power.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 8, "text": "Would I turn it off the same way I turned it on?", "intent": "Ask_guidence"}
+{"user": "Human", "index": 8, "text": "Yes.", "intent": "Inform_other"}
+{"user": "Alien", "index": 9, "text": "That wasn't as complicated as I thought would be! Thanks for the patience.", "intent": "Casual_observation"}
+{"user": "Human", "index": 9, "text": "No worries.", "intent": "Casual_response"}
+{"user": "Human", "index": 10, "text": "Do you have have any remaining question?", "intent": "Ask_need_info"}
+{"user": "Human", "index": 10, "text": "Do you have have any remaining questions?", "intent": "Inform_action"}
+{"user": "Alien", "index": 10, "text": "No, I think you walked my through the process well and it seemed pretty straightforward, thank you.", "intent": "Inform_observation"}
+{"user": "Alien", "index": 11, "text": "Well I've taken up enough of your time today. I bid you farewell.", "intent": "Extend_goodbyes"}
+{"user": "Human", "index": 11, "text": "No problem. You can come again anytime.", "intent": "Extend_goodbyes"}

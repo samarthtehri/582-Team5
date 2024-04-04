@@ -1,0 +1,28 @@
+{"user": "Alien", "index": 1, "text": "What's this hole in the counter here Michael?", "intent": "Casual_question"}
+{"user": "Human", "index": 1, "text": "Zara, that is the sink, that is used to wash things like glasses", "intent": "Inform_location"}
+{"user": "Alien", "index": 2, "text": "Should we go to the room to watch the TV?", "intent": "Other"}
+{"user": "Human", "index": 2, "text": "Ofcourse, let's go to my room", "intent": "Inform_location"}
+{"user": "Alien", "index": 2, "text": "Is this the TV, Michael?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 2, "text": "Zara, no, that is the computer, the TV is on that side", "intent": "Inform_object"}
+{"user": "Alien", "index": 2, "text": "Oh, I apologize, my bad", "intent": "Inform_confused"}
+{"user": "Alien", "index": 2, "text": "No worries, come, let's go to the TV", "intent": "Other"}
+{"user": "Alien", "index": 3, "text": "So, this is the TV?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 3, "text": "Yes, that right there is, you found it!", "intent": "Inform_location"}
+{"user": "Alien", "index": 4, "text": "Michael, I will try to turn on the TV", "intent": "Inform_confused"}
+{"user": "Alien", "index": 4, "text": "The TV switched on!!", "intent": "Other"}
+{"user": "Human", "index": 4, "text": "Good job Zara! Now pick and choose a channel you want to watch", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 5, "text": "From this distance, the TV is easier to watch.", "intent": "Inform_confused"}
+{"user": "Human", "index": 5, "text": "Yes, Zara, you can sit there, the couch is very comfortable", "intent": "Inform_location"}
+{"user": "Alien", "index": 6, "text": "Thanks Michael, this couch does look comfortable, I will sit down.", "intent": "Casual_observation"}
+{"user": "Human", "index": 6, "text": "Yes Zara, it is quite comfortable! Are you ready to relax and watch TV?", "intent": "Casual_response"}
+{"user": "Alien", "index": 7, "text": "This TV program is not very interesting to me.", "intent": "Casual_observation"}
+{"user": "Human", "index": 7, "text": "Ofcourse Zara, let's go to the kitchen", "intent": "Casual_response"}
+{"user": "Alien", "index": 8, "text": "Is it okay if I turn off the TV?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 8, "text": "Zara, of course. You're done watching, you can turn it off.", "intent": "Casual_response"}
+{"user": "Alien", "index": 9, "text": "Okay great, I will turn it off then.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 9, "text": "Okay, let's go to back to the kitchen now", "intent": "Casual_response"}
+{"user": "Alien", "index": 10, "text": "Okay Michael, let's head back to the kitchen.", "intent": "Casual_response"}
+{"user": "Human", "index": 10, "text": "Zara, come follow me", "intent": "Casual_response"}
+{"user": "Human", "index": 10, "text": "Here, we are back in the kitchen, what would you like to do now? ", "intent": "Inform_location"}
+{"user": "Alien", "index": 11, "text": "This is a nice kitchen, I really like it.", "intent": "Casual_observation"}
+{"user": "Human", "index": 11, "text": "Look, there is toast that's ready, would you like breakfast?", "intent": "Casual_response"}

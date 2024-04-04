@@ -1,0 +1,26 @@
+{"user": "Human", "index": 1, "text": "Hey are you ready to start cleaning?", "intent": "Ask_get_started"}
+{"user": "Alien", "index": 1, "text": "Sure, lets head to our room now.", "intent": "Inform_get_started"}
+{"user": "Alien", "index": 1, "text": "What should we start with? ", "intent": "Ask_next_step"}
+{"user": "Human", "index": 1, "text": "Lets clean out the bookshelf first, follow me.", "intent": "Inform_action"}
+{"user": "Alien", "index": 2, "text": "What toy should we move? ", "intent": "Ask_about_object"}
+{"user": "Human", "index": 2, "text": "We need to put them all away so grab one.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 2, "text": "Sure, I will grab this one right here. ", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 3, "text": "Where should we put the toys? ", "intent": "Ask_about_location"}
+{"user": "Human", "index": 3, "text": "We need to put them in the cabinet in the other room, follow me.", "intent": "Inform_action"}
+{"user": "Human", "index": 4, "text": "This is the cabinet where we store the toys.", "intent": "Inform_location"}
+{"user": "Alien", "index": 4, "text": "Ok, how do I place them inside? ", "intent": "Ask_next_step"}
+{"user": "Human", "index": 4, "text": "First open the cabinet up.", "intent": "Inform_action"}
+{"user": "Human", "index": 5, "text": "Do you know what to do now?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 5, "text": "Yes, I do!", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 5, "text": "I will put the toy on the top shelf.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 6, "text": "Now we need to go back and grab the other toy.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 6, "text": "Ok, I will go back to the bookshelf.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 7, "text": "Should I grab the train next?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 7, "text": " Yup that is the last toy we need to put away.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 8, "text": "Do you remember where the cabinet where the toy goes is?", "intent": "Ask_know_location"}
+{"user": "Alien", "index": 8, "text": "Yes, I think I do!", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 8, "text": "Following right behind you.", "intent": "Inform_condition"}
+{"user": "Human", "index": 9, "text": "Ok now just put it in right next to the other toy.", "intent": "Inform_action"}
+{"user": "Alien", "index": 9, "text": "Understood, putting it down now. ", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 10, "text": "Should I close the cabinet doors? ", "intent": "Ask_about_action"}
+{"user": "Human", "index": 10, "text": "Yup we are all finished with cleaning up for today.", "intent": "Yes-no_positive"}

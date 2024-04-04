@@ -1,0 +1,27 @@
+{"user": "Human", "index": 1, "text": "Hey Zara!", "intent": "Extend_greetings"}
+{"user": "Human", "index": 1, "text": "Let's clean up the bathroom by putting the two towels on the table into the cabinet.", "intent": "Inform_action"}
+{"user": "Human", "index": 1, "text": "Are you ready to get started?", "intent": "Ask_get_started"}
+{"user": "Alien", "index": 1, "text": "Yes Michael.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 2, "text": "Let's start by opening the cabinets.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 2, "text": "Okay, Michael.", "intent": "Inform_understanding"}
+{"user": "Human", "index": 3, "text": "Okay, now grab the towels and put them in the cabinet.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 3, "text": "Alright, Michael.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 4, "text": "I have grabbed a towel. It is soft.", "intent": "Inform_observation"}
+{"user": "Alien", "index": 5, "text": "Now I place it in the cabinet, yes?", "intent": "Ask_guidence"}
+{"user": "Human", "index": 5, "text": "That's right.", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 6, "text": "I have placed it into the cabinet. The bathroom appears tidier already.", "intent": "Inform_observation"}
+{"user": "Human", "index": 6, "text": "Great, now do the same for the other towel.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 6, "text": "Okay, Michael.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 7, "text": "I am walking to the other towel now.", "intent": "Inform_condition"}
+{"user": "Alien", "index": 8, "text": "I have acquired the other towel. It is also soft, and slightly damp.", "intent": "Inform_observation"}
+{"user": "Human", "index": 8, "text": "Now put it in the cabinet.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 8, "text": "Yes Michael.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 9, "text": "I will place it in the cabinet now.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 10, "text": "Hmm.", "intent": "Display_confusion"}
+{"user": "Alien", "index": 10, "text": "There is already a towel here.", "intent": "Explain_confused"}
+{"user": "Human", "index": 10, "text": "Yes Zara, place the towel you're holding next to the one already in the cabinet.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 10, "text": "Ok, I will put the towel there.", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 11, "text": "I have placed it into the cabinet.", "intent": "Inform_observation"}
+{"user": "Human", "index": 12, "text": "Great Zara, now do you know what to do?", "intent": "Ask_know_next_step"}
+{"user": "Alien", "index": 12, "text": "Yes. I will close the cabinets.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 12, "text": "Perfect!", "intent": "Inform_other"}

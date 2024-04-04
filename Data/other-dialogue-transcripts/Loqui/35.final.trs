@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14-loqui.dtd">
+<Trans scribe="John Doe" audio_filename="35" version="6" version_date="080626" corpus_version="2.0">
+<Speakers>
+<Speaker id="spk1" name="librarian#1" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="caller#1" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="non-speaking-librarian-activity#1" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk4" name="caller#2" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="230.047">
+<Turn startTime="0" endTime="5.936" speaker="spk1">
+<Sync time="0"/>
+good afternoon \\
+<Sync time="1.125"/>
+right now we're working with a research team &lt;TN&gt; \\
+<Sync time="2.873"/>
+to better improve our service \\
+<Sync time="4.186"/>
+do you mind if this call is recorded \\
+</Turn>
+<Turn speaker="spk2" startTime="5.936" endTime="8.467">
+<Sync time="5.936"/>
+&lt;P&gt; &lt;B&gt; no no \\
+</Turn>
+<Turn speaker="spk1" startTime="8.467" endTime="9.186">
+<Sync time="8.467"/>
+you don't \\
+</Turn>
+<Turn speaker="spk2" startTime="9.186" endTime="10.13">
+<Sync time="9.186"/>
+I don't care \\
+</Turn>
+<Turn speaker="spk1" startTime="10.13" endTime="11.693">
+<Sync time="10.13"/>
+okay \\
+<Sync time="10.599"/>
+how can I help you today \\
+</Turn>
+<Turn speaker="spk2" startTime="11.693" endTime="13.698">
+<Sync time="11.693"/>
+yes my name is &lt;FIRSTNAME&gt; &lt;LASTNAME&gt; \\
+<Sync time="13.064"/>
+how you doing \\
+</Turn>
+<Turn speaker="spk1" startTime="13.698" endTime="14.323">
+<Sync time="13.698"/>
+hi \\
+</Turn>
+<Turn speaker="spk4" startTime="14.323" endTime="18.259">
+<Sync time="14.323"/>
+good um \\
+<Sync time="15.51"/>
+&lt;B&gt; uh I'm calling from &lt;TOWN&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="18.259" endTime="18.894">
+<Sync time="18.259"/>
+okay \\
+</Turn>
+<Turn speaker="spk2" startTime="18.894" endTime="21.812">
+<Sync time="18.894"/>
+&lt;P&gt; &lt;B&gt; you find me on the computer \\
+</Turn>
+<Turn speaker="spk1" startTime="21.812" endTime="22.312">
+<Sync time="21.812"/>
+yeah \\
+</Turn>
+<Turn speaker="spk2" startTime="22.312" endTime="29.253">
+<Sync time="22.312"/>
+&lt;B&gt; um &lt;B&gt; ge- I wa- \\
+<Sync time="25.223"/>
+&lt;P&gt; I was listening the other day abou- about the Diary &lt;IR&gt; of An- An- Anne Frank \\ 
+</Turn>
+<Turn speaker="spk1" startTime="29.253" endTime="32.657">
+<Sync time="29.253"/>
+okay \\
+<Sync time="30.101"/>
+mister &lt;LASTNAME&gt; I'm gonna put someone off on hold \\
+<Sync time="31.829"/>
+I'll be right back \\
+<Sync time="32.488"/>
+okay \\
+</Turn>
+<Turn speaker="spk2" startTime="32.657" endTime="33.058">
+<Sync time="32.657"/>
+okay \\
+</Turn>
+<Turn speaker="spk3" startTime="33.058" endTime="34.491">
+<Sync time="33.058"/>
+&lt;P&gt; &lt;TC&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="34.491" endTime="37.052">
+<Sync time="34.491"/>
+good afternoon \\
+<Sync time="35.134"/>
+Andrew Heiskell library \\
+<Sync time="36.367"/>
+please hold \\
+</Turn>
+<Turn speaker="spk4" startTime="37.052" endTime="37.406">
+<Sync time="37.052"/>
+okay \\
+</Turn>
+<Turn speaker="spk3" startTime="37.406" endTime="39.15">
+<Sync time="37.406"/>
+&lt;TN&gt; &lt;P&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="39.15" endTime="40.836">
+<Sync time="39.15"/>
+okay \\
+<Sync time="39.617"/>
+Diary of Anne Frank \\
+</Turn>
+<Turn speaker="spk2" startTime="40.836" endTime="41.43">
+<Sync time="40.836"/>
+yes \\
+</Turn>
+<Turn speaker="spk1" startTime="41.43" endTime="42.305">
+<Sync time="41.43"/>
+yeah \\
+</Turn>
+<Turn speaker="spk3" startTime="42.305" endTime="46.323">
+<Sync time="42.305"/>
+&lt;TP&gt; &lt;BN&gt; \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="46.323" endTime="49.318">
+<Sync time="46.323"/>
+<Who nb="1"/>
+&lt;B&gt; uh [os can I eo] \\
+<Who nb="2"/>
+[os you eo] say you were listening to it before \\
+</Turn>
+<Turn speaker="spk2" startTime="49.318" endTime="61.169">
+<Sync time="49.318"/>
+&lt;B&gt; uh yes \\
+<Sync time="50.934"/>
+but I want to hear to ch- I- I- \\ 
+<Sync time="52.411"/>
+I listen \\
+<Sync time="52.938"/>
+&lt;P&gt; I l- have it a long time ago \\
+<Sync time="55.081"/>
+but th- -is happen about you know from the \\
+<Sync time="57.472"/>
+happened on channel thirteen that they have \\
+<Sync time="59.006"/>
+um about the Holocaust the other day \\
+</Turn>
+<Turn speaker="spk1" startTime="61.169" endTime="61.936">
+<Sync time="61.169"/>
+&lt;P&gt; right \\
+</Turn>
+<Turn speaker="spk2" startTime="61.936" endTime="70.906">
+<Sync time="61.936"/>
+and they they have a segment about that so \\
+<Sync time="64.623"/>
+I w- I w- I was um \\
+<Sync time="66.687"/>
+&lt;B&gt; I see if I call and \\
+<Sync time="68.875"/>
+ou- uh get it back again \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="70.906" endTime="73.504">
+<Sync time="70.906"/>
+<Who nb="1"/>
+&lt;P&gt; [os okay eo] \\
+<Who nb="2"/>
+[os &lt;B&gt; and eo] I want you /* correct me */ \\
+</Turn>
+<Turn speaker="spk2" startTime="73.504" endTime="75.223">
+<Sync time="73.504"/>
+&lt;P&gt; /* some thing else */ \\
+</Turn>
+<Turn speaker="spk1" startTime="75.223" endTime="81.289">
+<Sync time="75.223"/>
+&lt;P&gt; &lt;BN&gt; yeah it's um let's see \\
+<Sync time="78.567"/>
+&lt;P&gt; okay \\
+<Sync time="80.052"/>
+we should have a copy in \\
+</Turn>
+<Turn speaker="spk2" startTime="81.289" endTime="82.229">
+<Sync time="81.289"/>
+okay \\
+</Turn>
+<Turn speaker="spk1" startTime="82.229" endTime="83.206">
+<Sync time="82.229"/>
+I'll send it to you \\
+</Turn>
+<Turn speaker="spk2" startTime="83.206" endTime="91.460">
+<Sync time="83.206"/>
+the other day I got book \\
+<Sync time="84.537"/>
+the- the book is fine \\
+<Sync time="85.62"/>
+but I found a cassette \\
+<Sync time="86.748"/>
+is um is is Spanish \\
+<Sync time="88.807"/>
+is Our Body \\
+<Sync time="89.851"/>
+Our Body Our Souls \\
+</Turn>
+<Turn speaker="spk1" startTime="91.460" endTime="93.923">
+<Sync time="91.460"/>
+&lt;P&gt; Our Body Our Souls \\ 
+</Turn>
+<Turn speaker="spk2" startTime="93.923" endTime="108.440">
+<Sync time="93.923"/>
+yes \\
+<Sync time="94.517"/>
+&lt;P&gt; &lt;TP&gt; this uh i- i- i- is a cassette \\
+<Sync time="97.464"/>
+it's uh it says uhum five seventeen \\
+<Sync time="100.557"/>
+but &lt;B&gt; um it's in Spanish \\
+<Sync time="102.395"/>
+um \\
+<Sync time="103.301"/>
+&lt;B&gt; nu- nutrition so something \\
+<Sync time="105.763"/>
+says five seventeen talking about nutrition \\
+<Sync time="108.08"/>
+so \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="108.440" endTime="110.882">
+<Sync time="108.440"/>
+<Who nb="1"/>
+mm [os do you eo] have the number \\
+<Who nb="2"/>
+[os I was ch- eo] \\
+<Sync time="109.963"/>
+<Who nb="1"/>
+[os for it eo] \\
+<Who nb="2"/>
+[os no no eo] no it just \\
+</Turn>
+<Turn speaker="spk2" startTime="110.882" endTime="121.618">
+<Sync time="110.882"/>
+&lt;B&gt; it- &lt;B&gt; the book i- \\
+<Sync time="113.101"/>
+I opened the cassette \\
+<Sync time="114.267"/>
+I opened the &lt;P&gt; I opened the container \\
+<Sync time="115.853"/>
+and I found the uh the &lt;P&gt; the \\
+<Sync time="117.631"/>
+&lt;P&gt; the book that's supposed to be is fine \\
+<Sync time="119.975"/>
+but i- it was an extra cassette \\
+</Turn>
+<Turn speaker="spk1" startTime="121.618" endTime="122.498">
+<Sync time="121.618"/>
+ah an extra one \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="122.498" endTime="126.174">
+<Sync time="122.498"/>
+<Who nb="1"/>
+[os okay eo] \\
+<Who nb="2"/>
+[os yeah eo] yeah \\
+<Sync time="123.284"/>
+<Who nb="1"/>
+&lt;P&gt; &lt;B&gt; [os okay eo] \\
+<Who nb="2"/>
+[os I eo] was wondering wh- what's that about \\
+</Turn>
+<Turn speaker="spk2" startTime="126.174" endTime="127.073">
+<Sync time="126.174"/>
+do you happen to know \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="127.073" endTime="128.776">
+<Sync time="127.073"/>
+<Who nb="1"/>
+if it was an [os old book or eo] \\
+<Who nb="2"/>
+[os um eo] \\
+</Turn>
+<Turn speaker="spk1" startTime="128.776" endTime="137.247">
+<Sync time="128.776"/>
+what I'm guessing is somebody who had two books out at one time \\
+<Sync time="132.906"/>
+accidently put that \\
+<Sync time="134.188"/>
+&lt;P&gt; you know \\
+<Sync time="135.481"/>
+put that cassette in the wrong box \\
+</Turn>
+<Turn speaker="spk2" startTime="137.247" endTime="138.216">
+<Sync time="137.247"/>
+yeah yeah yeah \\
+</Turn>
+<Turn speaker="spk1" startTime="138.216" endTime="138.654">
+<Sync time="138.216"/>
+yeah \\
+</Turn>
+<Turn speaker="spk2" startTime="138.654" endTime="144.648">
+<Sync time="138.654"/>
+but it's in Spanish but uh \\
+<Sync time="140.31"/>
+from wh- where was able to /* read */ some in- interesting about what /* wondering */ \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="144.648" endTime="148.341">
+<Sync time="144.648"/>
+<Who nb="1"/>
+&lt;B&gt; oh is available or [os s- oh eo] \\
+<Who nb="2"/>
+[os okay eo] \\
+</Turn>
+<Turn speaker="spk1" startTime="148.341" endTime="150.066">
+<Sync time="148.341"/>
+is the title in Spanish or \\
+</Turn>
+<Turn speaker="spk2" startTime="150.066" endTime="151.097">
+<Sync time="150.066"/>
+yea in Spanish \\
+</Turn>
+<Turn speaker="spk1" startTime="151.097" endTime="151.659">
+<Sync time="151.097"/>
+okay \\
+</Turn>
+<Turn speaker="spk2" startTime="151.659" endTime="152.909">
+<Sync time="151.659"/>
+Our Body Our Soul \\
+</Turn>
+<Turn speaker="spk1" startTime="152.909" endTime="161.214">
+<Sync time="152.909"/>
+&lt;P&gt; mm \\
+<Sync time="155.284"/>
+&lt;P&gt; &lt;BN&gt; can you can you spell everything out for me \\
+<Sync time="158.034"/>
+&lt;P&gt; &lt;B&gt; in like nuestra something \\
+</Turn>
+<Turn speaker="spk2" startTime="161.214" endTime="161.87">
+<Sync time="161.214"/>
+yes \\
+</Turn>
+<Turn speaker="spk1" startTime="161.87" endTime="166.846">
+<Sync time="161.87"/>
+&lt;TP&gt; uh &lt;BN&gt; &lt;B&gt; \\
+<Sync time="165.628"/>
+ho- how do you say body \\
+</Turn>
+<Turn speaker="spk2" startTime="166.846" endTime="167.721">
+<Sync time="166.846"/>
+&lt;B&gt; cuerpo \\
+</Turn>
+<Turn speaker="spk1" startTime="167.721" endTime="168.596">
+<Sync time="167.721"/>
+cuerpo okay \\
+</Turn>
+<Turn speaker="spk3" startTime="168.596" endTime="174.515">
+<Sync time="168.596"/>
+&lt;TP&gt; \\
+</Turn>
+<Turn speaker="spk1" startTime="174.515" endTime="176.643">
+<Sync time="174.515"/>
+is that like nuestro cuerpo \\
+</Turn>
+<Turn speaker="spk2" startTime="176.643" endTime="178.09">
+<Sync time="176.643"/>
+yeah yeah yeah yeah yeah yeah \\
+</Turn>
+<Turn speaker="spk3" startTime="178.09" endTime="183.543">
+<Sync time="178.09"/>
+&lt;P&gt; \\
+</Turn>
+<Turn speaker="spk2" startTime="183.543" endTime="189.965">
+<Sync time="183.543"/>
+&lt;B&gt; maybe you could find it \\
+<Sync time="184.593"/>
+uh um oh \\
+<Sync time="186.687"/>
+&lt;P&gt; can I have it if not \\
+<Sync time="188.600"/>
+mm forget it you know \\
+</Turn>
+<Turn speaker="spk1" startTime="189.965" endTime="192.22">
+<Sync time="189.965"/>
+on the tape itself it doesn't have a number on it \\
+</Turn>
+<Turn speaker="spk2" startTime="192.22" endTime="200.722">
+<Sync time="192.22"/>
+no no no just says five seventeen \\
+<Sync time="194.145"/>
+/* jacely theselies */ \\
+<Sync time="195.592"/>
+when when five no \\
+<Sync time="196.964"/>
+the first cassette says \\
+<Sync time="198.129"/>
+R C you know the number and the title \\
+</Turn>
+<Turn speaker="spk1" startTime="200.722" endTime="201.253">
+<Sync time="200.722"/>
+yeah \\
+</Turn>
+<Turn speaker="spk1 spk2" startTime="201.253" endTime="205.105">
+<Sync time="201.253"/>
+<Who nb="1"/>
+&lt;P&gt; &lt;B&gt; but it doesn't have the number and the title [os on this eo] \\
+<Who nb="2"/>
+[os no no eo] no just \\
+</Turn>
+<Turn speaker="spk2" startTime="205.105" endTime="207.217">
+<Sync time="205.105"/>
+&lt;P&gt; &lt;B&gt; you know if you can't find it don't worry about it \\
+</Turn>
+<Turn speaker="spk1" startTime="207.217" endTime="208.123">
+<Sync time="207.217"/>
+okay \\
+</Turn>
+<Turn speaker="spk3" startTime="208.123" endTime="212.017">
+<Sync time="208.123"/>
+&lt;TP&gt; \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="212.017" endTime="213.228">
+<Sync time="212.017"/>
+<Who nb="1"/>
+[os but i- eo]
+<Who nb="2"/>
+[os okay eo] I'll keep looking \\
+</Turn>
+<Turn speaker="spk2" startTime="213.228" endTime="220.894">
+<Sync time="213.228"/>
+okay but about the Ann- \\
+<Sync time="215.197"/>
+The Diary of a- Anne Frank \\
+<Sync time="216.822"/>
+oh if i- if i- if it's possible can I have it back \\ 
+<Sync time="219.031"/>
+oh again if it's possible \\
+</Turn>
+<Turn speaker="spk1" startTime="220.894" endTime="221.271">
+<Sync time="220.894"/>
+yeah \\
+</Turn>
+<Turn speaker="spk2" startTime="221.271" endTime="224.89">
+<Sync time="221.271"/>
+&lt;P&gt; good \\
+<Sync time="222.143"/>
+&lt;P&gt; &lt;TN&gt; that's it my friend \\
+</Turn>
+<Turn speaker="spk1" startTime="224.89" endTime="225.515">
+<Sync time="224.89"/>
+okay \\
+</Turn>
+<Turn speaker="spk2 spk1" startTime="225.515" endTime="227.526">
+<Sync time="225.515"/>
+<Who nb="1"/>
+&lt;P&gt; okay thank you very [os much eo] \\
+<Who nb="2"/>
+[os you're eo] welcome \\
+</Turn>
+<Turn speaker="spk2" startTime="227.526" endTime="228.082">
+<Sync time="227.526"/>
+bye bye \\
+</Turn>
+<Turn speaker="spk1" startTime="228.082" endTime="228.507">
+<Sync time="228.082"/>
+bye bye \\
+</Turn>
+<Turn speaker="spk3" startTime="228.507" endTime="230.047">
+<Sync time="228.507"/>
+&lt;TN&gt; \\
+</Turn>
+</Section>
+</Episode>
+</Trans>

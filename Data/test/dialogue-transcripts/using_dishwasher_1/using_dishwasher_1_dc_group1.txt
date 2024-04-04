@@ -1,0 +1,34 @@
+{"user": "Human", "index": 1, "text": "Alright, let's wash some dishes. Here's the dishwasher, under the toaster oven there.", "intent": "Inform_get_started"}
+{"user": "Alien", "index": 1, "text": "Toaster oven? Do you mean this?", "intent": "Ask_about_object"}
+{"user": "Human", "index": 2, "text": "No, that would be my computer, which is much more powerful than a mere toaster oven.", "intent": "Yes-no_negative"}
+{"user": "Alien", "index": 2, "text": "Wait, really? Then where is it?", "intent": "Inform_confused"}
+{"user": "Human", "index": 2, "text": "It's back in the kitchen where we were before.", "intent": "Inform_location"}
+{"user": "Alien", "index": 3, "text": "Oh, I see. Sorry, I got a little mixed up.", "intent": "Explain_confused"}
+{"user": "Human", "index": 3, "text": "That's okay, I guess they're both rectangular and get hot. I can see how you'd mix them up.", "intent": "Inform_object"}
+{"user": "Human", "index": 4, "text": "Actually, wait, while we're here, can you grab that plate? We'll need to wash it anyway.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 4, "text": "Oh, sure! I guess this worked out after all.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 5, "text": "Okay, so this is what I meant by toaster oven. See the big black box under it? That's the dishwasher.", "intent": "Inform_object"}
+{"user": "Alien", "index": 5, "text": "Oh, I see now. Thanks!", "intent": "Inform_understanding"}
+{"user": "Human", "index": 6, "text": "Go ahead and open it up first.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 6, "text": "Got it!", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 7, "text": "I'm assuming next I need to put the plate in it?", "intent": "Ask_guidence"}
+{"user": "Human", "index": 7, "text": "Yup! Then you just need to shut it and turn it on.", "intent": "Inform_action"}
+{"user": "Alien", "index": 8, "text": "Alright, closing it now.", "intent": "Inform_get_started"}
+{"user": "Human", "index": 8, "text": "Nice! Do you know how to turn it on?", "intent": "Ask_want_help"}
+{"user": "Alien", "index": 8, "text": "No, unfortunately. Could you help me with that?", "intent": "Yes-no_negative"}
+{"user": "Human", "index": 9, "text": "To turn on the dish washer, just press that button in the middle there.", "intent": "Inform_action"}
+{"user": "Alien", "index": 9, "text": "This one?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 9, "text": "Yup, that's it.", "intent": "Yes-no_positive"}
+{"user": "Human", "index": 10, "text": "It should be done about now. You can take the plate out.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 10, "text": "Alright, nice!", "intent": "Inform_understanding"}
+{"user": "Human", "index": 11, "text": "Great, now all you need to do is close it up and set the table.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 11, "text": "Set the table? What does that mean?", "intent": "Ask_about_action"}
+{"user": "Human", "index": 12, "text": "It just means setting the plate down on the dining table over there. Don't forget to close the dishwasher first.", "intent": "Inform_action"}
+{"user": "Alien", "index": 12, "text": "I won't, thanks!", "intent": "Inform_understanding"}
+{"user": "Alien", "index": 13, "text": "This is the dining table over here, right?", "intent": "Ask_about_location"}
+{"user": "Alien", "index": 13, "text": "Yup, not the counter like before, haha!", "intent": "Yes-no_positive"}
+{"user": "Alien", "index": 14, "text": "Alright, setting down the plate now.", "intent": "Inform_get_started"}
+{"user": "Human", "index": 14, "text": "Great! Now we can eat dinner.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 15, "text": "What should we do next?", "intent": "Ask_next_step"}
+{"user": "Human", "index": 15, "text": "I'm thinking I'll get some drinks going with dinner. We're going to need to rinse out the glasses first, though. They're a little too dirty for my liking.", "intent": "Inform_next_step"}
+{"user": "Alien", "index": 15, "text": "Sounds good!", "intent": "Inform_understanding"}
