@@ -10,11 +10,11 @@ from src.path import dataset_dir, llm_outputs_dir
 from src.prompts import get_prompt_template
 
 
-get_tokenizer: dict = {
-    "mistralai/Mistral-7B-Instruct-v0.1": "mistralai/Mistral-7B-Instruct-v0.1",
-    "mosaicml/mpt-7b-instruct": "EleutherAI/gpt-neox-20b",
-    "stabilityai/stablelm-tuned-alpha-7b": "gpt2",
-}
+def get_tokenizer(model_name: str) -> str:
+    if model_name == "mosaicml/mpt-7b-instruct":
+        return "EleutherAI/gpt-neox-20b"
+    
+    return model_name
 
 
 def get_prompt(data, input_format: list[str], prompt_type: str):
@@ -47,7 +47,7 @@ if __name__ == "__main__":
     dataset = load_dataset('csv', data_files=str(dataset_dir / "test" / "test.csv"), split="train")
 
     print("load tokenizer")
-    tokenizer = AutoTokenizer.from_pretrained(get_tokenizer[args.model_name], trust_remote_code=True)
+    tokenizer = AutoTokenizer.from_pretrained(get_tokenizer(args.model_name), trust_remote_code=True)
     tokenizer.pad_token = tokenizer.eos_token
     print("load model")
     model = AutoModelForCausalLM.from_pretrained(args.model_name, device_map='auto', trust_remote_code=True)
@@ -69,7 +69,7 @@ if __name__ == "__main__":
         
         responses.extend([{"response": d} for d in decoded])
 
-    output_dir = llm_outputs_dir / f"prompt={args.prompt_type}" / f"input_format={'-'.join(args.llm_input_format)}"
+    output_dir = llm_outputs_dir / f"prompt={args.prompt_type}" / f"input_format={'-'.join(args.llm_input_format)}" / "responses"
     output_dir.mkdir(parents=True, exist_ok=True)
     with open(output_dir / f"{args.model_name.split('/')[-1]}.jsonl", "w") as f:
         for response in responses:
