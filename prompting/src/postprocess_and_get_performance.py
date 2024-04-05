@@ -1,6 +1,6 @@
 import json
 
-from src.config import llms_list
+from src.config import llms_list, input_formats_list
 from src.path import llm_outputs_dir, performance_dir
 from src.prompts import get_prompt_template
 from src.utils.load_csv_dataset import load_csv_dataset
@@ -16,7 +16,7 @@ def postprocess_response(response_dict: dict, prompt_name: str) -> int:
         raw_label = response[-1]
     else:
         raise NotImplementedError(f"Postprocessing for prompt_name={prompt_name} is not implemented.")
-    
+
     if raw_label in ["0", "1"]:
         label = int(raw_label)
     else:
@@ -30,7 +30,7 @@ if __name__ == "__main__":
     
     performance_dict = {}
     for prompt_name in get_prompt_template.keys():
-        for input_format in ["user-text"]:
+        for input_format in input_formats_list:
             for model_name_long in llms_list:
                 # postprocess
                 model_name = model_name_long.split("/")[-1]

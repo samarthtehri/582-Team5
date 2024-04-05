@@ -9,3 +9,4 @@ do
 done
 
 python src/postprocess_and_get_performance.py
+python src/generate_table.py

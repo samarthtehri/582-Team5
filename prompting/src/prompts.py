@@ -1,15 +1,18 @@
+# this definition is used in all prompts
 definition = """We provide two sentences in a dialogue. Your task is to determine if there is a break in the activity between the two sentences.
 0 represents that the two sentences are in the same segment in the dialogue. There is no break in the activity between two sentences.
 1 represents that the two sentences are in different segments in the dialogue. The first sentence occurs at the end of a segment and the second sentence begins a new segment."""
 
-zeroshot_sentence = "Your response should only include 0 or 1. Don't include any other text."
 
+# zero-shot prompt
+zeroshot_sentence = "Your response should only include 0 or 1. Don't include any other text."
 zeroshot_prompt = definition + "\n" + zeroshot_sentence + """
 
 {input1}
 {input2}"""
 
 
+# few-shot examples
 few_shot_examples = [
     [
         "Alien: Ok, that's fine with me.",
@@ -56,16 +59,19 @@ your_task_placeholder = """New input (your task):
 {input2}"""
 
 
+# few-shot prompt (only final answer)
 fewshot_prompt = definition + "\n" + zeroshot_sentence + "\n\n" + few_shot_examples_sentence + "\n\n" + "\n\n".join(
     [f"{example[0]}\n{example[1]}\n{example[3]}" for example in few_shot_examples]
 ) + "\n\n" + your_task_placeholder
 
 
+# few-shot prompt with chain-of-thought
 fewshot_cot_prompt = definition + "\n" + zeroshot_sentence + "\n\n" + few_shot_examples_sentence + "\n\n" + "\n\n".join(
     [f"{example[0]}\n{example[1]}\n{example[2]}\nLabel: {example[3]}" for example in few_shot_examples]
 ) + "\n\n" + your_task_placeholder
 
 
+# this dictionary will be used in run_llms.py
 get_prompt_template = {
     "zeroshot": zeroshot_prompt,
     "fewshot": fewshot_prompt,
@@ -73,6 +79,7 @@ get_prompt_template = {
 }
 
 
+# check prompts
 if __name__ == "__main__":
     print("Zero-shot prompt:")
     print(get_prompt_template["zeroshot"])

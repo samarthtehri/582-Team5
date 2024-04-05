@@ -1,0 +1,4 @@
+ & pos_label=0 precision & pos_label=0 recall & pos_label=0 f1 & pos_label=1 precision & pos_label=1 recall & pos_label=1 f1 & macro precision & macro recall & macro f1 \\
+zeroshot & 88 & 40 & 55 & 39 & 88 & 54 & 64 & 64 & 55 \\
+fewshot & 82 & 65 & 73 & 46 & 68 & 55 & 64 & 67 & 64 \\
+fewshot_cot & 91 & 66 & 76 & 51 & 61 & 55 & 71 & 63 & 66 \\
