@@ -1,14 +1,19 @@
 import sklearn.metrics
 
 
+def get_label_distrubiton(labels_list: list[int]) -> dict:
+    return {
+        "count": {"0": labels_list.count(0), "1": labels_list.count(1), "-1": labels_list.count(-1)},
+        "average": sum(labels_list) / len(labels_list),
+    }
+
+
 def get_performance(y_true: list[int], y_pred: list[int]) -> dict:
     # statistics
     statistics = {
         "total_samples": len(y_true),
-        "label_distribution": {
-            "count": {"0": y_true.count(0), "1": y_true.count(1)},
-            "average": sum(y_true) / len(y_true),
-        },
+        "y_true_distribution": get_label_distrubiton(y_true),
+        "y_pred_distribution": get_label_distrubiton(y_pred),
     }
     
     # performance
@@ -31,7 +36,7 @@ def get_performance(y_true: list[int], y_pred: list[int]) -> dict:
     precision, recall, f1, _ = sklearn.metrics.precision_recall_fscore_support(
         y_true=y_true, y_pred=y_pred,
         zero_division=0,
-        average="macro",
+        average="macro", labels=[0, 1],
     )
     
     performance["macro"] = {
