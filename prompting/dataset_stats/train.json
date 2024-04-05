@@ -11,15 +11,28 @@
     },
     "baseline_performance": {
         "majority_class": {
-            "pos_label=0": {
-                "precision": 0.7092156862745098,
-                "recall": 1.0,
-                "f1": 0.8298726626132844
+            "statistics": {
+                "total_samples": 5100,
+                "label_distribution": {
+                    "count": {
+                        "0": 3617,
+                        "1": 1483
+                    },
+                    "average": 0.2907843137254902
+                }
             },
-            "pos_label=1": {
-                "precision": 0.0,
-                "recall": 0.0,
-                "f1": 0.0
+            "performance": {
+                "accuracy": 0.7092156862745098,
+                "pos_label=0": {
+                    "precision": 0.7092156862745098,
+                    "recall": 1.0,
+                    "f1": 0.8298726626132844
+                },
+                "pos_label=1": {
+                    "precision": 0.0,
+                    "recall": 0.0,
+                    "f1": 0.0
+                }
             }
         }
     }

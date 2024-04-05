@@ -27,6 +27,19 @@ def get_performance(y_true: list[int], y_pred: list[int]) -> dict:
             "f1": f1[0].item(),
         }
     
+    # # overall
+    # precision, recall, f1, _ = sklearn.metrics.precision_recall_fscore_support(
+    #     y_true=y_true, y_pred=y_pred,
+    #     zero_division=0,
+    #     average="micro",
+    # )
+    
+    # performance["micro"] = {
+    #     "precision": precision.item(),
+    #     "recall": recall.item(),
+    #     "f1": f1.item(),
+    # }
+    
     return {
         "statistics": statistics,
         "performance": performance,

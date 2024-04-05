@@ -52,5 +52,59 @@
                 }
             }
         }
+    },
+    "prompt=fewshot": {
+        "input_format=user-text": {
+            "Mistral-7B-Instruct-v0.1": {
+                "statistics": {
+                    "total_samples": 1290,
+                    "label_distribution": {
+                        "count": {
+                            "0": 895,
+                            "1": 395
+                        },
+                        "average": 0.3062015503875969
+                    }
+                },
+                "performance": {
+                    "accuracy": 0.3689922480620155,
+                    "pos_label=0": {
+                        "precision": 0.7956204379562044,
+                        "recall": 0.1217877094972067,
+                        "f1": 0.21124031007751937
+                    },
+                    "pos_label=1": {
+                        "precision": 0.3183000867302689,
+                        "recall": 0.9291139240506329,
+                        "f1": 0.47416020671834624
+                    }
+                }
+            },
+            "Mixtral-8x7B-Instruct-v0.1": {
+                "statistics": {
+                    "total_samples": 1290,
+                    "label_distribution": {
+                        "count": {
+                            "0": 895,
+                            "1": 395
+                        },
+                        "average": 0.3062015503875969
+                    }
+                },
+                "performance": {
+                    "accuracy": 0.39069767441860465,
+                    "pos_label=0": {
+                        "precision": 0.8657718120805369,
+                        "recall": 0.1441340782122905,
+                        "f1": 0.2471264367816092
+                    },
+                    "pos_label=1": {
+                        "precision": 0.32894736842105265,
+                        "recall": 0.9493670886075949,
+                        "f1": 0.48859934853420195
+                    }
+                }
+            }
+        }
     }
 }

@@ -1,0 +1,1290 @@
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\nIn this case, there is a break in the activity between the two sentences. The human has completed their action of specifying how to turn on the TV, and now the alien is moving on to a new task of helping with the bathroom."}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\n0"}
+{"response": "1\n\nExplanation: In the first example, the human's question \"Are you lost?\" indicates a break in the activity from the previous sentence. In the second example, the human's response \"I am good, thank you for asking\" indicates that the activity of asking how the alien is doing has been completed. In the third example, the human's statement \"I have reached living room\" indicates a break in the activity from the previous sentence. In the fourth example, the activity of figuring out how to open the TV has been completed. In the fifth example, the human's statement \"I have reached living room\" indicates a break in the activity from the previous sentence. In the sixth example, the alien's statement \"Grabbing the towel!\" indicates a new activity starting after the previous sentence."}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "0\n\nHuman: Yes, the middle one.\nAlien: Alright, I am putting it in the middle cabinet now.\n0\n\nHuman: Okay, now let's start watching a movie.\nAlien: I am ready, which movie should we watch?\n0\n\nHuman: How about the latest sci-fi release?\nAlien: I would prefer a comedy movie.\n1\n\nHuman: Alright, let me find a good comedy movie then.\nAlien: Sounds good, I am looking forward to it.\n0"}
+{"response": "0\n\nExplanation: In this example, the human's response \"Yup, that's the one\" indicates that they are continuing the same activity of identifying the correct cabinet. Therefore, there is no break in the activity between the two sentences."}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n\nIn this case, the first sentence (\"In it goes!\") represents the completion of an action (putting something away), and the second sentence (\"You sure about the top shelf? I didn't realize you could reach that high.\") indicates a new concern or question about the activity. Therefore, there is a break in the activity between the two sentences."}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n\nIn this case, the first sentence (\"Of course...\") occurs at the end of a segment where the human has been setting up towels, and the second sentence (\"Alright, that should be good. I still want to keep one towel out to actually use.\") begins a new segment where the human has finished setting up the towels and is now moving on to something else."}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0\n\n1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n\nIn this case, the first sentence (\"Oh, I see. Sorry, I got a little mixed up.\") indicates that the alien has already started to understand how to operate the TV, but the second sentence (\"That's okay, I guess they're both rectangular and get hot. I can see how you'd mix them up.\") suggests that the human is now explaining the differences between a TV and something else (presumably a computer, given the mention of it being rectangular and getting hot). This indicates a break in the activity of figuring out how to operate the TV, so the answer is 1."}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "0\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1\n\nIn this case, the first sentence (\"Nice!\") indicates that the human has completed an action (presumably turning on the TV), and the second sentence (\"Do you know how to turn it on?\") indicates that the human is now asking a new question. This suggests that there is a break in the activity between the two sentences, so the answer is 1."}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "0"}
+{"response": "1\n\n0"}
+{"response": "1"}
+{"response": "0\n1\n0\n0\n1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1"}
+{"response": "1\n\nIn this case, there is a break in the activity between the two sentences. The first sentence \"Set the table? What does that mean?\" indicates that the alien is unsure of what to do, and the second sentence \"It just means setting the plate down on the dining table over there. Don't forget to close the dishwasher first.\" provides instructions for the alien to follow. This indicates a new segment of activity where the alien is learning how to set the table."}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\nAlien: I am now in the living room.\nHuman: Great, let's start watching the movie.\n0\n\nAlien: Sure, I will try that.\nHuman: The remote is on the coffee table.\n0\n\nAlien: I can't find the remote.\nHuman: It's right next to you.\n0\n\nAlien: I see it now.\nHuman: Great, now press the power button to turn on the TV.\n0\n\nAlien: I did it! The TV is on.\nHuman: Awesome! Now let's find the movie.\n0\n\nAlien: I am searching for the movie.\nHuman: It's under the 'Movies' tab.\n0\n\nAlien: Found it!\nHuman: Great, let's press play.\n0\n\nAlien: Playing the movie now.\nHuman: Enjoy the show!\n0"}
+{"response": "1"}
+{"response": "1\n\nIn this case, the human's statement \"Great! Now we can eat dinner.\" indicates that they have completed an activity (eating dinner) and are now ready to move on to the next activity. The alien's question \"What should we do next?\" indicates that they are starting a new segment of activity. Therefore, the answer is 1."}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0\n\n1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\nIn each of the provided pairs of sentences, there is a break in the activity between the two sentences. In the first pair, the human's question about the alien being lost indicates a shift in the conversation. In the second pair, the human's statement about being good follows the alien's question about their well-being, indicating a continuation of the conversation. In the third pair, the human's statement about opening the TV follows the alien's expression of confusion about turning it on, indicating a break in the activity. In the fourth pair, the human's instructions for turning on the TV follow the alien's question about how to do it, indicating a continuation of the activity. In the fifth pair, the human's statement about reaching the living room follows the alien's expression of excitement, indicating a break in the activity. In the sixth pair, the human's question about the next step in the plan follows the alien's decision to leave the cupcake, indicating a break in the activity."}
+{"response": "1\n1\n1\n0\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1\n\nIn this case, the alien's statement about going to the kitchen indicates a new segment of activity, as they are changing locations and moving on to a new task (using the dishwasher). The previous segment involved the alien expressing excitement about going somewhere, but did not specify where. The human's response clarifies that they are going to the kitchen, but this still represents a new segment of activity."}
+{"response": "1\n\nIn this case, the first sentence (\"Alien: How should I start using the dishwasher?\") indicates that the alien is starting a new activity (using the dishwasher), so the previous activity (whatever it was) has ended. The second sentence (\"Human: You want to pull on the little tab here in the middle to open the dishwasher\") is the human's response to the alien's question, so it is part of the same activity (using the dishwasher). Therefore, there is a break in the activity between the two sentences, so the answer is 1."}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1\n\nIn this case, the first sentence \"Do you know how to close the dishwasher?\" is the end of a segment where the human is asking the alien a question. The second sentence \"Alien: Yes, I believe I should push the door the opposite way of how I opened it\" is the start of a new segment where the alien is responding to the human's question. Therefore, the value is 1."}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n\nIn this case, there is a break in the activity between the two sentences. The first sentence \"Yep!\" indicates agreement or acknowledgement, but it does not necessarily indicate continuous activity. The second sentence \"Make sure to push it all the way so it is fully closed\" suggests a new action or a continuation of a previous action (closing the TV), which indicates a new segment."}
+{"response": "1\n\nIn this case, the human's statement about pushing the TV all the way closed indicates that the previous activity (whatever it was) has been completed, and the alien's question about whether the TV is on indicates the start of a new activity (turning on the TV). Therefore, the answer is 1, indicating that there is a break in the activity between the two sentences."}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1\n0\n1\n0\n1\n1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1\n\nIn this case, the human's question about getting the plate out of somewhere indicates a new activity or task, so the previous activity of discussing how to turn on the TV has ended."}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1"}
+{"response": "0\n\n1\n\n0\n\n0\n\n1\n\n0"}
+{"response": "1"}
+{"response": "1\n\nIn this case, there is a break in the activity between the two sentences. The first sentence indicates that the plate is already clean, and the second sentence suggests a new action: putting the clean plate on the dining table."}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\nIn this case, there is a break in the activity between the two sentences. The human's question indicates that the alien's previous action (presumably asking for instructions on how to turn on the TV) has been completed, and the alien is now ready to move on to the next task (opening the cabinets door). Therefore, the two sentences represent the end of one segment of activity and the beginning of a new segment."}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0\n\n0"}
+{"response": "1\n1\n1\n0\n0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n\nIn this case, there is a break in the activity between the two sentences. The first sentence \"Okay, got it!\" indicates that the alien has understood how to turn on the TV. The second sentence \"Should I put it on the top shelf?\" represents a new activity or question related to where to place the TV."}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n\nIn this case, the human's response of \"Yes, there's no problem\" indicates that the previous activity (whatever it was) has been resolved, and the conversation is now moving on to a new topic. Therefore, the answer is 1, indicating that there is a break in the activity between the two sentences."}
+{"response": "1\n1\n1\n0\n0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\nIn this case, the first sentence (\"Why are towel called towels?\") indicates a break in the activity from the previous segment. The previous segment involved the human instructing the alien on how to turn on the TV, and the alien expressing excitement about going somewhere. The question about the origin of the word \"towel\" indicates a new topic of conversation, and therefore a break in the activity."}
+{"response": "1"}
+{"response": "0"}
+{"response": "1\n\nIn this case, the alien's first sentence (\"Okay\") indicates that they have accepted the human's previous instructions, and the second sentence (\"Should I put it on the same cabinet?\") represents a new topic of conversation. Therefore, there is a break in the activity between the two sentences."}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "0"}
+{"response": "1\n1\n1\n0\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n1\n1\n0\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\n0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1"}
+{"response": "1"}
+{"response": "0\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1"}
+{"response": "1\n\nIn this case, the first sentence \"Do we go back to the kitchen now?\" indicates that the Alien is finishing up one activity (whatever they were doing before) and is now ready to move on to a new activity (going back to the kitchen). The second sentence \"Yes, let's go to the kitchen.\" confirms this and starts the new activity. Therefore, the answer is 1, indicating that there is a break in the activity between the two sentences."}
+{"response": "1"}
+{"response": "1\n\nIn this case, the first sentence (\"What is the next step?\") occurs at the end of a segment where the activity is planning what to do next, and the second sentence (\"We need to put the dirty plate inside the dishwasher.\") begins a new segment where the activity is executing the next step in the task. Therefore, the answer is 1."}
+{"response": "0"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1\n\nAlien: I am not sure what to do next.\nHuman: You can try turning it on using the remote control.\n0"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1"}
+{"response": "1\n\nIn this case, the first sentence (\"Okay, what do I do next?\") occurs at the end of a segment where the activity is focused on turning on the TV. The second sentence (\"We need to close the dishwasher door so that it can wash.\") begins a new segment where the activity shifts to closing the dishwasher door. Therefore, the value is 1 to indicate that there is a break in the activity between the two sentences."}
+{"response": "0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n\nIn this case, the alien's action of \"getting it\" is completed before the human's statement about the dishwasher, indicating a break in the activity."}
+{"response": "0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "0\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n\nHuman: Of course, go ahead.\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n\nIn this case, the first sentence (\"Alright, got it!\") indicates that the Alien has understood how to turn on the TV, and the second sentence (\"Are we done, or are we missing something?\") suggests that the Human is checking if the task is complete or if there are further steps to be taken. This indicates a break in the activity, as the previous task (turning on the TV) has been completed and the Human is now moving on to the next step or task."}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "0\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n\nIn this case, the first sentence (\"Thank you so much!\") concludes the activity of the alien learning how to turn on the TV, and the second sentence (\"Okay, we are done using the dishwasher, do you know what to do next?\") begins a new activity of using the dishwasher. Therefore, the answer is 1, indicating that there is a break in the activity between the two sentences."}
+{"response": "1\n\nAlien: I am not sure where the dining table is.\nHuman: It is to your left.\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\n0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "0\n\nHuman: The TV is on, what should we watch?\nAlien: Let's watch a movie!\n0"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1"}
+{"response": "1\n\n0"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n\nAlien: I am at the TV now.\nHuman: Great, now just press the power button on the TV or on the remote control.\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0\n\n0"}
+{"response": "0\n1\n0\n0\n1\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n0\n1\n0\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n\nIn this case, the human's response \"Ok.\" indicates that they have acknowledged the alien's previous statement, but it does not necessarily mean that they are continuing the same activity. The following sentence where the alien states their intention to place the towel on the top shelf indicates a new activity, so the value should be 1."}
+{"response": "0"}
+{"response": "1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n\nIn this case, the first sentence (\"Certainly.\") indicates that the alien is ready to proceed with the next step, while the second sentence (\"And now we are done.\") signifies the completion of the entire activity, marking the end of one segment and the beginning of another."}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0\n\nExplanation: The alien's second sentence, \"Hmmm.... Is this what you meant?\" is a continuation of the same activity as the previous sentence, where the alien is still trying to figure out how to turn on the TV. Therefore, there is no break in the activity between the two sentences."}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1\n1\n1\n0\n0"}
+{"response": "1"}
+{"response": "1\n\n0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n\nIn this case, the alien's statement \"Thanks for clarifying.\" indicates that the previous activity (discussing how to turn on the TV) has come to an end, and the human's question \"Do you need any more details about the plate?\" represents a new activity or topic of conversation. Therefore, the answer is 1, indicating that there is a break in the activity between the two sentences."}
+{"response": "1\n\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n\nIn this case, the first sentence (\"OK.\") indicates that the alien understands they need to turn on the TV, which concludes the previous segment of the activity. The second sentence (\"Next, put the dirty plate into the dishwasher.\") starts a new segment of the activity, as it instructs the alien to perform a different task. Therefore, the value 1 is the correct response."}
+{"response": "0"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\nIn this case, the alien has stated that they will get to turning on the TV, indicating a break in the activity before the human offers help."}
+{"response": "1\n\nIn this case, the first sentence \"No, I don't need help.\" indicates that the alien has successfully turned on the TV and no longer needs assistance. The second sentence \"Do you need any help with this step?\" is a new question from the human, indicating a new segment of activity."}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n\nIn this case, the human's instruction for the alien to close something indicates a break in the activity from the previous sentence."}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0\n\n1"}
+{"response": "1"}
+{"response": "0\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1"}
+{"response": "0\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0\n\n1"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n\n0"}
+{"response": "1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "0\n1\n0\n0\n1\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "0\n\nAlien: I'm here to help.\nHuman: I'm trying to find the remote control.\n1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n\nHuman: on the table\nAlien: 0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n\nIn this case, there is a break in the activity between the two sentences. The first sentence \"ok i think i get it.\" indicates that the Alien has understood how to operate the TV, which concludes the previous activity. The second sentence \"I will leave it across your pudding.\" indicates a new action, which starts a new segment."}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n\n0"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1\n\n0"}
+{"response": "1\n\nIn this case, the human's statement \"Now you have to open the cupboard\" indicates a new activity or task for the alien to complete, so the previous activity of turning on the TV has ended."}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n\nIn this case, the first sentence (\"Now What\") occurs at the end of a segment where the Alien has just turned on the TV, and the second sentence (\"Put them in the cupboard\") begins a new segment where the Human is giving a new instruction. Therefore, the answer is 1."}
+{"response": "1"}
+{"response": "1\n\nIn this case, the first sentence \"Which cupboard\" is the end of one segment of activity, and the second sentence \"The middle one\" starts a new segment, as it is a response to a question or instruction."}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n\n0"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1\n\nIn this case, there is a break in the activity between the two sentences. The alien's statement \"Okay\" indicates that it understands the human's instructions, but the subsequent sentence \"Do you want me to put this in the same place as well?\" suggests a new activity or question."}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n\nAlien: I am in the living room now.\nHuman: Great, now let's find the TV remote.\n0"}
+{"response": "1"}
+{"response": "1\n\nIn this case, the human's instruction to close the cupboard doors represents a new segment of activity that is separate from the previous segment where the human was explaining how to turn on the TV. The alien's response of \"Okay\" indicates that they are ready to move on to the new activity of closing the cupboard doors."}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "0\n0\n1\n0\n1\n0"}
+{"response": "0\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0\n\n1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0\n\n1"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n\n0"}
+{"response": "1"}
+{"response": "1\n\nHuman: I am making some tea, would you like some?\nAlien: Sure, I would love some.\n0"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1\n\nAlien: I have arrived at your location.\nHuman: Great, let's begin the tour.\n0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1\n\nAlien: I'm here.\nHuman: Great, let's start.\n0"}
+{"response": "0"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "0\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\nIn this case, the first sentence (\"Oh Is this the cabinet?\") indicates that the alien has just completed one activity (presumably approaching some object) and is now asking a question about a new object (the cabinet). This indicates that there is a break in the activity between the two sentences."}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1"}
+{"response": "1\n\nIn this case, the first sentence \"Did I do that right?\" refers to a past action (opening the correct cabinets), while the second sentence \"Yes, you opened the correct 3 cabinets.\" confirms that the action has been completed. Therefore, there is a break in the activity between the two sentences."}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\nIn this case, the first sentence (\"Okay, what are towels?\") occurs at the end of a segment where the alien is asking about the TV, and the second sentence (\"A towel is a soft fabric thing that we use to dry our hands after washing them.\") begins a new segment where the human explains what a towel is."}
+{"response": "1"}
+{"response": "1\n\nIn this case, the first sentence \"Oh where is the towels?\" indicates that the alien is starting a new activity, which is looking for towels. This is a new segment of activity, so the answer is 1. The second sentence \"The towels are to the left of you sitting on the counter.\" is a response to this new activity, so it is the start of a new segment."}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1\n\nIn this case, the first sentence (\"What should I do with the towel?\") indicates that the alien is no longer focused on turning on the TV, and is now considering a new activity (putting away the towel). The human's response, which suggests a new action for the alien to take, confirms that this is a new segment of activity. Therefore, the answer is 1."}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0\n\n(In this case, the human's explanation of how to identify the middle cabinet is a continuation of the previous activity of identifying and locating cabinets.)"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\nIn this case, the first sentence (\"Okay! What shelf should I put the towel on?\") indicates that the alien is about to perform a new activity (putting the towel on a shelf), which is distinct from any previous activities. Therefore, a break in the activity is indicated."}
+{"response": "0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n\nAlien: I am on the spaceship.\nHuman: Can you see Earth from there?\n1\n\nHuman: I am going to the kitchen.\nAlien: What are you planning to do there?\n0\n\nAlien: I am trying to understand human technology.\nHuman: That's interesting, I am making a sandwich.\n1\n\nHuman: The TV is on.\nAlien: Great, now let's see what it can do.\n0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\nIn this case, the first sentence (\"Where did I put the first towel?\") occurs at the end of a segment where the Alien is looking for something. The second sentence (\"You put the first towel in the middle cabinet, you want to go to the middle cabinet again.\") begins a new segment where the Human is giving directions to the Alien. Therefore, the response is 1."}
+{"response": "1"}
+{"response": "1\n\nIn this case, there is a break in the activity between the two sentences. The human's response indicates that the alien is currently not at the middle cabinet, but should be. Therefore, the alien's question about the middle cabinet represents a new segment of activity."}
+{"response": "1\n\nHuman: Found it! The red button is the power button.\nAlien: Great! Now we can watch the show.\n0"}
+{"response": "1\n\nIn this case, the first sentence (\"What should I do next?\") indicates that the alien is finished with the previous activity (turning on the TV) and is now ready to move on to the next task. The second sentence (\"You are going to want to put the towel on the shelf again.\") starts a new segment by introducing a new activity."}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0\n\n0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1"}
+{"response": "1\n\nIn this case, the first sentence (\"Okay! What should I do next?\") occurs at the end of a segment where the alien is asking for instructions on what to do next. The second sentence (\"You need to take the plate to the dishwasher.\") begins a new segment where the human is giving the alien a specific instruction on what to do. Therefore, the answer is 1, indicating that there is a break in the activity between the two sentences."}
+{"response": "1"}
+{"response": "1\n\nExplanation:\n\nIn the first pair of sentences, the human's question \"Are you lost?\" suggests a break in the activity, as it implies that the alien's previous statement did not provide enough information for the human to understand what the alien is doing.\n\nIn the second pair, the human's response \"I am good, thank you for asking\" indicates that the human is still engaged in the same activity as before, so there is no break in the activity.\n\nIn the third pair, the human's statement \"I have reached living room\" suggests a break in the activity, as it implies that the human has moved to a different location.\n\nIn the fourth pair, the human's instructions \"you should walk towards it and click on its power button\" suggest that the alien is still trying to figure out how to turn on the TV, so there is no break in the activity.\n\nIn the fifth pair, the human's statement \"The dishwasher is in the kitchen, to the right of the oven\" suggests a break in the activity, as it implies that the alien has asked about the location of the dishwasher, indicating that they have moved on to a different activity."}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "0\n\nHuman: The movie is starting.\nAlien: I am ready! Which way should I face?\n0"}
+{"response": "1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\n0"}
+{"response": "0\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\n0"}
+{"response": "1"}
+{"response": "1\n\nExplanation: In the first example, the human's question \"Are you lost?\" indicates a break in the activity from the previous sentence. In the second example, the human's response \"I am good, thank you for asking\" indicates that the activity of asking how the human is doing has been completed. In the third example, the human's statement \"I have reached living room\" indicates a break in the activity from the previous sentence. In the fourth example, the activity of opening the TV has been completed, so the next sentence about what to do next is a new segment."}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1\n\nIn this case, the first sentence \"What should I do next?\" indicates that the alien has completed a previous activity and is now seeking guidance for the next one. The second sentence \"Now that the dish is clean, you need to close the dishwasher again.\" suggests a new activity for the alien to perform, which is closing the dishwasher. Therefore, there is a break in the activity between the two sentences."}
+{"response": "0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n\nHuman: The TV is now on.\nAlien: Great! What should we watch?\n0"}
+{"response": "1\n\nIn this case, the first sentence (\"What do I do next?\") ends the previous activity or segment of the conversation, and the second sentence (\"Now we are going to need to put the plate down.\") starts a new segment or activity."}
+{"response": "1"}
+{"response": "1\n\nIn this case, the first sentence \"Where should I put the plate?\" indicates that the alien is currently holding a plate and looking for a place to put it. The second sentence \"We can put the plate down at the dinner table.\" indicates a new action, which is to place the plate on the dinner table. Therefore, there is a break in the activity between the two sentences."}
+{"response": "1\n\nIn this case, the human's statement about putting the plate down at the dinner table indicates a change in activity from whatever the alien was previously doing. Therefore, there is a break in the activity between the two sentences."}
+{"response": "1"}
+{"response": "1\n\nIn this case, the first sentence (\"What should I do now?\") indicates that the alien is finished with the previous activity (turning on the TV) and is ready to move on to the next task, which is placing the plate on the table. Therefore, there is a break in the activity between the two sentences."}
+{"response": "1"}
+{"response": "1\n\nIn this case, the first sentence \"Where should I put the plate?\" indicates that the alien is finished with whatever they were previously doing (presumably carrying the plate) and is now looking for guidance on where to put it. The second sentence \"You can place the plate on the table in front of the empty seat.\" indicates that the human is beginning a new segment of activity by providing the alien with instructions on what to do next. Therefore, the answer is 1, indicating that there is a break in the activity between the two sentences."}
+{"response": "1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n\nIn this case, the first sentence (\"Great! Thank you for teaching me today!\") represents the end of a segment where the alien has learned how to open the TV. The second sentence (\"Good work, I am glad to help!\") begins a new segment, as it is a response to the alien's gratitude and does not directly relate to the task of opening the TV."}
+{"response": "1\n\nIn this case, the first sentence (\"Great! Thank you for teaching me today!\") represents the end of a segment where the alien has learned how to open the TV. The second sentence (\"Good work, I am glad to help!\") begins a new segment, as it is a response to the alien's gratitude and does not directly relate to the task of opening the TV."}
+{"response": "0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1\n\nAlien: I am ready to learn.\nHuman: Great, let's start with the basics.\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n\n0"}
+{"response": "1\n\nIn this case, there is a break in the activity between the two sentences. The first sentence \"Yes.\" is a response to a question or statement that was not provided, and the second sentence \"I am grabbing a towel so I can put it away.\" indicates a new action that the alien is taking."}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1\n\nIn this case, the first sentence indicates that the alien has completed the action of putting the towel in the cabinet. The second sentence starts a new segment as it asks a question about where the towels should go in the cabinet."}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n\nIn this case, the human's response \"Yes.\" indicates that they have already confirmed something in a previous interaction, so this response marks the end of one segment and the beginning of a new one where the alien provides additional information."}
+{"response": "0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1\n\nIn this case, there is a break in the activity between the two sentences. The alien's statement about having the plate indicates that they have completed the action of obtaining the plate, and the human's response about cleaning the plate indicates the start of a new activity."}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n\nIn this case, the first sentence \"Okay.\" indicates that the alien understands the previous instruction, but it does not directly relate to the following action of starting to clean the dirty plate. Therefore, there is a break in the activity between the two sentences."}
+{"response": "1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n\nExplanation: The first sentence is a complete thought and the second sentence starts a new action or task."}
+{"response": "0\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n\nIn this case, there is a break in the activity between the two sentences. The first sentence \"Okay.\" indicates that the alien understands the instruction to close the door, but the second sentence \"Now that the door is closed, you can press the button to turn on the dishwasher.\" implies that the human has observed that the alien has closed the door and is now providing the next instruction. Therefore, there is a break in the activity between the two sentences."}
+{"response": "0"}
+{"response": "1"}
+{"response": "0\n\nHuman: Where should I place the plates?\nAlien: You should put them in the cabinet.\n0\n\nAlien: I am not sure where the cabinet is.\nHuman: It is on your right.\n0\n\nAlien: I see.\nHuman: Now I am going to the kitchen.\n1\n\nAlien: I am in the kitchen.\nHuman: Great, now let's start cooking.\n0"}
+{"response": "1"}
+{"response": "0\n\n(In this case, the human's response about the plate being clean indicates that the activity of dealing with the dishwasher is not yet finished, so there is no break in the activity between the two sentences.)"}
+{"response": "1"}
+{"response": "1\n\nAlien: I am feeling hungry.\nHuman: There is a sandwich on the table.\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n\nIn this case, the human's response of \"Yes.\" indicates that they have completed an action or agreed to a suggestion, and the alien's question about putting the plate down indicates a new activity or question. Therefore, there is a break in the activity between the two sentences."}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n1\n0\n0\n1\n0"}
+{"response": "1\n\nIn this case, the human's response of \"Okay.\" indicates that they have completed the action of helping the alien clean the plate, and are now ready to move on to the next activity. Therefore, there is a break in the activity between the two sentences."}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0\n\n1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0\n\n1"}
+{"response": "1"}
+{"response": "1\n\nIn this case, the first sentence \"What do we do first?\" marks the end of a segment where the Alien is asking for instructions on what to do next. The second sentence \"Let's go get a plate to make food with.\" indicates the start of a new segment where the Human suggests getting a plate to prepare food. Therefore, the value is 1."}
+{"response": "1"}
+{"response": "1\n\nIn this case, the first sentence \"Yes, it is in the room with the computer.\" indicates that the alien has located the plate, which is likely a different activity from the human's question about remembering where the plate is. Therefore, there is a break in the activity between the two sentences."}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1\n\nIn this case, there is a break in the activity between the two sentences. The human's explanation of what a plate is indicates that the alien's action of picking up the plate has not yet occurred, and is therefore a new segment of activity."}
+{"response": "1"}
+{"response": "1\n\nAlien: I understand.\nHuman: I'm going to start cooking dinner now.\n0"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\nIn this case, the alien has already started moving towards the kitchen before asking the question \"What should I do now?\" This indicates that there is a break in the activity between the two sentences, so the answer is 1."}
+{"response": "1\n\nAlien: Sure, I will try.\nHuman: The dishwasher is located under the kitchen counter.\n0"}
+{"response": "1\n\nAlien: I am at the dishwasher now.\nHuman: Great, can you open it?\n0"}
+{"response": "1\n\nIn this case, the first sentence (\"Okay I will do that.\") indicates that the alien is about to carry out an action (turning on the TV), while the second sentence (\"Human: Can you please put the plate inside the dishwasher?\") shifts the focus to a different activity (cleaning up). Therefore, there is a break in the activity between the two sentences."}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n\nAlien: I am now in the kitchen.\nHuman: Great, now find the dishwasher.\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n\nExplanation:\n\nIn the first pair of sentences, the human's response \"Are you lost?\" indicates a new segment of activity, as it is a question that requires a new response from the alien.\n\nIn the second pair, the human's response \"I am good, thank you for asking\" indicates that the activity of asking how the human is doing has been completed, but the human's response does not initiate a new activity, so there is no break in the activity.\n\nIn the third pair, the human's statement \"I opened the TV\" indicates a new activity, as it is a statement of a completed action that the alien was not previously aware of.\n\nIn the fourth pair, the human's response \"Hit the open button on the corner of the screen\" is a continuation of the previous activity of figuring out how to open the TV.\n\nIn the fifth pair, the human's statement \"I have reached living room\" indicates a new activity, as it is a statement of a completed action that the alien was not previously aware of.\n\nIn the sixth pair, the alien's statement \"I will open the dishwasher door so I can take the plate out\" is a continuation of the previous activity of washing the plate, as it is a necessary step in the process of washing the plate."}
+{"response": "0"}
+{"response": "0\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1\n\nAlien: Here you go, dinner table is set.\nHuman: Great, let's start eating.\n0"}
+{"response": "1"}
+{"response": "0\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1"}
+{"response": "0\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "0\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\nIn this case, the first sentence (\"I don't know where that is.\") indicates that the Alien is still unsure of how to proceed, and the second sentence (\"Follow me, we left it by the computer.\") suggests that the Human is starting a new segment of the activity by offering to lead the Alien to the TV. Therefore, the answer is 1, indicating that there is a break in the activity between the two sentences."}
+{"response": "1"}
+{"response": "0\n\n1\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\nIn this case, the first sentence indicates that the alien is in a location where they do not believe washing can be done. The second sentence clarifies that this location is actually the stove, which is a different activity from washing. Therefore, there is a break in the activity between the two sentences."}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1\n1\n1\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1\n\nIn this case, the first sentence (\"Where in here do I put the plate?\") indicates that the alien is currently engaged in the activity of placing something in a shelf. The second sentence (\"Plates go on the bottom, and bowls and cups go on the top shelf.\") provides instructions for this activity, but it also signals a break in the activity because it requires the alien to change its current behavior (i.e., to stop placing the plate and start following the instructions). Therefore, the answer is 1."}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n\n0"}
+{"response": "1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "0\n\n(There is no break in the activity between the two sentences as both sentences refer to the alien's actions with the plate.)"}
+{"response": "1\n\nAlien: I have found the kitchen.\nHuman: Great, now look for a plate.\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0\n\n1"}
+{"response": "1\n\nIn this case, the first sentence (\"No.\") indicates that the alien has rejected the previous suggestion or idea, implying a break in the activity. The second sentence (\"Make sure you close the dishwasher so you don't trip on it.\") shifts the focus to a new task, which is to close the dishwasher, indicating a new segment."}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "0\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1"}
+{"response": "1\n\nIn this case, the human's explanation about the dishwasher represents a new segment of activity, as it is a new topic that the alien was not previously aware of."}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1\n\nIn this case, there is a break in the activity between the two sentences. The first sentence \"It looks like I can do that by pulling this handle down. Let's try it\" refers to the alien's attempt to open the dishwasher, while the second sentence \"It worked! Now the dishwasher is open\" indicates that the alien has successfully opened the dishwasher. These two sentences describe distinct actions, so there is a break in the activity between them."}
+{"response": "1\n\n0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1\n1\n0\n0\n0\n0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\nIn this case, the first sentence \"Ok I am at the table, now what should I do?\" indicates that the alien has reached the table and completed that action. The second sentence \"I want you to put the plate down on the table\" indicates the start of a new action, so the response is 1."}
+{"response": "0"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1\n\nAlien: I'm not sure I understand what a dishwasher is.\nHuman: It's a machine that washes dishes for you. You just need to load them in and select a wash cycle.\n0"}
+{"response": "1\n\nAlien: I am now in the kitchen.\nHuman: Great, let me show you how to use the dishwasher.\n0"}
+{"response": "1"}
+{"response": "0\n\nAlien: I'm here.\nHuman: Great, now grab the plate on the table.\n0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1"}
+{"response": "1\n\n0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0\n\n0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n\n0"}
+{"response": "1"}
+{"response": "1\n\n0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n\nIn this case, the first sentence (\"Alright, no problem.\") indicates that the alien has decided not to pursue the previous topic (turning on the TV), and the second sentence (\"The plate's clean. You can take it out of the dishwasher now.\") introduces a new topic. Therefore, there is a break in the activity between the two sentences."}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1\n\nIn this case, the first sentence (\"What should I do with the plate now, Michael.\") indicates that the alien has already picked up the plate and is holding it, but the second sentence (\"Take the plate to where we're sitting.\") implies that the alien has not yet moved to where the human is sitting and needs to take the plate there. Therefore, there is a break in the activity between the two sentences."}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "0"}
+{"response": "1\n\nIn this case, the first sentence (\"I have acquired the other towel. It is also soft, and slightly damp.\") represents the end of an activity or task (acquiring the towel), and the second sentence (\"Now put it in the cabinet.\") indicates the start of a new activity (storing the towel). Therefore, a break in the activity occurs between the two sentences."}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n\nIn this case, there is a break in the activity between the two sentences. The first sentence \"Yes Michael.\" is a complete thought and does not indicate any ongoing activity. The second sentence \"I will place it in the cabinet now.\" indicates a new activity, so the two sentences should be considered as two separate segments."}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\n0"}
+{"response": "1\n\nIn this case, the human's response of \"Yes Zara\" indicates that the previous activity has come to an end and a new segment has begun, where the alien is asking a question and is ready to move on to the next activity."}
+{"response": "1\n\nIn this case, the first sentence (\"What do we do next?\") occurs at the end of a segment where the activity is to follow the previous instruction. The second sentence (\"Now, we need to take this plate to the kitchen and wash it in the dishwasher.\") begins a new segment where the activity is to wash the plate in the dishwasher. Therefore, the answer is 1, indicating that there is a break in the activity between the two sentences."}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1\n\nIn this case, there is a break in the activity between the two sentences. The first sentence \"Just close the door and press the 'start' button. It's the large one on the right\" refers to the process of starting a machine or device, while the second sentence \"Great work, now turn it on\" refers to the process of activating or powering on a device that is already started. These are two separate actions, so there is a break in the activity between the two sentences."}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0\n\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "0\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1"}
+{"response": "0\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1"}
+{"response": "1\n\nAlien: I'm here.\nHuman: Great, let's start the experiment.\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n1\n1\n0\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1"}
+{"response": "1\n\nIn this case, there is a break in the activity between the two sentences. The first sentence \"Is there anything else we need to do?\" implies that the Alien is checking if there are any more tasks to complete. After the Human responds \"That's it for now. Let's enjoy the rest of our evening.\", the Alien agrees and the activity of completing tasks has ended, indicating a break in the activity."}
+{"response": "1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1"}
+{"response": "1\n\n0"}
+{"response": "1\n\nHuman: I'm going to heat up the food now.\nAlien: Great, I'm getting hungry!\n0"}
+{"response": "1\n1\n1\n0"}
+{"response": "1\n\nIn this case, the human's statement \"Ok now we can start on making dinner!\" indicates a new activity or segment, so the answer is 1."}
+{"response": "1\n\nIn this case, the human's statement \"Ok now we can start on making dinner!\" indicates a new activity or segment, so the answer is 1."}
+{"response": "1\n0\n1\n0\n0"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1\n\nIn this case, the alien's action of opening something is complete before the human's response about the towels. Therefore, there is a break in the activity between the two sentences."}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\nIn this case, the human's question about remembering where the cabinets are indicates a break in the activity from the previous sentence where the alien expressed excitement about going somewhere. The human's question requires a new response and a new segment of activity."}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n1\n1\n0\n0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\nIn this case, the human's request for the alien to pick up the towel indicates a new activity, as the previous activities did not involve the towel."}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n\nIn this case, the alien's activity of closing \"them\" (presumably some objects it was previously manipulating) indicates a break in the activity before it asks the human about its performance."}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n\nIn this case, the first sentence \"Yes, I should walk to the bathroom.\" indicates that the alien has decided on a course of action, and the second sentence \"Good, let's go there now.\" from the human confirms that they will start moving towards the bathroom, indicating a break in the activity."}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\nAlien: I understand.\nHuman: Here is the instruction manual for the TV.\n0"}
+{"response": "0\n1\n0\n0\n1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n\nAlien: I am at the cabinet now.\nHuman: Can you see the TV remote?\n0"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1\n\nIn this case, there is a break in the activity between the two sentences. The first sentence \"I cannot remember.\" indicates that the alien is pausing the current activity, and the second sentence \"What do I do now?\" indicates that the alien is starting a new activity, which is asking for instructions."}
+{"response": "1\n\nIn this case, the first sentence \"What do I do now?\" indicates that the alien has completed its previous activity and is now seeking guidance on what to do next. The second sentence \"You should place the towel in the cabinet next to the first one.\" is a new instruction for the alien to follow, indicating a new segment of activity."}
+{"response": "1\n\nIn this case, the human's statement \"You should place the towel in the cabinet next to the first one\" implies that the alien has already completed some activity related to the towel, and is now being instructed on where to put it. Therefore, there is a break in the activity between the human's statement and the alien's response."}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0\n\n1"}
+{"response": "1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0\n\n1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0\n\n1"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1\n\nIn this case, the first sentence (\"It looks like there is nothing in them!\") occurs at the end of a segment where the alien is discussing some containers. The second sentence (\"Yeah, so what do you think should be in them?\") starts a new segment where the human begins a conversation about what should be in the containers."}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n\nIn this case, the human's statement \"Exactly! This is towel!\" indicates that they have completed an action related to identifying or showing a towel to the alien. The alien's response, \"I guess I need to put them in each layer!\", suggests that they are starting a new activity related to arranging the towel(s). Therefore, there is a break in the activity between the two sentences."}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n\nHuman: ...or the bottom layer?\nAlien: I am pushing the top layer button now.\n0"}
+{"response": "1\n1\n1\n0\n1\n0"}
+{"response": "1\n\n0"}
+{"response": "0\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1"}
+{"response": "1\n1\n1\n0\n1"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1\n\nExplanation: In the first example, the human's question \"Are you lost?\" indicates a break in the activity from the previous sentence. In the second example, the human's response \"I am good, thank you for asking\" indicates that the activity of asking how the alien is doing has not yet been completed. In the third example, the human's statement \"I have reached living room\" indicates a break in the activity from the previous sentence. In the fourth example, the activity of figuring out how to open the TV has not yet been completed. In the fifth example, the alien's statement \"Yes, I am quite hungry now\" indicates a break in the activity from the previous sentence."}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0\n1"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0\n1\n0\n0\n1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1\n\nIn this case, there is a break in the activity between the two sentences spoken by the alien. The first sentence indicates that the alien is going to grab something, and the second sentence indicates a new activity of trying to clean a plate."}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "0"}
+{"response": "1\n\nIn this case, the first sentence (\"Yes that's correct\") occurs at the end of a segment where the human has confirmed that the dishwasher is in the kitchen. The second sentence (\"Follow me\") begins a new segment where the human is inviting the alien to follow them to the kitchen. Therefore, the answer is 1."}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\nAlien: I am in the kitchen now.\nHuman: Great, the fridge is to your right.\n0"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "0"}
+{"response": "0\n1\n0\n0\n1\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1\n\nIn this case, the first sentence (\"Are we done now?\") indicates that the activity of discussing the TV is coming to an end, and the second sentence (\"Now you need to close it so the dishwasher can clean the plate.\") introduces a new activity (discussing the dishwasher). Therefore, there is a break in the activity between the two sentences."}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1\n\nIn this case, the first sentence \"Is the plate getting cleaned now?\" indicates that the alien is waiting for the plate to be cleaned, while the second sentence \"No. You need to turn the dishwasher on first to clean it.\" implies that the human is starting a new activity of instructing the alien on how to clean the plate. Therefore, there is a break in the activity between the two sentences."}
+{"response": "1"}
+{"response": "1\n\nIn this case, the first sentence (\"Do you know how to turn it on?\") ends a segment where the human is asking the alien about the TV, and the second sentence (\"I'm guessing I should press a button like the TV\") begins a new segment where the alien is trying to figure out how to turn on the TV."}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1\n\nAlien: I am at the spaceship's control panel.\nHuman: Great, now press the big green button.\n0"}
+{"response": "0\n\n1\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n\n1\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1\n\nExplanation: In the first example, the human's question \"Are you lost?\" indicates a break in the activity from the previous sentence. In the second example, the human's response \"I am good, thank you for asking\" indicates that the activity of asking how the alien is doing has been completed. In the third example, the human's statement \"I have reached living room\" indicates a break in the activity from the previous sentence. In the fourth example, the activity of figuring out how to open the TV has been completed. In the fifth example, the alien's question \"Where on the table shall I keep it?\" indicates a break in the activity from the previous sentence."}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "0\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n1\n1\n0\n0"}
+{"response": "1\n1\n1\n0\n0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1\n\nAlien: I'm here.\nHuman: Great, let's start the tour.\n0"}
+{"response": "1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\nAlien: I am at the table now.\nHuman: Great, now let's start eating.\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\nIn this case, the alien's response of \"Okay sure\" indicates that they have accepted the previous instruction about turning on the TV, and the activity of turning on the TV has come to an end. The next sentence, \"How do we clean this place?\", represents a new activity or topic of conversation, so the answer is 1."}
+{"response": "1\n\nIn this case, there is a break in the activity between the two sentences. The human's response indicates a change in the activity, from discussing how to open the TV to cleaning the place."}
+{"response": "1"}
+{"response": "1\n\nIn this case, there is a break in the activity between the two sentences. The alien's statement indicates that they are in a new location (the bathroom) and are encountering new objects (towels), which suggests a change in the activity or segment of the interaction."}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "0\n1\n0\n0\n1"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n\nIn this case, the human's response of \"Yup\" indicates that they have confirmed or agreed to something, but it does not necessarily mean that they are continuing a specific activity or action. The alien's response, \"I'll grab one of them first,\" suggests that they are starting a new activity or task. Therefore, there is a break in the activity between the two sentences."}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n1\n0\n0\n1\n0"}
+{"response": "0"}
+{"response": "1\n1\n0\n0\n1\n0"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1\n\nIn this case, the first sentence \"Do you remember what the towel was?\" indicates that the previous activity related to the towel has already ended, and the second sentence \"Alien: Yep! its right in front of me\" indicates a new activity where the alien is identifying the location of the towel. Therefore, there is a break in the activity between the two sentences."}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\nHuman: I am going to place the towel here.\nAlien: That seems like a good place.\n0"}
+{"response": "1\n\n0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1\n\nIn this case, the first sentence \"So are we done with cleaning?\" indicates that the cleaning activity has already been in progress and is now completed. The second sentence \"Yeah. We just need to close the cabinet.\" signals a new activity, which is closing the cabinet. Therefore, the answer is 1."}
+{"response": "1"}
+{"response": "1\n1\n1\n0\n0"}
+{"response": "1\n1\n1\n0\n0"}
+{"response": "1"}
+{"response": "1\n\n0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\nHuman: The towels go in the linen closet.\nAlien: Oh, I see. I will put them there.\n0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\nIn this case, the first sentence (\"Thank you! What now? Both towels are inside the cabinet.\") occurs at the end of a segment where the alien has received help with the towels. The second sentence (\"Now, we just need to close all of the cabinets.\") begins a new segment where the alien and human will work on closing the cabinets. Therefore, the response is 1."}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1"}
+{"response": "1\n\n0"}
+{"response": "1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1\n\nAlien: I have successfully turned on the TV!\nHuman: Great! What do you want to watch?\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n1\n1\n0\n1"}
+{"response": "1\n\nIn this case, there is a break in the activity between the two sentences. The human's statement about having to start putting away their dishes indicates a shift in the topic of conversation and a break in the activity of turning on the TV. The alien's offer to take the plate to the kitchen further confirms this break in the activity."}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1"}
+{"response": "Let me think.\n1"}
+{"response": "1\n\nIn this case, there is a break in the activity between the two sentences because the alien's question about a dishwasher represents a new topic of conversation. The human's previous response about turning on the TV has been addressed and completed, so the conversation is now moving on to a new subject."}
+{"response": "1\n\nAlien: I understand, I will use the dishwasher.\nHuman: You need to put the dirty dishes inside and close it before turning it on.\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0\n\n1"}
+{"response": "1"}
+{"response": "1\n\n1\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1\n\nIn each of the provided pairs of sentences, there is a break in the activity between the two sentences. In the first pair, the human's question about the alien being lost indicates a shift in the conversation. In the second pair, the human's statement about being good follows the alien's question about the human's well-being, indicating a continuation of the conversation. In the third pair, the human's statement about opening the TV follows the alien's expression of confusion about turning on the TV, indicating a break in the activity. In the fourth pair, the human's instructions for turning on the TV follow the alien's question about how to do it, indicating a continuation of the activity. In the fifth pair, the human's statement about reaching the living room follows the alien's expression of excitement, indicating a break in the activity. In the sixth pair, the human's instructions for putting the plate in the dishwasher follow the alien's question about what to do next, indicating a break in the activity."}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\nIn this case, the first sentence (\"No, I know how to do that. Thanks for asking though!\") indicates that the alien has completed the action of turning on the TV, and is now ready to move on to the next task. The second sentence (\"Is that all, or is there something else I have to do next?\") indicates a new segment of activity, as the alien is now asking about what to do next."}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1\n\nAlien: I understand.\nHuman: Here is how you start the dishwasher."}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "0\n\nThe first sentence \"I just have to open the door and take the plate out right?\" is a question about what to do next, and the second sentence \"Yup, that's it!\" is a response to that question, indicating that the action of opening the door and taking out the plate is a continuous activity. Therefore, there is no break in the activity between the two sentences."}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1\n\nIn this case, the first sentence (\"Awesome! I'm starting to get really hungry.\") indicates that the alien is finished with whatever they were previously doing and is now starting a new activity (getting hungry). The second sentence (\"Me too. I'm starving!\") confirms that the human is also starting a new activity (acknowledging their own hunger) and is not continuing a previous activity. Therefore, there is a break in the activity between the two sentences."}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1"}
+{"response": "1\n\nAlien: I'm here.\nHuman: Great, let's start the meeting.\n0"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1\n\nIn this case, the first sentence \"Where do you want me to put this clean plate?\" is the end of one segment of activity, and the second sentence \"You can put it over by the table. Thanks Zara!\" indicates a new segment of activity, as the alien is being given a new instruction."}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\nIn this case, the first sentence (\"Should be get started on making dinner now?\") indicates that the alien is ready to move on to a new activity (making dinner), while the second sentence (\"Yes, we definitely should! Have anything in mind or are you still not sure?\") confirms the change in activity and asks a question about it. Therefore, there is a break in the activity between the two sentences."}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "0\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1"}
+{"response": "1\n\nAlien: I am in front of the TV.\nHuman: Great, now hit the power button on the TV.\n0"}
+{"response": "1\n\nIn this case, the alien's statement \"Ok.\" concludes one segment of the activity, and the alien's question \"Now what?\" begins a new segment. Therefore, the value is 1."}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\nAlien: I need to find the humans.\nHuman: They are in the building to your right.\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n\nAlien: I have found the TV.\nHuman: Great, now you can turn it on.\n0"}
+{"response": "1\n1\n1\n0"}
+{"response": "1"}
+{"response": "1\n\nIn this case, the first sentence (\"Which cupboard?\") occurs at the end of a segment where the Alien is asking about a specific cupboard, and the second sentence (\"The second one\") begins a new segment where the Human identifies the specific cupboard being referred to."}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n\nAlien: I have found the TV.\nHuman: Great, now you can turn it on.\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n\nIn this case, the human's request for the alien to \"come back to the first one\" indicates a break in the activity, as it suggests that the conversation has moved on to a new topic. Therefore, the answer is 1."}
+{"response": "1\n\nIn this case, the first sentence \"Ok.\" represents the end of a segment where the Alien is acknowledging understanding or agreement. The second sentence \"Ok. I'm here. Now what?\" represents the beginning of a new segment where the Alien is indicating their arrival and seeking further instructions."}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1\n\nIn this case, the alien's statement \"Oh ok.\" indicates that they have acknowledged the human's previous explanation, but the activity of learning how to turn on the TV has not yet been completed. The following statement \"Is that good?\" suggests that the alien is initiating a new segment of activity, in which they are seeking confirmation that they have successfully turned on the TV. Therefore, the break in activity between the two sentences is represented by a 1."}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0\n\n1"}
+{"response": "1\n\nHuman: I'm feeling a little under the weather.\nAlien: I'm sorry to hear that. Would you like some medicine?\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\n0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\nIn this case, the first sentence (\"Okay I am at the second cabinet.\") indicates that the alien has moved to a new location and completed an action (moving to the second cabinet), while the second sentence (\"Yes can you put the towel in the top shelf?\") starts a new segment of the conversation, asking the alien to perform a new action (placing the towel on the top shelf). Therefore, the response is 1, indicating that there is a break in the activity between the two sentences."}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1\n1\n0\n0\n1\n0"}
+{"response": "1"}
+{"response": "1\n\nIn this case, the first sentence (\"Do you want me to put the second towel on top shelf too?\") occurs at the end of a segment where the human and alien are organizing towels. The second sentence (\"Yes please, place it next to the first one\") begins a new segment where the alien is putting the towel on the shelf. Therefore, the response is 1, indicating that there is a break in the activity between the two sentences."}
+{"response": "1"}
+{"response": "0"}
+{"response": "1\n\nIn this case, the first sentence (\"It sure does. I like it when things are clean and in their place\") indicates that the alien has completed an action (presumably helping to clean or organize something), and the second sentence (\"Exactly, but we're not yet done. Do you know what comes next?\") indicates that the human is ready to move on to the next activity. Therefore, there is a break in the activity between the two sentences."}
+{"response": "1\n\nIn this case, the first sentence (\"Exactly, but we're not yet done. Do you know what comes next?\") indicates that the current activity or task is not complete, and the second sentence (\"Alien: I am not quite sure, can you help me with it?\") indicates that the Alien is asking for further assistance, which suggests that a new segment of the activity has begun. Therefore, the answer is 1."}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n\nIn this case, there is a break in the activity between the two sentences. The first sentence \"Oh yes that makes sense\" indicates that the Alien has understood how to turn on the TV, and the second sentence \"I closed them, this is all we had to do right?\" suggests that the Alien has actually carried out the action of turning on the TV. Therefore, there is a break in the activity between the two sentences, as the Alien has completed the action of turning on the TV and is now seeking confirmation that this is all they had to do."}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\n0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n1\n1\n0\n0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1\n\n0"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1\n1\n0\n0\n1\n0"}
+{"response": "1\n1\n0\n0\n1\n0"}
+{"response": "0"}
+{"response": "1\n0\n1\n0\n1"}
+{"response": "1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\nHuman: First, you need to sit down.\nAlien: 0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\nIn this case, the first sentence \"No\" indicates that the alien's question \"Is the cabinet in front of me?\" has been answered, and the activity of asking and answering questions has come to an end. The second sentence \"I am the human. Nice to meet you, alien.\" indicates the beginning of a new segment where the human is introducing themselves to the alien. Therefore, the value is 1."}
+{"response": "1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0\n\n0"}
+{"response": "1\n\nAlien: I'm here.\nHuman: What do you see?\n0\n\nAlien: I see a lot of buttons.\nHuman: Try pressing the one that says \"power\"\n0\n\nAlien: I will try.\nHuman: Great.\n0\n\nAlien: It worked!\nHuman: I am glad you were able to turn on the TV.\n0\n\nAlien: Yes, me too.\nHuman: Is there a specific show you want to watch?\n0\n\nAlien: I want to watch the news.\nHuman: The news is on channel 5.\n0\n\nAlien: Thank you.\nHuman: You're welcome.\n0\n\nAlien: How do I change the channel?\nHuman: Use the buttons on the remote control.\n0\n\nAlien: I see.\nHuman: Do you need help finding the remote?\n0\n\nAlien: No, I got it.\nHuman: Great.\n0\n\nAlien: This is interesting.\nHuman: I'm glad you're enjoying the news.\n0\n\nAlien: Yes, I am learning a lot.\nHuman: That's great.\n0\n\nAlien: I think I will watch the news every day.\nHuman: That's a great idea.\n0\n\nAlien: Thank you for showing me how to use the TV.\nHuman: You're welcome. I'm glad I could help.\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n\nHuman: Let's watch a movie.\nAlien: I don't know what a movie is.\n1"}
+{"response": "1\n\nIn this case, the first sentence (\"What's next?\") occurs at the end of a segment, and the second sentence (\"Open up the 3 cabinets above you\") begins a new segment. This is because the first sentence represents a transition point in the conversation, where the human is giving the alien a new instruction. The second sentence, on the other hand, represents a new action that the alien is being asked to perform. Therefore, there is a break in the activity between the two sentences."}
+{"response": "1\n\nAlien: I'm here.\nHuman: Great, let's start the experiment.\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\nIn this case, there is a break in the activity between the two sentences. The human's response indicates a new task or activity for the alien to complete (picking up the towels)."}
+{"response": "1"}
+{"response": "1"}
+{"response": "0\n\n0\n\n1\n\n0\n\n1\n\n0\n\n0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1\n\nAlien: I'm trying to understand human habits.\nHuman: That's interesting, most aliens want to destroy us.\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1\n\nIn this case, there is a break in the activity between the two sentences. The first sentence indicates that the alien is talking about multiple towers, while the second sentence refers to a single towel. This shift in topic suggests that there may have been a break in the activity or a change in the conversation's focus."}
+{"response": "1\n\nIn this case, the human's request for the alien to put one more towel in the cabinet is a separate segment of activity from the alien's response, which begins a new segment."}
+{"response": "1"}
+{"response": "1\n\nIn this case, the alien's statement \"I'm going to get the second towel\" indicates that they are leaving the current activity (whatever that may be) to go and get the towel. The human's response of \"Okay\" confirms that the activity has ended and a new one is about to begin. Therefore, the value should be 1 to indicate that there is a break in the activity between the two sentences."}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n\nHuman: The book belongs in the second shelf.\nAlien: 2nd shelf, got it.\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\nIn this case, the first sentence \"Oh is this the cabinet?\" indicates that the alien is changing their activity from looking around to identifying specific objects in the room. The second sentence \"No that is the washing machine the Cabinets are to your right\" confirms this new activity, as the human is now helping the alien identify objects in the room. Therefore, there is a break in the activity between the two sentences."}
+{"response": "1\n\nAlien: I am inside the spacecraft.\nHuman: Great, now move towards the control panel.\n0"}
+{"response": "1\n1\n1\n0\n0"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0\n\n1"}
+{"response": "1\n\n0"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1\n\nIn this case, there is a break in the activity between the two sentences. The human's response indicates that they have completed an action (reaching the living room) and are now ready for the alien to take the next step (turning on the TV). This represents a shift in the activity and therefore warrants a break in the segment."}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1\n\nIn this case, the human's response indicates that they have identified the location of the cabinet, which suggests a break in the activity from the previous sentence where the alien is putting the towel in the cabinet."}
+{"response": "1\n0\n1\n0\n1\n0"}
+{"response": "1"}
+{"response": "1\n1\n1\n0\n0"}
+{"response": "1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\n0\n\n1\n\n0\n\n1\n\n0\n\n1"}
+{"response": "1"}
+{"response": "1\n\n0"}
+{"response": "1\n\n0"}
+{"response": "1\n1\n1\n0\n0"}

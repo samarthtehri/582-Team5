@@ -10,7 +10,7 @@ from src.utils.get_performance import get_performance
 def postprocess_response(response_dict: dict, prompt_name: str) -> int:
     response = response_dict["response"]
     
-    if prompt_name == "zeroshot":
+    if prompt_name in ["zeroshot", "fewshot"]:
         label = response[0]
         if label in ["0", "1"]:
             label = int(label)
