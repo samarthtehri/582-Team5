@@ -1,0 +1,56 @@
+{
+    "prompt=zeroshot": {
+        "input_format=user-text": {
+            "Mistral-7B-Instruct-v0.1": {
+                "statistics": {
+                    "total_samples": 1290,
+                    "label_distribution": {
+                        "count": {
+                            "0": 895,
+                            "1": 395
+                        },
+                        "average": 0.3062015503875969
+                    }
+                },
+                "performance": {
+                    "accuracy": 0.3062015503875969,
+                    "pos_label=0": {
+                        "precision": 0.5,
+                        "recall": 0.0011173184357541898,
+                        "f1": 0.002229654403567447
+                    },
+                    "pos_label=1": {
+                        "precision": 0.3059006211180124,
+                        "recall": 0.9974683544303797,
+                        "f1": 0.4682115270350565
+                    }
+                }
+            },
+            "Mixtral-8x7B-Instruct-v0.1": {
+                "statistics": {
+                    "total_samples": 1290,
+                    "label_distribution": {
+                        "count": {
+                            "0": 895,
+                            "1": 395
+                        },
+                        "average": 0.3062015503875969
+                    }
+                },
+                "performance": {
+                    "accuracy": 0.5310077519379846,
+                    "pos_label=0": {
+                        "precision": 0.8683544303797468,
+                        "recall": 0.38324022346368714,
+                        "f1": 0.5317829457364341
+                    },
+                    "pos_label=1": {
+                        "precision": 0.3838383838383838,
+                        "recall": 0.8658227848101265,
+                        "f1": 0.5318818040435459
+                    }
+                }
+            }
+        }
+    }
+}

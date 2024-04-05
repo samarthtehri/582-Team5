@@ -10,15 +10,13 @@
         "average": 0.3062015503875969
     },
     "baseline_performance": {
-        "pos_label=0": {
-            "majority_class": {
+        "majority_class": {
+            "pos_label=0": {
                 "precision": 0.6937984496124031,
                 "recall": 1.0,
                 "f1": 0.8192219679633868
-            }
-        },
-        "pos_label=1": {
-            "majority_class": {
+            },
+            "pos_label=1": {
                 "precision": 0.0,
                 "recall": 0.0,
                 "f1": 0.0

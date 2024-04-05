@@ -2,9 +2,9 @@ import csv
 import json
 
 import numpy as np
-import sklearn.metrics
 
 from src.path import dataset_dir, dataset_stats_dir
+from src.utils.get_performance import get_performance
 
 
 if __name__ == "__main__":
@@ -33,20 +33,9 @@ if __name__ == "__main__":
         
         # baseline performance
         majority_baseline_predictions = [0 for _ in range(len(labels_list))]
-        simple_baseline_performance = {}
-        for pos_label in [0, 1]:
-            precision, recall, f1, _ = sklearn.metrics.precision_recall_fscore_support(
-                labels_list, majority_baseline_predictions, pos_label=pos_label,
-                average="binary", zero_division=0
-            )
-            
-            simple_baseline_performance[f"pos_label={pos_label}"] = {
-                "majority_class": {
-                    "precision": precision.item(),
-                    "recall": recall.item(),
-                    "f1": f1.item(),
-                }
-            }
+        simple_baseline_performance = {
+            "majority_class": get_performance(y_true=labels_list, y_pred=majority_baseline_predictions)
+        }
         
         dataset_stats["baseline_performance"] = simple_baseline_performance
         
