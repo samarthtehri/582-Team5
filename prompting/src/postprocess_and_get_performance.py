@@ -11,14 +11,17 @@ def postprocess_response(response_dict: dict, prompt_name: str) -> int:
     response = response_dict["response"]
     
     if prompt_name in ["zeroshot", "fewshot"]:
-        label = response[0]
-        if label in ["0", "1"]:
-            label = int(label)
-        else:
-            label = -1
-        return label
+        raw_label = response[0]
+    elif prompt_name == "fewshot_cot":
+        raw_label = response[-1]
     else:
         raise NotImplementedError(f"Postprocessing for prompt_name={prompt_name} is not implemented.")
+    
+    if raw_label in ["0", "1"]:
+        label = int(raw_label)
+    else:
+        label = -1
+    return label
 
 
 if __name__ == "__main__":
@@ -37,6 +40,7 @@ if __name__ == "__main__":
                 
                 with open(responses_path, "r") as f:
                     responses = [json.loads(line) for line in f]
+                assert len(responses) == len(dataset)
                 processed = [postprocess_response(response, prompt_name) for response in responses]
                 
                 output_path = llm_outputs_dir / f"prompt={prompt_name}" / f"input_format={input_format}" / "processed" / f"{model_name}.txt"

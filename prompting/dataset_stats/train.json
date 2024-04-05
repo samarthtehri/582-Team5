@@ -2,23 +2,25 @@
     "summary": {
         "total_samples": 5100
     },
-    "labels": {
-        "count": {
-            "0": 3617,
-            "1": 1483
-        },
-        "average": 0.2907843137254902
-    },
     "baseline_performance": {
         "majority_class": {
             "statistics": {
                 "total_samples": 5100,
-                "label_distribution": {
+                "y_true_distribution": {
                     "count": {
                         "0": 3617,
-                        "1": 1483
+                        "1": 1483,
+                        "-1": 0
                     },
                     "average": 0.2907843137254902
+                },
+                "y_pred_distribution": {
+                    "count": {
+                        "0": 5100,
+                        "1": 0,
+                        "-1": 0
+                    },
+                    "average": 0.0
                 }
             },
             "performance": {

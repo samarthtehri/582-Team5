@@ -25,10 +25,6 @@ if __name__ == "__main__":
             "summary": {
                 "total_samples": len(labels_list),
             },
-            "labels": {
-                "count": {"0": labels_list.count(0), "1": labels_list.count(1)},
-                "average": np.average(labels_list).item(),
-            }
         }
         
         # baseline performance
