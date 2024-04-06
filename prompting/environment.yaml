@@ -1,0 +1,10 @@
+name: cse582
+channels:
+  - pytorch
+  - nvidia
+  - defaults
+dependencies:
+  - numpy
+  - pip:
+      - typed-argument-parser
+      - scikit-learn
