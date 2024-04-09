@@ -25,28 +25,6 @@ def format_conversation(conversation):
         formatted_strings.append(formatted_string)
     return ' '.join(formatted_strings)
 
-
-file = './Data/train/train.csv'
-file = './Data/test/test.csv'
-
-train_df = pd.read_csv(file)
-train_df['one'] = train_df['utterance1'].apply(format_conversation)
-train_df['two'] = train_df['utterance2'].apply(format_conversation)
-train_df['text'] = list(zip(train_df['one'], train_df['two']))
-train_df['label'] = train_df['label'].astype(int)
-
-#train_df, val_df = train_test_split(df, test_size=0.2, random_state=42)
-
-test_df = pd.read_csv(file)
-test_df['one'] = test_df['utterance1'].apply(format_conversation)
-test_df['two'] = test_df['utterance2'].apply(format_conversation)
-test_df['text'] = list(zip(test_df['one'], test_df['two']))
-test_df['label'] = test_df['label'].astype(int)
-
-tokenizer = AutoTokenizer.from_pretrained("google-bert/bert-base-cased")
-model = AutoModelForSequenceClassification.from_pretrained("google-bert/bert-base-cased", num_labels=2)
-
-
 class XDataset(Dataset):
     def __init__(self, encodings, labels):
         self.encodings = encodings
@@ -64,17 +42,27 @@ class XDataset(Dataset):
 def tokenize_data(data):
     return tokenizer(list(data), truncation=True, padding=True)
 
-train_labels = train_df.label.values
-test_labels = test_df.label.values   
+def process_file(file):
+    df = pd.read_csv(file)
+    df['one'] = df['utterance1'].apply(format_conversation)
+    df['two'] = df['utterance2'].apply(format_conversation)
+    df['text'] = list(zip(df['one'], df['two']))
+    df['label'] = df['label'].astype(int)
 
-train_encodings = tokenize_data(train_df.text.values)
-test_encodings = tokenize_data(test_df.text.values)
+    labels = df.label.values    
+    encodings = tokenize_data( df.text.values)
+    dataset = XDataset(encodings, labels)
+    return dataset
 
-train_dataset = XDataset(train_encodings, train_labels)
-test_dataset = XDataset(test_encodings, test_labels)
+tokenizer = AutoTokenizer.from_pretrained("google-bert/bert-base-cased")
 
-# Add labels to the tokenized data
+train_file = './Data/train/train.csv'
+test_file = './Data/test/test.csv'
 
+train_dataset = process_file(train_file) 
+test_dataset = process_file(test_file) 
+
+model = AutoModelForSequenceClassification.from_pretrained("google-bert/bert-base-cased", num_labels=2)
 metric = evaluate.load("accuracy")
 
 def compute_metrics(eval_pred):
@@ -82,8 +70,7 @@ def compute_metrics(eval_pred):
     predictions = np.argmax(logits, axis=-1)
     return metric.compute(predictions=predictions, references=labels)
 
-
-training_args = TrainingArguments(output_dir="test_trainer", evaluation_strategy="epoch", num_train_epochs=4)
+training_args = TrainingArguments(output_dir="test_trainer", evaluation_strategy="epoch", num_train_epochs=6)
 
 trainer = Trainer(
     model=model,
