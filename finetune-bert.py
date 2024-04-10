@@ -64,11 +64,21 @@ test_dataset = process_file(test_file)
 
 model = AutoModelForSequenceClassification.from_pretrained("google-bert/bert-base-cased", num_labels=2)
 metric = evaluate.load("accuracy")
+metric1 = evaluate.load("precision")
+metric2 = evaluate.load("recall")
+metric3 = evaluate.load("f1")
+
 
 def compute_metrics(eval_pred):
+
     logits, labels = eval_pred
     predictions = np.argmax(logits, axis=-1)
-    return metric.compute(predictions=predictions, references=labels)
+    accuracy = metric.compute(predictions=predictions, references=labels)["accuracy"]
+    precision = metric1.compute(predictions=predictions, references=labels)["precision"]
+    recall = metric2.compute(predictions=predictions, references=labels)["recall"]
+    f1 = metric3.compute(predictions=predictions, references=labels)["f1"]
+    return {"accuracy": accuracy, "precision": precision, "recall": recall, "f1": f1}
+ 
 
 training_args = TrainingArguments(output_dir="test_trainer", evaluation_strategy="epoch", num_train_epochs=6)
 
