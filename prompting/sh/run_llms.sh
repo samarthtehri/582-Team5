@@ -1,6 +1,6 @@
 # cd ./prompting
 
-for prompt in zeroshot fewshot fewshot_cot
+for prompt in fewshot fewshot_cot fewshot_cot_intent fewshot_cot_category  # zeroshot
 do
     for model in mistralai/Mistral-7B-Instruct-v0.1 mistralai/Mixtral-8x7B-Instruct-v0.1
     do

@@ -26,10 +26,19 @@ def get_prompt(data, input_format: list[str], prompt_type: str):
             input_str += utterance["user"] + ": "
         if "text" in input_format:
             input_str += utterance["text"]
+        
+        if "intent" in input_format:
+            input_str += f" ({utterance['intent']})"
+        
         inputs_list.append(input_str)
     
     prompt_template = get_prompt_template[prompt_type]
-    return prompt_template.format(input1=inputs_list[0], input2=inputs_list[1])
+    prompt = prompt_template.format(input1=inputs_list[0], input2=inputs_list[1])
+    
+    if "category" in prompt_type:
+        prompt += f"\nCategory: {data['category']}"
+    
+    return prompt
 
 
 class LlmTap(Tap):

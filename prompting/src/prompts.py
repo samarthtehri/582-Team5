@@ -14,43 +14,50 @@ zeroshot_prompt = definition + "\n" + zeroshot_sentence + """
 
 # few-shot examples
 few_shot_examples = [
-    [
-        "Alien: Ok, that's fine with me.",
-        "Human: What is the first thing we have to do in order to use this dishwasher properly?",
-        "Explanation: Alien finished the previous conversation. Human starts a new conversation about the dishwasher. The two sentences are in different segments.",
-        "1",
-    ],
-    [
-        "Alien: How are you doing today?",
-        "Human: I am good, thank you for asking",
-        "Explanation: Human answers to the question asked by Alien. The two sentences are in the same segment.",
-        "0",
-    ],
-    [
-        "Alien: How to open the TV?",
-        "Human: Hit the open button on the corner of the screen",
-        "Explanation: Human answers to the question asked by Alien. The two sentences are in the same segment.",
-        "0",
-    ],
-    [
-        "Human: Yup! Great job! Now we just have to wait until the dishwasher finishes washing the plate.",
-        "Human: Now that the dishwasher is done cleaning the plate, you can take it out of the dishwasher",
-        "Explanation: There is a time gap between the two sentences. The first sentence is about the dishwasher washing the plate. The second sentence is about taking the plate out of the dishwasher. The two sentences are in different segments.",
-        "1",
-    ],
-    [
-        "Alien: No, I guess I should turn on the TV but I do not know how to do it.",
-        "Human: you should walk towards it and click on its power button",
-        "Explanation: Human answers to the question asked by Alien about how to turn on the TV. The two sentences are in the same segment.",
-        "0",
-    ],
-    [
-        "Alien: Ah of course! I definitely won't forget to do that next time.",
-        "Alien: Where do you want me to put this clean plate?",
-        "Explanation: Alien finishes the previous conversation. Alien starts a new conversation about the clean plate. The two sentences are in different segments.",
-        "1",
-    ]
+    {
+        "utterance1": {'user': 'Alien', 'text': "Got it. Let's go", 'intent': 'Ask_get_started'},
+        "utterance2": {'user': 'Human', 'text': 'Now you have found the TV, can you open it', 'intent': 'Inform_next_step'},
+        "label": "1",
+        "category": "watch_tv_1",
+        "explanation": "There is a time gap between the two sentences. They are in different segments in the dialogue.",
+    },
+    {
+        "utterance1": {'user': 'Alien', 'text': 'Okay is this the computer?', 'intent': 'Ask_about_object'},
+        "utterance2": {'user': 'Human', 'text': 'No thats not the computer, that is the stove', 'intent': 'Inform_object'},
+        "label": "0",
+        "category": "using_computer_1",
+        "explanation": "The second sentence is a response to the first sentence. They are in the same segment in the dialogue.",
+    },
+    {
+        "utterance1": {'user': 'Alien', 'text': "Sure. I'm on my way.", 'intent': 'Inform_understanding'},
+        "utterance2": {'user': 'Human', 'text': 'Are you ok Zara? Why you standing next to the refrigerator?', 'intent': 'Ask_okay'},
+        "label": "1",
+        "category": "wash_glass_3",
+        "explanation": "There is a time gap between the two sentences. They are in different segments in the dialogue.",
+    },
+    {
+        "utterance1": {'user': 'Human', 'text': 'Yes, please.', 'intent': 'Yes-no_positive'},
+        "utterance2": {'user': 'Human', 'text': 'Can you set a 20 second heating timer for the microwave?', 'intent': 'Inform_next_step'},
+        'label': '1',
+        "category": "using_microwave_3",
+        "explanation": "The two sentences are about different activities. They are in different segments in the dialogue.",
+    },
+    {
+        "utterance1": {'user': 'Human', 'text': 'Do you see the black object on the white mat?', 'intent': 'Ask_know_object'},
+        "utterance2": {'user': 'Alien', 'text': 'I see it', 'intent': 'Yes-no_positive'},
+        'label': '0',
+        "category": "using_computer_3",
+        "explanation": "The second sentence is a response to the first sentence. They are in the same segment in the dialogue.",
+    },
+    {
+        "utterance1": {'user': 'Alien', 'text': 'This book is interesting. Did the same author also write the other book?', 'intent': 'Ask_about_object'},
+        "utterance2": {'user': 'Human', 'text': 'I believe so. Glad your enjoying them.', 'intent': 'Yes-no_positive'},
+        'label': '0',
+        "category": "read_book_0",
+        "explanation": "The second sentence is a response to the first sentence. They are in the same segment in the dialogue.",
+    }
 ]
+
 
 few_shot_examples_sentence = "The following are some examples of the task (in a random order):"
 your_task_placeholder = """New input (your task):
@@ -61,13 +68,25 @@ your_task_placeholder = """New input (your task):
 
 # few-shot prompt (only final answer)
 fewshot_prompt = definition + "\n" + zeroshot_sentence + "\n\n" + few_shot_examples_sentence + "\n\n" + "\n\n".join(
-    [f"{example[0]}\n{example[1]}\n{example[3]}" for example in few_shot_examples]
+    [f"{example['utterance1']['user']}: {example['utterance1']['text']}\n{example['utterance2']['user']}: {example['utterance2']['text']}\n{example['label']}" for example in few_shot_examples]
 ) + "\n\n" + your_task_placeholder
 
 
 # few-shot prompt with chain-of-thought
 fewshot_cot_prompt = definition + "\n" + zeroshot_sentence + "\n\n" + few_shot_examples_sentence + "\n\n" + "\n\n".join(
-    [f"{example[0]}\n{example[1]}\n{example[2]}\nLabel: {example[3]}" for example in few_shot_examples]
+    [f"{example['utterance1']['user']}: {example['utterance1']['text']}\n{example['utterance2']['user']}: {example['utterance2']['text']}\nExplanation: {example['explanation']}\nLabel: {example['label']}" for example in few_shot_examples]
+) + "\n\n" + your_task_placeholder
+
+
+# few-shot prompt with chain-of-thought and intent
+fewshot_cot_prompt_intent = definition + "\n" + zeroshot_sentence + "\n\n" + few_shot_examples_sentence + "\n\n" + "\n\n".join(
+    [f"{example['utterance1']['user']}: {example['utterance1']['text']} ({example['utterance1']['intent']})\n{example['utterance2']['user']}: {example['utterance2']['text']} ({example['utterance2']['intent']})\nExplanation: {example['explanation']}\nLabel: {example['label']}" for example in few_shot_examples]
+) + "\n\n" + your_task_placeholder
+
+
+# few-shot prompt with chain-of-thought and category
+fewshot_cot_prompt_category = definition + "\n" + zeroshot_sentence + "\n\n" + few_shot_examples_sentence + "\n\n" + "\n\n".join(
+    [f"{example['utterance1']['user']}: {example['utterance1']['text']}\n{example['utterance2']['user']}: {example['utterance2']['text']}\nCategory: {example['category']}\nExplanation: {example['explanation']}\nLabel: {example['label']}" for example in few_shot_examples]
 ) + "\n\n" + your_task_placeholder
 
 
@@ -75,7 +94,9 @@ fewshot_cot_prompt = definition + "\n" + zeroshot_sentence + "\n\n" + few_shot_e
 get_prompt_template = {
     "zeroshot": zeroshot_prompt,
     "fewshot": fewshot_prompt,
-    "fewshot_cot": fewshot_cot_prompt
+    "fewshot_cot": fewshot_cot_prompt,
+    "fewshot_cot_intent": fewshot_cot_prompt_intent,
+    "fewshot_cot_category": fewshot_cot_prompt_category,
 }
 
 
@@ -89,3 +110,9 @@ if __name__ == "__main__":
     
     print("\n\nFew-shot COT prompt:")
     print(get_prompt_template["fewshot_cot"])
+    
+    print("\n\nFew-shot COT with intent prompt:")
+    print(get_prompt_template["fewshot_cot_intent"])
+    
+    print("\n\nFew-shot COT with category prompt:")
+    print(get_prompt_template["fewshot_cot_category"])

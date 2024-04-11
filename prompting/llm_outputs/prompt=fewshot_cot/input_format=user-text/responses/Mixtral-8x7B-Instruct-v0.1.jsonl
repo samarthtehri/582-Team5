@@ -1,805 +1,158 @@
-{"response": "Label: 0"}
-{"response": "Label: 0"}
 {"response": "0"}
 {"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "Label: 1\n\nExplanation: There is a time gap between the two sentences. In the first sentence, Alien finishes the previous conversation or activity. In the second sentence, Alien starts a new conversation about the towels. The two sentences are in different segments."}
-{"response": "1"}
-{"response": "0"}
-{"response": "Label: 1\n\nExplanation: The first sentence indicates that Alien agrees to something, finishing the previous conversation or activity. The second sentence indicates a new action (grabbing the towel), starting a new segment in the dialogue."}
-{"response": "0"}
-{"response": "0"}
-{"response": "0"}
-{"response": "0"}
-{"response": "0"}
-{"response": "0"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "0\n\nExplanation: The two sentences are both spoken by the Human and are connected in terms of the activity of using a towel. The first sentence is a confirmation, and the second sentence explains the outcome of the activity."}
-{"response": "1"}
-{"response": "1"}
-{"response": "1"}
-{"response": "1"}
-{"response": "Label: 1"}
-{"response": "Label: 0"}
-{"response": "0"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "1"}
-{"response": "Label: 1"}
-{"response": "1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "Label: 1"}
-{"response": "1"}
-{"response": "1"}
-{"response": "Label: 1"}
 {"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "1"}
 {"response": "0"}
 {"response": "1"}
 {"response": "0"}
-{"response": "Label: 1\n\nExplanation: The first sentence is a greeting and the second sentence is starting a new activity (cleaning dishes). The two sentences are in different segments."}
-{"response": "0"}
+{"response": "Label: 1\n\nExplanation: The second sentence starts a new activity of identifying objects, so it is in a different segment in the dialogue."}
+{"response": "1\n\nExplanation: The second sentence is a response to the activity of opening the cabinets, so it starts a new segment in the dialogue."}
 {"response": "1"}
 {"response": "1"}
 {"response": "0"}
-{"response": "1"}
 {"response": "0"}
-{"response": "1\n\nExplanation: The first sentence is a confirmation from Alien. The second sentence is a statement about the plate. The two sentences are in different segments."}
-{"response": "1 (There is a break in the activity between the two sentences. The first sentence is about the cupcake on the plate, and the second sentence is a question about what to do next.)"}
-{"response": "1"}
-{"response": "1"}
-{"response": "1"}
-{"response": "1"}
 {"response": "0"}
-{"response": "1"}
 {"response": "0"}
-{"response": "1\n\nExplanation: Alien finishes the previous conversation. Alien starts a new conversation about using the dishwasher. The two sentences are in different segments."}
 {"response": "1"}
-{"response": "0"}
-{"response": "Label: 1\n\nExplanation: The first sentence is an acknowledgment, and the second sentence starts a new activity about placing the plate."}
 {"response": "0"}
-{"response": "0"}
 {"response": "1"}
 {"response": "0"}
-{"response": "0"}
-{"response": "1\n\nExplanation: The first sentence is a confirmation that the previous action was successful. The second sentence is a new instruction for the next action. The two sentences are in different segments."}
-{"response": "Label: 1\n\nExplanation: Human finishes the previous conversation about closing the dishwasher. Alien starts a new conversation about turning on the dishwasher. The two sentences are in different segments."}
-{"response": "1"}
 {"response": "0"}
-{"response": "Label: 1\n\nExplanation: The first sentence is an acknowledgment, and the second sentence starts a new activity asking about the status of a task. There is a break in the activity between the two sentences."}
-{"response": "1"}
-{"response": "Label: 1\n\nExplanation: The first \"Yes\" is likely a confirmation or agreement to something previously said, while the second sentence starts a new activity or question. There is a break in the activity between the two sentences."}
 {"response": "0"}
-{"response": "1"}
-{"response": "1"}
 {"response": "0"}
-{"response": "1"}
 {"response": "0"}
 {"response": "0"}
 {"response": "1"}
 {"response": "1"}
-{"response": "1"}
-{"response": "1\n\nExplanation: Alien finishes the previous conversation. Human gives permission to Alien to go to the table. The two sentences are in different segments."}
-{"response": "0"}
 {"response": "0"}
-{"response": "1"}
-{"response": "1"}
-{"response": "0 (The second sentence is a praise for the Alien's action, still related to the same activity of arranging the place to eat.)"}
+{"response": "1\n\nExplanation: The second sentence indicates a change in the activity (moving to the top shelf), so it is in a different segment in the dialogue."}
 {"response": "0"}
 {"response": "1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "0"}
 {"response": "1"}
-{"response": "0"}
 {"response": "1"}
-{"response": "Label: 0\n\nExplanation: The two sentences are in the same segment because the second sentence is a continuation of the first sentence, where the human is guiding the alien to the bathroom and then asking if the alien knows what to do next. There is no break in the activity between the two sentences."}
-{"response": "0"}
 {"response": "1"}
 {"response": "1"}
-{"response": "0"}
-{"response": "0"}
+{"response": "Label: 1"}
 {"response": "1"}
 {"response": "0"}
 {"response": "1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "0"}
 {"response": "1"}
 {"response": "0"}
 {"response": "1"}
 {"response": "1"}
 {"response": "1"}
-{"response": "Label: 1\n\nExplanation: The first sentence is a command from Human for Alien to pick another item. The second sentence is a question from Alien about the name of a household item. The two sentences are in different segments."}
-{"response": "1"}
-{"response": "Label: 1\n\nExplanation: The first sentence is an explanation about the origin of a word. The second sentence is a request for the alien to do something. The two sentences are in different segments."}
-{"response": "0"}
-{"response": "Label: 1\n\nExplanation: The first sentence (Alien: Okay) is usually a response to a previous statement or request, indicating acknowledgement or agreement. The second sentence (Alien: Should I put it on the same cabinet?) starts a new conversation about where to put something. The two sentences are in different segments."}
 {"response": "0"}
-{"response": "Label: 1\n\nExplanation: The first sentence is a confirmation to do something. The second sentence is a greeting and question about the Alien's well-being. The two sentences are in different segments."}
-{"response": "Label: 0"}
 {"response": "1"}
 {"response": "0"}
-{"response": "1\n\nExplanation: Alien and Human have finished their previous conversation, and Human is now saying goodbye to someone named Zara. The two sentences are in different segments."}
-{"response": "0"}
-{"response": "0"}
-{"response": "1"}
-{"response": "1"}
-{"response": "1\n\nExplanation: The first sentence is about using the dishwasher to wash something. The second sentence is a question about what to do next. The two sentences are in different segments."}
-{"response": "1"}
-{"response": "1"}
-{"response": "Label: 1\n\nExplanation: The first sentence is about finding the dirty plate. The second sentence is about going to the bedroom. There is a break in the activity between the two sentences."}
 {"response": "0"}
 {"response": "1"}
-{"response": "Label: 0"}
-{"response": "0"}
-{"response": "Label: 0"}
+{"response": "1\n\nThe first sentence is a response to a previous activity, and the second sentence starts a new activity."}
 {"response": "1"}
 {"response": "0"}
-{"response": "1"}
 {"response": "0"}
 {"response": "1"}
-{"response": "0"}
 {"response": "0"}
 {"response": "0"}
 {"response": "Label: 1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\nExplanation: The second sentence is a continuation of the first sentence, but it indicates a change in the topic of the dialogue, so it starts a new segment."}
+{"response": "Label: 1\n\nExplanation: The second sentence indicates that the alien has completed an action (setting down the plate), which suggests a break in the activity from the first sentence."}
 {"response": "0"}
 {"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "Label: 1\n\nExplanation: The second sentence starts a new activity, so it is in a different segment in the dialogue."}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1\n\nExplanation: The two sentences are in different segments in the dialogue. The first sentence is likely the end of one activity or task, and the second sentence is the beginning of a new one."}
+{"response": "Label: 0\n\nExplanation: The second sentence is a continuation of the first sentence, asking for further instructions on what to do now that there is still a cupcake on the plate. They are in the same segment in the dialogue."}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1\n\nExplanation: The second sentence is a new question and request for instruction, indicating a new segment in the dialogue."}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "Label: 1\n\nExplanation: The second sentence is not a response to the first sentence. It indicates a new activity or question."}
+{"response": "1"}
+{"response": "0"}
+{"response": "1\n\nExplanation: The two sentences are in different segments in the dialogue. The first sentence is likely acknowledging a command or instruction, and the second sentence is asking if a task has been completed. There is a time gap between the two sentences, as the task being referred to in the second sentence would need to be carried out after the first sentence."}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1\n\nExplanation: The human's response is not related to the alien's statement about opening the cabinets door. There is a break in the activity between the two sentences."}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1\n\nExplanation: The two sentences are spoken by the same person and there is a time gap between them, indicating that they are in different segments of the dialogue. The first sentence is a statement of understanding or agreement, while the second sentence is a question about where to place something."}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "Label: 1\n\nExplanation: The two sentences are about different topics. They are in different segments in the dialogue."}
 {"response": "0"}
 {"response": "Label: 0"}
 {"response": "0"}
-{"response": "1\n\nExplanation: The first sentence completes the action of putting the plate in the dishwasher. The second sentence starts a new action or activity, asking for the next step. The two sentences are in different segments."}
-{"response": "1"}
-{"response": "0"}
-{"response": "Label: 0"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "1"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "1"}
-{"response": "Label: 1"}
-{"response": "0"}
-{"response": "Label: 0"}
-{"response": "0"}
-{"response": "1"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "Label: 1"}
-{"response": "0"}
-{"response": "1\n\nExplanation: The first sentence is an affirmative response to an unspecified question or request. The second sentence is a compliment about the Alien's learning progress. The two sentences are in different segments."}
-{"response": "0"}
-{"response": "0"}
-{"response": "0"}
-{"response": "1"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "1"}
-{"response": "Label: 1\n\nExplanation: The first sentence is an explanation of what a washing machine is. The second sentence is an explanation of what cabinets are used for. These are two different topics, so the two sentences are in different segments."}
-{"response": "1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "1"}
-{"response": "Label: 1\n\nExplanation: The first sentence is about putting towels into cabinets, which is an instruction for a new activity. The second sentence is a definition of towels. The two sentences are in different segments."}
-{"response": "0"}
-{"response": "Label: 1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "1"}
-{"response": "Label: 0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1\n\nExplanation: Alien finishes the previous conversation about placing the clean plate in the middle cabinet. Alien starts a new conversation about placing a towel on the top shelf of the cabinet. The two sentences are in different segments."}
-{"response": "0"}
-{"response": "Label: 1\n\nExplanation: The first sentence is a response to an unspecified question or request, while the second sentence introduces a new topic about putting away a towel. The two sentences are in different segments."}
-{"response": "Label: 1\n\nExplanation: The first sentence is about putting away a towel. The second sentence is asking about the steps to do something. The two sentences are in different segments."}
-{"response": "Label: 0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "0"}
-{"response": "Label: 1\n\nExplanation: The first sentence is an acknowledgement from Human, giving Alien permission to do something. The second sentence is a request for Alien to perform a different action. The two sentences are in different segments."}
-{"response": "0"}
-{"response": "1"}
-{"response": "1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "Label: 1\n\nExplanation: The two sentences are in different segments. Alien addresses Human and greets him, and Human responds with a greeting and a friendly comment. There is no continuity in the conversation, and it seems like they just started talking again after some time gap."}
-{"response": "1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "0"}
-{"response": "0"}
-{"response": "Label: 1\n\nExplanation: The first sentence indicates that Alien is starting a new activity (presumably following some instruction or request). The second sentence is a question about the activity, indicating a new segment in the dialogue."}
-{"response": "Label: 0"}
-{"response": "Label: 0"}
-{"response": "Label: 1"}
-{"response": "Label: 1\n\nExplanation: The first sentence is a response to a previous action or statement, and the second sentence is initiating a new activity by offering more information. There is a break in the activity between the two sentences."}
-{"response": "0"}
-{"response": "1"}
-{"response": "Label: 1\n\nExplanation: The first sentence is an explanation about the purpose of plates. The second sentence is a statement about what the Alien has done. The two sentences are in different segments."}
-{"response": "0"}
-{"response": "1"}
-{"response": "1"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "Label: 1\n\nExplanation: The first sentence is an explanation about what a dishwasher is and what it does. The second sentence is a request to perform an action on the dishwasher. The two sentences are in different segments."}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "Label: 0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "1"}
-{"response": "0"}
-{"response": "Label: 0\n\nExplanation: The human is continuing the same activity of identifying objects in the environment and reminding the other speaker of the next step in the process. There is no break in the activity between the two sentences."}
-{"response": "0"}
-{"response": "1\n\nExplanation: Alien finishes the previous conversation about placing the plate down on the table. Alien starts a new conversation about saying goodbye to Michael. The two sentences are in different segments."}
-{"response": "0"}
-{"response": "0"}
-{"response": "Label: 1"}
-{"response": "Label: 1\n\nExplanation: There is a time gap between the two sentences. In the first sentence, Alien is talking about the location of something. In the second sentence, Alien starts a new conversation about the plate. The two sentences are in different segments."}
-{"response": "0"}
-{"response": "Label: 1"}
-{"response": "Label: 0"}
-{"response": "Label: 1\n\nExplanation: The first sentence indicates that Alien is done with a previous activity (implied by the statement \"I am good\"), and the second sentence starts a new activity or topic (\"What should we do about the cupcake\"). Therefore, these two sentences are in different segments of the dialogue."}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "Label: 1\n\nExplanation: The first sentence is an affirmation from Alien. The second sentence is a new instruction from Alien. There is a break in the activity between the two sentences."}
-{"response": "1\n\nExplanation: The first sentence is a command for the human to open something. The second sentence is a command for the human to put the plate into the opened thing. These are two separate actions, so they are in different segments."}
-{"response": "0"}
-{"response": "1"}
-{"response": "1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "0"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "0"}
-{"response": "0"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "0"}
-{"response": "1\n\nExplanation: The first sentence indicates that Alien is on their way, so it marks the end of a segment. The second sentence starts a new segment as it asks for the next instruction or action."}
-{"response": "1"}
-{"response": "0"}
-{"response": "1\n\nExplanation: The first sentence is a response to a previous statement or question, indicating the end of that segment of the conversation. The second sentence starts a new segment as it is a question asking for further information or instructions."}
-{"response": "1"}
-{"response": "1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "1\n\nExplanation: The first sentence is a response to a previous statement or question, indicating the end of that segment of the conversation. The second sentence starts a new segment as it is a question asking for further instructions."}
-{"response": "1"}
-{"response": "1\n\nExplanation: The human finishes the previous conversation about putting the clean plates somewhere, and the alien starts a new conversation asking which cupboard to use. The two sentences are in different segments."}
-{"response": "1 (The first sentence is a truncated question, and the second sentence is the answer to that question. They are in different segments.)"}
-{"response": "1"}
-{"response": "1\n\nExplanation: The first sentence is a response to a previous statement or question, indicating the end of that segment of the conversation. The second sentence starts a new segment as it is a question asking for further information or instructions."}
-{"response": "1"}
-{"response": "0"}
-{"response": "1\n\nExplanation: The first \"Okay\" concludes the previous activity or conversation, and the second \"Okay I am here, now what?\" starts a new one. The two sentences are in different segments."}
-{"response": "1"}
-{"response": "0"}
-{"response": "1\n\nExplanation: The first sentence (\"Okay\") is a response to a previous statement or request, indicating that the Alien understands and agrees. The second sentence starts a new question about where to put something, indicating a new segment in the dialogue."}
-{"response": "0"}
-{"response": "0"}
-{"response": "1\n\nExplanation: The first sentence (Alien: Okay) is a response to the previous action or statement, indicating that the Alien has finished speaking. The second sentence (Alien: What is next) starts a new conversation segment, as the Alien is now asking a question and seeking further information or instructions."}
-{"response": "1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "0"}
-{"response": "0"}
-{"response": "Label: 1\n\nExplanation: Human addressed Alien as Zara but Alien responded with a different name, indicating a break in the activity and a new segment in the dialogue."}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "1"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "1"}
-{"response": "1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "Label: 1\n\nExplanation: The first sentence is a directive given by the human to press a button, while the second sentence is a statement about the dishwasher being done and a suggestion to open it. The two sentences are in different segments as they address different actions."}
-{"response": "0"}
-{"response": "0"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "1\n\nExplanation: The first sentence is about using the plate for the pie dinner. The second sentence is about putting the plate on the table. The two sentences are in different segments."}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "Label: 0"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0\n\nExplanation: The human is giving instructions to the other person about where to go, and the two sentences are connected in terms of the activity (going to the bathroom cabinets)."}
-{"response": "Label: 1\n\nExplanation: The first sentence is giving a direction to the Alien to follow the human to the bathroom and go to the cabinets. The second sentence is a question about whether the Alien is sure that the cabinet they are looking at is the correct one, which seems to be a new topic. Therefore, the two sentences are in different segments."}
-{"response": "1"}
-{"response": "Label: 1"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "0\n\nExplanation: The first sentence is explaining where the middle cabinet is. The second sentence is instructing the alien to walk over to the middle cabinet. The two sentences are in the same segment."}
-{"response": "1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "1"}
-{"response": "1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "1"}
-{"response": "1"}
-{"response": "1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "0"}
-{"response": "0"}
-{"response": "0"}
-{"response": "Label: 1\n\nExplanation: The first sentence is a greeting and the second sentence starts a new conversation about their plans for the day. The two sentences are in different segments."}
-{"response": "Label: 0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "1"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "Label: 0\n\nExplanation: Alien is still talking about walking over to the dishwasher in the second sentence. The two sentences are in the same segment."}
-{"response": "0"}
-{"response": "Label: 1\n\nExplanation: The first sentence is a statement about identifying the dishwasher. The second sentence is a question about using the dishwasher. There is a break in the activity between the two sentences."}
-{"response": "1"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "0"}
-{"response": "Label: 1\n\nExplanation: The first sentence indicates that Alien is about to perform an action, and the second sentence is asking for further instructions, indicating a new segment in the dialogue."}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "1"}
-{"response": "1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "Label: 1\n\nExplanation: The first sentence indicates that Alien is about to perform an action (open something), which suggests a break in the activity. The second sentence starts a new segment asking for instructions on what to do next."}
-{"response": "1"}
-{"response": "1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "0"}
-{"response": "1"}
-{"response": "1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "0"}
-{"response": "Label: 1\n\nExplanation: The first sentence indicates that Alien is moving towards a location. The second sentence is a question about what to do next. The two sentences are in different segments."}
-{"response": "0"}
-{"response": "Label: 1\n\nExplanation: There is a break in the activity between the two sentences. In the first sentence, Human is instructing Alien to place the plate on the table. In the second sentence, Alien is asking where to put the plate, indicating that they haven't yet placed it on the table."}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "0"}
-{"response": "0"}
-{"response": "0"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "Label: 1\n\nExplanation: The first sentence is a statement about where to keep the clean plates. The second sentence is a question about the next step. There is a break in the activity between the two sentences."}
-{"response": "0"}
-{"response": "Label: 1\n\nExplanation: The first sentence is a response to a previous statement or question, while the second sentence starts a new activity of opening the cabinet. The two sentences are in different segments."}
-{"response": "0"}
-{"response": "1"}
-{"response": "1"}
-{"response": "1"}
-{"response": "Label: 0"}
-{"response": "Label: 1\n\nExplanation: The first sentence is a response to a previous statement or question, but it doesn't provide context for the second sentence. The second sentence starts a new activity, as the Alien is now grabbing a towel."}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "Label: 1\n\nExplanation: The first sentence indicates that the human is done with the previous activity (whatever it was), and the second sentence starts a new activity of putting away another towel."}
-{"response": "0"}
-{"response": "Label: 1\n\nExplanation: The first sentence indicates that Alien is going back to the towels, which suggests a change in activity. The second sentence introduces a new towel, further indicating a new segment in the dialogue."}
-{"response": "Label: 1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "Label: 1\n\nExplanation: The first sentence is a negative response to an unspecified question or request. The second sentence indicates that a specific activity (cleaning up towels) has been completed. The two sentences are in different segments."}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "0"}
-{"response": "0"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "1"}
-{"response": "Label: 0\n\nExplanation: The second sentence is a continuation of the first sentence, providing further information about how to clean the plate. The two sentences are in the same segment."}
-{"response": "1\n\nExplanation: The first sentence is about cleaning the plate using the dishwasher. The second sentence is about going back to the kitchen. There is a time gap between the two sentences and the second sentence starts a new activity. The two sentences are in different segments."}
-{"response": "0"}
-{"response": "1"}
-{"response": "1"}
-{"response": "0"}
-{"response": "Label: 1\n\nExplanation: The first sentence completes the action of needing to open the dishwasher. The second sentence starts a new action of putting the plate inside the dishwasher. These are two separate actions in different segments of the dialogue."}
-{"response": "0"}
-{"response": "Label: 1\nExplanation: There is a time gap between the two sentences. The first sentence is about putting the plate inside the dishwasher. The second sentence is about closing the dishwasher. The two sentences are in different segments."}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "Label: 1\n\nExplanation: The first sentence is about opening the dishwasher, and the second sentence is about taking the plate out of the dishwasher. There is a time gap between the two sentences, and the second sentence is a new activity, so the two sentences are in different segments."}
-{"response": "0"}
-{"response": "1\n\nExplanation: There is a time gap between the two sentences. The first sentence is about the plate being clean. The second sentence is about what to do next with the plate. The two sentences are in different segments."}
-{"response": "0"}
-{"response": "0"}
-{"response": "1"}
-{"response": "1\n\nExplanation: Alien finished the previous conversation. Human confirms that the cleaning is finished, marking the end of the current segment and the beginning of a new one."}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "1"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "Label: 0"}
-{"response": "0"}
-{"response": "0"}
-{"response": "Label: 1\n\nExplanation: The first sentence indicates that the human is ready to move to a new location. The second sentence is a request for the alien to perform an action, which suggests a new activity or segment in the conversation."}
-{"response": "0"}
-{"response": "1"}
-{"response": "Label: 1\n\nExplanation: The first sentence is a definition of a plate. The second sentence is a question about the object the alien is holding. The two sentences are in different segments."}
-{"response": "0"}
-{"response": "Label: 1\n\nExplanation: The first sentence expresses Alien's confusion about the object's purpose. The second sentence is a question about the object, indicating a new segment in the dialogue."}
-{"response": "1"}
-{"response": "1"}
-{"response": "Label: 1\n\nExplanation: There is a time gap between the two sentences. In the first sentence, Alien puts down something. In the second sentence, Alien picks up the plate. The two sentences are in different segments."}
-{"response": "0"}
-{"response": "Label: 1\n\nExplanation: The first sentence is a response to a previous event, while the second sentence indicates a change in activity."}
-{"response": "0"}
-{"response": "1"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "Label: 1\n\nExplanation: The first sentence is about closing the dishwasher door before starting it. The second sentence is a question about the next step. There is a break in the activity between the two sentences."}
-{"response": "0"}
-{"response": "Label: 1\n\nExplanation: The first sentence is a response to a question or statement that was not provided. The second sentence starts a new activity of closing the dishwasher door. The two sentences are in different segments."}
-{"response": "1"}
-{"response": "Label: 1\n\nExplanation: The first sentence is about how to activate the dishwasher. The second sentence is about washing the plate, which is a different activity. The two sentences are in different segments."}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "0"}
-{"response": "Label: 1\n\nExplanation: The first sentence is a response to a previous statement or question, while the second sentence starts a new activity or topic related to the dishwasher door being open."}
-{"response": "0"}
-{"response": "Label: 1"}
-{"response": "0"}
-{"response": "0 (Alien is continuing to discuss setting the dinner table.)"}
-{"response": "0"}
-{"response": "Label: 1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "1"}
-{"response": "1"}
-{"response": "1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "1"}
-{"response": "1"}
-{"response": "1"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "Label: 1\n\nExplanation: In the first sentence, Alien thanks for something. In the second sentence, Alien starts a new conversation about where to put the plate. The two sentences are in different segments."}
-{"response": "0"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "Label: 1\n\nExplanation: The first sentence is Alien acknowledging understanding the previous conversation. The second sentence is Alien starting a new conversation about washing. The two sentences are in different segments."}
-{"response": "0"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "1"}
-{"response": "1\n\nExplanation: The first sentence from Human indicates a break in the activity, as they are asking for further instructions. The second sentence from Alien starts a new segment by negating the previous statement."}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "Label: 1\n\nExplanation: The first sentence is about the alien wanting to eat the pie on the table. The second sentence is about the alien asking what they are holding in their hand. These are two separate actions or thoughts, so the two sentences are in different segments."}
-{"response": "0"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "Label: 0"}
-{"response": "Label: 0"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "1"}
-{"response": "1"}
-{"response": "1"}
-{"response": "1"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "1"}
-{"response": "0"}
-{"response": "Label: 1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "Label: 1"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "0"}
-{"response": "0"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "1"}
-{"response": "0"}
-{"response": "Label: 1\n\nExplanation: The first sentence is a confirmation of a previous statement or question. The second sentence starts a new activity of bringing something back to the dishwasher. The two sentences are in different segments."}
-{"response": "0"}
-{"response": "0"}
-{"response": "Label: 1\n\nExplanation: The first sentence is a response to a question or request that is not mentioned in the input. The second sentence starts a new activity, giving instructions on how to open the dishwasher. The two sentences are in different segments."}
-{"response": "0"}
-{"response": "0"}
-{"response": "Label: 1\n\nExplanation: The first sentence indicates that the human is observing the alien doing something right, and the second sentence starts a new activity of putting the plate in the dishwasher."}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
+{"response": "Label: 1\n\nExplanation: The second sentence is not a response to the first sentence. It starts a new segment in the dialogue."}
 {"response": "0"}
-{"response": "Label: 1\n\nExplanation: The first sentence is an acknowledgment that something is good, but it doesn't specify what. The second sentence starts a new activity of operating the dishwasher. The two sentences are in different segments."}
-{"response": "Label: 1\n\nExplanation: The first sentence is instructing how to start the dishwasher, and the second sentence is asking a question about using the buttons. The two sentences are in different segments."}
-{"response": "Label: 0"}
 {"response": "1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "1"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1 (The first sentence is giving a direction, and the second sentence is specifying the location. The two sentences are in different segments.)"}
-{"response": "0"}
-{"response": "0"}
-{"response": "Label: 1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "0\n\nExplanation: The first sentence is addressing Zara, and the second sentence is giving a direction about what to do with the towels. Both sentences are in the same activity of cleaning up the bathroom."}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "1"}
-{"response": "1"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "Label: 1\n\nExplanation: The first sentence is a simple acknowledgement, while the second sentence indicates a change in the activity. Therefore, these two sentences are in different segments."}
-{"response": "Label: 0\n\nExplanation: The alien is still performing the action of getting the towel in the second sentence, so the two sentences are in the same segment."}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "1\n\nExplanation: The first sentence indicates that Alien is going to put the plate in the cabinet. The second sentence \"Hmm.\" suggests a break in the activity, as it might indicate that Alien has encountered a problem or is thinking about something. The two sentences are in different segments."}
-{"response": "Label: 0"}
-{"response": "0"}
-{"response": "0"}
-{"response": "1 (There is a break in the activity between the two sentences as Alien first indicates where he will put the towel and then confirms that he has placed it in the cabinet.)"}
-{"response": "1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "0"}
-{"response": "Label: 0\n\nExplanation: The first sentence is asking Zara if she is ready to clean up after their cupcake treat. The second sentence is a continuation of the same activity, proposing the first step in the cleaning process. The two sentences are in the same segment."}
-{"response": "0"}
-{"response": "Label: 1"}
-{"response": "Label: 1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "1"}
-{"response": "1"}
-{"response": "1"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
 {"response": "1"}
-{"response": "0"}
 {"response": "1"}
 {"response": "0"}
-{"response": "1"}
 {"response": "0"}
 {"response": "0"}
 {"response": "1"}
+{"response": "1\n\nExplanation: The first sentence is giving a direction about what to do next, and the second sentence is asking if the alien knows what to do next. They are in different segments in the dialogue."}
 {"response": "1"}
 {"response": "1"}
 {"response": "1"}
@@ -808,71 +161,38 @@
 {"response": "0"}
 {"response": "0"}
 {"response": "1"}
-{"response": "0"}
 {"response": "0"}
 {"response": "0"}
-{"response": "Label: 1\n\nExplanation: There is a break in the activity between the two sentences. In the first sentence, Alien is heading to the bathroom. In the second sentence, Alien is asking about the towels. The two sentences are in different segments."}
 {"response": "1"}
 {"response": "0"}
-{"response": "Label: 1\n\nExplanation: In the first sentence, Alien finishes the previous activity (whatever it was) and recalls something about coming over. The second sentence starts a new activity about the towels. The two sentences are in different segments."}
 {"response": "0"}
 {"response": "0"}
 {"response": "0"}
-{"response": "1"}
-{"response": "1\n\nExplanation: There is a time gap between the two sentences. In the first sentence, Alien says that he/she will move over to something. In the second sentence, Alien asks what to do next. The two sentences are in different segments."}
 {"response": "0"}
+{"response": "1\n\nExplanation: The first sentence is an acknowledgment of a correct answer, while the second sentence instructs on the next step in the activity. These are two separate segments in the dialogue."}
 {"response": "0"}
 {"response": "0"}
 {"response": "1"}
-{"response": "0"}
 {"response": "0"}
 {"response": "0"}
-{"response": "1"}
-{"response": "0"}
 {"response": "0"}
-{"response": "1"}
-{"response": "Label: 1\n\nExplanation: The first sentence is about grabbing the next towel. The second sentence is asking for the location of the towels. There is a time gap between the two sentences. The two sentences are in different segments."}
 {"response": "0"}
-{"response": "1"}
 {"response": "0"}
-{"response": "Label: 1\n\nExplanation: There is a time gap between the two sentences. In the first sentence, Alien says that it will grab something. In the second sentence, Alien asks a question about where to place the second towel. The two sentences are in different segments."}
 {"response": "0"}
-{"response": "1"}
 {"response": "1"}
 {"response": "Label: 0"}
 {"response": "0"}
 {"response": "0"}
 {"response": "1"}
 {"response": "0"}
-{"response": "Label: 1\n\nExplanation: There is a time gap between the two sentences. The first sentence is about closing the things. The second sentence is asking for feedback about the performance. The two sentences are in different segments."}
-{"response": "0"}
-{"response": "0"}
 {"response": "0"}
 {"response": "1"}
-{"response": "Label: 1\n\nExplanation: The first sentence starts the task, while the second sentence asks a question about the task. These are two separate actions, so the sentences are in different segments."}
-{"response": "0"}
-{"response": "0"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
 {"response": "1"}
 {"response": "0"}
 {"response": "0"}
 {"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "0"}
 {"response": "0"}
 {"response": "1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "1"}
-{"response": "Label: 1\n\nExplanation: After Alien says they will take one of the towels, they ask a new question about where to take the towel. This indicates a break in the activity and starts a new segment in the dialogue."}
-{"response": "0"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "0"}
 {"response": "1"}
 {"response": "0"}
 {"response": "0"}
@@ -881,24 +201,71 @@
 {"response": "1"}
 {"response": "0"}
 {"response": "1"}
+{"response": "1"}
 {"response": "0"}
+{"response": "1\n\nExplanation: The second sentence is a comment on the activity, not a continuation of the first sentence's request. There is a time gap between the two sentences, making them in different segments in the dialogue."}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
 {"response": "0"}
 {"response": "0"}
 {"response": "Label: 1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "Label: 0\n\nExplanation: The second sentence is a continuation of the activity mentioned in the first sentence. The Alien is noting something and then proceeds to ask about the towels, indicating that they are still engaged in the task of putting away towels."}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
 {"response": "1"}
 {"response": "1"}
 {"response": "0"}
 {"response": "0"}
 {"response": "1"}
 {"response": "1"}
-{"response": "0"}
-{"response": "1 (There is a time gap between the two sentences. The first sentence is about closing the doors. The second sentence is about saying goodbye. The two sentences are in different segments.)"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
 {"response": "1"}
 {"response": "Label: 1"}
 {"response": "0"}
 {"response": "0"}
 {"response": "0"}
+{"response": "0"}
+{"response": "1\n\nExplanation: The second sentence indicates a new action or question, suggesting a break in the activity and a new segment in the dialogue."}
 {"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
 {"response": "0"}
 {"response": "1"}
 {"response": "0"}
@@ -909,207 +276,625 @@
 {"response": "1"}
 {"response": "0"}
 {"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1\n\nExplanation: The two sentences are in different segments in the dialogue. The first sentence is about placing the plate on the table, and the second sentence is a farewell message."}
+{"response": "1"}
+{"response": "1"}
 {"response": "1"}
 {"response": "1"}
 {"response": "0"}
-{"response": "Label: 1\n\nExplanation: The first sentence is a piece of advice given by Human, and the second sentence starts a new activity about deciding where to put something. The two sentences are in different segments."}
+{"response": "1\n\nExplanation: The second sentence indicates a potential break in the activity, as it checks in on the alien's well-being. This suggests that the two sentences are in different segments in the dialogue."}
+{"response": "Label: 0\n\nExplanation: The second sentence is a response to the first sentence. The alien is clarifying that they are okay, so the two sentences are in the same segment in the dialogue."}
+{"response": "Label: 1\n\nExplanation: The two sentences are about different activities. The first sentence is about the Alien's well-being, while the second sentence is about the cupcake. Therefore, they are in different segments in the dialogue."}
+{"response": "1"}
+{"response": "Label: 1\n\nExplanation: The second sentence indicates a shift in the topic of conversation, as the Alien is asking a question about the dishwasher's location. This suggests that there is a break in the activity between the two sentences, as the first sentence was a statement about leaving something in a location, while the second sentence is a question about the location of an appliance. Therefore, the two sentences are in different segments in the dialogue."}
+{"response": "1\n\nExplanation: The second sentence is a response to the first sentence, but it seems to indicate that the activity of discussing the dishwasher has been completed and a new segment in the dialogue has begun."}
+{"response": "1"}
 {"response": "0"}
 {"response": "1"}
+{"response": "0"}
+{"response": "Label: 1\n\nExplanation: There is a time gap between the two sentences. The first sentence is a confirmation about something, and the second sentence starts a new activity. They are in different segments in the dialogue."}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1\n\nExplanation: The human's response \"uh hmm\" indicates that they are hesitating or thinking, which suggests a break in the activity. The human is not immediately carrying out the alien's request to close the dishwasher, so the two sentences are in different segments in the dialogue."}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1\n\nExplanation: The second sentence is a command for the Alien to execute the action of closing the object they just opened. It indicates a new segment in the dialogue."}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1\n\nExplanation: The second sentence indicates a change in the activity of the alien, so it is in a new segment of the dialogue."}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1\n\nExplanation: The first sentence is likely the end of a segment where the alien has acknowledged understanding or agreement. The second sentence starts a new segment as the alien is asking for further instructions or information."}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1\n\nExplanation: The two sentences are in different segments in the dialogue. The first sentence is likely the end of a segment where the Alien has acknowledged understanding or agreement, and the second sentence starts a new segment where the Alien is asking for further instructions or clarification."}
+{"response": "1"}
+{"response": "1\n\nExplanation: The second sentence is a request for clarification about the first sentence. It indicates a break in the activity, as the alien is asking for more information before carrying out the action."}
+{"response": "0"}
+{"response": "1\n\nExplanation: The second sentence does not seem to be a direct response to the first sentence, and there might be a time gap between the two sentences. They are likely in different segments in the dialogue."}
+{"response": "1\n\nExplanation: The first sentence is likely the end of a segment where the alien has acknowledged understanding or agreement. The second sentence starts a new segment as the alien is asking for further instructions or information."}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1\n\nExplanation: The second sentence is a question that can be interpreted as a new activity or task, indicating a break in the dialogue segment."}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "Label: 1\n\nExplanation: The two sentences are about different activities. The first sentence is about pressing a button and the second sentence is about checking the dishwasher. They are in different segments in the dialogue."}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1\n\nExplanation: The second sentence is a command for the alien to do something after the human has confirmed the object they will use for their dinner. These are two separate segments in the dialogue."}
 {"response": "0"}
 {"response": "1"}
 {"response": "0"}
 {"response": "0"}
 {"response": "Label: 0"}
-{"response": "Label: 1\n\nExplanation: There is a time gap between the two sentences. In the first sentence, Alien expresses that they are hungry. In the second sentence, Alien starts a new conversation about cooking. The two sentences are in different segments."}
-{"response": "1"}
-{"response": "0"}
-{"response": "Label: 1\n\nExplanation: There is a time gap between the two sentences. In the first sentence, Alien agrees to do something but doesn't specify what. In the second sentence, Alien asks about the location of the plate. The two sentences are in different segments."}
-{"response": "1"}
-{"response": "0"}
-{"response": "Label: 1\n\nExplanation: There is a time gap between the two sentences. In the first sentence, Alien is reminiscing about eating a cupcake. In the second sentence, Alien is asking about the identity of a dish. The two sentences are in different segments."}
-{"response": "0"}
-{"response": "Label: 1\n\nExplanation: There is a time gap between the two sentences. The first sentence is a confirmation of a previous statement. The second sentence is a question about the plate. The two sentences are in different segments."}
-{"response": "0"}
-{"response": "Label: 1"}
-{"response": "Label: 1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "1"}
-{"response": "Label: 1\n\nExplanation: The first sentence is a confirmation and instruction from Human, and the second sentence is Alien's observation of the environment. The two sentences are in different segments."}
-{"response": "Label: 1\n\nExplanation: There is a time gap between the two sentences. In the first sentence, Alien is looking at the instruments. In the second sentence, Alien is asking about the dishwasher. The two sentences are in different segments."}
-{"response": "0"}
-{"response": "1\n\nExplanation: The first sentence is a description of where the dishwasher is. The second sentence is a question about how to use the dishwasher. The two sentences are in different segments."}
-{"response": "0"}
 {"response": "0"}
 {"response": "0"}
 {"response": "0"}
 {"response": "1"}
-{"response": "1"}
-{"response": "0"}
 {"response": "Label: 1"}
 {"response": "1"}
-{"response": "1 (The first sentence is giving instruction on using the dishwasher, and the second sentence is asking a question. They are in different segments.)"}
 {"response": "0"}
 {"response": "0"}
-{"response": "Label: 1\n\nExplanation: There is a time gap between the two sentences. The first sentence is a response to a question or statement, while the second sentence is about the dishwasher finishing and the plate being cleaned. The two sentences are in different segments."}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "Label: 1\n\nExplanation: The second sentence is a question asking for clarification about the first sentence. This indicates a break in the activity as the alien is asking for more information before proceeding with the task."}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "Label: 0\n\nExplanation: The second sentence is a continuation of the first sentence's instruction. There is no break in the activity between the two sentences."}
+{"response": "1\n\nExplanation: The second sentence is a question that requires the alien to perform an action related to the first sentence, but it is not a direct response to the first sentence. There is a time gap between the two sentences. They are in different segments in the dialogue."}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
 {"response": "0"}
 {"response": "1"}
 {"response": "0"}
 {"response": "1"}
 {"response": "0"}
+{"response": "0"}
+{"response": "1\n\nExplanation: The two sentences are in different segments in the dialogue. The first sentence is the end of a teaching activity and the second sentence is the start of a new, unrelated segment."}
+{"response": "1\n\nExplanation: The two sentences are in different segments in the dialogue. The first sentence is the end of a teaching activity and the second sentence is the start of a new, unrelated segment."}
+{"response": "0"}
+{"response": "Label: 1\n\nExplanation: The second sentence starts a new activity and is not a direct response to the first sentence, hence they are in different segments in the dialogue."}
+{"response": "Label: 1\n\nExplanation: The second sentence indicates a new activity that the alien and human will be doing, so it is a new segment in the dialogue."}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "Label: 1\n\nExplanation: The two sentences are about different activities. The first sentence is acknowledging a previous statement or request, while the second sentence is introducing a new activity."}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "Label: 1\n\nExplanation: The second sentence starts a new activity, so it is in a different segment in the dialogue."}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1 (There is a time gap between the two sentences. They are in different segments in the dialogue.)"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "Label: 1\n\nExplanation: The second sentence indicates a new activity (opening the cabinet), so it is in a different segment in the dialogue."}
+{"response": "0"}
+{"response": "1\n\nExplanation: The second sentence is a question that could indicate a new segment in the dialogue, as it may require a new action or response from the alien."}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "Label: 0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1\n\nExplanation: The second sentence is asking for instructions about the next activity, indicating a new segment in the dialogue."}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "Label: 0\n\nExplanation: The second sentence is a question that follows the first sentence naturally, as it relates to the activity of getting a plate to make food. There is no break in the activity between the two sentences."}
+{"response": "0"}
+{"response": "0"}
+{"response": "Label: 1\n\nExplanation: The second sentence is a new instruction for the alien, indicating a new segment in the dialogue."}
+{"response": "0"}
+{"response": "1"}
+{"response": "1\n\nExplanation: The second sentence is not a direct response to the first sentence, and it starts a new segment in the dialogue."}
+{"response": "0"}
+{"response": "1\n\nExplanation: The two sentences are in different segments in the dialogue. The first sentence expresses the alien's confusion about the object, and the second sentence is a question about the object. There is a time gap between the two sentences, as the alien takes a moment to consider the object before asking the question."}
+{"response": "1"}
+{"response": "1"}
+{"response": "Label: 1\n\nThe first sentence indicates that the alien is putting something down, and the second sentence indicates that the alien will pick up something else. These are two separate actions, so they are in different segments in the dialogue."}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\nExplanation: The second sentence indicates a new activity or question, so it starts a new segment in the dialogue."}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "Label: 1\n\nExplanation: The second sentence introduces a new topic and is not a direct response to the first sentence, indicating a break in the activity."}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1\n\nExplanation: The second sentence expresses the human's reaction to the food, which implies a time gap between the two sentences. They are in different segments in the dialogue."}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "Label: 1\n\nExplanation: The second sentence indicates a new activity, so there is a break in the dialogue segment."}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "Label: 1\n\nExplanation: The second sentence is a question that arises when the alien is not following the human to the computer. It indicates a break in the activity."}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "Label: 1\n\nExplanation: The two sentences are about different activities. The first sentence is a reminder about the stove and the second sentence is indicating the location of the dishwasher. They are in different segments in the dialogue."}
+{"response": "0"}
+{"response": "1\n\nExplanation: The second sentence indicates a new activity or question, which means there is a time gap between the two sentences and they are in different segments in the dialogue. The first sentence is a confirmation or agreement, but the second sentence introduces a new topic or action, so they are not in the same segment."}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "Label: 1\n\nExplanation: The second sentence indicates a new activity, so there is a time gap between the two sentences. They are in different segments in the dialogue."}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1\n\nExplanation: The human's question implies that they expect the alien to do something next, indicating a break in the activity. The alien's response \"No\" also suggests that they are not continuing the previous activity. Therefore, the two sentences are in different segments in the dialogue."}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "Label: 1\n\nExplanation: The second sentence is a new activity that starts after the first sentence has ended."}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1\n\nExplanation: The second sentence is a new instruction for the alien, indicating a new segment in the dialogue."}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "Label: 1\n\nExplanation: The two sentences are about different activities. The first sentence is a response to a question or statement that was not provided, and the second sentence is instructing the alien about starting the dishwasher. Therefore, there is a break in the activity between the two sentences."}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "Label: 1\n\nExplanation: The first sentence is a greeting, and the second sentence is a command to perform a task. They are in different segments in the dialogue."}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1\n\nExplanation: The alien's response indicates that they have acknowledged the human's instruction and are ready to carry it out. This suggests that there is a time gap between the two sentences, as the alien is likely to begin moving towards the towels and the cabinet. Therefore, the two sentences are in different segments in the dialogue."}
+{"response": "Label: 0\n\nExplanation: The second sentence is a response to the first sentence. The alien is addressing the same person and is continuing the activity of getting an item."}
+{"response": "1\n\nExplanation: The second sentence indicates a new activity, so it is in a different segment in the dialogue."}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "Label: 1\n\nExplanation: The second sentence indicates a change in the activity of the alien, so it is in a new segment of the dialogue."}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1\n\nExplanation: The second sentence indicates a new activity or thought process, signifying a break in the dialogue segment."}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1\n\nExplanation: The second sentence indicates a new activity or focus (noticing the plate), so it is in a different segment in the dialogue."}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "Label: 1\n\nExplanation: The second sentence indicates a new activity that the alien is about to do, so there is a time gap between the two sentences and they are in different segments in the dialogue."}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
 {"response": "Label: 1"}
 {"response": "1"}
 {"response": "1"}
-{"response": "Label: 1"}
 {"response": "0"}
 {"response": "0"}
 {"response": "1"}
 {"response": "0"}
+{"response": "1\n\nExplanation: The second sentence starts a new segment in the dialogue as it is a request for further instructions after completing the previous task."}
 {"response": "0"}
 {"response": "1"}
 {"response": "0"}
-{"response": "Label: 1"}
-{"response": "Label: 1"}
-{"response": "0"}
-{"response": "1\n\nExplanation: The first sentence is a greeting and the second sentence starts a new activity about cleaning. The two sentences are in different segments."}
-{"response": "0"}
-{"response": "Label: 1\n\nExplanation: The human finishes giving directions to the bathroom and then the alien asks a new question about the location of the office. The two sentences are in different segments."}
-{"response": "0"}
-{"response": "1"}
-{"response": "1"}
-{"response": "1"}
-{"response": "1"}
-{"response": "1"}
-{"response": "1"}
-{"response": "1"}
-{"response": "Label: 1\n\nExplanation: The first sentence is a response to a previous statement or question, while the second sentence starts a new activity or topic of conversation."}
-{"response": "1"}
-{"response": "1"}
-{"response": "0"}
-{"response": "Label: 1\n\nExplanation: Human finishes describing the location of the towels. Alien starts a new activity of opening the cabinets. The two sentences are in different segments."}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "1"}
+{"response": "1\n\nExplanation: The second sentence is a new question and not a direct response to the first sentence. They are in different segments in the dialogue."}
 {"response": "0"}
 {"response": "0"}
-{"response": "Label: 1\n\nExplanation: In the first sentence, Alien agrees to take a certain item. In the second sentence, Alien starts a new activity by describing the levels in the cabinet. The two sentences are in different segments."}
-{"response": "1 (There is a break in the activity between the two sentences. The first sentence is describing what the alien sees in the cabinet. The second sentence is asking a question about which level to put the item into.)"}
+{"response": "0"}
 {"response": "0"}
 {"response": "0"}
 {"response": "0"}
 {"response": "1"}
-{"response": "0"}
-{"response": "Label: 1\n\nExplanation: There is a time gap between the two sentences. The first sentence is a response to a previous statement or question, while the second sentence is introducing a new topic. The two sentences are in different segments."}
-{"response": "0"}
-{"response": "0"}
+{"response": "Label: 1\n\nExplanation: The two sentences are about different activities. The first sentence is about getting the next towel, and the second sentence is about remembering the location of the towels. They are in different segments in the dialogue."}
 {"response": "0"}
 {"response": "1"}
 {"response": "0"}
+{"response": "1\n\nExplanation: The second sentence is a question that indicates a new activity or a shift in focus, making it a new segment in the dialogue."}
 {"response": "0"}
-{"response": "0"}
-{"response": "1"}
 {"response": "0"}
 {"response": "1"}
 {"response": "Label: 0"}
-{"response": "1"}
-{"response": "1"}
-{"response": "1"}
-{"response": "1"}
-{"response": "1"}
-{"response": "0"}
 {"response": "0"}
 {"response": "0"}
 {"response": "1"}
 {"response": "0"}
-{"response": "0\n\nExplanation: Both sentences are about the same activity, which is putting the towels in the cabinet. The second sentence is just giving more details about the first sentence."}
 {"response": "1"}
 {"response": "0"}
-{"response": "0"}
-{"response": "1"}
 {"response": "0"}
-{"response": "Label: 1"}
 {"response": "0"}
 {"response": "1"}
+{"response": "Label: 1\n\nExplanation: The second sentence indicates a new segment in the dialogue as it asks a question related to starting the task, indicating a possible change in activity or topic."}
 {"response": "0"}
 {"response": "0"}
 {"response": "0"}
 {"response": "1"}
-{"response": "1"}
 {"response": "0"}
-{"response": "Label: 1"}
-{"response": "Label: 0"}
-{"response": "Label: 1"}
-{"response": "1"}
 {"response": "0"}
 {"response": "0"}
-{"response": "1"}
-{"response": "1"}
 {"response": "0"}
 {"response": "0"}
+{"response": "1"}
 {"response": "0"}
 {"response": "0"}
 {"response": "0"}
+{"response": "1"}
 {"response": "0"}
-{"response": "Label: 0"}
 {"response": "0"}
 {"response": "0"}
-{"response": "Label: 1\n\nExplanation: The first sentence indicates that the human is finishing up a previous conversation or agreement. The second sentence starts a new activity, focusing on the task of making sure all the plates and utensils are clean."}
 {"response": "1"}
 {"response": "0"}
 {"response": "0"}
 {"response": "1"}
-{"response": "1"}
 {"response": "0"}
 {"response": "0"}
 {"response": "1"}
-{"response": "I would prefer to use the dishwasher.\nExplanation: Alien answers to the question asked by Human. The two sentences are in the same segment.\nLabel: 0"}
-{"response": "Label: 1\n\nExplanation: The first sentence is a blank line, indicating a break in the conversation. The second sentence starts a new conversation about what a dishwasher is."}
-{"response": "0"}
-{"response": "Label: 0\n\nBoth sentences are part of the same explanation given by the human about what a dishwasher is."}
 {"response": "0"}
-{"response": "Label: 0"}
-{"response": "Label: 1\n\nExplanation: Human finished the previous conversation. Alien starts a new conversation about the dishwasher. The two sentences are in different segments."}
 {"response": "0"}
 {"response": "0"}
 {"response": "1"}
 {"response": "0"}
-{"response": "0"}
-{"response": "0"}
 {"response": "1"}
-{"response": "1"}
-{"response": "0"}
-{"response": "Label: 1\n\nExplanation: There is a time gap between the two sentences. In the first sentence, Alien acknowledges understanding the previous instruction. In the second sentence, Alien asks a new question about the dishes. The two sentences are in different segments."}
 {"response": "1"}
-{"response": "0\n\nExplanation: The human is still giving instructions on how to use the dishwasher, and the alien has not yet started a new activity. The two sentences are in the same segment."}
-{"response": "Label: 1\n\nExplanation: The first sentence indicates that Alien has finished their previous thought or question, and the second sentence starts a new activity or question about starting the dishwasher. Therefore, the two sentences are in different segments of the dialogue."}
 {"response": "0"}
-{"response": "1"}
-{"response": "1"}
-{"response": "1"}
-{"response": "1"}
 {"response": "0"}
-{"response": "Label: 0"}
 {"response": "0"}
 {"response": "1"}
 {"response": "1"}
+{"response": "Label: 1\n\nExplanation: The second sentence indicates a break in the activity as the alien is asking for new instructions, implying that the previous activity (trying to remember something) has ended."}
 {"response": "0"}
 {"response": "0"}
-{"response": "Label: 1\n\nExplanation: There is a time gap between the two sentences. In the first sentence, Human expresses that they are hungry. In the second sentence, Human reminds Alien about something. The two sentences are in different segments."}
-{"response": "1\n\nExplanation: The two sentences are in different segments. The first sentence is a question asking if the alien is forgetting to do something. The second sentence is the alien's response, starting a new segment."}
-{"response": "Label: 1\n\nExplanation: The first sentence indicates that the Alien has finished the previous activity or conversation. The second sentence is a question indicating a new activity or conversation, so the two sentences are in different segments."}
 {"response": "1"}
+{"response": "1"}
 {"response": "0"}
 {"response": "1"}
 {"response": "1"}
-{"response": "0"}
-{"response": "1\n\nExplanation: Alien finishes the previous conversation. Alien starts a new conversation about putting the plate on the table. The two sentences are in different segments."}
 {"response": "1"}
-{"response": "Label: 0"}
 {"response": "0"}
 {"response": "0"}
 {"response": "0"}
@@ -1119,172 +904,387 @@
 {"response": "0"}
 {"response": "1"}
 {"response": "0"}
-{"response": "Label: 0\n\nExplanation: Alien finishes the previous conversation and continues with the next step of the activity. There is no break in the activity between two sentences."}
-{"response": "1"}
 {"response": "0"}
 {"response": "0"}
 {"response": "0"}
-{"response": "Label: 0\n\nExplanation: Alien finishes the previous action of acknowledging and starts a new action by asking \"Now what?\". Both sentences are in the same segment of the dialogue."}
-{"response": "1"}
 {"response": "1"}
 {"response": "1"}
-{"response": "Label: 0\n\nExplanation: The human is continuing their previous statement or question, and the alien is acknowledging the human's response. The two sentences are in the same segment."}
-{"response": "Label: 0\n\nExplanation: Alien finishes the previous action of acknowledging and starts a new action by asking \"Now what?\". Both sentences are in the same segment of the dialogue."}
-{"response": "1"}
-{"response": "0"}
-{"response": "Label: 1\n\nExplanation: The first \"Ok\" is a response to a previous statement or question, while the second \"Ok\" starts a new activity or question."}
-{"response": "1"}
-{"response": "0"}
 {"response": "1"}
 {"response": "1"}
 {"response": "0"}
 {"response": "1"}
-{"response": "1"}
-{"response": "Label: 1\n\nExplanation: The first sentence is a response to a previous statement or question, and the second sentence starts a new dialogue segment as it is a question asking for confirmation."}
-{"response": "0"}
-{"response": "Label: 1\n\nExplanation: The first sentence is an affirmation that the previous action was correct. The second sentence is a new instruction for a different action. There is a break in the activity between the two sentences."}
-{"response": "0"}
-{"response": "0"}
 {"response": "0"}
-{"response": "1"}
-{"response": "1"}
-{"response": "1"}
-{"response": "Label: 1\n\nExplanation: The first \"Yes\" is a response to a question or statement that was not provided, but it is clear that it ends a dialogue segment. The second sentence starts a new dialogue segment about tidying up the object in question."}
-{"response": "1"}
-{"response": "Label: 1"}
 {"response": "1"}
 {"response": "0"}
-{"response": "Label: 0\n\nExplanation: The two sentences are connected as the second sentence is a continuation of the first sentence. The human is still talking about the same topic which is the cabinets."}
 {"response": "0"}
-{"response": "Label: 1\n\nExplanation: The first sentence is a response to a previous statement or question, and the second sentence starts a new activity regarding the towel."}
 {"response": "0"}
-{"response": "1"}
-{"response": "1"}
 {"response": "0"}
 {"response": "0"}
+{"response": "1\n\nExplanation: The two sentences are in different segments in the dialogue. The first sentence expresses that the alien is hungry, and the second sentence starts a new segment about cooking."}
 {"response": "1"}
 {"response": "0"}
+{"response": "1\n\nExplanation: The two sentences are in different segments in the dialogue. The first sentence is a response to a previous statement or question, and the second sentence starts a new activity asking about the location of the plate."}
 {"response": "0"}
-{"response": "1"}
-{"response": "1"}
 {"response": "1"}
-{"response": "0"}
 {"response": "1"}
-{"response": "0"}
-{"response": "1\n\nExplanation: The first sentence is about placing the clean plate next to the first one. The second sentence is about how clean the bathroom looks now. There is a time gap between the two sentences and they are in different segments."}
 {"response": "0"}
-{"response": "0"}
-{"response": "Label: 1"}
-{"response": "1"}
+{"response": "Label: 1\n\nExplanation: The second sentence is a new question and not a direct continuation of the first sentence, so it is in a new segment of the dialogue."}
 {"response": "0"}
 {"response": "1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "0"}
 {"response": "1"}
 {"response": "0"}
-{"response": "1"}
 {"response": "0"}
-{"response": "1"}
 {"response": "0"}
 {"response": "1"}
+{"response": "Label: 1\n\nExplanation: The second sentence indicates a new activity or question, so it starts a new segment in the dialogue."}
 {"response": "0"}
 {"response": "1"}
-{"response": "Label: 0"}
-{"response": "0"}
-{"response": "0"}
-{"response": "0"}
 {"response": "0"}
-{"response": "1\n\nExplanation: The first sentence concludes the previous activity, while the second sentence starts a new one."}
 {"response": "0"}
-{"response": "Label: 1\n\nExplanation: Alien finishes the previous conversation about putting something somewhere. Alien starts a new conversation about where to place something. The two sentences are in different segments."}
 {"response": "0"}
 {"response": "0"}
-{"response": "0"}
-{"response": "1\n\nExplanation: The first sentence concludes the previous activity, while the second sentence starts a new activity."}
-{"response": "0"}
-{"response": "0"}
-{"response": "0"}
-{"response": "Label: 1\n\nExplanation: The first sentence is a response to a question or comment that was not provided in the input. The second sentence starts a new activity, asking for something to learn. These sentences are in different segments."}
-{"response": "Label: 0"}
-{"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "Label: 1"}
-{"response": "1"}
-{"response": "1"}
 {"response": "1"}
+{"response": "Label: 1\n\nExplanation: The two sentences are about different activities. The first sentence is asking if an activity is done, and the second sentence is starting a new activity of closing the dishwasher."}
 {"response": "0"}
 {"response": "1"}
 {"response": "Label: 1"}
+{"response": "1\n\nExplanation: The second sentence is asked after the first sentence has been completed, indicating a new segment in the dialogue."}
 {"response": "0"}
-{"response": "Label: 1\n\nExplanation: The first sentence \"Got it\" indicates that the Alien has understood or acknowledged something. This usually marks the end of a conversation segment. The second sentence \"Am I in the right place?\" starts a new conversation segment, as the Alien is asking a new question. Therefore, the two sentences are in different segments in the dialogue."}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
 {"response": "0"}
 {"response": "1"}
 {"response": "1"}
 {"response": "0"}
+{"response": "1"}
 {"response": "0"}
-{"response": "1\n\nExplanation: The first sentence is a response to a previous action or statement, while the second sentence starts a new activity. There is a break in the activity between the two sentences."}
+{"response": "0"}
+{"response": "Label: 1\n\nExplanation: The second sentence is a new activity that starts after the first sentence is completed."}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
 {"response": "0"}
 {"response": "1"}
 {"response": "1"}
 {"response": "0"}
+{"response": "1\n\nExplanation: The second sentence starts a new segment in the dialogue, as it is a question asking for clarification about the task. The first sentence is a general statement of willingness to help, and the second sentence initiates the specific activity of cleaning."}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
 {"response": "Label: 1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\nExplanation: The second sentence is not a direct response to the first sentence, but instead introduces a new topic. Therefore, they are in different segments in the dialogue."}
+{"response": "1"}
+{"response": "Label: 1\n\nExplanation: The second sentence indicates a new activity or topic, so it is in a different segment in the dialogue."}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
 {"response": "0"}
 {"response": "1"}
 {"response": "0"}
-{"response": "Label: 0\n\nExplanation: Alien is still in the same activity which is walking over to a certain place."}
+{"response": "1"}
 {"response": "0"}
-{"response": "Label: 1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "Label: 1\n\nExplanation: The second sentence is not a direct response to the first sentence, and it indicates a new activity or observation. Therefore, they are in different segments in the dialogue."}
+{"response": "0 (The second sentence is a clarifying question about the first sentence, so they are in the same segment in the dialogue.)"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1\n\nExplanation: The two sentences are in different segments in the dialogue. The first sentence is the end of a segment where the Alien agrees to do something. The second sentence is the start of a new segment where the Alien explains how they will organize the items."}
+{"response": "0"}
+{"response": "1"}
+{"response": "Label: 1\n\nExplanation: The second sentence is a response to the first sentence, but it indicates that the activity of putting towels has ended, and a new activity will begin (the human using the towel), so there is a break in the activity between the two sentences."}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "Label: 1\n\nExplanation: The second sentence is not a direct response to the first sentence, but rather a general question about the task. This indicates a break in the activity and a new segment in the dialogue."}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
 {"response": "0"}
 {"response": "Label: 1"}
 {"response": "1"}
 {"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "0\n\nExplanation: The first sentence \"Okay\" is likely a response to a previous statement or question, and the second sentence \"Do the same thing\" is a continuation of the same activity or task."}
-{"response": "1"}
+{"response": "Label: 1\n\nExplanation: The second sentence indicates a new activity or concern, implying a break in the dialogue segment."}
 {"response": "0"}
 {"response": "1"}
-{"response": "0"}
 {"response": "1"}
-{"response": "0"}
-{"response": "Label: 1\n\nExplanation: The first \"Yes\" is likely a response to a question or statement that was asked or made before, while the second sentence starts a new instruction or activity."}
-{"response": "0"}
-{"response": "1\n\nExplanation: The first sentence indicates that the Alien has completed an action or task. The second sentence indicates that the Alien has started a new action or task. The two sentences are in different segments."}
-{"response": "0"}
-{"response": "0"}
 {"response": "0"}
 {"response": "0"}
 {"response": "1"}
+{"response": "1"}
 {"response": "0"}
 {"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0 \\* The second sentence is a response to the first sentence, asking for a preference. They are in the same segment in the dialogue."}
+{"response": "Label: 1\n\nExplanation: The second sentence starts a new activity where the alien is asking about what a dishwasher is. The first sentence does not seem to be related to this activity and is likely from a different segment in the dialogue."}
+{"response": "0"}
+{"response": "1\n\nExplanation: The second sentence is not a direct response to the first sentence, but rather a question that follows the first sentence after a short pause. They are in different segments in the dialogue."}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1\n\nExplanation: The two sentences are in different segments in the dialogue. The first sentence is a response to the previous dialogue (not provided), and the second sentence is starting a new activity."}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1\n\nExplanation: The two sentences are in different segments in the dialogue. The first sentence is a response to a question or request that was not provided in the input, and the second sentence is asking a new question."}
+{"response": "1"}
+{"response": "0"}
+{"response": "1\n\nExplanation: The second sentence starts a new activity, asking about the dishes. There is a time gap between the two sentences. They are in different segments in the dialogue."}
+{"response": "1"}
+{"response": "1"}
+{"response": "Label: 1\n\nExplanation: The second sentence indicates a break in the activity because the Alien is now asking about starting the dishwasher, which is a new topic."}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1\n\nExplanation: The second sentence starts a new activity after the alien has figured out how to do something, indicating a time gap between the two sentences and that they are in different segments in the dialogue."}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1\n\nExplanation: The second sentence is likely a response to the first sentence, but it implies that the alien was doing something before being interrupted by the human's question. Therefore, there is a time gap between the two sentences and they are in different segments in the dialogue."}
+{"response": "1\n\nExplanation: The second sentence is a question that indicates a time gap between the two sentences. They are in different segments in the dialogue."}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1\n\nExplanation: The first sentence is a concluding statement for a previous activity, and the second sentence starts a new activity. They are in different segments in the dialogue."}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1\n\nExplanation: The two sentences are not connected in terms of activity or topic. The alien's response does not indicate any further action or response related to the location of the items on the counter. Therefore, they are in different segments in the dialogue."}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1\n\nExplanation: The second sentence starts a new activity, so it is in a different segment in the dialogue. The first sentence is just an acknowledgment, and it does not contribute to the new activity."}
+{"response": "1"}
+{"response": "0"}
+{"response": "1\n\nExplanation: The two sentences are in different segments in the dialogue. The first sentence is likely the end of an activity, and the second sentence starts a new one."}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1\n\nExplanation: The second sentence is a response to some previous action or statement from the alien, indicating a break in the activity between the two sentences."}
 {"response": "0"}
 {"response": "Label: 1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1\n\nExplanation: The second sentence is a new activity or instruction that is not directly related to the first sentence, which is just an affirmative response. Therefore, they are in different segments in the dialogue."}
+{"response": "1"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "Label: 1\n\nExplanation: The second sentence indicates a new activity, so there is a break in the dialogue segment."}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1\n\nExplanation: The second sentence is not a response to the first sentence, but rather a comment on a different activity. There is a time gap between the two sentences, so they are in different segments in the dialogue."}
+{"response": "0"}
+{"response": "Label: 0\n\nExplanation: The second sentence is a continuation of the activity discussed in the first sentence. The human is asking about the next step in the activity, so the two sentences are in the same segment of the dialogue."}
+{"response": "1"}
 {"response": "1"}
 {"response": "0"}
 {"response": "1"}
 {"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "Label: 1\n\nExplanation: The second sentence is a question asking for clarification about the first sentence. It indicates a break in the activity as the Alien is asking for more information before proceeding."}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1\n\nExplanation: The second sentence indicates that the alien has not yet placed the object, so there is a time gap between the two sentences. They are in different segments in the dialogue."}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "Label: 0\n\nExplanation: The two sentences are a part of the same activity where the Alien is expressing its thoughts and then asking a question. They are in the same segment in the dialogue."}
+{"response": "Label: 1\n\nExplanation: The two sentences are about different activities. The first sentence is about teaching and the second sentence is about cleaning the bathroom. They are in different segments in the dialogue."}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "Label: 1\n\nExplanation: The second sentence indicates a change in the activity of the dialogue, making it a new segment."}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
 {"response": "Label: 1"}
 {"response": "0"}
-{"response": "1"}
-{"response": "0"}
-{"response": "0"}
-{"response": "1\n\nExplanation: The first sentence is a statement that the previous action (drying the dishes) is done. The second sentence is a new instruction for the alien. The two sentences are in different segments."}
-{"response": "1"}
-{"response": "0"}
-{"response": "0"}
+{"response": "Label: 1\n\nExplanation: The second sentence indicates a new activity or question, so it starts a new segment in the dialogue."}
 {"response": "0"}
 {"response": "1"}
+{"response": "1"}
 {"response": "0"}
-{"response": "Label: 1\n\nExplanation: There is a time gap between the two sentences. The first sentence is about Alien agreeing to do something. The second sentence is a question about the towel. The two sentences are in different segments."}
+{"response": "0\n\nExplanation: The two sentences are about the same activity. The first sentence is a response to a prompt from the human, and the second sentence is an expression of satisfaction. They are in the same segment in the dialogue."}
+{"response": "Label: 1\n\nExplanation: The first sentence is a response to a previous event or instruction, while the second sentence is a new instruction. There is a time gap between the two sentences, and they are in different segments in the dialogue."}
 {"response": "0"}
 {"response": "1"}
 {"response": "0"}
 {"response": "0"}
-{"response": "1\n\nExplanation:\n\nThe first sentence of the alien is finishing the previous activity of putting the towel in the cabinet. The second sentence is starting a new activity of asking what else to do. Therefore, these two sentences are in different segments."}
+{"response": "Label: 1\n\nExplanation: The second sentence indicates a new activity that the alien has started, so there is a time gap between the two sentences. They are in different segments in the dialogue."}
 {"response": "0"}
-{"response": "Label: 1\n\nExplanation: The first sentence is a command for the Alien to close the cabinets. The second sentence is a question asking how to close the cabinets. The two sentences are in different segments."}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1\n\nExplanation: The second sentence is a question about what to do next, indicating a new segment in the dialogue."}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1\n\nExplanation: The second sentence indicates that the Alien has completed an action, implying a break in the activity from the previous sentence."}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "0\n\nExplanation: The second sentence is a continuation of the first sentence, giving a command after praising Zara for finding the towels. They are in the same segment in the dialogue."}
+{"response": "0"}
+{"response": "1\n\nExplanation: The first sentence indicates that the alien is about to perform an action, while the second sentence is the human starting a new segment without any indication of the alien's action being completed or not."}
+{"response": "1\n\nExplanation: The second sentence is a new instruction given after completing the previous activity, so they are in different segments in the dialogue."}
+{"response": "1"}
+{"response": "0"}
+{"response": "0"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1"}
+{"response": "0"}
+{"response": "1\n\nExplanation: The first sentence is a command for an activity, and the second sentence is the response of the alien, which indicates a time gap between the two sentences. They are in different segments in the dialogue."}
+{"response": "1\n\nExplanation: The first sentence is likely the end of a segment where the alien has completed an action (putting the towel in the cabinet), and the second sentence is the start of a new segment where the alien is asking for further instructions."}
+{"response": "0"}
+{"response": "0"}
 {"response": "0"}
 {"response": "0"}
 {"response": "1"}

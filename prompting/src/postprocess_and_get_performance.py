@@ -12,7 +12,7 @@ def postprocess_response(response_dict: dict, prompt_name: str) -> int:
     
     if prompt_name in ["zeroshot", "fewshot"]:
         raw_label = response[0]
-    elif prompt_name == "fewshot_cot":
+    elif "fewshot_cot" in prompt_name:
         raw_label = response[-1]
     else:
         raise NotImplementedError(f"Postprocessing for prompt_name={prompt_name} is not implemented.")
