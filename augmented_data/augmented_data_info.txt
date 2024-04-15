@@ -1,5 +1,7 @@
 /0 contains <h, a> samples from the same topic of conversation
 /1 contains <h, a> samples from different topics of conversation
+
 7500+7500 samples contains the original dataset + augmented samples to give 7500 samples for each class
+
 simply_flipped: <h, a> in the original dataset have become <a, h>
 criss_crossed: <h1, a1>, <h2, a2> in the original dataset have become <h1, a2>, <h2, a1>
