@@ -7,8 +7,7 @@ from transformers import AutoModelForCausalLM, AutoTokenizer
 
 from src.path import llm_outputs_dir
 from src.prompts import get_prompt_template
-from utils.dataset_io import load_original_dataset
-from src.utils.dataset_io import preprocess_utterance
+from src.utils.dataset_io import load_original_dataset, preprocess_utterance
 
 
 def get_tokenizer(model_name: str) -> str:

@@ -2,6 +2,8 @@ import sklearn.metrics
 
 
 def get_label_distrubiton(labels_list: list[int]) -> dict:
+    labels_list = [int(label) for label in labels_list]  # make sure all labels are integers
+    
     return {
         "count": {"0": labels_list.count(0), "1": labels_list.count(1), "-1": labels_list.count(-1)},
         "average": sum(labels_list) / len(labels_list),

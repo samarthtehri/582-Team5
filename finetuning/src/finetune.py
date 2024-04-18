@@ -10,8 +10,7 @@ from torch.utils.data import Dataset
 from transformers import AutoTokenizer, AutoModelForSequenceClassification, TrainingArguments, Trainer, PreTrainedTokenizer
 
 from src.utils.get_performance import get_performance
-from utils.dataset_io import load_dataset_from_csv_file
-from src.utils.dataset_io import preprocess_utterance
+from src.utils.dataset_io import load_dataset_from_csv_file, preprocess_utterance
 
 
 class UtteranceDataset(Dataset):
@@ -85,7 +84,8 @@ if __name__ == "__main__":
     output_dir = Path("finetuning/results") / f"model={args.model_name.split('/')[-1]},train={args.train_file.split('/')[-1]},input_format={args.utterance_format}"
     output_dir.mkdir(parents=True, exist_ok=True)
     training_args = TrainingArguments(output_dir=output_dir,
-                                      evaluation_strategy="epoch", num_train_epochs=3,
+                                      evaluation_strategy="epoch", logging_strategy="epoch", save_strategy="epoch",
+                                      num_train_epochs=3,
                                       per_device_train_batch_size=8, learning_rate=5e-5)
     
     # train
