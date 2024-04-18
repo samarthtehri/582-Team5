@@ -10,8 +10,8 @@ from torch.utils.data import Dataset
 from transformers import AutoTokenizer, AutoModelForSequenceClassification, TrainingArguments, Trainer, PreTrainedTokenizer
 
 from src.utils.get_performance import get_performance
-from src.utils.load_csv_dataset import load_dataset_from_csv_file
-from src.utils.preprocess_data import preprocess_utterance
+from utils.dataset_io import load_dataset_from_csv_file
+from src.utils.dataset_io import preprocess_utterance
 
 
 class UtteranceDataset(Dataset):

@@ -3,7 +3,7 @@ import json
 from src.config import llms_list, input_formats_list
 from src.path import llm_outputs_dir, performance_dir
 from src.prompts import get_prompt_template
-from src.utils.load_csv_dataset import load_csv_dataset
+from utils.dataset_io import load_original_dataset
 from src.utils.get_performance import get_performance
 
 
@@ -25,7 +25,7 @@ def postprocess_response(response_dict: dict, prompt_name: str) -> int:
 
 
 if __name__ == "__main__":
-    dataset = load_csv_dataset("test")
+    dataset = load_original_dataset("test")
     y_true = [int(data["label"]) for data in dataset]
     
     performance_dict = {}

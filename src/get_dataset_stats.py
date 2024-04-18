@@ -1,8 +1,6 @@
 import csv
 import json
 
-import numpy as np
-
 from src.path import dataset_dir, dataset_stats_dir
 from src.utils.get_performance import get_performance
 
