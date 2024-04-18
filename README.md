@@ -4,12 +4,19 @@ CSE 582 Final Project. Dataset is from the source linked in canvas
 
 ## Environment
 
+`setup.sh` includes the code to set up the environment. Make sure to update `PYTHONPATH`.
+
 ```sh
 sh setup.sh
 ```
 
 ## Fine-Tuning
 
+The [fine-tuning](./fine-tuning) directory includes code for fine-tuning language models on training data.
+
+```sh
+sh fine-tuning/sh/run_finetuning.sh
+```
 
 ## LLM Prompting
 

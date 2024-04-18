@@ -7,7 +7,7 @@ from tap import Tap
 import numpy as np
 import torch
 from torch.utils.data import Dataset
-from transformers import AutoTokenizer, AutoModelForSequenceClassification, TrainingArguments, Trainer, PreTrainedTokenizer
+from transformers import AutoTokenizer, AutoModelForSequenceClassification, TrainingArguments, Trainer, PreTrainedTokenizer, AutoConfig
 
 from src.utils.get_performance import get_performance
 from src.utils.dataset_io import load_dataset_from_csv_file, preprocess_utterance
@@ -71,11 +71,17 @@ if __name__ == "__main__":
         torch.cuda.manual_seed_all(args.random_seed)
     
     # device
-    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
+    
+    # update parameters
+    config = AutoConfig.from_pretrained(args.model_name)
+    config.num_labels = 2
+    config.hidden_dropout_prob = 0.1
+    config.attention_probs_dropout_prob = 0.1
     
     print("load tokenizer and model")
     tokenizer = AutoTokenizer.from_pretrained(args.model_name)
-    model = AutoModelForSequenceClassification.from_pretrained(args.model_name, num_labels=2).to(device)
+    model = AutoModelForSequenceClassification.from_pretrained(args.model_name, config=config).to(device)
 
     print("load datasets")
     train_dataset = get_dataset(args.train_file, tokenizer=tokenizer, utterance_format=args.utterance_format)
@@ -86,7 +92,8 @@ if __name__ == "__main__":
     training_args = TrainingArguments(output_dir=output_dir,
                                       evaluation_strategy="epoch", logging_strategy="epoch", save_strategy="epoch",
                                       num_train_epochs=3,
-                                      per_device_train_batch_size=8, learning_rate=5e-5)
+                                      per_device_train_batch_size=16,
+                                      learning_rate=2e-5, warmup_steps=100, weight_decay=.1)
     
     # train
     trainer = Trainer(
