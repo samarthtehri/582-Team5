@@ -36,8 +36,8 @@
           "recall": 0.7670886075949367
         }
       },
-      "eval_runtime": 3.9094,
-      "eval_samples_per_second": 329.97,
+      "eval_runtime": 3.8463,
+      "eval_samples_per_second": 335.384,
       "eval_statistics": {
         "total_samples": 1290,
         "y_pred_distribution": {
@@ -57,7 +57,7 @@
           }
         }
       },
-      "eval_steps_per_second": 20.719,
+      "eval_steps_per_second": 21.059,
       "step": 160
     }
   ],

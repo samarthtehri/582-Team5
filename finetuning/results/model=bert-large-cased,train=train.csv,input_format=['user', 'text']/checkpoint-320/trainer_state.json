@@ -36,8 +36,8 @@
           "recall": 0.6860759493670886
         }
       },
-      "eval_runtime": 4.1543,
-      "eval_samples_per_second": 310.519,
+      "eval_runtime": 4.1068,
+      "eval_samples_per_second": 314.113,
       "eval_statistics": {
         "total_samples": 1290,
         "y_pred_distribution": {
@@ -57,7 +57,7 @@
           }
         }
       },
-      "eval_steps_per_second": 19.498,
+      "eval_steps_per_second": 19.723,
       "step": 160
     },
     {
@@ -88,8 +88,8 @@
           "recall": 0.7189873417721518
         }
       },
-      "eval_runtime": 4.177,
-      "eval_samples_per_second": 308.834,
+      "eval_runtime": 4.0855,
+      "eval_samples_per_second": 315.754,
       "eval_statistics": {
         "total_samples": 1290,
         "y_pred_distribution": {
@@ -109,7 +109,7 @@
           }
         }
       },
-      "eval_steps_per_second": 19.392,
+      "eval_steps_per_second": 19.826,
       "step": 320
     }
   ],

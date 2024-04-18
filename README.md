@@ -12,10 +12,10 @@ sh setup.sh
 
 ## Fine-Tuning
 
-The [fine-tuning](./fine-tuning) directory includes code for fine-tuning language models on training data.
+The [finetuning](./finetuning) directory includes code for fine-tuning language models on training data.
 
 ```sh
-sh fine-tuning/sh/run_finetuning.sh
+sh finetuning/sh/run_finetuning.sh
 ```
 
 ## LLM Prompting
