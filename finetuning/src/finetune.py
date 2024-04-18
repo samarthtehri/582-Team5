@@ -1,93 +1,104 @@
-from datasets import load_dataset
+import os
+from pathlib import Path
+import json
+import random
+
+from tap import Tap
 import numpy as np
-import evaluate
-from transformers import AutoTokenizer
-from transformers import TrainingArguments
-from transformers import AutoModelForSequenceClassification
-from transformers import TrainingArguments, Trainer
-import pandas as pd
 import torch
 from torch.utils.data import Dataset
-import ast
+from transformers import AutoTokenizer, AutoModelForSequenceClassification, TrainingArguments, Trainer, PreTrainedTokenizer
 
-def format_conversation(conversation):
-    dict_strings = conversation.split('}')
-    formatted_strings = []
-    for dict_string in dict_strings:
-        # Skip empty strings
-        if dict_string.strip() == '':
-            continue
-        dict_string += '}'
-        data_dict = ast.literal_eval(dict_string)
-        user = data_dict['user']
-        text = data_dict['text']
-        formatted_string = f"{text}"
-        formatted_strings.append(formatted_string)
-    return ' '.join(formatted_strings)
+from src.utils.get_performance import get_performance
+from src.utils.load_csv_dataset import load_dataset_from_csv_file
+from src.utils.preprocess_data import preprocess_utterance
 
-class XDataset(Dataset):
-    def __init__(self, encodings, labels):
-        self.encodings = encodings
+
+class UtteranceDataset(Dataset):
+    def __init__(self, texts, labels):
+        self.texts = texts
         self.labels = labels
 
     def __getitem__(self, idx):
-        item = {key: torch.tensor(val[idx]) for key, val in self.encodings.items()}
-        item['labels'] = torch.tensor(self.labels[idx])
+        item = {key: val[idx] for key, val in self.texts.items()}
+        item["label"] = self.labels[idx]
         return item
-
+    
     def __len__(self):
         return len(self.labels)
 
-# Tokenize input data
-def tokenize_data(data):
-    return tokenizer(list(data), truncation=True, padding=True)
 
-def process_file(file):
-    df = pd.read_csv(file)
-    df['one'] = df['utterance1'].apply(format_conversation)
-    df['two'] = df['utterance2'].apply(format_conversation)
-    df['text'] = list(zip(df['one'], df['two']))
-    df['label'] = df['label'].astype(int)
-
-    labels = df.label.values    
-    encodings = tokenize_data( df.text.values)
-    dataset = XDataset(encodings, labels)
+def get_dataset(file_path, tokenizer: PreTrainedTokenizer, utterance_format=["user", "text"]):
+    original_data = load_dataset_from_csv_file(file_path)
+    
+    texts = []
+    labels = []
+    for d in original_data:
+        utterances = preprocess_utterance(d, utterance_format)
+        input_text = f"{utterances['utterance1']}\n{utterances['utterance2']}"
+        texts.append(input_text)
+        
+        labels.append(int(d["label"]))
+    
+    tokenized = tokenizer(texts, truncation=True, padding=True, return_tensors="pt")
+    dataset = UtteranceDataset(texts=tokenized, labels=torch.IntTensor(labels))
     return dataset
-
-tokenizer = AutoTokenizer.from_pretrained("google-bert/bert-base-cased")
-
-train_file = './Data/train/train.csv'
-test_file = './Data/test/test.csv'
-
-train_dataset = process_file(train_file) 
-test_dataset = process_file(test_file) 
-
-model = AutoModelForSequenceClassification.from_pretrained("google-bert/bert-base-cased", num_labels=2)
-metric = evaluate.load("accuracy")
-metric1 = evaluate.load("precision")
-metric2 = evaluate.load("recall")
-metric3 = evaluate.load("f1")
 
 
 def compute_metrics(eval_pred):
-
     logits, labels = eval_pred
-    predictions = np.argmax(logits, axis=-1)
-    accuracy = metric.compute(predictions=predictions, references=labels)["accuracy"]
-    precision = metric1.compute(predictions=predictions, references=labels)["precision"]
-    recall = metric2.compute(predictions=predictions, references=labels)["recall"]
-    f1 = metric3.compute(predictions=predictions, references=labels)["f1"]
-    return {"accuracy": accuracy, "precision": precision, "recall": recall, "f1": f1}
+    predictions = np.argmax(logits, axis=-1).tolist()
+    labels = labels.tolist()
+    return get_performance(labels, predictions)
  
+ 
+class FinetuneTap(Tap):
+    model_name: str = "google-bert/bert-base-cased"
+    train_file: str = './Data/train/train.csv'
+    test_file: str = './Data/test/test.csv'
+    utterance_format: list[str] = ["user", "text"]
+    random_seed: int = 46
 
-training_args = TrainingArguments(output_dir="test_trainer", evaluation_strategy="epoch", num_train_epochs=6)
+ 
+if __name__ == "__main__":
+    args = FinetuneTap().parse_args()
+    
+    # make training reproducible
+    os.environ['PYTHONHASHSEED'] = str(args.random_seed)
+    random.seed(args.random_seed)
+    np.random.seed(args.random_seed)
+    torch.manual_seed(args.random_seed)
+    if torch.cuda.is_available():
+        torch.cuda.manual_seed_all(args.random_seed)
+    
+    # device
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    
+    print("load tokenizer and model")
+    tokenizer = AutoTokenizer.from_pretrained(args.model_name)
+    model = AutoModelForSequenceClassification.from_pretrained(args.model_name, num_labels=2).to(device)
 
-trainer = Trainer(
-    model=model,
-    args=training_args,
-    train_dataset=train_dataset,
-    eval_dataset=test_dataset,
-    compute_metrics=compute_metrics,
-)
-
-trainer.train()
+    print("load datasets")
+    train_dataset = get_dataset(args.train_file, tokenizer=tokenizer, utterance_format=args.utterance_format)
+    test_dataset = get_dataset(args.test_file, tokenizer=tokenizer, utterance_format=args.utterance_format)
+    
+    output_dir = Path("finetuning/results") / f"model={args.model_name.split('/')[-1]},train={args.train_file.split('/')[-1]},input_format={args.utterance_format}"
+    output_dir.mkdir(parents=True, exist_ok=True)
+    training_args = TrainingArguments(output_dir=output_dir,
+                                      evaluation_strategy="epoch", num_train_epochs=3,
+                                      per_device_train_batch_size=8, learning_rate=5e-5)
+    
+    # train
+    trainer = Trainer(
+        model=model,
+        args=training_args,
+        train_dataset=train_dataset,
+        eval_dataset=test_dataset,
+        compute_metrics=compute_metrics,
+    )
+    trainer.train()
+    
+    # performance
+    evaluation = trainer.evaluate()
+    with open(output_dir / "performance.json", "w") as f:
+        json.dump(evaluation, f, indent=4)

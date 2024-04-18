@@ -8,6 +8,7 @@ from transformers import AutoModelForCausalLM, AutoTokenizer
 from src.path import llm_outputs_dir
 from src.prompts import get_prompt_template
 from src.utils.load_csv_dataset import load_csv_dataset
+from src.utils.preprocess_data import preprocess_utterance
 
 
 def get_tokenizer(model_name: str) -> str:
@@ -18,22 +19,10 @@ def get_tokenizer(model_name: str) -> str:
 
 
 def get_prompt(data, input_format: list[str], prompt_type: str):
-    inputs_list: list[str] = []
-    for idx in [1, 2]:
-        utterance = ast.literal_eval(data[f"utterance{idx}"])
-        input_str = ""
-        if "user" in input_format:
-            input_str += utterance["user"] + ": "
-        if "text" in input_format:
-            input_str += utterance["text"]
-        
-        if "intent" in input_format:
-            input_str += f" ({utterance['intent']})"
-        
-        inputs_list.append(input_str)
+    utterances = preprocess_utterance(data, input_format)
     
     prompt_template = get_prompt_template[prompt_type]
-    prompt = prompt_template.format(input1=inputs_list[0], input2=inputs_list[1])
+    prompt = prompt_template.format(input1=utterances["utterance1"], input2=utterances["utterance2"])
     
     if "category" in prompt_type:
         prompt += f"\nCategory: {data['category']}"
