@@ -1,7 +1,7 @@
 import json
 
-from src.config import llms_list, input_formats_list
-from src.path import llm_outputs_dir, performance_dir
+from src.config import llms_list
+from src.path import llm_outputs_dir, prompting_performance_dir
 from src.prompts import get_prompt_template
 from utils.dataset_io import load_original_dataset
 from src.utils.get_performance import get_performance
@@ -30,7 +30,7 @@ if __name__ == "__main__":
     
     performance_dict = {}
     for prompt_name in get_prompt_template.keys():
-        for input_format in input_formats_list:
+        for input_format in ["user-text"]:
             for model_name_long in llms_list:
                 # postprocess
                 model_name = model_name_long.split("/")[-1]
@@ -53,6 +53,6 @@ if __name__ == "__main__":
                 performance_dict.setdefault(f"prompt={prompt_name}", {}).setdefault(f"input_format={input_format}", {})[
                     model_name] = get_performance(y_true=y_true, y_pred=processed)
     
-    performance_dir.mkdir(exist_ok=True, parents=True)
-    with open(performance_dir / "performance.json", "w") as f:
+    prompting_performance_dir.mkdir(exist_ok=True, parents=True)
+    with open(prompting_performance_dir / "performance.json", "w") as f:
         json.dump(performance_dict, f, indent=4)

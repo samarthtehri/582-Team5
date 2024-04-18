@@ -35,9 +35,14 @@ def get_dataset(file_path, tokenizer: PreTrainedTokenizer, utterance_format=["us
     for d in original_data:
         utterances = preprocess_utterance(d, utterance_format)
         input_text = f"{utterances['utterance1']}\n{utterances['utterance2']}"
-        texts.append(input_text)
         
+        if "category" in utterance_format:
+            input_text += f"\nCategory: {d['category']}"
+        
+        texts.append(input_text)
         labels.append(int(d["label"]))
+    
+    print(texts[0])
     
     tokenized = tokenizer(texts, truncation=True, padding=True, return_tensors="pt")
     dataset = UtteranceDataset(texts=tokenized, labels=torch.IntTensor(labels))

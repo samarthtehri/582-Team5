@@ -4,4 +4,4 @@ convert_llm_names_to_short_names: dict[str, str] = {
     "mistralai/Mixtral-8x7B-Instruct-v0.1": "Mixtral-8x7B"
 }
 
-input_formats_list: list[str] = ["user-text"]
+finetuned_models_list = ["google-bert/bert-base-cased", "google-bert/bert-large-cased", "FacebookAI/roberta-base", "FacebookAI/roberta-large"]

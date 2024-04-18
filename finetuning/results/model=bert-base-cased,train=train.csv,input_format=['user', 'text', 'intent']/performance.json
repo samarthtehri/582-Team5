@@ -1,0 +1,44 @@
+{
+    "eval_loss": 0.3612363338470459,
+    "eval_statistics": {
+        "total_samples": 1290,
+        "y_true_distribution": {
+            "count": {
+                "0": 895,
+                "1": 395,
+                "-1": 0
+            },
+            "average": 0.3062015503875969
+        },
+        "y_pred_distribution": {
+            "count": {
+                "0": 930,
+                "1": 360,
+                "-1": 0
+            },
+            "average": 0.27906976744186046
+        }
+    },
+    "eval_performance": {
+        "accuracy": 0.8565891472868217,
+        "pos_label=0": {
+            "precision": 0.8817204301075269,
+            "recall": 0.9162011173184358,
+            "f1": 0.8986301369863013
+        },
+        "pos_label=1": {
+            "precision": 0.7916666666666666,
+            "recall": 0.7215189873417721,
+            "f1": 0.7549668874172185
+        },
+        "macro": {
+            "precision": 0.8366935483870968,
+            "recall": 0.818860052330104,
+            "f1": 0.8267985122017599
+        }
+    },
+    "eval_runtime": 2.1265,
+    "eval_samples_per_second": 606.636,
+    "eval_steps_per_second": 38.091,
+    "epoch": 3.0
+}

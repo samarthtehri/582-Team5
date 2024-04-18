@@ -1,20 +1,20 @@
 import json
 
 from src.prompts import get_prompt_template
-from src.path import performance_dir, table_dir
-from src.config import input_formats_list, llms_list
+from src.path import prompting_performance_dir, prompting_table_dir
+from src.config import llms_list
 
 
 positive_labels_list = ["pos_label=0", "pos_label=1", "macro"]
 metrics_list = ["precision", "recall", "f1"]
 
 if __name__ == "__main__":
-    with open(performance_dir / "performance.json", "r") as f:
+    with open(prompting_performance_dir / "performance.json", "r") as f:
         performance_dict: dict = json.load(f)
     
-    table_dir.mkdir(exist_ok=True, parents=True)
+    prompting_table_dir.mkdir(exist_ok=True, parents=True)
     
-    for input_format in input_formats_list:
+    for input_format in ["user-text"]:
         for model_name_full in llms_list:
             model_name = model_name_full.split("/")[-1]
             table_list: list[str] = []
@@ -31,7 +31,7 @@ if __name__ == "__main__":
                         row_list.append(f"{value:.0f}")
                 table_list.append(" & ".join(row_list) + " \\\\")
             
-            output_path = table_dir / f"table_{input_format}_{model_name}.txt"
+            output_path = prompting_table_dir / f"table_{input_format}_{model_name}.txt"
             with open(output_path, "w") as f:
                 for line in table_list:
                     f.write(line + "\n")
