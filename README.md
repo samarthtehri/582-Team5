@@ -2,6 +2,12 @@
 
 CSE 582 Final Project. Dataset is from the source linked in canvas
 
+## Environment
+
+```sh
+sh setup.sh
+```
+
 ## Fine-Tuning
 
 
@@ -9,4 +15,20 @@ CSE 582 Final Project. Dataset is from the source linked in canvas
 
 In addition to fine-tuning language models on training data, we evaluate the performance of large language models (LLMs) with prompting, without fine-tuning.
 
-The [prompting](./prompting) directory includes code for the experiments on LLMs. [prompting/README.md](./prompting/README.md) includes details of how to run the code.
+The [prompting](./prompting) directory includes code for the experiments on LLMs.
+
+```sh
+sh prompting/sh/run_llms.sh
+```
+
+### Prompts
+
+Prompts are defined in `prompting/src/prompts.py`. You can add new prompts and update `get_prompt_template` to use them in `prompting/src/run_llms.py`
+
+Please refer to `sh prompting/sh/run_llms.sh` for how to use `prompting/src/run_llms.py`.
+
+### Performance
+
+`prompting/performance/performance.json` includes all performance.
+
+`prompting/performance/tables` includes all tables.
