@@ -45,7 +45,7 @@ if __name__ == "__main__":
 
         first_row = [""] + [f"{positive_label} {metrics}" for positive_label in positive_labels_list for metrics in metrics_list]
         table_list.append(" & ".join(first_row) + " \\\\")
-        for train_data in ["train.csv", "copy_augmentation.csv"]:
+        for train_data in ["train.csv", "copy_augmentation.csv", "crossing_augmentation.csv"]:
             row_list: list[str] = [train_data]
             
             with open(finetuning_results_dir / f"model={model_name},train={train_data},input_format=['user', 'text']/performance.json", "r") as f:
