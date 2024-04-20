@@ -51,6 +51,10 @@ def get_dataset(file_path, tokenizer: PreTrainedTokenizer, utterance_format=["us
 
 def compute_metrics(eval_pred):
     logits, labels = eval_pred
+    
+    if len(logits) == 2:  # Seq2SeqSequenceClassifierOutput
+        logits = logits[0]
+
     predictions = np.argmax(logits, axis=-1).tolist()
     labels = labels.tolist()
     return get_performance(labels, predictions)
@@ -96,9 +100,11 @@ if __name__ == "__main__":
     output_dir.mkdir(parents=True, exist_ok=True)
     training_args = TrainingArguments(output_dir=output_dir,
                                       evaluation_strategy="epoch", logging_strategy="epoch", save_strategy="epoch",
+                                    #   save_strategy="steps", evaluation_strategy="steps", save_steps=2, eval_steps=2, logging_steps=2,
                                       num_train_epochs=3,
                                       per_device_train_batch_size=16,
-                                      learning_rate=2e-5, warmup_steps=100, weight_decay=.1)
+                                      learning_rate=2e-5 if "t5" not in args.model_name else 1e-4,
+                                      warmup_steps=100, weight_decay=.1)
     
     # train
     trainer = Trainer(

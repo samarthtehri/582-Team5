@@ -39,7 +39,7 @@ if __name__ == "__main__":
 
     # table for training data
     table_list: list[str] = []
-    for model_name_full in finetuned_models_list:
+    for model_name_full in finetuned_models_list + ["google-t5/t5-base", "google-t5/t5-large", "google-t5/t5-3b"]:
         table_list.append(model_name_full)
         model_name = model_name_full.split("/")[-1]
 
@@ -56,6 +56,9 @@ if __name__ == "__main__":
                     value = performance[positive_label][metrics] * 100
                     row_list.append(f"{value:.0f}")
             table_list.append(" & ".join(row_list) + " \\\\")
+            
+            if "t5" in model_name_full:
+                break
         table_list.append("")
     
     # save
