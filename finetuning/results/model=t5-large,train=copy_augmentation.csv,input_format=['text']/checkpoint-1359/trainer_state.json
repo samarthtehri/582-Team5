@@ -1,0 +1,177 @@
+{
+  "best_metric": null,
+  "best_model_checkpoint": null,
+  "epoch": 3.0,
+  "eval_steps": 500,
+  "global_step": 1359,
+  "is_hyper_param_search": false,
+  "is_local_process_zero": true,
+  "is_world_process_zero": true,
+  "log_history": [
+    {
+      "epoch": 1.0,
+      "grad_norm": 3.093837261199951,
+      "learning_rate": 7.196187450357426e-05,
+      "loss": 0.4518,
+      "step": 453
+    },
+    {
+      "epoch": 1.0,
+      "eval_loss": 0.4209337830543518,
+      "eval_performance": {
+        "accuracy": 0.8248062015503876,
+        "macro": {
+          "f1": 0.8053332051312869,
+          "precision": 0.7950370914000628,
+          "recall": 0.8263630577752634
+        },
+        "pos_label=0": {
+          "f1": 0.866902237926973,
+          "precision": 0.9165628891656289,
+          "recall": 0.8223463687150838
+        },
+        "pos_label=1": {
+          "f1": 0.7437641723356009,
+          "precision": 0.6735112936344969,
+          "recall": 0.830379746835443
+        }
+      },
+      "eval_runtime": 9.9395,
+      "eval_samples_per_second": 129.785,
+      "eval_statistics": {
+        "total_samples": 1290,
+        "y_pred_distribution": {
+          "average": 0.37751937984496126,
+          "count": {
+            "-1": 0,
+            "0": 803,
+            "1": 487
+          }
+        },
+        "y_true_distribution": {
+          "average": 0.3062015503875969,
+          "count": {
+            "-1": 0,
+            "0": 895,
+            "1": 395
+          }
+        }
+      },
+      "eval_steps_per_second": 16.299,
+      "step": 453
+    },
+    {
+      "epoch": 2.0,
+      "grad_norm": 39.969608306884766,
+      "learning_rate": 3.598093725178713e-05,
+      "loss": 0.233,
+      "step": 906
+    },
+    {
+      "epoch": 2.0,
+      "eval_loss": 0.5338927507400513,
+      "eval_performance": {
+        "accuracy": 0.858139534883721,
+        "macro": {
+          "f1": 0.8275918732211991,
+          "precision": 0.8403336402403567,
+          "recall": 0.817855880065059
+        },
+        "pos_label=0": {
+          "f1": 0.900163666121113,
+          "precision": 0.8795309168443497,
+          "recall": 0.9217877094972067
+        },
+        "pos_label=1": {
+          "f1": 0.7550200803212851,
+          "precision": 0.8011363636363636,
+          "recall": 0.7139240506329114
+        }
+      },
+      "eval_runtime": 9.8338,
+      "eval_samples_per_second": 131.18,
+      "eval_statistics": {
+        "total_samples": 1290,
+        "y_pred_distribution": {
+          "average": 0.27286821705426356,
+          "count": {
+            "-1": 0,
+            "0": 938,
+            "1": 352
+          }
+        },
+        "y_true_distribution": {
+          "average": 0.3062015503875969,
+          "count": {
+            "-1": 0,
+            "0": 895,
+            "1": 395
+          }
+        }
+      },
+      "eval_steps_per_second": 16.474,
+      "step": 906
+    },
+    {
+      "epoch": 3.0,
+      "grad_norm": 0.21687711775302887,
+      "learning_rate": 0.0,
+      "loss": 0.1046,
+      "step": 1359
+    },
+    {
+      "epoch": 3.0,
+      "eval_loss": 0.7396554350852966,
+      "eval_performance": {
+        "accuracy": 0.8573643410852713,
+        "macro": {
+          "f1": 0.8311849767715762,
+          "precision": 0.8331487633813215,
+          "recall": 0.8293190014850436
+        },
+        "pos_label=0": {
+          "f1": 0.8976640711902113,
+          "precision": 0.893687707641196,
+          "recall": 0.9016759776536313
+        },
+        "pos_label=1": {
+          "f1": 0.7647058823529411,
+          "precision": 0.772609819121447,
+          "recall": 0.7569620253164557
+        }
+      },
+      "eval_runtime": 9.8334,
+      "eval_samples_per_second": 131.185,
+      "eval_statistics": {
+        "total_samples": 1290,
+        "y_pred_distribution": {
+          "average": 0.3,
+          "count": {
+            "-1": 0,
+            "0": 903,
+            "1": 387
+          }
+        },
+        "y_true_distribution": {
+          "average": 0.3062015503875969,
+          "count": {
+            "-1": 0,
+            "0": 895,
+            "1": 395
+          }
+        }
+      },
+      "eval_steps_per_second": 16.474,
+      "step": 1359
+    }
+  ],
+  "logging_steps": 500,
+  "max_steps": 1359,
+  "num_input_tokens_seen": 0,
+  "num_train_epochs": 3,
+  "save_steps": 500,
+  "total_flos": 9006806450048400.0,
+  "train_batch_size": 16,
+  "trial_name": null,
+  "trial_params": null
+}

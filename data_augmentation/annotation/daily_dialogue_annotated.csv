@@ -1,0 +1,220 @@
+,0,1,2
+0,0.0,"Good morning , sir . Is there a bank near here ? ",  There is one . 5 blocks away from here ? 
+1,1.0,  There is one . 5 blocks away from here ? ,"  Well , thats too far.Can you change some money for me ? "
+2,0.0,"  Well , thats too far.Can you change some money for me ? ","  Surely , of course . What kind of currency have you got ?   RIB . "
+3,0.0,"  Surely , of course . What kind of currency have you got ?   RIB . ",  How much would you like to change ?   1000 Yuan.Here you are . 
+4,1.0,  How much would you like to change ?   1000 Yuan.Here you are . ,"Good afternoon . This is Michelle Li speaking , calling on behalf of IBA . Is Mr Meng available at all ? "
+5,0.0,"Good afternoon . This is Michelle Li speaking , calling on behalf of IBA . Is Mr Meng available at all ? ","  This is Mr Meng speaking , Michelle . "
+6,1.0,"  This is Mr Meng speaking , Michelle . ","  Oh , hello ! Sorry about that . Im just calling to say that weve received your new Corporate Credit Card from HQ . "
+7,1.0,"  Oh , hello ! Sorry about that . Im just calling to say that weve received your new Corporate Credit Card from HQ . ",  That was quick ! I wasnt expecting it until later this week . 
+8,1.0,  That was quick ! I wasnt expecting it until later this week . ,"  Yes , our application procedures have speeded up since we started using the new fast-track system . "
+9,1.0,"  Yes , our application procedures have speeded up since we started using the new fast-track system . ",  Shall I come in and collect it ? 
+10,0.0,  Shall I come in and collect it ? ,"  Or we can send it to you . But if you would like to use it at the ATM , youll need to wait for your PIN number . "
+11,1.0,"  Or we can send it to you . But if you would like to use it at the ATM , youll need to wait for your PIN number . ","  Mmmm ... if I come in and collect it this afternoon , is there any way I could use it today ? Petty cash is getting low , so I need to draw some money . "
+12,0.0,"  Mmmm ... if I come in and collect it this afternoon , is there any way I could use it today ? Petty cash is getting low , so I need to draw some money . ","  As long as you bring your ID , etc , we can serve you over the counter . But you wont be able to use the ATM until your new PIN number arrives . "
+13,0.0,"  As long as you bring your ID , etc , we can serve you over the counter . But you wont be able to use the ATM until your new PIN number arrives . ","  I see . Yes , thats fine . Ill be there at around 2:30 pm . See you later , and thanks . "
+14,1.0,"  I see . Yes , thats fine . Ill be there at around 2:30 pm . See you later , and thanks . ",What qualifications should a reporter have ? 
+15,0.0,What qualifications should a reporter have ? ,"  As a reporter , he must have acute insight and language skills . At the same time , he must have good judgment , the respect for his job and tactical cooperation with others . "
+16,1.0,"  As a reporter , he must have acute insight and language skills . At the same time , he must have good judgment , the respect for his job and tactical cooperation with others . ","  Can you work under pressure ? You know , people working here are all busy everyday since were daily newspaper . "
+17,0.0,"  Can you work under pressure ? You know , people working here are all busy everyday since were daily newspaper . ",  I think Ive got used to work under pressure . I will adjust myself to the step of your newspaper quickly . 
+18,1.0,  I think Ive got used to work under pressure . I will adjust myself to the step of your newspaper quickly . ,"Hi , good morning , Miss ? what can I help you with ? "
+19,0.0,"Hi , good morning , Miss ? what can I help you with ? ",  Good morning Id like to mail this box of books to Taiwan . 
+20,0.0,  Good morning Id like to mail this box of books to Taiwan . ,"  OK , please put it on this scale.Airmail or by sea ? "
+21,1.0,"  OK , please put it on this scale.Airmail or by sea ? ",  How long does it take to reach Taiwan by sea ? 
+22,0.0,  How long does it take to reach Taiwan by sea ? ,  Usually about two month . 
+23,0.0,  Usually about two month . ,  Thats too long.How long does it take to reach Taiwan by airmail ? 
+24,1.0,  Thats too long.How long does it take to reach Taiwan by airmail ? ,  About ten days .   Then how much is that by airmail ? 
+25,0.0,  About ten days .   Then how much is that by airmail ? ,"  Let me see.It  s 57 dollars , 20 cents , including tax . "
+26,0.0,"  Let me see.It  s 57 dollars , 20 cents , including tax . ",  Thats a little bit expensive . 
+27,0.0,  Thats a little bit expensive . ,"  Although its expensive to send it by airmail , its quicker and safer than by sea . "
+28,1.0,"  Although its expensive to send it by airmail , its quicker and safer than by sea . ",  I guess I have to send it by airmail . 
+29,1.0,  I guess I have to send it by airmail . ,"  Do you want to ensure the contents , Miss ?   Yes , please . "
+30,0.0,"  Do you want to ensure the contents , Miss ?   Yes , please . ","  Please fill out this form , also please write the value of the items in this space . "
+31,0.0,"  Please fill out this form , also please write the value of the items in this space . ",  OK . 
+32,0.0,  OK . ,"Excuse me , maam . Can you tell me where the nearest postoffice is ? "
+33,0.0,"Excuse me , maam . Can you tell me where the nearest postoffice is ? ","  Of course . Go straight ahead . Turn right at the next street . Youll see a tall , yellow building.The post office is on the first floor . "
+34,0.0,"  Of course . Go straight ahead . Turn right at the next street . Youll see a tall , yellow building.The post office is on the first floor . ","  Do you mean that I go that way for one block , then turn right ? "
+35,1.0,"  Do you mean that I go that way for one block , then turn right ? ","  Yes , you are right .   Is it far ? "
+36,1.0,"  Yes , you are right .   Is it far ? ","  No , Its only about five minutes  walk .   Thank you very much . "
+37,0.0,"  No , Its only about five minutes  walk .   Thank you very much . ",  Its my pleasure . 
+38,1.0,  Its my pleasure . ,Could you give me some advice on how to bring up my son properly ? 
+39,1.0,Could you give me some advice on how to bring up my son properly ? ,"  Hes a bright boy , isnt he ? "
+40,1.0,"  Hes a bright boy , isnt he ? ",  But he always wimps out of difficulty . 
+41,1.0,  But he always wimps out of difficulty . ,"  Dont worry , hell make good progress step by step . "
+42,1.0,"  Dont worry , hell make good progress step by step . ",Im in 507 . I have a few problems with my room . 
+43,0.0,Im in 507 . I have a few problems with my room . ,"  What is that problem , sir ?   There are cockroaches in my room . "
+44,1.0,"  What is that problem , sir ?   There are cockroaches in my room . ","  Are you sure , sir ? Flies I could believe , but cockroaches ? "
+45,1.0,"  Are you sure , sir ? Flies I could believe , but cockroaches ? ","  Ive counted nine different cockroaches , and I accidentally stepped on another one . "
+46,0.0,"  Ive counted nine different cockroaches , and I accidentally stepped on another one . ","  Sir , we run a spotless and cockroach-less hotel . "
+47,1.0,"  Sir , we run a spotless and cockroach-less hotel . ",  You dare to doubt me ? 
+48,1.0,  You dare to doubt me ? ,"  Im sorry , sir . Let me transfer you to my supervisor . "
+49,1.0,"  Im sorry , sir . Let me transfer you to my supervisor . ","Excuse me , sir , Im afraid you cant park your car here . "
+50,0.0,"Excuse me , sir , Im afraid you cant park your car here . ","  Why not ? Its my parking space .   Im afraid not , sir . "
+51,1.0,"  Why not ? Its my parking space .   Im afraid not , sir . ","  Oh ? Thats a surprise . Let me see ... D 0411 Our dogs birthday . Yes , Im sure this my parking space ! "
+52,1.0,"  Oh ? Thats a surprise . Let me see ... D 0411 Our dogs birthday . Yes , Im sure this my parking space ! ",  But I saw a red car always parking here before . 
+53,0.0,  But I saw a red car always parking here before . ,"  Oh , weve just repainted our car . It was red . "
+54,1.0,"  Oh , weve just repainted our car . It was red . ",  Maybe . But the car of this space has a broken rearview mirror on the left . 
+55,0.0,  Maybe . But the car of this space has a broken rearview mirror on the left . ,  Yeah . It used to . We got that fixed yesterday too . 
+56,1.0,  Yeah . It used to . We got that fixed yesterday too . ,"  Could you wait for a minute , sir ? Id like to have a check . "
+57,0.0,"  Could you wait for a minute , sir ? Id like to have a check . ","  Sure , go ahead . "
+58,1.0,"  Sure , go ahead . ","  Sorry , sir , my mistake . This is your parking space . "
+59,1.0,"  Sorry , sir , my mistake . This is your parking space . ",  Thats all right . Its not your fault . 
+60,1.0,  Thats all right . Its not your fault . ,What can I do for you today ? 
+61,0.0,What can I do for you today ? ,  I need to buy a new refrigerator today . 
+62,0.0,  I need to buy a new refrigerator today . ,  Were you looking at a particular refrigerator ? 
+63,0.0,  Were you looking at a particular refrigerator ? ,  I like that Kenmore refrigerator . 
+64,0.0,  I like that Kenmore refrigerator . ,  This particular refrigerator is a very good choice . 
+65,1.0,  This particular refrigerator is a very good choice . ,  Tell me about it . 
+66,0.0,  Tell me about it . ,"  Not only is it affordable , but it comes with all the appliances . "
+67,1.0,"  Not only is it affordable , but it comes with all the appliances . ",  What are the appliances . 
+68,0.0,  What are the appliances . ,"  It has an ice maker , water dispenser , and plenty of room on the inside . "
+69,1.0,"  It has an ice maker , water dispenser , and plenty of room on the inside . ",  Id like to see it for myself .   Go right ahead . 
+70,0.0,  Id like to see it for myself .   Go right ahead . ,  I like what I see . 
+71,1.0,  I like what I see . ,"Oh , well . It was fun to be the winner . But ... its too big . I must be an extra small in the States . "
+72,1.0,"Oh , well . It was fun to be the winner . But ... its too big . I must be an extra small in the States . ",  So what about the tennis racket ? 
+73,0.0,  So what about the tennis racket ? ,  Look ! Its amazing . I cant wait to try it out ! 
+74,1.0,  Look ! Its amazing . I cant wait to try it out ! ,  How much did that end up costing you ? 
+75,1.0,  How much did that end up costing you ? ,  Oh ... around twenty bucks . A bargain if you ask me . Look at the picture of her playing with it ! 
+76,1.0,  Oh ... around twenty bucks . A bargain if you ask me . Look at the picture of her playing with it ! ,"  Hey , two for one . Thats a super deal . "
+77,1.0,"  Hey , two for one . Thats a super deal . ",  And heres her signature ! 
+78,1.0,  And heres her signature ! ,Can I help you ? 
+79,0.0,Can I help you ? ,"  Im looking for someone who works here , but I lost his business card . His names Long or Sang or something like that . "
+80,1.0,"  Im looking for someone who works here , but I lost his business card . His names Long or Sang or something like that . ","  Chang ?   Yeah , that sounds right . "
+81,0.0,"  Chang ?   Yeah , that sounds right . ",  There are about twenty people named Chang who work here . What department ? 
+82,0.0,  There are about twenty people named Chang who work here . What department ? ,"  Let me think ... accounting , finance , something like that . "
+83,1.0,"  Let me think ... accounting , finance , something like that . ",  Eric Chang in accounting ?   Thats him ! 
+84,0.0,  Eric Chang in accounting ?   Thats him ! ,  Ill call him and tell him youre here .   I appreciate your help . 
+85,1.0,  Ill call him and tell him youre here .   I appreciate your help . ,  Would you like to have a seat over there ? Itll just be a minute . And can I have your name ? 
+86,0.0,  Would you like to have a seat over there ? Itll just be a minute . And can I have your name ? ,  Heres my card .   OK . Ill have him come up to get you . 
+87,1.0,  Heres my card .   OK . Ill have him come up to get you . ,"Hello , Sir . Youre here to discuss the Network Settlement Service , right ? "
+88,0.0,"Hello , Sir . Youre here to discuss the Network Settlement Service , right ? ","  Yes , thats right . We want as much info as possible before we agree to anything . "
+89,1.0,"  Yes , thats right . We want as much info as possible before we agree to anything . ","  Yes , its important to be all clued up before you enter into any agreement . To make full use of the Network Settlement Service and take advantage of the whole banking system , we provide internal fund transfers , account inquiry , agency clearing to name but a few . "
+90,1.0,"  Yes , its important to be all clued up before you enter into any agreement . To make full use of the Network Settlement Service and take advantage of the whole banking system , we provide internal fund transfers , account inquiry , agency clearing to name but a few . ","  So , do you think our corporation will be eligible for this ? "
+91,0.0,"  So , do you think our corporation will be eligible for this ? ","  Yes , and its extremely simple . All you need to do is make a Network Settlement Agreement with us . "
+92,1.0,"  Yes , and its extremely simple . All you need to do is make a Network Settlement Agreement with us . ","Dear , time is up , let ’ s go there now . "
+93,1.0,"Dear , time is up , let ’ s go there now . ",  Just a minute . I ’ m putting on my clothes . 
+94,1.0,  Just a minute . I ’ m putting on my clothes . ,  Have you taken the key to the door ? 
+95,1.0,  Have you taken the key to the door ? ,"  Yes . Oh , dear , I can ’ t find my hairbrushes . Can you help me ? "
+96,0.0,"  Yes . Oh , dear , I can ’ t find my hairbrushes . Can you help me ? ",  Where have you put it ?   I put it in the dressing room . 
+97,1.0,  Where have you put it ?   I put it in the dressing room . ,"  Are you sure ?   Yes , quite sure . "
+98,1.0,"  Are you sure ?   Yes , quite sure . ","  Then , have you looked downstairs ? "
+99,0.0,"  Then , have you looked downstairs ? ","  Yes , I ’ Ve looked everywhere downstairs . "
+100,1.0,"  Yes , I ’ Ve looked everywhere downstairs . ","  Look , dear . It ’ s over there .   Where ?   On the floor . "
+101,1.0,"  Look , dear . It ’ s over there .   Where ?   On the floor . ","Excuse me , sir . You cant park here . "
+102,0.0,"Excuse me , sir . You cant park here . ",  I am just waiting for my friends . It wont be long . 
+103,0.0,  I am just waiting for my friends . It wont be long . ,"  Sir , the curb here is not for parking . "
+104,1.0,"  Sir , the curb here is not for parking . ","  But I didnt see the sign , Ma ’ am . "
+105,0.0,"  But I didnt see the sign , Ma ’ am . ","  There is a sign at the corner of the street . When you turned in here , you should have seen it . "
+106,1.0,"  There is a sign at the corner of the street . When you turned in here , you should have seen it . ",  I didnt see it . 
+107,1.0,  I didnt see it . ,"  I am sorry , sir . I have to give you a ticket . You can appeal to the court within 14 days . You will avoid paying the fine if you can prove that you are not at fault . "
+108,1.0,"  I am sorry , sir . I have to give you a ticket . You can appeal to the court within 14 days . You will avoid paying the fine if you can prove that you are not at fault . ",Are you a goal-oriented person ? 
+109,0.0,Are you a goal-oriented person ? ,"  Yes , I am . I always make a plan before I do anything . "
+110,1.0,"  Yes , I am . I always make a plan before I do anything . ",  Where do you want to be in 5 years ? 
+111,0.0,  Where do you want to be in 5 years ? ,  I dont want to have a specific title . I just want to enjoy what I am doing . 
+112,1.0,  I dont want to have a specific title . I just want to enjoy what I am doing . ,  That sounds very reasonable . 
+113,0.0,  That sounds very reasonable . ,  Its the most important thing to me . 
+114,1.0,  Its the most important thing to me . ,"  If you are hired , how long do you plan to stay with us ? "
+115,0.0,"  If you are hired , how long do you plan to stay with us ? ",  That obviously depends on how things go - - whether Im suited to the firm and the firm to me . 
+116,1.0,  That obviously depends on how things go - - whether Im suited to the firm and the firm to me . ,  Tell me about some of your recent goals and what you do to achieve them . 
+117,0.0,  Tell me about some of your recent goals and what you do to achieve them . ,"  I want to put my knowledge and experience to use in a challenging position . In order to achieve this goal , I just want to work step by step . "
+118,1.0,"  I want to put my knowledge and experience to use in a challenging position . In order to achieve this goal , I just want to work step by step . ",  What is your long-range objective ? 
+119,0.0,  What is your long-range objective ? ,  I havent thought it over at all . 
+120,1.0,  I havent thought it over at all . ,  What do you think is the most important thing when looking for a job ? 
+121,0.0,  What do you think is the most important thing when looking for a job ? ,  I think the most important thing is the interest in the job . 
+122,1.0,  I think the most important thing is the interest in the job . ,Id like to open a current account . 
+123,0.0,Id like to open a current account . ,"  Certainly . May I see your social security and your ID , please . "
+124,1.0,"  Certainly . May I see your social security and your ID , please . ",  Here you are . I wonder how much interest can I earn from a current account . 
+125,0.0,  Here you are . I wonder how much interest can I earn from a current account . ,"  Oh , current accounts dont pay out interest .   Why is that ? "
+126,0.0,"  Oh , current accounts dont pay out interest .   Why is that ? ","  Its primarily designed for business transactions . That is , writing checks to pay for bills , buying things and sending money . We wont expect a large amount of deposit in a current account . "
+127,1.0,"  Its primarily designed for business transactions . That is , writing checks to pay for bills , buying things and sending money . We wont expect a large amount of deposit in a current account . ",  I see . How do I draw money for my own use then ? 
+128,1.0,  I see . How do I draw money for my own use then ? ,"Good morning , Helen .   Good morning , Steven . "
+129,0.0,"Good morning , Helen .   Good morning , Steven . ","  So , whats the status of our advertising campaign ? "
+130,0.0,"  So , whats the status of our advertising campaign ? ",  Itll be a national campaign starting next week . 
+131,1.0,  Itll be a national campaign starting next week . ,  What style will the ads be ? 
+132,1.0,  What style will the ads be ? ,"  I suggest that we focus on slice of life , showing how you can beat the summer heat by biting into a cool ice-cream sandwich . "
+133,1.0,"  I suggest that we focus on slice of life , showing how you can beat the summer heat by biting into a cool ice-cream sandwich . ",  Sounds like a good idea . Will we have a new slogan ? 
+134,0.0,  Sounds like a good idea . Will we have a new slogan ? ,  Definitely . 
+135,1.0,  Definitely . ,Id like to taste some local dishes . What would you recommend ? 
+136,0.0,Id like to taste some local dishes . What would you recommend ? ,  Thats fine . You must try this dish . 
+137,1.0,  Thats fine . You must try this dish . ,  Could you tell me how this thing is cooked ? 
+138,0.0,  Could you tell me how this thing is cooked ? ,  Its fish steamed and served with our special sauce . 
+139,1.0,  Its fish steamed and served with our special sauce . ,  Is it good ?   Sure . Its a most popular dish . 
+140,1.0,  Is it good ?   Sure . Its a most popular dish . ,"  I think Ill try it , and give me some green salad together . "
+141,1.0,"  I think Ill try it , and give me some green salad together . ",  We have two dressings for salad . Which one would you like ? 
+142,0.0,  We have two dressings for salad . Which one would you like ? ,  What kind do you have ?   We have French and Thousand Island . 
+143,0.0,  What kind do you have ?   We have French and Thousand Island . ,  Make it Thousand Island . 
+144,1.0,  Make it Thousand Island . ,"Taxi !   Where will you go , sir ?   Friendship Hotel . "
+145,0.0,"Taxi !   Where will you go , sir ?   Friendship Hotel . ","  OK , its not far from here . "
+146,1.0,"  OK , its not far from here . ","  I have something important to do , can you fast the speed ? "
+147,0.0,"  I have something important to do , can you fast the speed ? ","  Sure , Ill try my best . Here we are . "
+148,1.0,"  Sure , Ill try my best . Here we are . ",  How much should I pay you ?   The reading on the meter is 15 yuan . 
+149,0.0,  How much should I pay you ?   The reading on the meter is 15 yuan . ,"  Heres 20 yuan , keep the change .   Thank you very much . "
+150,1.0,"  Heres 20 yuan , keep the change .   Thank you very much . ",Mr . Johnson ’ s office . Cindy speaking . 
+151,0.0,Mr . Johnson ’ s office . Cindy speaking . ,"  Hi , Cindy . It ’ s Michael Kurt . Is Mr . Johnson in ? "
+152,0.0,"  Hi , Cindy . It ’ s Michael Kurt . Is Mr . Johnson in ? ","  No , I ’ m sorry , Mr . Kurt . He ’ s stepped out for a bit . Would you like me to have him call you ? "
+153,0.0,"  No , I ’ m sorry , Mr . Kurt . He ’ s stepped out for a bit . Would you like me to have him call you ? ","  Yeah , that ’ ll be great . I ’ m on extension 4283 . "
+154,1.0,"  Yeah , that ’ ll be great . I ’ m on extension 4283 . ","Hi , Mark . "
+155,0.0,"Hi , Mark . ","  Hi , Bill . I ’ d like to take the apartment I looked at yesterday . "
+156,1.0,"  Hi , Bill . I ’ d like to take the apartment I looked at yesterday . ","  All right .   So , what do we do now ? "
+157,0.0,"  All right .   So , what do we do now ? ",  This is the lease . You should read the lease very carefully before you sign it because it describes your legal rights and responsibilities as a tenant . The lease also describes our rights and responsibilities as landlords . 
+158,1.0,  This is the lease . You should read the lease very carefully before you sign it because it describes your legal rights and responsibilities as a tenant . The lease also describes our rights and responsibilities as landlords . ,"  Okay . ( Reads the lease ) So , according to the lease , I ’ ll deposit one month ’ s rent as a security deposit , and I have to pay the first month ’ s rent in advance . I understand that I ’ ll get the security deposit back when I move out if the apartment does not need any costly repairs . "
+159,0.0,"  Okay . ( Reads the lease ) So , according to the lease , I ’ ll deposit one month ’ s rent as a security deposit , and I have to pay the first month ’ s rent in advance . I understand that I ’ ll get the security deposit back when I move out if the apartment does not need any costly repairs . ","  Yes . If you do not damage the apartment , you will get your security deposit back when you move out . "
+160,1.0,"  Yes . If you do not damage the apartment , you will get your security deposit back when you move out . ",  Can I pay you by check ?   Sure . A check will be fine . 
+161,1.0,  Can I pay you by check ?   Sure . A check will be fine . ,  Is there a laundry room in the basement ?   Yes . 
+162,1.0,  Is there a laundry room in the basement ?   Yes . ,  Can I sign the lease right now ? 
+163,1.0,  Can I sign the lease right now ? ,Good morning ! What can I do for you ? 
+164,0.0,Good morning ! What can I do for you ? ,  Im thinking of travelling to Suzhou in July . Could you recommend some tourist programs for that ? 
+165,0.0,  Im thinking of travelling to Suzhou in July . Could you recommend some tourist programs for that ? ,"  With pleasure . We arrange two kinds of tourist programs for Suzhou , a six-day tour by train and a five-day flying journey . "
+166,1.0,"  With pleasure . We arrange two kinds of tourist programs for Suzhou , a six-day tour by train and a five-day flying journey . ",  How much does a six-day tour by train cost ?   Five hundred yuan . 
+167,1.0,  How much does a six-day tour by train cost ?   Five hundred yuan . ,  Does that include hotels and meals ? 
+168,0.0,  Does that include hotels and meals ? ,"  Oh , yes , and admission tickets for places of interest as well . "
+169,1.0,"  Oh , yes , and admission tickets for places of interest as well . ",  That sounds reasonable . What about the five-day flying journey ? How much is that ? 
+170,0.0,  That sounds reasonable . What about the five-day flying journey ? How much is that ? ,  Eight hundred and fifty yuan .   Covering all expenses ? 
+171,1.0,  Eight hundred and fifty yuan .   Covering all expenses ? ,  Yes . But there is no half fare for children . They must pay full fare . 
+172,1.0,  Yes . But there is no half fare for children . They must pay full fare . ,I cant believe you wear jeans to the office ! Are you trying to lose your job ? 
+173,0.0,I cant believe you wear jeans to the office ! Are you trying to lose your job ? ,"  Of course not . Im just observing casual day . On Fridays , the company doesnt require us to wear formal business attire . "
+174,1.0,"  Of course not . Im just observing casual day . On Fridays , the company doesnt require us to wear formal business attire . ",  Wow ! Nobody told me about that . Wont the relaxed dress code damage the company image ? 
+175,0.0,  Wow ! Nobody told me about that . Wont the relaxed dress code damage the company image ? ,"  We dont think so . Casual days are becoming more common , and we believe employees can maintain a professional image without wearing uncomfortable clothes . "
+176,1.0,"  We dont think so . Casual days are becoming more common , and we believe employees can maintain a professional image without wearing uncomfortable clothes . ",  I guess it lets people express their individual tastes . But wont some people abuse it ? 
+177,0.0,  I guess it lets people express their individual tastes . But wont some people abuse it ? ,"  Not really . Besides , there is a separate dress code for casual day . People cant just wear whatever they want . "
+178,1.0,"  Not really . Besides , there is a separate dress code for casual day . People cant just wear whatever they want . ",  It seems that a relaxed atmosphere could hinder productivity . 
+179,0.0,  It seems that a relaxed atmosphere could hinder productivity . ,"  Believe it or not , it has the opposite effect . Employees are actually more productive on casual days . "
+180,1.0,"  Believe it or not , it has the opposite effect . Employees are actually more productive on casual days . ","ABC Company , my name is Lucy . How can I help you ? "
+181,0.0,"ABC Company , my name is Lucy . How can I help you ? ","  Hello , Lucy , this is Monica . I ’ m calling for the accountant position . I saw the information about the vacancy on your company ’ s website . Is it still available ? "
+182,0.0,"  Hello , Lucy , this is Monica . I ’ m calling for the accountant position . I saw the information about the vacancy on your company ’ s website . Is it still available ? ",  Thank you for your interest . The position is still available . Have you already sent your CV to us ? 
+183,1.0,  Thank you for your interest . The position is still available . Have you already sent your CV to us ? ,"  No , not yet . First , I want to check about the availability and see if you could give more information . "
+184,0.0,"  No , not yet . First , I want to check about the availability and see if you could give more information . ","  It is urgent for us to fill this position now and I would like to stress that English is a must because of the international contacts and most likely traveling abroad very soon . If all these is not problem for you , I recommend you to mention these in your cover letter and send it to me directly . "
+185,1.0,"  It is urgent for us to fill this position now and I would like to stress that English is a must because of the international contacts and most likely traveling abroad very soon . If all these is not problem for you , I recommend you to mention these in your cover letter and send it to me directly . ",  The notification period of my current job is not that long and I ’ m quite profession to English and I am happy with the traveling abroad as I ’ m good dealing with the people from other cultures . It makes the whole job even more interesting . I will send my resume to you still this week . 
+186,1.0,  The notification period of my current job is not that long and I ’ m quite profession to English and I am happy with the traveling abroad as I ’ m good dealing with the people from other cultures . It makes the whole job even more interesting . I will send my resume to you still this week . ,"Can I help you ?   Yes , do you have any rooms available ? "
+187,0.0,"Can I help you ?   Yes , do you have any rooms available ? ",  A single ? 
+188,0.0,  A single ? ,  No . I need a double and three triples . My family is waiting for me in the car . 
+189,1.0,  No . I need a double and three triples . My family is waiting for me in the car . ,"  Please fill out this form , sir .   Ok ... Here you are . "
+190,0.0,"  Please fill out this form , sir .   Ok ... Here you are . ",  Here are your keys . Check out time is noon . 
+191,1.0,  Here are your keys . Check out time is noon . ,  Is breakfast included ?   No . 
+192,1.0,  Is breakfast included ?   No . ,Why didnt you go to school yesterday ? 
+193,0.0,Why didnt you go to school yesterday ? ,  I stayed home because I wasnt feeling well . 
+194,1.0,  I stayed home because I wasnt feeling well . ,  What was your problem ?   My stomach was bothering me . 
+195,0.0,  What was your problem ?   My stomach was bothering me . ,  Are you feeling any better ?   Im still feeling a little sick . 
+196,1.0,  Are you feeling any better ?   Im still feeling a little sick . ,"  Im going to the store , would you like any Pesto Pistol ? "
+197,0.0,"  Im going to the store , would you like any Pesto Pistol ? ",  Id appreciate that . 
+198,1.0,  Id appreciate that . ,"Excuse me , but please empty your pockets of all the metal things and put them in this tray . "
+199,0.0,"Excuse me , but please empty your pockets of all the metal things and put them in this tray . ","  Including my keys ?   Yes , and please step over there . "
+200,1.0,"  Including my keys ?   Yes , and please step over there . ",  All right . What shall I do now ? 
+201,0.0,  All right . What shall I do now ? ,  Just open your bags so we can check them . After that you can pick them up right behind that X-ray machine . 
+202,1.0,  Just open your bags so we can check them . After that you can pick them up right behind that X-ray machine . ,  Ive got film in my bag . 
+203,0.0,  Ive got film in my bag . ,  Thats all right . This machine will not damage the film . 
+204,0.0,  Thats all right . This machine will not damage the film . ,  Thats fine . 
+205,1.0,  Thats fine . ,  Can I have your boarding pass ? We need to stamp it . 
+206,0.0,  Can I have your boarding pass ? We need to stamp it . ,  Sure . Here you are .   Thank you .   Am I through now ? 
+207,0.0,  Sure . Here you are .   Thank you .   Am I through now ? ,  Yes . Here is your boarding pass .   Thank you and goodbye . 
+208,1.0,  Yes . Here is your boarding pass .   Thank you and goodbye . ,"Welcome to Flash Foot , sir.How can I help you ? "
+209,0.0,"Welcome to Flash Foot , sir.How can I help you ? ",  I ’ d like extra prints made of these photos . 
+210,1.0,  I ’ d like extra prints made of these photos . ,  Do you have your negatives ? 
+211,0.0,  Do you have your negatives ? ,  Yes.Here they are . I ’ Ve marked how many prints I want on each shot . 
+212,1.0,  Yes.Here they are . I ’ Ve marked how many prints I want on each shot . ,  What size do you want the prints ? 
+213,0.0,  What size do you want the prints ? ,"  Four by six , except this one . I want a ten by thirteen print of this one . "
+214,1.0,"  Four by six , except this one . I want a ten by thirteen print of this one . ","  Okay , they ’ ll be ready for you in an hour . "
+215,1.0,"  Okay , they ’ ll be ready for you in an hour . ",Is there anything I can do for you ? 
+216,0.0,Is there anything I can do for you ? ,  Im interested in taking a tour to Sydney . 
+217,1.0,  Im interested in taking a tour to Sydney . ,"  Well , we have a package tour there .   How much does it cost ? "
+218,0.0,"  Well , we have a package tour there .   How much does it cost ? ",  $ 600 .   Does that include the insurance ?   Of course . 

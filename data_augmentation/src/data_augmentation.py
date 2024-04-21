@@ -1,4 +1,5 @@
 import json
+import csv
 import random
 import ast
 
@@ -20,6 +21,14 @@ def get_user_pair(row):
     u2 = ast.literal_eval(row[3])
 
     return f"{u1['user']}-{u2['user']}"
+
+
+def preprocess_newdata_text(text: str):
+    while text[0] == " ":
+        text = text[1:]
+    while text[-1] == " ":
+        text = text[:-1]
+    return text
 
 
 if __name__ == "__main__":
@@ -54,7 +63,20 @@ if __name__ == "__main__":
         other_data = random.Random(idx).choice(userpair_to_data_dict[userpair])
         new_row = row[:3] + [other_data]
         
-        copied_data.append(new_row)
+        crossing_data.append(new_row)
     
-    crossing_augmented = original_train_data + copied_data
+    crossing_augmented = original_train_data + crossing_data
     save_augmented_data(crossing_augmented, "crossing")
+    
+    # human annotated data
+    human_annotated = []
+    with open("data_augmentation/annotation/daily_dialogue_annotated.csv", "r") as f:
+        reader = csv.reader(f)
+        _ = next(reader)  # header
+        for row in reader:
+            human_annotated.append(
+                [int(float(row[1])), "", str({"text": preprocess_newdata_text(row[2])}), str({"text": preprocess_newdata_text(row[3])})]
+            )
+    
+    human_annotation_augmented = original_train_data + human_annotated
+    save_augmented_data(human_annotation_augmented, "human_annotation")

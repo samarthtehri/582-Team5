@@ -64,7 +64,7 @@ class FinetuneTap(Tap):
     model_name: str = "google-bert/bert-base-cased"
     train_file: str = './Data/train/train.csv'
     test_file: str = './Data/test/test.csv'
-    utterance_format: list[str] = ["user", "text"]
+    utterance_format: list[str] = ["text"]
     random_seed: int = 46
 
  

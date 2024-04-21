@@ -18,7 +18,7 @@ if __name__ == "__main__":
 
         first_row = [""] + [f"{positive_label} {metrics}" for positive_label in positive_labels_list for metrics in metrics_list]
         table_list.append(" & ".join(first_row) + " \\\\")
-        for input_type in ["['user', 'text']", "['user', 'text', 'intent']", "['user', 'text', 'category']"]:
+        for input_type in ["['text']", "['user', 'text']", "['text', 'intent']", "['text', 'category']"]:
             row_list: list[str] = [input_type]
             
             with open(finetuning_results_dir / f"model={model_name},train=train.csv,input_format={input_type}/performance.json", "r") as f:
@@ -38,30 +38,35 @@ if __name__ == "__main__":
 
 
     # table for training data
-    table_list: list[str] = []
-    for model_name_full in finetuned_models_list + ["google-t5/t5-base", "google-t5/t5-large", "google-t5/t5-3b"]:
-        table_list.append(model_name_full)
-        model_name = model_name_full.split("/")[-1]
+    for input_format in ["['text']", "['user', 'text']"]:
+        table_list: list[str] = []
+        for model_name_full in finetuned_models_list + ["google-t5/t5-base", "google-t5/t5-large", "google-t5/t5-3b"]:
+            table_list.append(model_name_full)
+            model_name = model_name_full.split("/")[-1]
 
-        first_row = [""] + [f"{positive_label} {metrics}" for positive_label in positive_labels_list for metrics in metrics_list]
-        table_list.append(" & ".join(first_row) + " \\\\")
-        for train_data in ["train.csv", "copy_augmentation.csv", "crossing_augmentation.csv"]:
-            row_list: list[str] = [train_data]
-            
-            with open(finetuning_results_dir / f"model={model_name},train={train_data},input_format=['user', 'text']/performance.json", "r") as f:
-                performance = json.load(f)["eval_performance"]
-            
-            for positive_label in positive_labels_list:
-                for metrics in ["precision", "recall", "f1"]:
-                    value = performance[positive_label][metrics] * 100
-                    row_list.append(f"{value:.0f}")
-            table_list.append(" & ".join(row_list) + " \\\\")
-            
-            if "t5" in model_name_full:
-                break
-        table_list.append("")
-    
-    # save
-    with open(finetuning_table_dir / "train_data_table.txt", "w") as f:
-        for line in table_list:
-            f.write(line + "\n")
+            first_row = [""] + [f"{positive_label} {metrics}" for positive_label in positive_labels_list for metrics in metrics_list]
+            table_list.append(" & ".join(first_row) + " \\\\")
+            for train_data in ["train.csv", "copy_augmentation.csv", "crossing_augmentation.csv", "human_annotation_augmentation.csv"]:
+                row_list: list[str] = [train_data]
+                
+                results_path = finetuning_results_dir / f"model={model_name},train={train_data},input_format={input_format}/performance.json"
+                if not results_path.exists():
+                    continue
+                    
+                with open(results_path, "r") as f:
+                    performance = json.load(f)["eval_performance"]
+                
+                for positive_label in positive_labels_list:
+                    for metrics in ["precision", "recall", "f1"]:
+                        value = performance[positive_label][metrics] * 100
+                        row_list.append(f"{value:.0f}")
+                table_list.append(" & ".join(row_list) + " \\\\")
+                
+                if "t5" in model_name_full:
+                    break
+            table_list.append("")
+        
+        # save
+        with open(finetuning_table_dir / f"train_data_table_{input_format}.txt", "w") as f:
+            for line in table_list:
+                f.write(line + "\n")
