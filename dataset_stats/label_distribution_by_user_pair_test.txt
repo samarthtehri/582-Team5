@@ -1,0 +1,5 @@
+user_pair & label_0 & label_1 & Num Data
+Alien-Human & 76.8 & 23.2 & 499
+Human-Alien & 79.0 & 21.0 & 514
+Human-Human & 45.5 & 54.5 & 121
+Alien-Alien & 32.7 & 67.3 & 156

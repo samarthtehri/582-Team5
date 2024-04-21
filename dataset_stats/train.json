@@ -42,5 +42,39 @@
                 }
             }
         }
+    },
+    "user_pair": {
+        "user_pair_distribution": {
+            "Alien-Human": 1955,
+            "Human-Alien": 2054,
+            "Alien-Alien": 577,
+            "Human-Human": 514
+        },
+        "label_distribution_by_user_pair": {
+            "Alien-Human": {
+                "count": {
+                    "0": 1421,
+                    "1": 534
+                }
+            },
+            "Human-Alien": {
+                "count": {
+                    "0": 1771,
+                    "1": 283
+                }
+            },
+            "Alien-Alien": {
+                "count": {
+                    "0": 207,
+                    "1": 370
+                }
+            },
+            "Human-Human": {
+                "count": {
+                    "0": 218,
+                    "1": 296
+                }
+            }
+        }
     }
 }
