@@ -6,7 +6,7 @@ import numpy as np
 
 if __name__ == "__main__":
     annotated_data_dir = Path("task_ambiguity_analysis/annotated_data")
-    file_names_list = ["task_ambiguity_ryo.csv"]
+    file_names_list = ["task_ambiguity_ryo.csv", "task_ambiguity_vanshaj.csv"]
     
     ambiguity_label = []
     ground_truth_label = []
